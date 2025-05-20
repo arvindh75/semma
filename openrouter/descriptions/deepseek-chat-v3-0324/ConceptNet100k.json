@@ -1,0 +1,176 @@
+{
+    "cleaned_relations": {
+        "ReceivesAction": "receives action",
+        "AtLocation": "at location",
+        "HasPrerequisite": "has prerequisite",
+        "UsedFor": "used for",
+        "HasA": "has a",
+        "IsA": "is a",
+        "NotCapableOf": "not capable of",
+        "Causes": "causes",
+        "HasSubevent": "has subevent",
+        "CausesDesire": "causes desire",
+        "HasProperty": "has property",
+        "Desires": "desires",
+        "CapableOf": "capable of",
+        "NotIsA": "not is a",
+        "HasFirstSubevent": "has first subevent",
+        "NotHasProperty": "not has property",
+        "NotDesires": "not desires",
+        "MotivatedByGoal": "motivated by goal",
+        "HasLastSubevent": "has last subevent",
+        "PartOf": "part of",
+        "MadeOf": "made of",
+        "RelatedTo": "related to",
+        "DefinedAs": "defined as",
+        "NotHasA": "not has a",
+        "SymbolOf": "symbol of",
+        "CreatedBy": "created by",
+        "NotMadeOf": "not made of",
+        "InstanceOf": "instance of",
+        "DesireOf": "desire of",
+        "InheritsFrom": "inherits from",
+        "LocatedNear": "located near",
+        "HasPainCharacter": "has pain character",
+        "HasPainIntensity": "has pain intensity",
+        "LocationOfAction": "location of action"
+    },
+    "relation_descriptions": {
+        "ReceivesAction": [
+            "action received by",
+            "performs action on"
+        ],
+        "AtLocation": [
+            "located at",
+            "contains"
+        ],
+        "HasPrerequisite": [
+            "prerequisite for",
+            "requires"
+        ],
+        "UsedFor": [
+            "purpose of",
+            "utilizes"
+        ],
+        "HasA": [
+            "possesses",
+            "belongs to"
+        ],
+        "IsA": [
+            "type of",
+            "category includes"
+        ],
+        "NotCapableOf": [
+            "incapable of",
+            "excludes capability"
+        ],
+        "Causes": [
+            "resulted by",
+            "leads to"
+        ],
+        "HasSubevent": [
+            "subevent of",
+            "includes subevent"
+        ],
+        "CausesDesire": [
+            "desire caused by",
+            "triggers desire for"
+        ],
+        "HasProperty": [
+            "property of",
+            "exhibits property"
+        ],
+        "Desires": [
+            "desired by",
+            "wants"
+        ],
+        "CapableOf": [
+            "capability of",
+            "can perform"
+        ],
+        "NotIsA": [
+            "not type of",
+            "excludes type"
+        ],
+        "HasFirstSubevent": [
+            "first subevent of",
+            "starts with subevent"
+        ],
+        "NotHasProperty": [
+            "lacks property",
+            "excludes property"
+        ],
+        "NotDesires": [
+            "not desired by",
+            "avoids"
+        ],
+        "MotivatedByGoal": [
+            "goal motivates",
+            "driven by"
+        ],
+        "HasLastSubevent": [
+            "last subevent of",
+            "ends with subevent"
+        ],
+        "PartOf": [
+            "component of",
+            "includes part"
+        ],
+        "MadeOf": [
+            "material of",
+            "constructed from"
+        ],
+        "RelatedTo": [
+            "connected to",
+            "associated with"
+        ],
+        "DefinedAs": [
+            "definition of",
+            "described as"
+        ],
+        "NotHasA": [
+            "lacks part",
+            "excludes part"
+        ],
+        "SymbolOf": [
+            "represents",
+            "symbolized by"
+        ],
+        "CreatedBy": [
+            "creator of",
+            "produces"
+        ],
+        "NotMadeOf": [
+            "not material of",
+            "excludes material"
+        ],
+        "InstanceOf": [
+            "example of",
+            "includes instance"
+        ],
+        "DesireOf": [
+            "desired by",
+            "wants"
+        ],
+        "InheritsFrom": [
+            "inherited by",
+            "derives from"
+        ],
+        "LocatedNear": [
+            "proximity to object",
+            "proximity from object"
+        ],
+        "HasPainCharacter": [
+            "describes pain sensation",
+            "sensation described by pain"
+        ],
+        "HasPainIntensity": [
+            "indicates pain severity",
+            "severity indicated by pain"
+        ],
+        "LocationOfAction": [
+            "where action occurs",
+            "action occurs at location"
+        ]
+    }
+}

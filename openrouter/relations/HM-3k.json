@@ -1,0 +1,28 @@
+{
+	"Relations": [
+		"_type_of",
+		"_synset_domain_topic",
+		"_has_instance",
+		"_member_holonym",
+		"_part_of",
+		"_has_part",
+		"_member_meronym",
+		"_similar_to",
+		"_subordinate_instance_of",
+		"_domain_region",
+		"_domain_topic"
+	],
+	"Examples": [
+		["__spiritual_bouquet_1","_type_of","__sympathy_card_1"],
+		["__church_of_rome_1","_synset_domain_topic","__absorption_5"],
+		["__attention_4","_has_instance","__centering_1"],
+		["__attention_4","_member_holonym","__avenge_1"],
+		["__penalise_1","_part_of","__get_back_3"],
+		["__penalise_1","_has_part","__chamaecyparis_lawsoniana_1"],
+		["__artificial_satellite_1","_member_meronym","__photovoltaic_cell_1"],
+		["__literary_critic_1","_similar_to","__critic_1"],
+		["__arouse_2","_subordinate_instance_of","__create_1"],
+		["__increase_4","_domain_region","__deformation_2"],
+		["__terrier_1","_domain_topic","__paseo_1"]
+	]
+}

@@ -1,0 +1,26 @@
+{
+	"Relations": [
+		"taxon rank",
+		"parent taxon",
+		"cause of death",
+		"has part(s)",
+		"residence",
+		"endemic to",
+		"location of creation",
+		"genetic association",
+		"found in taxon",
+		"located on astronomical body"
+	],
+	"Examples": [
+		["Megachile bispinosa","taxon rank","species"],
+		["Megachile bispinosa","parent taxon","Megachile"],
+		["Ketema Yifru","cause of death","pancreatic cancer"],
+		["kibbeh nayeh","has part(s)","lamb meat"],
+		["Svetlana Kuznetsova","residence","Dubai"],
+		["Spirembolus montivagus","endemic to","Colorado"],
+		["HMS Dulverton","location of creation","Govan"],
+		["SIPA1L1","genetic association","obesity"],
+		["CNNM2","found in taxon","Homo sapiens"],
+		["Red Wing crater","located on astronomical body","Earth"]
+	]
+}

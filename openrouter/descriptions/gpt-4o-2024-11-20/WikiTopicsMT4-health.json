@@ -1,0 +1,111 @@
+{
+    "cleaned_relations": {
+        "venous drainage": "Venous Drainage",
+        "arterial supply": "Arterial Supply",
+        "manner of death": "Manner of Death",
+        "genetic association": "Genetic Association",
+        "medical condition": "Medical Condition",
+        "patient of": "Patient Of",
+        "symptoms and signs": "Symptoms and Signs",
+        "health specialty": "Health Specialty",
+        "drug or therapy used for treatment": "Drug or Therapy Used for Treatment",
+        "medical condition treated": "Medical Condition Treated",
+        "anatomical location": "Anatomical Location",
+        "significant drug interaction": "Significant Drug Interaction",
+        "sexually homologous with": "Sexually Homologous With",
+        "innervated by": "Innervated By",
+        "vaccine for": "Vaccine For",
+        "afflicts": "Afflicts",
+        "neurological function": "Neurological Function",
+        "medical examination": "Medical Examination",
+        "possible treatment": "Possible Treatment",
+        "parent cell line": "Parent Cell Line",
+        "positive therapeutic predictor for": "Positive Therapeutic Predictor For"
+    },
+    "relation_descriptions": {
+        "venous drainage": [
+            "drains venous blood",
+            "receives venous blood"
+        ],
+        "arterial supply": [
+            "supplies arterial blood",
+            "receives arterial blood"
+        ],
+        "manner of death": [
+            "cause of death",
+            "death caused by"
+        ],
+        "genetic association": [
+            "linked genetically to",
+            "genetically linked by"
+        ],
+        "medical condition": [
+            "has medical condition",
+            "condition affects"
+        ],
+        "patient of": [
+            "treated by doctor",
+            "doctor treats patient"
+        ],
+        "symptoms and signs": [
+            "exhibits symptoms of",
+            "symptoms exhibited by"
+        ],
+        "health specialty": [
+            "related medical field",
+            "field specializes in"
+        ],
+        "drug or therapy used for treatment": [
+            "treats condition with",
+            "condition treated by"
+        ],
+        "medical condition treated": [
+            "treats medical condition",
+            "condition treated by"
+        ],
+        "anatomical location": [
+            "located in anatomy",
+            "anatomy contains"
+        ],
+        "significant drug interaction": [
+            "interacts significantly with",
+            "interacts significantly with"
+        ],
+        "sexually homologous with": [
+            "sexually homologous to",
+            "sexually homologous to"
+        ],
+        "innervated by": [
+            "receives nerve supply",
+            "supplies nerve to"
+        ],
+        "vaccine for": [
+            "prevents disease",
+            "disease prevented by"
+        ],
+        "afflicts": [
+            "causes affliction in",
+            "afflicted by"
+        ],
+        "neurological function": [
+            "performs neural role",
+            "neural role performed by"
+        ],
+        "medical examination": [
+            "examined by test",
+            "test examines"
+        ],
+        "possible treatment": [
+            "potentially treated with",
+            "potentially treats"
+        ],
+        "parent cell line": [
+            "derived from cell line",
+            "cell line derives"
+        ],
+        "positive therapeutic predictor for": [
+            "predicts therapy success",
+            "therapy success predicted by"
+        ]
+    }
+}

@@ -1,0 +1,436 @@
+{
+    "cleaned_relations": {
+        "located in time zone": "Located in time zone",
+        "twinned administrative body": "Twinned administrative body",
+        "genre": "Genre",
+        "occupation": "Occupation",
+        "award received": "Award received",
+        "country": "Country",
+        "member of": "Member of",
+        "headquarters location": "Headquarters location",
+        "influenced by": "Influenced by",
+        "member of sports team": "Member of sports team",
+        "ethnic group": "Ethnic group",
+        "country of citizenship": "Country of citizenship",
+        "given name": "Given name",
+        "conflict": "Conflict",
+        "place of death": "Place of death",
+        "student": "Student",
+        "followed by": "Followed by",
+        "cast member": "Cast member",
+        "director": "Director",
+        "work location": "Work location",
+        "place of birth": "Place of birth",
+        "contains the administrative territorial entity": "Contains administrative territorial entity",
+        "described by source": "Described by source",
+        "said to be the same as": "Said to be the same as",
+        "languages spoken, written or signed": "Languages spoken written or signed",
+        "medical condition": "Medical condition",
+        "employer": "Employer",
+        "instance of": "Instance of",
+        "educated at": "Educated at",
+        "participating team": "Participating team",
+        "field of work": "Field of Work",
+        "position played on team / speciality": "Position Played on Team",
+        "language of work or name": "Language",
+        "creator": "Creator",
+        "linguistic typology": "Linguistic Typology",
+        "location of formation": "Location of Formation",
+        "military or police rank": "Military Rank",
+        "religion or worldview": "Religion",
+        "filming location": "Filming Location",
+        "legal form": "Legal Form",
+        "continent": "Continent",
+        "member of political party": "Political Party Membership",
+        "screenwriter": "Screenwriter",
+        "voice actor": "Voice Actor",
+        "distributed by": "Distributor",
+        "located in the administrative territorial entity": "Administrative Location",
+        "shares border with": "Border Sharing",
+        "participant": "Participant",
+        "instrument": "Instrument",
+        "public holiday": "Public Holiday",
+        "director / manager": "Director",
+        "basic form of government": "Government Form",
+        "founded by": "Founder",
+        "has part(s)": "Contains",
+        "costume designer": "Costume Designer",
+        "location": "Location",
+        "diplomatic relation": "Diplomatic Relation",
+        "replaced by": "Replaced By",
+        "chairperson": "Chairperson",
+        "residence": "Residence",
+        "father": "father",
+        "doctoral student": "doctoral student",
+        "territory claimed by": "territory claimed by",
+        "narrative location": "narrative location",
+        "has grammatical case": "has grammatical case",
+        "movement": "movement",
+        "original language of film or TV show": "original language of film or TV show",
+        "production company": "production company",
+        "main subject": "main subject",
+        "contains settlement": "contains settlement",
+        "part of the series": "part of the series",
+        "after a work by": "after a work by",
+        "official language": "official language",
+        "language used": "language used",
+        "director of photography": "director of photography",
+        "voice type": "voice type",
+        "located in or next to body of water": "located in or next to body of water",
+        "capital of": "capital of",
+        "family name": "family name",
+        "partner in business or sport": "partner in business or sport",
+        "destination point": "destination point",
+        "given name version for other gender": "given name version for other gender",
+        "place of burial": "place of burial",
+        "language regulatory body": "language regulatory body",
+        "film editor": "film editor",
+        "notable work": "notable work"
+    },
+    "relation_descriptions": {
+        "located in time zone": [
+            "Location time zone",
+            "Timezone location"
+        ],
+        "twinned administrative body": [
+            "Administrative body twin",
+            "Twin administrative body"
+        ],
+        "genre": [
+            "Artistic genre",
+            "Genre defines"
+        ],
+        "occupation": [
+            "Professional role",
+            "Role holder"
+        ],
+        "award received": [
+            "Received award",
+            "Award recipient"
+        ],
+        "country": [
+            "Geographical nation",
+            "Nation location"
+        ],
+        "member of": [
+            "Organization member",
+            "Member organization"
+        ],
+        "headquarters location": [
+            "HQ situated",
+            "Location HQ"
+        ],
+        "influenced by": [
+            "Influence source",
+            "Source influence"
+        ],
+        "member of sports team": [
+            "Team player",
+            "Player team"
+        ],
+        "ethnic group": [
+            "Ethnic origin",
+            "Origin ethnic"
+        ],
+        "country of citizenship": [
+            "Citizen nation",
+            "Nation citizen"
+        ],
+        "given name": [
+            "First name",
+            "Name given"
+        ],
+        "conflict": [
+            "War involvement",
+            "Involvement war"
+        ],
+        "place of death": [
+            "Death location",
+            "Location death"
+        ],
+        "student": [
+            "Pupil learner",
+            "Learner pupil"
+        ],
+        "followed by": [
+            "Next sequence",
+            "Sequence next"
+        ],
+        "cast member": [
+            "Actor participant",
+            "Participant actor"
+        ],
+        "director": [
+            "Film creator",
+            "Creator film"
+        ],
+        "work location": [
+            "Employment site",
+            "Site employment"
+        ],
+        "place of birth": [
+            "Birth origin",
+            "Origin birth"
+        ],
+        "contains the administrative territorial entity": [
+            "Administrative inclusion",
+            "Inclusion administrative"
+        ],
+        "described by source": [
+            "Source reference",
+            "Reference source"
+        ],
+        "said to be the same as": [
+            "Identity assertion",
+            "Assertion identity"
+        ],
+        "languages spoken, written or signed": [
+            "Language capability",
+            "Capability language"
+        ],
+        "medical condition": [
+            "Health ailment",
+            "Ailment health"
+        ],
+        "employer": [
+            "Job provider",
+            "Provider job"
+        ],
+        "instance of": [
+            "Entity example",
+            "Example entity"
+        ],
+        "educated at": [
+            "Education institution",
+            "Institution education"
+        ],
+        "participating team": [
+            "Competing squad",
+            "Squad competing"
+        ],
+        "field of work": [
+            "works in field",
+            "field studied by"
+        ],
+        "position played on team / speciality": [
+            "plays position",
+            "position played by"
+        ],
+        "language of work or name": [
+            "uses language",
+            "language used by"
+        ],
+        "creator": [
+            "created by",
+            "creator of"
+        ],
+        "linguistic typology": [
+            "has typology",
+            "typology of language"
+        ],
+        "location of formation": [
+            "formed in",
+            "formation place of"
+        ],
+        "military or police rank": [
+            "holds rank",
+            "rank held by"
+        ],
+        "religion or worldview": [
+            "follows religion",
+            "religion followed by"
+        ],
+        "filming location": [
+            "filmed at",
+            "location for film"
+        ],
+        "legal form": [
+            "has legal form",
+            "legal form of"
+        ],
+        "continent": [
+            "located on continent",
+            "continent for location"
+        ],
+        "member of political party": [
+            "member of party",
+            "party member"
+        ],
+        "screenwriter": [
+            "written by",
+            "screenwriter for"
+        ],
+        "voice actor": [
+            "voiced by",
+            "voice actor for"
+        ],
+        "distributed by": [
+            "distributed by",
+            "distributor for"
+        ],
+        "located in the administrative territorial entity": [
+            "located in",
+            "territory located in"
+        ],
+        "shares border with": [
+            "borders",
+            "bordered by"
+        ],
+        "participant": [
+            "had participant",
+            "participated in"
+        ],
+        "instrument": [
+            "plays instrument",
+            "instrument played by"
+        ],
+        "public holiday": [
+            "has holiday",
+            "holiday in"
+        ],
+        "director / manager": [
+            "directed by",
+            "director of"
+        ],
+        "basic form of government": [
+            "has government form",
+            "government form of"
+        ],
+        "founded by": [
+            "founded by",
+            "founder of"
+        ],
+        "has part(s)": [
+            "contains part",
+            "part of"
+        ],
+        "costume designer": [
+            "costumes by",
+            "costume designer for"
+        ],
+        "location": [
+            "located at",
+            "location of"
+        ],
+        "diplomatic relation": [
+            "has relation with",
+            "diplomatic ally of"
+        ],
+        "replaced by": [
+            "succeeded by",
+            "predecessor to"
+        ],
+        "chairperson": [
+            "led by",
+            "chairperson for"
+        ],
+        "residence": [
+            "resides in",
+            "residence of"
+        ],
+        "father": [
+            "parent male",
+            "child of"
+        ],
+        "doctoral student": [
+            "advisee of",
+            "advisor to"
+        ],
+        "territory claimed by": [
+            "disputed by",
+            "claims territory"
+        ],
+        "narrative location": [
+            "story setting",
+            "setting for"
+        ],
+        "has grammatical case": [
+            "grammatical case",
+            "case of language"
+        ],
+        "movement": [
+            "associated with movement",
+            "movement includes"
+        ],
+        "original language of film or TV show": [
+            "film original language",
+            "language of film"
+        ],
+        "production company": [
+            "produced by",
+            "produces"
+        ],
+        "main subject": [
+            "topic of",
+            "subject in"
+        ],
+        "contains settlement": [
+            "includes settlement",
+            "settlement within"
+        ],
+        "part of the series": [
+            "series member",
+            "series includes"
+        ],
+        "after a work by": [
+            "based on work",
+            "source for"
+        ],
+        "official language": [
+            "official language",
+            "organization with language"
+        ],
+        "language used": [
+            "spoken in",
+            "used in region"
+        ],
+        "director of photography": [
+            "cinematographer",
+            "photographed by"
+        ],
+        "voice type": [
+            "vocal classification",
+            "singer with voice"
+        ],
+        "located in or next to body of water": [
+            "adjacent to water",
+            "water body near"
+        ],
+        "capital of": [
+            "administrative center",
+            "region with capital"
+        ],
+        "family name": [
+            "surname",
+            "person with surname"
+        ],
+        "partner in business or sport": [
+            "collaborator",
+            "partnered with"
+        ],
+        "destination point": [
+            "end location",
+            "journey to"
+        ],
+        "given name version for other gender": [
+            "gender variant name",
+            "opposite gender name"
+        ],
+        "place of burial": [
+            "burial site",
+            "interred at"
+        ],
+        "language regulatory body": [
+            "language authority",
+            "regulated language"
+        ],
+        "film editor": [
+            "edits film",
+            "edited by"
+        ],
+        "notable work": [
+            "famous creation",
+            "creator of"
+        ]
+    }
+}

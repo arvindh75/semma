@@ -1,0 +1,146 @@
+{
+    "cleaned_relations": {
+        "uncleOf": "Uncle Of",
+        "greatUncleOf": "Great Uncle Of",
+        "brotherOf": "Brother Of",
+        "sonOf": "Son Of",
+        "motherOf": "Mother Of",
+        "grandmotherOf": "Grandmother Of",
+        "greatGrandmotherOf": "Great Grandmother Of",
+        "secondUncleOf": "Second Uncle Of",
+        "boyCousinOf": "Boy Cousin Of",
+        "grandsonOf": "Grandson Of",
+        "greatGrandsonOf": "Great Grandson Of",
+        "nephewOf": "Nephew Of",
+        "fatherOf": "Father Of",
+        "grandfatherOf": "Grandfather Of",
+        "daughterOf": "Daughter Of",
+        "girlSecondCousinOf": "Girl Second Cousin Of",
+        "girlFirstCousinOnceRemovedOf": "Girl First Cousin Once Removed Of",
+        "granddaughterOf": "Granddaughter Of",
+        "greatGranddaughterOf": "Great Granddaughter Of",
+        "nieceOf": "Niece Of",
+        "sisterOf": "Sister Of",
+        "greatAuntOf": "Great Aunt Of",
+        "auntOf": "Aunt Of",
+        "greatGrandfatherOf": "Great Grandfather Of",
+        "secondAuntOf": "Second Aunt Of",
+        "girlCousinOf": "Girl Cousin Of",
+        "boyFirstCousinOnceRemovedOf": "Boy First Cousin Once Removed Of",
+        "boySecondCousinOf": "Boy Second Cousin Of"
+    },
+    "relation_descriptions": {
+        "uncleOf": [
+            "Male sibling's child",
+            "Child's male sibling"
+        ],
+        "greatUncleOf": [
+            "Grandparent's male sibling",
+            "Male sibling's grandchild"
+        ],
+        "brotherOf": [
+            "Male sibling",
+            "Male sibling"
+        ],
+        "sonOf": [
+            "Male child of",
+            "Parent of male child"
+        ],
+        "motherOf": [
+            "Female parent of",
+            "Child of female parent"
+        ],
+        "grandmotherOf": [
+            "Parent's female parent",
+            "Grandchild of female parent"
+        ],
+        "greatGrandmotherOf": [
+            "Grandparent's female parent",
+            "Great-grandchild of female parent"
+        ],
+        "secondUncleOf": [
+            "Parent's second cousin",
+            "Second cousin's child"
+        ],
+        "boyCousinOf": [
+            "Male cousin",
+            "Male cousin"
+        ],
+        "grandsonOf": [
+            "Male grandchild of",
+            "Grandparent of male grandchild"
+        ],
+        "greatGrandsonOf": [
+            "Male great-grandchild of",
+            "Great-grandparent of male great-grandchild"
+        ],
+        "nephewOf": [
+            "Sibling's male child",
+            "Uncle or aunt of male child"
+        ],
+        "fatherOf": [
+            "Male parent of",
+            "Child of male parent"
+        ],
+        "grandfatherOf": [
+            "Parent's male parent",
+            "Grandchild of male parent"
+        ],
+        "daughterOf": [
+            "Female child of",
+            "Parent of female child"
+        ],
+        "girlSecondCousinOf": [
+            "Female second cousin",
+            "Female second cousin"
+        ],
+        "girlFirstCousinOnceRemovedOf": [
+            "Female cousin once removed",
+            "Female cousin once removed"
+        ],
+        "granddaughterOf": [
+            "Female grandchild of",
+            "Grandparent of female grandchild"
+        ],
+        "greatGranddaughterOf": [
+            "Female great-grandchild of",
+            "Great-grandparent of female great-grandchild"
+        ],
+        "nieceOf": [
+            "Sibling's female child",
+            "Uncle or aunt of female child"
+        ],
+        "sisterOf": [
+            "Female sibling",
+            "Female sibling"
+        ],
+        "greatAuntOf": [
+            "Grandparent's female sibling",
+            "Female sibling's grandchild"
+        ],
+        "auntOf": [
+            "Sibling's female child",
+            "Child's female sibling"
+        ],
+        "greatGrandfatherOf": [
+            "Grandparent's male parent",
+            "Great-grandchild of male parent"
+        ],
+        "secondAuntOf": [
+            "Parent's second cousin",
+            "Second cousin's child"
+        ],
+        "girlCousinOf": [
+            "Female cousin",
+            "Female cousin"
+        ],
+        "boyFirstCousinOnceRemovedOf": [
+            "Male cousin once removed",
+            "Male cousin once removed"
+        ],
+        "boySecondCousinOf": [
+            "Male second cousin",
+            "Male second cousin"
+        ]
+    }
+}

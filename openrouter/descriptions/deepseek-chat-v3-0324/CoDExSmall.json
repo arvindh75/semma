@@ -1,0 +1,216 @@
+{
+    "cleaned_relations": {
+        "languages spoken, written or signed": "languages spoken written or signed",
+        "cause of death": "cause of death",
+        "member of": "member of",
+        "occupation": "occupation",
+        "sibling": "sibling",
+        "diplomatic relation": "diplomatic relation",
+        "continent": "continent",
+        "ethnic group": "ethnic group",
+        "country of citizenship": "country of citizenship",
+        "employer": "employer",
+        "educated at": "educated at",
+        "place of birth": "place of birth",
+        "influenced by": "influenced by",
+        "field of work": "field of work",
+        "genre": "genre",
+        "record label": "record label",
+        "instrument": "instrument",
+        "official language": "official language",
+        "unmarried partner": "unmarried partner",
+        "place of death": "place of death",
+        "country": "country",
+        "religion or worldview": "religion or worldview",
+        "movement": "movement",
+        "residence": "residence",
+        "spouse": "spouse",
+        "member of political party": "member of political party",
+        "place of burial": "place of burial",
+        "part of": "part of",
+        "medical condition": "medical condition",
+        "child": "child",
+        "time period": "time period",
+        "headquarters location": "headquarters location",
+        "narrative location": "narrative location",
+        "location of formation": "location of formation",
+        "head of state": "head of state",
+        "named after": "named after",
+        "parent organization": "parent organization",
+        "notable work": "notable work",
+        "cast member": "cast member",
+        "founded by": "founded by",
+        "country of origin": "country of origin",
+        "practiced by": "practiced by"
+    },
+    "relation_descriptions": {
+        "languages spoken, written or signed": [
+            "speaks writes signs language",
+            "language spoken written signed by"
+        ],
+        "cause of death": [
+            "died from cause",
+            "cause leading to death"
+        ],
+        "member of": [
+            "is member of",
+            "has member"
+        ],
+        "occupation": [
+            "has occupation",
+            "occupation held by"
+        ],
+        "sibling": [
+            "has sibling",
+            "sibling of"
+        ],
+        "diplomatic relation": [
+            "has diplomatic relation with",
+            "diplomatic relation exists between"
+        ],
+        "continent": [
+            "located on continent",
+            "continent contains"
+        ],
+        "ethnic group": [
+            "belongs to ethnic group",
+            "ethnic group includes"
+        ],
+        "country of citizenship": [
+            "citizen of country",
+            "country has citizen"
+        ],
+        "employer": [
+            "employed by",
+            "employs"
+        ],
+        "educated at": [
+            "studied at institution",
+            "institution educated"
+        ],
+        "place of birth": [
+            "born in place",
+            "place of birth for"
+        ],
+        "influenced by": [
+            "influenced by person",
+            "person influenced"
+        ],
+        "field of work": [
+            "works in field",
+            "field includes worker"
+        ],
+        "genre": [
+            "creates in genre",
+            "genre includes creator"
+        ],
+        "record label": [
+            "signed to label",
+            "label represents artist"
+        ],
+        "instrument": [
+            "plays instrument",
+            "instrument played by"
+        ],
+        "official language": [
+            "uses official language",
+            "official language of"
+        ],
+        "unmarried partner": [
+            "partnered with",
+            "unmarried partner of"
+        ],
+        "place of death": [
+            "died in place",
+            "place of death for"
+        ],
+        "country": [
+            "is country in",
+            "contains country"
+        ],
+        "religion or worldview": [
+            "follows religion",
+            "religion followed by"
+        ],
+        "movement": [
+            "associated with movement",
+            "movement includes"
+        ],
+        "residence": [
+            "resides in place",
+            "place of residence for"
+        ],
+        "spouse": [
+            "married to",
+            "spouse of"
+        ],
+        "member of political party": [
+            "member of party",
+            "party has member"
+        ],
+        "place of burial": [
+            "buried in place",
+            "place of burial for"
+        ],
+        "part of": [
+            "is part of",
+            "includes part"
+        ],
+        "medical condition": [
+            "has medical condition",
+            "condition affects"
+        ],
+        "child": [
+            "parent of child",
+            "child of parent"
+        ],
+        "time period": [
+            "period of existence",
+            "entity from period"
+        ],
+        "headquarters location": [
+            "main office location",
+            "organization headquartered"
+        ],
+        "narrative location": [
+            "story setting",
+            "setting for narrative"
+        ],
+        "location of formation": [
+            "place of founding",
+            "entity formed at"
+        ],
+        "head of state": [
+            "leader of country",
+            "country led by"
+        ],
+        "named after": [
+            "derived from name",
+            "name source for"
+        ],
+        "parent organization": [
+            "owner organization",
+            "subsidiary of"
+        ],
+        "notable work": [
+            "famous creation",
+            "creator of work"
+        ],
+        "cast member": [
+            "actor in production",
+            "production featuring actor"
+        ],
+        "founded by": [
+            "established by entity",
+            "entity founded"
+        ],
+        "country of origin": [
+            "origin nation",
+            "nation of origin"
+        ],
+        "practiced by": [
+            "adherents of belief",
+            "belief practiced"
+        ]
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "cleaned_relations": {
+        "subclass of": "is a subclass of",
+        "taxon rank": "has taxon rank of",
+        "parent taxon": "has parent taxon",
+        "languages spoken, written or signed": "speaks, writes, or signs language",
+        "writing system": "uses writing system",
+        "programmed in": "is programmed in",
+        "operating system": "runs on operating system",
+        "endemic to": "is endemic to",
+        "genetic association": "has genetic association with",
+        "found in taxon": "is found in taxon",
+        "original language of film or TV show": "original language of film/TV show is",
+        "language of work or name": "language of work or name is",
+        "powered by": "is powered by",
+        "native language": "has native language of",
+        "discoverer or inventor": "discovered or invented by",
+        "Gram staining": "has Gram staining of"
+    },
+    "relation_descriptions": {
+        "subclass of": [
+            "category classification",
+            "superclass of"
+        ],
+        "taxon rank": [
+            "taxonomic classification level",
+            "taxon rank of"
+        ],
+        "parent taxon": [
+            "taxonomic parent",
+            "child taxon"
+        ],
+        "languages spoken, written or signed": [
+            "language proficiency",
+            "speaker/writer/signer of"
+        ],
+        "writing system": [
+            "script usage",
+            "language using script"
+        ],
+        "programmed in": [
+            "language implementation",
+            "software using language"
+        ],
+        "operating system": [
+            "OS compatibility",
+            "software on OS"
+        ],
+        "endemic to": [
+            "geographic origin",
+            "endemic species in"
+        ],
+        "genetic association": [
+            "gene-disease link",
+            "disease associated gene"
+        ],
+        "found in taxon": [
+            "taxonomic presence",
+            "gene in taxon"
+        ],
+        "original language of film or TV show": [
+            "media language origin",
+            "film/TV in language"
+        ],
+        "language of work or name": [
+            "work language",
+            "work in language"
+        ],
+        "powered by": [
+            "energy source",
+            "system powered by"
+        ],
+        "native language": [
+            "mother tongue",
+            "native speaker of"
+        ],
+        "discoverer or inventor": [
+            "inventor/creator",
+            "invented/discovered by"
+        ],
+        "Gram staining": [
+            "bacterial classification",
+            "Gram stain result"
+        ]
+    }
+}

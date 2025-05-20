@@ -1,0 +1,76 @@
+{
+    "cleaned_relations": {
+        "concept:worksfor": "works for",
+        "concept:organizationhiredperson": "hired by",
+        "concept:agentcollaborateswithagent": "collaborates with",
+        "concept:agentcontrols": "controls",
+        "concept:subpartoforganization": "subpart of organization",
+        "concept:subpartof": "subpart of",
+        "concept:headquarteredin": "headquartered in",
+        "concept:agentbelongstoorganization": "belongs to organization",
+        "concept:organizationheadquarteredincity": "headquartered in city",
+        "concept:organizationterminatedperson": "terminated by",
+        "concept:acquired": "acquired by",
+        "concept:companyeconomicsector": "economic sector of",
+        "concept:televisionstationaffiliatedwith": "affiliated with",
+        "concept:topmemberoforganization": "top member of"
+    },
+    "relation_descriptions": {
+        "concept:worksfor": [
+            "employee of",
+            "employs"
+        ],
+        "concept:organizationhiredperson": [
+            "hired by",
+            "hires"
+        ],
+        "concept:agentcollaborateswithagent": [
+            "collaborates with",
+            "collaborates with"
+        ],
+        "concept:agentcontrols": [
+            "controls",
+            "controlled by"
+        ],
+        "concept:subpartoforganization": [
+            "subpart of organization",
+            "has subpart"
+        ],
+        "concept:subpartof": [
+            "subpart of",
+            "has subpart"
+        ],
+        "concept:headquarteredin": [
+            "headquartered in",
+            "has headquarters in"
+        ],
+        "concept:agentbelongstoorganization": [
+            "belongs to organization",
+            "has member"
+        ],
+        "concept:organizationheadquarteredincity": [
+            "headquartered in city",
+            "has headquarters in city"
+        ],
+        "concept:organizationterminatedperson": [
+            "terminated by",
+            "terminates"
+        ],
+        "concept:acquired": [
+            "acquired by",
+            "acquires"
+        ],
+        "concept:companyeconomicsector": [
+            "economic sector of",
+            "has economic sector"
+        ],
+        "concept:televisionstationaffiliatedwith": [
+            "affiliated with",
+            "affiliated with"
+        ],
+        "concept:topmemberoforganization": [
+            "top member of",
+            "has top member"
+        ]
+    }
+}

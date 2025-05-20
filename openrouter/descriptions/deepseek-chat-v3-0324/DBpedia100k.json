@@ -1,0 +1,2356 @@
+{
+    "cleaned_relations": {
+        "associatedBand": "associated band",
+        "associatedMusicalArtist": "associated musical artist",
+        "instrument": "instrument",
+        "ideology": "ideology",
+        "country": "country",
+        "isPartOf": "is part of",
+        "language": "language",
+        "occupation": "occupation",
+        "education": "education",
+        "currentMember": "current member",
+        "product": "product",
+        "related": "related",
+        "formerBandMember": "former band member",
+        "battle": "battle",
+        "ground": "ground",
+        "recordLabel": "record label",
+        "class": "class",
+        "starring": "starring",
+        "genre": "genre",
+        "daylightSavingTimeZone": "daylight saving time zone",
+        "hometown": "hometown",
+        "race": "race",
+        "managerClub": "manager club",
+        "thirdTeam": "third team",
+        "birthPlace": "birth place",
+        "state": "state",
+        "recordedIn": "recorded in",
+        "deathPlace": "death place",
+        "timeZone": "time zone",
+        "keyPerson": "key person",
+        "team": "team",
+        "location": "location",
+        "locationCity": "location city",
+        "languageFamily": "language family",
+        "manufacturer": "manufacturer",
+        "associate": "associate",
+        "family": "family",
+        "neighboringMunicipality": "neighboring municipality",
+        "commander": "commander",
+        "award": "award",
+        "writer": "writer",
+        "company": "company",
+        "league": "league",
+        "almaMater": "alma mater",
+        "regionServed": "region served",
+        "guest": "guest",
+        "predecessor": "predecessor",
+        "nationality": "nationality",
+        "field": "field",
+        "religion": "religion",
+        "musicalBand": "musical band",
+        "musicalArtist": "musical artist",
+        "spouse": "spouse",
+        "developer": "developer",
+        "primeMinister": "prime minister",
+        "producer": "producer",
+        "place": "place",
+        "honours": "honours",
+        "type": "type",
+        "usedInWar": "used in war",
+        "ingredient": "ingredient",
+        "successor": "successor",
+        "kingdom": "kingdom",
+        "headquarter": "headquarter",
+        "largestCity": "largest city",
+        "athletics": "athletics",
+        "phylum": "phylum",
+        "owner": "owner",
+        "locationCountry": "location country",
+        "district": "district",
+        "stylisticOrigin": "stylistic origin",
+        "militaryBranch": "military branch",
+        "leader": "leader",
+        "order": "order",
+        "commandStructure": "command structure",
+        "creator": "creator",
+        "industry": "industry",
+        "philosophicalSchool": "philosophical school",
+        "mainInterest": "main interest",
+        "otherParty": "other party",
+        "training": "training",
+        "movement": "movement",
+        "broadcastNetwork": "broadcast network",
+        "operator": "operator",
+        "ethnicGroup": "ethnic group",
+        "distributingLabel": "distributing label",
+        "assembly": "assembly",
+        "region": "region",
+        "populationPlace": "population place",
+        "spokenIn": "spoken in",
+        "executiveProducer": "executive producer",
+        "party": "party",
+        "bandMember": "band member",
+        "previousWork": "previous work",
+        "residence": "residence",
+        "pictureFormat": "picture format",
+        "leaderName": "leader name",
+        "restingPlace": "resting place",
+        "subregion": "subregion",
+        "sisterStation": "sister station",
+        "profession": "profession",
+        "format": "format",
+        "stateOfOrigin": "state of origin",
+        "deathCause": "death cause",
+        "position": "position",
+        "editing": "editing",
+        "broadcastArea": "broadcast area",
+        "publisher": "publisher",
+        "institution": "institution",
+        "part": "part",
+        "service": "service",
+        "influencedBy": "influenced by",
+        "musicFusionGenre": "music fusion genre",
+        "distributingCompany": "distributing company",
+        "voice": "voice",
+        "bodyStyle": "body style",
+        "lieutenancyArea": "lieutenancy area",
+        "isPartOfMilitaryConflict": "is part of military conflict",
+        "foundationPlace": "foundation place",
+        "growingGrape": "growing grape",
+        "director": "director",
+        "formerBroadcastNetwork": "former broadcast network",
+        "employer": "employer",
+        "borough": "borough",
+        "countySeat": "county seat",
+        "notableCommander": "notable commander",
+        "portrayer": "portrayer",
+        "series": "series",
+        "leaderParty": "leader party",
+        "channel": "channel",
+        "narrator": "narrator",
+        "author": "author",
+        "city": "city",
+        "formerTeam": "former team",
+        "billed": "billed",
+        "relative": "relative",
+        "computingPlatform": "computing platform",
+        "colour": "colour",
+        "derivative": "derivative",
+        "routeJunction": "route junction",
+        "trainer": "trainer",
+        "subsidiary": "subsidiary",
+        "twinCountry": "twin country",
+        "subsequentWork": "subsequent work",
+        "distributor": "distributor",
+        "breeder": "breeder",
+        "campus": "campus",
+        "president": "president",
+        "mouthRegion": "mouth region",
+        "damsire": "damsire",
+        "europeanAffiliation": "European affiliation",
+        "fourthCommander": "Fourth commander",
+        "parentCompany": "Parent company",
+        "relation": "Relation",
+        "majorIsland": "Major island",
+        "capital": "Capital",
+        "sourceRegion": "Source region",
+        "owningCompany": "Owning company",
+        "influenced": "Influenced",
+        "affiliation": "Affiliation",
+        "musicComposer": "Music composer",
+        "rightTributary": "Right tributary",
+        "album": "Album",
+        "division": "Division",
+        "varietals": "Varietals",
+        "raceHorse": "Race horse",
+        "musicSubgenre": "Music subgenre",
+        "canonizedPlace": "Canonized place",
+        "riverMouth": "River mouth",
+        "artist": "Artist",
+        "followingEvent": "Following event",
+        "province": "Province",
+        "presenter": "Presenter",
+        "sourceCountry": "Source country",
+        "politicalPartyInLegislature": "Political party in legislature",
+        "garrison": "Garrison",
+        "composer": "Composer",
+        "citizenship": "Citizenship",
+        "editor": "Editor",
+        "internationalAffiliation": "International affiliation",
+        "governmentType": "government type",
+        "webcast": "webcast",
+        "showJudge": "show judge",
+        "parent": "parent",
+        "officialLanguage": "official language",
+        "secondCommander": "second commander",
+        "knownFor": "known for",
+        "patron": "patron",
+        "gender": "gender",
+        "vicePresident": "vice president",
+        "monarch": "monarch",
+        "typeOfElectrification": "type of electrification",
+        "lastAppearance": "last appearance",
+        "twinTown": "twin town",
+        "aircraftTransport": "aircraft transport",
+        "network": "network",
+        "militaryRank": "military rank",
+        "governor": "governor",
+        "department": "department",
+        "largestSettlement": "largest settlement",
+        "formerCoach": "former coach",
+        "councilArea": "council area",
+        "foundedBy": "founded by",
+        "season": "season",
+        "sport": "sport",
+        "grades": "grades",
+        "cinematography": "cinematography",
+        "aircraftFighter": "aircraft fighter",
+        "sire": "sire",
+        "architecturalStyle": "architectural style",
+        "operatingSystem": "operating system",
+        "mergedIntoParty": "merged into party",
+        "ethnicity": "ethnicity",
+        "federalState": "federal state",
+        "deputy": "deputy",
+        "notableWork": "notable work",
+        "ceremonialCounty": "ceremonial county",
+        "mouthMountain": "mouth mountain",
+        "territory": "territory",
+        "governorGeneral": "governor general",
+        "layout": "layout",
+        "picture": "picture",
+        "child": "child",
+        "appointer": "appointer",
+        "routeStart": "route start",
+        "tenant": "tenant",
+        "currency": "currency",
+        "island": "island",
+        "sourceMountain": "source mountain",
+        "grandsire": "grandsire",
+        "notableIdea": "notable idea",
+        "college": "college",
+        "relatedMeanOfTransportation": "related mean of transportation",
+        "era": "era",
+        "fastestDriver": "fastest driver",
+        "nextEvent": "next event",
+        "mouthPlace": "mouth place",
+        "europeanParliamentGroup": "European Parliament group",
+        "targetAirport": "target airport",
+        "builder": "builder",
+        "significantDesign": "significant design",
+        "jurisdiction": "jurisdiction",
+        "openingTheme": "opening theme",
+        "militaryUnit": "military unit",
+        "programmeFormat": "program format",
+        "hubAirport": "hub airport",
+        "academicAdvisor": "academic advisor",
+        "county": "county",
+        "routeEnd": "route end",
+        "destination": "destination",
+        "municipality": "municipality",
+        "poleDriverTeam": "pole driver team",
+        "similar": "similar",
+        "nearestCity": "nearest city",
+        "sourcePlace": "source place",
+        "parentOrganisation": "parent organization",
+        "lieutenant": "lieutenant",
+        "governingBody": "governing body",
+        "map": "map",
+        "ruralMunicipality": "rural municipality",
+        "genus": "genus",
+        "doctoralAdvisor": "doctoral advisor",
+        "dam": "dam",
+        "leftTributary": "left tributary",
+        "arrondissement": "arrondissement",
+        "partner": "partner",
+        "metropolitanBorough": "metropolitan borough",
+        "wineRegion": "wine region",
+        "principalArea": "principal area",
+        "locatedInArea": "located in area",
+        "designer": "designer",
+        "lastWin": "last win",
+        "childOrganisation": "child organization",
+        "subject": "subject",
+        "thirdDriver": "third driver",
+        "currentPartner": "current partner",
+        "source": "source",
+        "river": "river",
+        "manager": "manager",
+        "isPartOfWineRegion": "is part of wine region",
+        "denomination": "denomination",
+        "highestPlace": "highest place",
+        "board": "board",
+        "taoiseach": "taoiseach",
+        "mountainRange": "mountain range",
+        "coach": "coach",
+        "fastestDriverTeam": "fastest driver team",
+        "splitFromParty": "split from party",
+        "person": "person",
+        "license": "license",
+        "sisterCollege": "sister college",
+        "binomialAuthority": "binomial authority",
+        "significantBuilding": "significant building",
+        "voiceType": "voice type",
+        "victim": "victim",
+        "cpu": "CPU",
+        "archipelago": "archipelago",
+        "chairman": "chairman",
+        "sourceConfluence": "source confluence",
+        "government": "government",
+        "sisterNewspaper": "sister newspaper",
+        "biome": "biome",
+        "stadium": "stadium",
+        "firstDriverTeam": "first driver team",
+        "formerChoreographer": "former choreographer",
+        "hasVariant": "has variant",
+        "programmingLanguage": "programming language",
+        "designCompany": "design company",
+        "mayor": "mayor",
+        "aircraftAttack": "aircraft attack",
+        "doctoralStudent": "doctoral student",
+        "draftTeam": "draft team",
+        "nationalAffiliation": "national affiliation",
+        "species": "species",
+        "poleDriver": "pole driver",
+        "inflow": "inflow",
+        "firstDriver": "first driver",
+        "chancellor": "chancellor",
+        "lowestMountain": "lowest mountain",
+        "previousEvent": "previous event",
+        "frazioni": "frazioni",
+        "canton": "canton",
+        "notableStudent": "notable student",
+        "secondTeam": "second team",
+        "mouthCountry": "mouth country",
+        "founder": "founder",
+        "basedOn": "based on",
+        "secondLeader": "second leader",
+        "lowestPlace": "lowest place",
+        "thirdDriverCountry": "third driver country",
+        "placeOfBurial": "place of burial",
+        "university": "university",
+        "managementMountain": "management mountain",
+        "servingRailwayLine": "serving railway line",
+        "domain": "domain",
+        "usingCountry": "using country",
+        "creativeDirector": "creative director",
+        "secondDriver": "second driver",
+        "outflow": "outflow",
+        "head": "head",
+        "railwayRollingStock": "railway rolling stock",
+        "choreographer": "choreographer",
+        "aircraftHelicopter": "aircraft helicopter",
+        "endingTheme": "ending theme",
+        "associatedAct": "associated act",
+        "veneratedIn": "venerated in",
+        "house": "house",
+        "origin": "origin",
+        "promotion": "promotion",
+        "regionalLanguage": "regional language",
+        "architect": "architect",
+        "firstRace": "first race",
+        "automobilePlatform": "automobile platform",
+        "politicalPartyOfLeader": "political party of leader",
+        "bodyDiscovered": "body discovered",
+        "lyrics": "lyrics",
+        "plant": "plant",
+        "sourceConfluenceRegion": "source confluence region",
+        "highestMountain": "highest mountain",
+        "anthem": "anthem",
+        "thirdCommander": "third commander",
+        "border": "border",
+        "governmentPlace": "government place",
+        "formerPartner": "former partner",
+        "aircraftRecon": "aircraft reconnaissance",
+        "aircraftPatrol": "aircraft patrol",
+        "alliance": "alliance",
+        "pastMember": "past member",
+        "authority": "authority",
+        "beatifiedBy": "beatified by",
+        "rector": "rector",
+        "parentMountainPeak": "parent mountain peak",
+        "hasJunctionWith": "has junction with",
+        "prospectTeam": "prospect team",
+        "discipline": "discipline",
+        "aircraftTrainer": "aircraft trainer",
+        "gameArtist": "game artist",
+        "goldMedalist": "gold medalist",
+        "animator": "animator",
+        "whaDraftTeam": "WHA draft team",
+        "powerType": "power type",
+        "majorShrine": "major shrine",
+        "aircraftHelicopterAttack": "aircraft helicopter attack",
+        "sourceConfluenceMountain": "source confluence mountain",
+        "aircraftElectronic": "aircraft electronic",
+        "nominee": "nominee",
+        "significantProject": "significant project",
+        "homeStadium": "home stadium",
+        "saint": "saint",
+        "languageRegulator": "language regulator",
+        "sourceConfluenceState": "source confluence state",
+        "silverMedalist": "silver medalist",
+        "startPoint": "start point",
+        "coachedTeam": "coached team",
+        "aircraftHelicopterCargo": "aircraft helicopter cargo",
+        "jockey": "jockey",
+        "firstLeader": "first leader",
+        "event": "event",
+        "launchSite": "launch site",
+        "sourceConfluencePlace": "source confluence place",
+        "engineType": "engine type",
+        "fastestDriverCountry": "fastest driver country",
+        "photographer": "photographer",
+        "lastRace": "last race",
+        "category": "category",
+        "unitaryAuthority": "unitary authority",
+        "branchTo": "branch to",
+        "secretaryGeneral": "secretary general",
+        "musicBy": "music by",
+        "compiler": "compiler",
+        "secondDriverCountry": "second driver country",
+        "firstDriverCountry": "first driver country",
+        "localAuthority": "local authority",
+        "highestRegion": "highest region",
+        "youthWing": "youth wing",
+        "maintainedBy": "maintained by",
+        "beltwayCity": "beltway city",
+        "mediaType": "media type",
+        "literaryGenre": "literary genre",
+        "rival": "rival",
+        "debutTeam": "Debut team",
+        "sportGoverningBody": "Sport governing body",
+        "homeArena": "Home arena",
+        "canonizedBy": "Canonized by",
+        "gameEngine": "Game engine",
+        "congressionalDistrict": "Congressional district",
+        "magazine": "Magazine",
+        "vehicle": "Vehicle",
+        "branchFrom": "Branch from",
+        "chairperson": "Chairperson",
+        "mainOrgan": "Main organ",
+        "poleDriverCountry": "Pole driver country",
+        "capitalCountry": "Capital country",
+        "illustrator": "Illustrator",
+        "aircraftHelicopterUtility": "Aircraft helicopter utility",
+        "intercommunality": "Intercommunality",
+        "coverArtist": "Cover artist",
+        "supplies": "Supplies",
+        "beatifiedPlace": "Beatified place",
+        "prospectLeague": "Prospect league",
+        "march": "March",
+        "viceChancellor": "Vice chancellor",
+        "nonFictionSubject": "Non-fiction subject",
+        "aircraftInterceptor": "Aircraft interceptor",
+        "firstWin": "First win",
+        "brand": "Brand",
+        "lowestRegion": "Lowest region",
+        "endPoint": "Endpoint",
+        "managementPlace": "Management place",
+        "provost": "Provost",
+        "equipment": "equipment",
+        "aircraftBomber": "aircraft bomber",
+        "aircraftHelicopterTransport": "aircraft helicopter transport",
+        "alumni": "alumni",
+        "owningOrganisation": "owning organization",
+        "schoolBoard": "school board",
+        "artery": "artery",
+        "ceo": "CEO",
+        "administrativeDistrict": "administrative district",
+        "school": "school",
+        "bronzeMedalist": "bronze medalist",
+        "aircraftHelicopterMultirole": "aircraft helicopter multirole",
+        "dean": "dean",
+        "agency": "agency",
+        "countryOrigin": "country of origin",
+        "capitalRegion": "capital region",
+        "governmentCountry": "government country",
+        "governmentMountain": "government mountain",
+        "highestState": "highest state",
+        "rocketFunction": "rocket function"
+    },
+    "relation_descriptions": {
+        "associatedBand": [
+            "musical group affiliation",
+            "affiliated musical group"
+        ],
+        "associatedMusicalArtist": [
+            "collaborating musician",
+            "collaborated musician"
+        ],
+        "instrument": [
+            "played in genre",
+            "genre played with"
+        ],
+        "ideology": [
+            "political belief",
+            "belief held by"
+        ],
+        "country": [
+            "located in country",
+            "country location"
+        ],
+        "isPartOf": [
+            "contained within",
+            "contains"
+        ],
+        "language": [
+            "spoken by group",
+            "group speaking"
+        ],
+        "occupation": [
+            "professional role",
+            "role held by"
+        ],
+        "education": [
+            "attended institution",
+            "institution attended by"
+        ],
+        "currentMember": [
+            "active participant",
+            "participant in"
+        ],
+        "product": [
+            "manufactured by company",
+            "company product"
+        ],
+        "related": [
+            "connected to",
+            "connected with"
+        ],
+        "formerBandMember": [
+            "past group member",
+            "member of past"
+        ],
+        "battle": [
+            "participated in conflict",
+            "conflict participant"
+        ],
+        "ground": [
+            "home venue",
+            "venue of team"
+        ],
+        "recordLabel": [
+            "signed to label",
+            "label signee"
+        ],
+        "class": [
+            "taxonomic classification",
+            "classification includes"
+        ],
+        "starring": [
+            "features actor",
+            "actor in"
+        ],
+        "genre": [
+            "musical style",
+            "style of artist"
+        ],
+        "daylightSavingTimeZone": [
+            "observes DST zone",
+            "DST zone observed by"
+        ],
+        "hometown": [
+            "origin city",
+            "city of origin"
+        ],
+        "race": [
+            "competed in event",
+            "event competitor"
+        ],
+        "managerClub": [
+            "manages team",
+            "team managed by"
+        ],
+        "thirdTeam": [
+            "third-place finisher",
+            "finisher in third"
+        ],
+        "birthPlace": [
+            "born in location",
+            "location of birth"
+        ],
+        "state": [
+            "located in state",
+            "state location"
+        ],
+        "recordedIn": [
+            "recorded at venue",
+            "venue recording"
+        ],
+        "deathPlace": [
+            "died in location",
+            "location of death"
+        ],
+        "timeZone": [
+            "follows time standard",
+            "time standard followed by"
+        ],
+        "keyPerson": [
+            "holds leadership role",
+            "leadership role holder"
+        ],
+        "team": [
+            "plays for team",
+            "has player"
+        ],
+        "location": [
+            "located in",
+            "contains location"
+        ],
+        "locationCity": [
+            "located in city",
+            "city of"
+        ],
+        "languageFamily": [
+            "belongs to language family",
+            "includes language"
+        ],
+        "manufacturer": [
+            "manufactured by",
+            "manufactures"
+        ],
+        "associate": [
+            "associated with",
+            "associated with"
+        ],
+        "family": [
+            "belongs to family",
+            "includes member"
+        ],
+        "neighboringMunicipality": [
+            "neighbors municipality",
+            "neighbors municipality"
+        ],
+        "commander": [
+            "commanded by",
+            "commands operation"
+        ],
+        "award": [
+            "received award",
+            "awarded to"
+        ],
+        "writer": [
+            "written by",
+            "wrote"
+        ],
+        "company": [
+            "produced by company",
+            "produces"
+        ],
+        "league": [
+            "plays in league",
+            "includes team"
+        ],
+        "almaMater": [
+            "studied at",
+            "educated"
+        ],
+        "regionServed": [
+            "serves region",
+            "served by"
+        ],
+        "guest": [
+            "features guest",
+            "guest appearance in"
+        ],
+        "predecessor": [
+            "preceded by",
+            "succeeded by"
+        ],
+        "nationality": [
+            "has nationality",
+            "nationality of"
+        ],
+        "field": [
+            "works in field",
+            "field expert"
+        ],
+        "religion": [
+            "follows religion",
+            "religion follower"
+        ],
+        "musicalBand": [
+            "performed by band",
+            "band performance"
+        ],
+        "musicalArtist": [
+            "performed by artist",
+            "artist performance"
+        ],
+        "spouse": [
+            "married to",
+            "married to"
+        ],
+        "developer": [
+            "developed by",
+            "develops"
+        ],
+        "primeMinister": [
+            "served under PM",
+            "had minister"
+        ],
+        "producer": [
+            "produced by",
+            "produces"
+        ],
+        "place": [
+            "took place in",
+            "hosted event"
+        ],
+        "honours": [
+            "received honours",
+            "honoured"
+        ],
+        "type": [
+            "is type of",
+            "includes type"
+        ],
+        "usedInWar": [
+            "used in war",
+            "war usage"
+        ],
+        "ingredient": [
+            "component of food",
+            "used in dish"
+        ],
+        "successor": [
+            "follows in position",
+            "precedes in position"
+        ],
+        "kingdom": [
+            "biological classification rank",
+            "contains species"
+        ],
+        "headquarter": [
+            "main office location",
+            "houses organization"
+        ],
+        "largestCity": [
+            "most populous city",
+            "located in county"
+        ],
+        "athletics": [
+            "sports program affiliation",
+            "includes team"
+        ],
+        "phylum": [
+            "taxonomic rank",
+            "encompasses family"
+        ],
+        "owner": [
+            "possesses entity",
+            "owned by entity"
+        ],
+        "locationCountry": [
+            "country of operation",
+            "hosts organization"
+        ],
+        "district": [
+            "administrative division",
+            "contains locality"
+        ],
+        "stylisticOrigin": [
+            "derived from genre",
+            "influenced style"
+        ],
+        "militaryBranch": [
+            "service branch member",
+            "includes personnel"
+        ],
+        "leader": [
+            "governs entity",
+            "led by individual"
+        ],
+        "order": [
+            "taxonomic classification",
+            "includes genus"
+        ],
+        "commandStructure": [
+            "military unit hierarchy",
+            "subordinate to unit"
+        ],
+        "creator": [
+            "produced work",
+            "created by individual"
+        ],
+        "industry": [
+            "sector of operation",
+            "includes company"
+        ],
+        "philosophicalSchool": [
+            "adheres to philosophy",
+            "followed by thinker"
+        ],
+        "mainInterest": [
+            "primary focus area",
+            "interest of person"
+        ],
+        "otherParty": [
+            "affiliated with party",
+            "includes member"
+        ],
+        "training": [
+            "educated at institution",
+            "trained individual"
+        ],
+        "movement": [
+            "associated with art movement",
+            "includes artist"
+        ],
+        "broadcastNetwork": [
+            "broadcasts on network",
+            "carries station"
+        ],
+        "operator": [
+            "manages transport",
+            "operated by company"
+        ],
+        "ethnicGroup": [
+            "ethnic composition",
+            "group in country"
+        ],
+        "distributingLabel": [
+            "distributes music",
+            "distributed by label"
+        ],
+        "assembly": [
+            "manufactured in location",
+            "produces vehicle"
+        ],
+        "region": [
+            "located in area",
+            "contains person"
+        ],
+        "populationPlace": [
+            "resides in region",
+            "home to diaspora"
+        ],
+        "spokenIn": [
+            "language usage area",
+            "spoken language"
+        ],
+        "executiveProducer": [
+            "produced by executive",
+            "executive producer of"
+        ],
+        "party": [
+            "member of party",
+            "party includes member"
+        ],
+        "bandMember": [
+            "member of band",
+            "band includes member"
+        ],
+        "previousWork": [
+            "preceded by work",
+            "work precedes"
+        ],
+        "residence": [
+            "resides in",
+            "residence of"
+        ],
+        "pictureFormat": [
+            "formatted as picture",
+            "picture format of"
+        ],
+        "leaderName": [
+            "led by name",
+            "leader name of"
+        ],
+        "restingPlace": [
+            "rests at place",
+            "resting place of"
+        ],
+        "subregion": [
+            "region contains subregion",
+            "subregion of region"
+        ],
+        "sisterStation": [
+            "sister to station",
+            "sister station of"
+        ],
+        "profession": [
+            "profession of person",
+            "person with profession"
+        ],
+        "format": [
+            "formatted as",
+            "format of"
+        ],
+        "stateOfOrigin": [
+            "originated in state",
+            "state of origin for"
+        ],
+        "deathCause": [
+            "died by cause",
+            "cause of death for"
+        ],
+        "position": [
+            "position in league",
+            "league position of"
+        ],
+        "editing": [
+            "edited by person",
+            "editor of work"
+        ],
+        "broadcastArea": [
+            "broadcast in area",
+            "area receives broadcast"
+        ],
+        "publisher": [
+            "published by company",
+            "company publishes"
+        ],
+        "institution": [
+            "attended institution",
+            "institution attended by"
+        ],
+        "part": [
+            "part of region",
+            "region includes part"
+        ],
+        "service": [
+            "provides service",
+            "service provided by"
+        ],
+        "influencedBy": [
+            "influenced by person",
+            "influencer of"
+        ],
+        "musicFusionGenre": [
+            "fuses with genre",
+            "genre fusion of"
+        ],
+        "distributingCompany": [
+            "distributed by company",
+            "company distributes"
+        ],
+        "voice": [
+            "voiced by actor",
+            "actor voices"
+        ],
+        "bodyStyle": [
+            "styled as body",
+            "body style of"
+        ],
+        "lieutenancyArea": [
+            "lieutenancy for area",
+            "area under lieutenancy"
+        ],
+        "isPartOfMilitaryConflict": [
+            "part of conflict",
+            "conflict includes battle"
+        ],
+        "foundationPlace": [
+            "founded in place",
+            "place of foundation"
+        ],
+        "growingGrape": [
+            "grows grape variety",
+            "grape variety grown in"
+        ],
+        "director": [
+            "directed by",
+            "director of"
+        ],
+        "formerBroadcastNetwork": [
+            "formerly broadcast by",
+            "former network for"
+        ],
+        "employer": [
+            "employed by",
+            "employer of"
+        ],
+        "borough": [
+            "located in borough",
+            "borough containing"
+        ],
+        "countySeat": [
+            "seat of county",
+            "county with seat"
+        ],
+        "notableCommander": [
+            "commanded by",
+            "commander of"
+        ],
+        "portrayer": [
+            "portrayed by",
+            "portrayer of"
+        ],
+        "series": [
+            "part of series",
+            "series includes"
+        ],
+        "leaderParty": [
+            "led by party",
+            "party leader for"
+        ],
+        "channel": [
+            "broadcast on channel",
+            "channel airing"
+        ],
+        "narrator": [
+            "narrated by",
+            "narrator of"
+        ],
+        "author": [
+            "authored by",
+            "author of"
+        ],
+        "city": [
+            "located in city",
+            "city containing"
+        ],
+        "formerTeam": [
+            "formerly played for",
+            "former team of"
+        ],
+        "billed": [
+            "billed from",
+            "billing location for"
+        ],
+        "relative": [
+            "related to",
+            "relative of"
+        ],
+        "computingPlatform": [
+            "runs on platform",
+            "platform for"
+        ],
+        "colour": [
+            "has colour",
+            "colour of"
+        ],
+        "derivative": [
+            "derived from",
+            "derivative of"
+        ],
+        "routeJunction": [
+            "junction at route",
+            "route with junction"
+        ],
+        "trainer": [
+            "trained by",
+            "trainer of"
+        ],
+        "subsidiary": [
+            "subsidiary of",
+            "parent company for"
+        ],
+        "twinCountry": [
+            "twinned with country",
+            "twin country for"
+        ],
+        "subsequentWork": [
+            "followed by work",
+            "follows work"
+        ],
+        "distributor": [
+            "distributed by",
+            "distributor for"
+        ],
+        "breeder": [
+            "bred by",
+            "breeder of"
+        ],
+        "campus": [
+            "has campus",
+            "campus of"
+        ],
+        "president": [
+            "president under",
+            "president for"
+        ],
+        "mouthRegion": [
+            "mouth in region",
+            "region with mouth"
+        ],
+        "damsire": [
+            "sired by dam",
+            "damsire of"
+        ],
+        "europeanAffiliation": [
+            "affiliated with European group",
+            "European group affiliation of"
+        ],
+        "fourthCommander": [
+            "fourth in command of",
+            "fourth commander for"
+        ],
+        "parentCompany": [
+            "owned by parent company",
+            "parent company owns"
+        ],
+        "relation": [
+            "related to",
+            "relation of"
+        ],
+        "majorIsland": [
+            "contains major island",
+            "major island of"
+        ],
+        "capital": [
+            "capital city of",
+            "capital for"
+        ],
+        "sourceRegion": [
+            "originates in region",
+            "region sources"
+        ],
+        "owningCompany": [
+            "owned by company",
+            "company owns"
+        ],
+        "influenced": [
+            "influenced by",
+            "influencer of"
+        ],
+        "affiliation": [
+            "affiliated with",
+            "affiliation of"
+        ],
+        "musicComposer": [
+            "composed by musician",
+            "musician composed"
+        ],
+        "rightTributary": [
+            "right tributary of",
+            "receives right tributary"
+        ],
+        "album": [
+            "part of album",
+            "album contains"
+        ],
+        "division": [
+            "divided into",
+            "division of"
+        ],
+        "varietals": [
+            "produces varietal",
+            "varietal from"
+        ],
+        "raceHorse": [
+            "raced by horse",
+            "horse races"
+        ],
+        "musicSubgenre": [
+            "subgenre of music",
+            "music includes subgenre"
+        ],
+        "canonizedPlace": [
+            "canonized at place",
+            "place canonized"
+        ],
+        "riverMouth": [
+            "mouth at river",
+            "river receives mouth"
+        ],
+        "artist": [
+            "created by artist",
+            "artist creates"
+        ],
+        "followingEvent": [
+            "followed by event",
+            "event follows"
+        ],
+        "province": [
+            "located in province",
+            "province contains"
+        ],
+        "presenter": [
+            "presented by",
+            "presenter for"
+        ],
+        "sourceCountry": [
+            "originates in country",
+            "country sources"
+        ],
+        "politicalPartyInLegislature": [
+            "legislature includes party",
+            "party in legislature"
+        ],
+        "garrison": [
+            "garrisoned at",
+            "garrison for"
+        ],
+        "composer": [
+            "composed by",
+            "composer of"
+        ],
+        "citizenship": [
+            "citizen of",
+            "citizenship held by"
+        ],
+        "editor": [
+            "edited by",
+            "editor for"
+        ],
+        "internationalAffiliation": [
+            "affiliated with international group",
+            "international group affiliation of"
+        ],
+        "governmentType": [
+            "administrative division governance",
+            "governed administrative division"
+        ],
+        "webcast": [
+            "online broadcast medium",
+            "broadcasted online"
+        ],
+        "showJudge": [
+            "program evaluator",
+            "evaluated program"
+        ],
+        "parent": [
+            "biological ancestor",
+            "biological descendant"
+        ],
+        "officialLanguage": [
+            "legally recognized speech",
+            "legally spoken"
+        ],
+        "secondCommander": [
+            "deputy military leader",
+            "deputized military"
+        ],
+        "knownFor": [
+            "recognized accomplishment",
+            "accredited accomplishment"
+        ],
+        "patron": [
+            "supporting sponsor",
+            "sponsored supporter"
+        ],
+        "gender": [
+            "educational gender policy",
+            "gendered education"
+        ],
+        "vicePresident": [
+            "secondary executive leader",
+            "supported executive"
+        ],
+        "monarch": [
+            "reigning sovereign",
+            "ruled monarchy"
+        ],
+        "typeOfElectrification": [
+            "railway power system",
+            "electrified railway"
+        ],
+        "lastAppearance": [
+            "final media portrayal",
+            "portrayed media instance"
+        ],
+        "twinTown": [
+            "sister city",
+            "sister city"
+        ],
+        "aircraftTransport": [
+            "airlift vehicle",
+            "transport aircraft"
+        ],
+        "network": [
+            "broadcasting channel",
+            "channel broadcaster"
+        ],
+        "militaryRank": [
+            "armed forces title",
+            "titled servicemember"
+        ],
+        "governor": [
+            "state executive leader",
+            "governed state"
+        ],
+        "department": [
+            "administrative subdivision",
+            "subdivided administration"
+        ],
+        "largestSettlement": [
+            "most populous city",
+            "populous urban area"
+        ],
+        "formerCoach": [
+            "previous trainer",
+            "trained individual"
+        ],
+        "councilArea": [
+            "local government jurisdiction",
+            "jurisdictional government"
+        ],
+        "foundedBy": [
+            "organization creator",
+            "created organization"
+        ],
+        "season": [
+            "competitive period",
+            "period competition"
+        ],
+        "sport": [
+            "athletic activity",
+            "activity sport"
+        ],
+        "grades": [
+            "educational level",
+            "level education"
+        ],
+        "cinematography": [
+            "film visual recording",
+            "recorded film visuals"
+        ],
+        "aircraftFighter": [
+            "combat aircraft model",
+            "model military aircraft"
+        ],
+        "sire": [
+            "equine male parent",
+            "fathered horse"
+        ],
+        "architecturalStyle": [
+            "design methodology",
+            "methodological design approach"
+        ],
+        "operatingSystem": [
+            "runs on operating system",
+            "operating system runs"
+        ],
+        "mergedIntoParty": [
+            "merged into political party",
+            "political party merged from"
+        ],
+        "ethnicity": [
+            "has ethnicity",
+            "ethnicity of"
+        ],
+        "federalState": [
+            "located in federal state",
+            "federal state contains"
+        ],
+        "deputy": [
+            "deputy of",
+            "has deputy"
+        ],
+        "notableWork": [
+            "creator of notable work",
+            "notable work by"
+        ],
+        "ceremonialCounty": [
+            "located in ceremonial county",
+            "ceremonial county includes"
+        ],
+        "mouthMountain": [
+            "mouth at mountain",
+            "mountain has mouth"
+        ],
+        "territory": [
+            "territory of conflict",
+            "conflict involves territory"
+        ],
+        "governorGeneral": [
+            "appointed governor general",
+            "governor general appointed by"
+        ],
+        "layout": [
+            "has layout",
+            "layout of"
+        ],
+        "picture": [
+            "picture taken at",
+            "location in picture"
+        ],
+        "child": [
+            "parent of child",
+            "child of parent"
+        ],
+        "appointer": [
+            "appointed by",
+            "appoints"
+        ],
+        "routeStart": [
+            "route starts at",
+            "starting point of route"
+        ],
+        "tenant": [
+            "tenant of property",
+            "property leased to tenant"
+        ],
+        "currency": [
+            "uses currency",
+            "currency used by"
+        ],
+        "island": [
+            "island in sea",
+            "sea contains island"
+        ],
+        "sourceMountain": [
+            "source at mountain",
+            "mountain has source"
+        ],
+        "grandsire": [
+            "grandsire of horse",
+            "horse descended from grandsire"
+        ],
+        "notableIdea": [
+            "proposed notable idea",
+            "notable idea proposed by"
+        ],
+        "college": [
+            "attended college",
+            "college attended by"
+        ],
+        "relatedMeanOfTransportation": [
+            "related vehicle",
+            "vehicle related to"
+        ],
+        "era": [
+            "belongs to era",
+            "era includes"
+        ],
+        "fastestDriver": [
+            "fastest driver in event",
+            "event fastest driver"
+        ],
+        "nextEvent": [
+            "followed by event",
+            "event follows"
+        ],
+        "mouthPlace": [
+            "mouth at place",
+            "place has mouth"
+        ],
+        "europeanParliamentGroup": [
+            "member of EP group",
+            "EP group includes"
+        ],
+        "targetAirport": [
+            "destination airport",
+            "airport destination for"
+        ],
+        "builder": [
+            "built by company",
+            "company built"
+        ],
+        "significantDesign": [
+            "designed significant style",
+            "style designed by"
+        ],
+        "jurisdiction": [
+            "has jurisdiction over",
+            "under jurisdiction of"
+        ],
+        "openingTheme": [
+            "has opening theme",
+            "theme opens"
+        ],
+        "militaryUnit": [
+            "served in unit",
+            "unit includes"
+        ],
+        "programmeFormat": [
+            "broadcasts format",
+            "format broadcast by"
+        ],
+        "hubAirport": [
+            "operates hub at",
+            "hub for"
+        ],
+        "academicAdvisor": [
+            "advised by",
+            "advisor to"
+        ],
+        "county": [
+            "located in county",
+            "county contains"
+        ],
+        "routeEnd": [
+            "ends at",
+            "terminal point of"
+        ],
+        "destination": [
+            "flies to",
+            "destination for"
+        ],
+        "municipality": [
+            "flows through municipality",
+            "municipality contains river"
+        ],
+        "poleDriverTeam": [
+            "won pole with team",
+            "team achieved pole"
+        ],
+        "similar": [
+            "similar to",
+            "similar to"
+        ],
+        "nearestCity": [
+            "nearest city is",
+            "city nearest to"
+        ],
+        "sourcePlace": [
+            "originates in",
+            "source of river"
+        ],
+        "parentOrganisation": [
+            "subsidiary of",
+            "parent to"
+        ],
+        "lieutenant": [
+            "served with lieutenant",
+            "lieutenant under"
+        ],
+        "governingBody": [
+            "governed by",
+            "governing body for"
+        ],
+        "map": [
+            "mapped in",
+            "map shows"
+        ],
+        "ruralMunicipality": [
+            "passes through municipality",
+            "municipality crossed by"
+        ],
+        "genus": [
+            "subgenus of",
+            "includes subgenus"
+        ],
+        "doctoralAdvisor": [
+            "mentored by",
+            "advisor of"
+        ],
+        "dam": [
+            "offspring of dam",
+            "dam produced"
+        ],
+        "leftTributary": [
+            "receives left tributary",
+            "tributary joins left"
+        ],
+        "arrondissement": [
+            "part of arrondissement",
+            "arrondissement includes"
+        ],
+        "partner": [
+            "partnered with",
+            "partner of"
+        ],
+        "metropolitanBorough": [
+            "located in borough",
+            "borough contains"
+        ],
+        "wineRegion": [
+            "grown in region",
+            "region cultivates"
+        ],
+        "principalArea": [
+            "situated in area",
+            "area encompasses"
+        ],
+        "locatedInArea": [
+            "found in area",
+            "area contains"
+        ],
+        "designer": [
+            "designed by",
+            "designer of"
+        ],
+        "lastWin": [
+            "last won by",
+            "last win of"
+        ],
+        "childOrganisation": [
+            "has child organization",
+            "child organization of"
+        ],
+        "subject": [
+            "subject of",
+            "topic related to"
+        ],
+        "thirdDriver": [
+            "third driver in",
+            "race with third driver"
+        ],
+        "currentPartner": [
+            "partnered with",
+            "current partner of"
+        ],
+        "source": [
+            "originates from",
+            "source of"
+        ],
+        "river": [
+            "flows through",
+            "river in"
+        ],
+        "manager": [
+            "managed by",
+            "manager of"
+        ],
+        "isPartOfWineRegion": [
+            "part of wine region",
+            "wine region includes"
+        ],
+        "denomination": [
+            "denominated as",
+            "denomination for"
+        ],
+        "highestPlace": [
+            "highest point in",
+            "place with highest point"
+        ],
+        "board": [
+            "member of board",
+            "board includes"
+        ],
+        "taoiseach": [
+            "succeeded by taoiseach",
+            "preceded taoiseach"
+        ],
+        "mountainRange": [
+            "part of mountain range",
+            "mountain range includes"
+        ],
+        "coach": [
+            "coached by",
+            "coach of"
+        ],
+        "fastestDriverTeam": [
+            "fastest team in",
+            "race with fastest team"
+        ],
+        "splitFromParty": [
+            "split from",
+            "party split into"
+        ],
+        "person": [
+            "involves person",
+            "person involved in"
+        ],
+        "license": [
+            "licensed under",
+            "license for"
+        ],
+        "sisterCollege": [
+            "sister college of",
+            "paired with sister college"
+        ],
+        "binomialAuthority": [
+            "named by authority",
+            "authority named"
+        ],
+        "significantBuilding": [
+            "built significant building",
+            "significant building by"
+        ],
+        "voiceType": [
+            "has voice type",
+            "voice type of"
+        ],
+        "victim": [
+            "victim of",
+            "place with victim"
+        ],
+        "cpu": [
+            "uses CPU",
+            "CPU used in"
+        ],
+        "archipelago": [
+            "part of archipelago",
+            "archipelago includes"
+        ],
+        "chairman": [
+            "chaired by",
+            "chairman of"
+        ],
+        "sourceConfluence": [
+            "confluence at source",
+            "source with confluence"
+        ],
+        "government": [
+            "governed by",
+            "government for"
+        ],
+        "sisterNewspaper": [
+            "sibling publication",
+            "sibling publication"
+        ],
+        "biome": [
+            "ecological region",
+            "contains biome"
+        ],
+        "stadium": [
+            "home venue",
+            "hosts team"
+        ],
+        "firstDriverTeam": [
+            "initial racing team",
+            "team's first driver"
+        ],
+        "formerChoreographer": [
+            "past dance coach",
+            "choreographed for"
+        ],
+        "hasVariant": [
+            "includes derivative",
+            "variant of"
+        ],
+        "programmingLanguage": [
+            "developed using",
+            "language used in"
+        ],
+        "designCompany": [
+            "created by firm",
+            "firm's design"
+        ],
+        "mayor": [
+            "city leader",
+            "leads city"
+        ],
+        "aircraftAttack": [
+            "deploys aircraft",
+            "attacked by squadron"
+        ],
+        "doctoralStudent": [
+            "mentored scholar",
+            "advisor of"
+        ],
+        "draftTeam": [
+            "selected by team",
+            "drafted player"
+        ],
+        "nationalAffiliation": [
+            "political alignment",
+            "affiliated party"
+        ],
+        "species": [
+            "biological classification",
+            "includes species"
+        ],
+        "poleDriver": [
+            "qualifying leader",
+            "started first"
+        ],
+        "inflow": [
+            "receives water",
+            "flows into"
+        ],
+        "firstDriver": [
+            "initial racer",
+            "raced first"
+        ],
+        "chancellor": [
+            "government official",
+            "served under"
+        ],
+        "lowestMountain": [
+            "minimum elevation",
+            "highest point"
+        ],
+        "previousEvent": [
+            "prior competition",
+            "followed by"
+        ],
+        "frazioni": [
+            "administrative subdivision",
+            "part of municipality"
+        ],
+        "canton": [
+            "regional division",
+            "includes district"
+        ],
+        "notableStudent": [
+            "prominent pupil",
+            "taught by"
+        ],
+        "secondTeam": [
+            "runner-up team",
+            "team placed second"
+        ],
+        "mouthCountry": [
+            "river terminus",
+            "country of estuary"
+        ],
+        "founder": [
+            "established by",
+            "founded region"
+        ],
+        "basedOn": [
+            "derived from",
+            "source material"
+        ],
+        "secondLeader": [
+            "deputy leader",
+            "led alongside"
+        ],
+        "lowestPlace": [
+            "minimum elevation",
+            "highest point"
+        ],
+        "thirdDriverCountry": [
+            "third racer's origin",
+            "country's third driver"
+        ],
+        "placeOfBurial": [
+            "burial location",
+            "buried person"
+        ],
+        "university": [
+            "educational institution",
+            "institution's university"
+        ],
+        "managementMountain": [
+            "managed mountain",
+            "mountain manager"
+        ],
+        "servingRailwayLine": [
+            "served railway line",
+            "railway line served by"
+        ],
+        "domain": [
+            "biological domain",
+            "domain member"
+        ],
+        "usingCountry": [
+            "currency user",
+            "used currency"
+        ],
+        "creativeDirector": [
+            "director of creation",
+            "directed creative work"
+        ],
+        "secondDriver": [
+            "secondary driver",
+            "driver in second position"
+        ],
+        "outflow": [
+            "water outflow",
+            "receiving water body"
+        ],
+        "head": [
+            "organization leader",
+            "led organization"
+        ],
+        "railwayRollingStock": [
+            "operated rolling stock",
+            "rolling stock operator"
+        ],
+        "choreographer": [
+            "dance choreographer",
+            "choreographed dancer"
+        ],
+        "aircraftHelicopter": [
+            "operated helicopter",
+            "helicopter operator"
+        ],
+        "endingTheme": [
+            "closing theme",
+            "theme closer"
+        ],
+        "associatedAct": [
+            "collaborating artist",
+            "artist collaborator"
+        ],
+        "veneratedIn": [
+            "worship location",
+            "location of veneration"
+        ],
+        "house": [
+            "legislative chamber",
+            "chamber of legislature"
+        ],
+        "origin": [
+            "place of origin",
+            "originating entity"
+        ],
+        "promotion": [
+            "promoting organization",
+            "promoted event"
+        ],
+        "regionalLanguage": [
+            "regional tongue",
+            "language of region"
+        ],
+        "architect": [
+            "building designer",
+            "designed structure"
+        ],
+        "firstRace": [
+            "debut race",
+            "racer's debut"
+        ],
+        "automobilePlatform": [
+            "vehicle base",
+            "base for vehicle"
+        ],
+        "politicalPartyOfLeader": [
+            "leader's party",
+            "party leader"
+        ],
+        "bodyDiscovered": [
+            "discovery location",
+            "location of discovery"
+        ],
+        "lyrics": [
+            "song words",
+            "lyricist"
+        ],
+        "plant": [
+            "plant species",
+            "species location"
+        ],
+        "sourceConfluenceRegion": [
+            "river origin region",
+            "region of river origin"
+        ],
+        "highestMountain": [
+            "tallest peak",
+            "peak in location"
+        ],
+        "anthem": [
+            "national song",
+            "song of nation"
+        ],
+        "thirdCommander": [
+            "third in command",
+            "commanded third by"
+        ],
+        "border": [
+            "shares border with",
+            "bordered by"
+        ],
+        "governmentPlace": [
+            "government location",
+            "location governed by"
+        ],
+        "formerPartner": [
+            "was partnered with",
+            "partnered with in past"
+        ],
+        "aircraftRecon": [
+            "uses for reconnaissance",
+            "reconnaissance aircraft for"
+        ],
+        "aircraftPatrol": [
+            "patrol aircraft",
+            "aircraft used for patrol"
+        ],
+        "alliance": [
+            "member of alliance",
+            "alliance includes"
+        ],
+        "pastMember": [
+            "formerly a member",
+            "had past member"
+        ],
+        "authority": [
+            "governed by authority",
+            "authority governs"
+        ],
+        "beatifiedBy": [
+            "was beatified by",
+            "beatified"
+        ],
+        "rector": [
+            "led by rector",
+            "rector leads"
+        ],
+        "parentMountainPeak": [
+            "parent peak of",
+            "child peak of"
+        ],
+        "hasJunctionWith": [
+            "meets at junction",
+            "junction connects"
+        ],
+        "prospectTeam": [
+            "prospect for team",
+            "team prospect"
+        ],
+        "discipline": [
+            "field of expertise",
+            "practitioner of"
+        ],
+        "aircraftTrainer": [
+            "trainer aircraft",
+            "aircraft used for training"
+        ],
+        "gameArtist": [
+            "artist for game",
+            "game artistic contributor"
+        ],
+        "goldMedalist": [
+            "won gold medal",
+            "gold medal winner"
+        ],
+        "animator": [
+            "animated by",
+            "creator of animation"
+        ],
+        "whaDraftTeam": [
+            "drafted by team",
+            "team drafted"
+        ],
+        "powerType": [
+            "powered by",
+            "provides power to"
+        ],
+        "majorShrine": [
+            "major shrine of",
+            "shrine dedicated to"
+        ],
+        "aircraftHelicopterAttack": [
+            "attack helicopter",
+            "helicopter for attack"
+        ],
+        "sourceConfluenceMountain": [
+            "source at mountain",
+            "mountain source for"
+        ],
+        "aircraftElectronic": [
+            "electronic warfare aircraft",
+            "aircraft for electronic warfare"
+        ],
+        "nominee": [
+            "nominated for",
+            "nominee of"
+        ],
+        "significantProject": [
+            "major project",
+            "project contributor"
+        ],
+        "homeStadium": [
+            "plays at stadium",
+            "stadium hosts team"
+        ],
+        "saint": [
+            "patron saint of",
+            "has patron saint"
+        ],
+        "languageRegulator": [
+            "regulator of language",
+            "language regulated by"
+        ],
+        "sourceConfluenceState": [
+            "state where river originates",
+            "river originating in state"
+        ],
+        "silverMedalist": [
+            "second-place winner",
+            "event with silver medalist"
+        ],
+        "startPoint": [
+            "beginning location",
+            "location where path starts"
+        ],
+        "coachedTeam": [
+            "team coached by person",
+            "person coaching team"
+        ],
+        "aircraftHelicopterCargo": [
+            "helicopter cargo capacity",
+            "helicopter used by force"
+        ],
+        "jockey": [
+            "rider of horse",
+            "horse ridden by jockey"
+        ],
+        "firstLeader": [
+            "initial leader",
+            "event with first leader"
+        ],
+        "event": [
+            "activity in competition",
+            "competition featuring event"
+        ],
+        "launchSite": [
+            "site of rocket launch",
+            "rocket launched from site"
+        ],
+        "sourceConfluencePlace": [
+            "place where river originates",
+            "river originating in place"
+        ],
+        "engineType": [
+            "type of engine",
+            "engine of specified type"
+        ],
+        "fastestDriverCountry": [
+            "country of fastest driver",
+            "fastest driver from country"
+        ],
+        "photographer": [
+            "person taking photo",
+            "photo taken by photographer"
+        ],
+        "lastRace": [
+            "final race participated",
+            "race where driver last competed"
+        ],
+        "category": [
+            "classification of subject",
+            "subject in category"
+        ],
+        "unitaryAuthority": [
+            "governing body of region",
+            "region governed by authority"
+        ],
+        "branchTo": [
+            "artery branching to",
+            "artery receiving branch"
+        ],
+        "secretaryGeneral": [
+            "chief administrator of party",
+            "party with secretary general"
+        ],
+        "musicBy": [
+            "music composed by",
+            "composer of music"
+        ],
+        "compiler": [
+            "person compiling collection",
+            "collection compiled by"
+        ],
+        "secondDriverCountry": [
+            "country of second driver",
+            "second driver from country"
+        ],
+        "firstDriverCountry": [
+            "country of first driver",
+            "first driver from country"
+        ],
+        "localAuthority": [
+            "local governing body",
+            "body governing locality"
+        ],
+        "highestRegion": [
+            "region with highest point",
+            "highest point in region"
+        ],
+        "youthWing": [
+            "youth organization of party",
+            "party with youth wing"
+        ],
+        "maintainedBy": [
+            "entity maintaining infrastructure",
+            "infrastructure maintained by"
+        ],
+        "beltwayCity": [
+            "city encircled by beltway",
+            "beltway around city"
+        ],
+        "mediaType": [
+            "type of media",
+            "media of specified type"
+        ],
+        "literaryGenre": [
+            "genre of literature",
+            "literature in genre"
+        ],
+        "rival": [
+            "competitor of entity",
+            "entity competing with"
+        ],
+        "debutTeam": [
+            "team first played for",
+            "first played by"
+        ],
+        "sportGoverningBody": [
+            "governing body of sport",
+            "governed sport"
+        ],
+        "homeArena": [
+            "home playing venue",
+            "venue hosts"
+        ],
+        "canonizedBy": [
+            "canonized by entity",
+            "entity canonized"
+        ],
+        "gameEngine": [
+            "engine used by game",
+            "game using engine"
+        ],
+        "congressionalDistrict": [
+            "district belongs to",
+            "contains these areas"
+        ],
+        "magazine": [
+            "published in magazine",
+            "magazine contains"
+        ],
+        "vehicle": [
+            "used by vehicle",
+            "vehicle uses"
+        ],
+        "branchFrom": [
+            "branches from vessel",
+            "vessel branches into"
+        ],
+        "chairperson": [
+            "led by chairperson",
+            "leads organization"
+        ],
+        "mainOrgan": [
+            "main operational unit",
+            "unit operates"
+        ],
+        "poleDriverCountry": [
+            "pole driver's nationality",
+            "national driver"
+        ],
+        "capitalCountry": [
+            "capital of region",
+            "region's capital"
+        ],
+        "illustrator": [
+            "illustrated by person",
+            "person illustrated"
+        ],
+        "aircraftHelicopterUtility": [
+            "uses helicopter model",
+            "helicopter used by"
+        ],
+        "intercommunality": [
+            "member of intercommunality",
+            "includes municipality"
+        ],
+        "coverArtist": [
+            "cover art creator",
+            "created cover for"
+        ],
+        "supplies": [
+            "provides blood to",
+            "receives blood from"
+        ],
+        "beatifiedPlace": [
+            "beatified at location",
+            "location of beatification"
+        ],
+        "prospectLeague": [
+            "player's league",
+            "league players"
+        ],
+        "march": [
+            "march associated with",
+            "march represents"
+        ],
+        "viceChancellor": [
+            "led by vice chancellor",
+            "leads university"
+        ],
+        "nonFictionSubject": [
+            "book's subject matter",
+            "subject of book"
+        ],
+        "aircraftInterceptor": [
+            "uses fighter jet",
+            "jet used by"
+        ],
+        "firstWin": [
+            "first victory location",
+            "location first won"
+        ],
+        "brand": [
+            "associated with brand",
+            "brand represents"
+        ],
+        "lowestRegion": [
+            "lowest administrative area",
+            "contains lowest point"
+        ],
+        "endPoint": [
+            "route terminus",
+            "terminates at"
+        ],
+        "managementPlace": [
+            "managed by region",
+            "region manages"
+        ],
+        "provost": [
+            "led by provost",
+            "leads institution"
+        ],
+        "equipment": [
+            "equipment used in",
+            "used as equipment by"
+        ],
+        "aircraftBomber": [
+            "bomber aircraft used by",
+            "used as bomber aircraft for"
+        ],
+        "aircraftHelicopterTransport": [
+            "transport helicopter used by",
+            "used as transport helicopter for"
+        ],
+        "alumni": [
+            "alumni of institution",
+            "institution attended by"
+        ],
+        "owningOrganisation": [
+            "organization owning",
+            "owned by organization"
+        ],
+        "schoolBoard": [
+            "board governing school",
+            "school governed by board"
+        ],
+        "artery": [
+            "artery supplying",
+            "supplied by artery"
+        ],
+        "ceo": [
+            "CEO leading",
+            "led by CEO"
+        ],
+        "administrativeDistrict": [
+            "district administrating",
+            "administered by district"
+        ],
+        "school": [
+            "school attended by",
+            "attending school"
+        ],
+        "bronzeMedalist": [
+            "bronze medal won by",
+            "winning bronze medal for"
+        ],
+        "aircraftHelicopterMultirole": [
+            "multirole helicopter used by",
+            "used as multirole helicopter for"
+        ],
+        "dean": [
+            "dean heading",
+            "headed by dean"
+        ],
+        "agency": [
+            "agency representing",
+            "represented by agency"
+        ],
+        "countryOrigin": [
+            "origin country of",
+            "originating from country"
+        ],
+        "capitalRegion": [
+            "region as capital",
+            "capital of region"
+        ],
+        "governmentCountry": [
+            "country governing",
+            "governed by country"
+        ],
+        "governmentMountain": [
+            "mountain governed by",
+            "governing mountain"
+        ],
+        "highestState": [
+            "highest state of",
+            "state with highest"
+        ],
+        "rocketFunction": [
+            "function of rocket",
+            "rocket performing function"
+        ]
+    }
+}

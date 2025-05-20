@@ -1,0 +1,126 @@
+{
+    "cleaned_relations": {
+        "Gr>G": "Gene regulates Gene",
+        "GpMF": "Gene participates Molecular Function",
+        "AeG": "Anatomy expresses Gene",
+        "GpBP": "Gene participates Biological Process",
+        "GiG": "Gene interacts with Gene",
+        "AuG": "Anatomy upregulates Gene",
+        "DaG": "Disease associates with Gene",
+        "GpPW": "Gene participates in Pathway",
+        "GcG": "Gene covaries with Gene",
+        "AdG": "Anatomy downregulates Gene",
+        "CcSE": "Compound causes Side Effect",
+        "GpCC": "Gene participates in Cellular Component",
+        "CdG": "Compound downregulates Gene",
+        "DlA": "Disease localizes to Anatomy",
+        "DuG": "Disease upregulates Gene",
+        "CuG": "Compound upregulates Gene",
+        "DpS": "Disease presents Symptom",
+        "CbG": "Compound binds Gene",
+        "CrC": "Compound resembles Compound",
+        "DdG": "Disease downregulates Gene",
+        "PCiC": "Pharmacologic Class includes Compound",
+        "CtD": "Compound treats Disease",
+        "DrD": "Disease resembles Disease",
+        "CpD": "Compound palliates Disease"
+    },
+    "relation_descriptions": {
+        "Gr>G": [
+            "Gene regulates another gene",
+            "Gene is regulated by another gene"
+        ],
+        "GpMF": [
+            "Gene contributes to molecular function",
+            "Molecular function involves gene"
+        ],
+        "AeG": [
+            "Anatomy produces gene transcript",
+            "Gene is expressed in anatomy"
+        ],
+        "GpBP": [
+            "Gene contributes to biological process",
+            "Biological process involves gene"
+        ],
+        "GiG": [
+            "Genes physically interact",
+            "Genes physically interact"
+        ],
+        "AuG": [
+            "Anatomy increases gene expression",
+            "Gene is upregulated by anatomy"
+        ],
+        "DaG": [
+            "Disease genetically links to gene",
+            "Gene genetically links to disease"
+        ],
+        "GpPW": [
+            "Gene contributes to pathway",
+            "Pathway involves gene"
+        ],
+        "GcG": [
+            "Genes co-vary in expression",
+            "Genes co-vary in expression"
+        ],
+        "AdG": [
+            "Anatomy decreases gene expression",
+            "Gene is downregulated by anatomy"
+        ],
+        "CcSE": [
+            "Compound induces adverse effect",
+            "Adverse effect is caused by compound"
+        ],
+        "GpCC": [
+            "Gene contributes to cellular component",
+            "Cellular component involves gene"
+        ],
+        "CdG": [
+            "Compound reduces gene expression",
+            "Gene is downregulated by compound"
+        ],
+        "DlA": [
+            "Disease occurs in anatomy",
+            "Anatomy is site of disease"
+        ],
+        "DuG": [
+            "Disease increases gene expression",
+            "Gene is upregulated by disease"
+        ],
+        "CuG": [
+            "Compound increases gene expression",
+            "Gene is upregulated by compound"
+        ],
+        "DpS": [
+            "Disease manifests symptom",
+            "Symptom is presented by disease"
+        ],
+        "CbG": [
+            "Compound binds to gene product",
+            "Gene product is bound by compound"
+        ],
+        "CrC": [
+            "Compounds structurally similar",
+            "Compounds structurally similar"
+        ],
+        "DdG": [
+            "Disease decreases gene expression",
+            "Gene is downregulated by disease"
+        ],
+        "PCiC": [
+            "Class contains compound",
+            "Compound is in class"
+        ],
+        "CtD": [
+            "Treats disease",
+            "Treated by compound"
+        ],
+        "DrD": [
+            "Disease resembles another",
+            "Disease resembles another"
+        ],
+        "CpD": [
+            "Palliates disease",
+            "Palliated by compound"
+        ]
+    }
+}

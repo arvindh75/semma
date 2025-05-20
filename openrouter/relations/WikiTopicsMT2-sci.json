@@ -1,0 +1,38 @@
+{
+	"Relations": [
+		"subclass of",
+		"taxon rank",
+		"parent taxon",
+		"languages spoken, written or signed",
+		"writing system",
+		"programmed in",
+		"operating system",
+		"endemic to",
+		"genetic association",
+		"found in taxon",
+		"original language of film or TV show",
+		"language of work or name",
+		"powered by",
+		"native language",
+		"discoverer or inventor",
+		"Gram staining"
+	],
+	"Examples": [
+		["asbestosis","subclass of","pneumoconiosis"],
+		["Stagmatoptera septentrionalis","taxon rank","species"],
+		["Oxyothespis tricolor","parent taxon","Oxyothespis"],
+		["Ji Kang","languages spoken, written or signed","Chinese"],
+		["Judeo-Iraqi Arabic","writing system","Hebrew alphabet"],
+		["GNU Emacs","programmed in","Lisp"],
+		["GNU Emacs","operating system","FreeBSD"],
+		["Sommer's Sulawesi Rat","endemic to","Indonesia"],
+		["PLCE1","genetic association","esophageal cancer"],
+		["PLCE1","found in taxon","Homo sapiens"],
+		["Paya Enna Hiru Se","original language of film or TV show","Sinhala"],
+		["Gi-u","language of work or name","Korean"],
+		["USS Henry L. Stimson","powered by","nuclear marine propulsion"],
+		["Giuseppe Caspar Mezzofanti","native language","Italian"],
+		["Gore-Tex","discoverer or inventor","Bill Gore"],
+		["Psychrobacter","Gram staining","gram-negative bacteria"]
+	]
+}

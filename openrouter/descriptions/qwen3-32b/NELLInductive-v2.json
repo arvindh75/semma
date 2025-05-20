@@ -1,0 +1,446 @@
+{
+    "cleaned_relations": {
+        "concept:countryalsoknownas": "Alternative Country Name",
+        "concept:atdate": "Date Associated With",
+        "concept:locationlocatedwithinlocation": "Located In",
+        "concept:bodypartcontainsbodypart": "Contains Body Part",
+        "concept:plantincludeplant": "Includes Plant",
+        "concept:subpartof": "Is Subpart Of",
+        "concept:sportfansincountry": "Fans In Country",
+        "concept:mutualproxyfor": "Mutual Proxy For",
+        "concept:cityliesonriver": "Lies On River",
+        "concept:agentcontrols": "Controls Agent",
+        "concept:organizationalsoknownas": "Organization Also Known As",
+        "concept:sportsgameteam": "Game Team",
+        "concept:teamplaysagainstteam": "Plays Against Team",
+        "concept:statelocatedingeopoliticallocation": "State Located In Region",
+        "concept:proxyfor": "Proxy For",
+        "concept:worksfor": "Works For",
+        "concept:organizationhiredperson": "Hired Person",
+        "concept:subpartoforganization": "Is Subpart Of Organization",
+        "concept:sportusesstadium": "Uses Stadium",
+        "concept:countrylocatedingeopoliticallocation": "Country Located In Region",
+        "concept:atlocation": "at location",
+        "concept:organizationheadquarteredinstateorprovince": "headquartered in state/province",
+        "concept:citylocatedingeopoliticallocation": "city located in geopolitical location",
+        "concept:teamplaysincity": "team plays in city",
+        "concept:companyeconomicsector": "company economic sector",
+        "concept:organizationheadquarteredincity": "headquartered in city",
+        "concept:arterycalledartery": "artery called artery",
+        "concept:leaguestadiums": "league stadiums",
+        "concept:teamplayssport": "team plays sport",
+        "concept:agentactsinlocation": "agent acts in location",
+        "concept:agentcompeteswithagent": "agent competes with agent",
+        "concept:personchargedwithcrime": "person charged with crime",
+        "concept:synonymfor": "synonym for",
+        "concept:citylocatedincountry": "city located in country",
+        "concept:teamplaysinleague": "team plays in league",
+        "concept:stateorprovinceisborderedbystateorprovince": "state/province bordered by state/province",
+        "concept:agentcreated": "agent created",
+        "concept:citylocatedinstate": "city located in state",
+        "concept:stadiumlocatedincity": "stadium located in city",
+        "concept:personbornincity": "person born in city",
+        "concept:coachesteam": "coaches team",
+        "concept:agentcollaborateswithagent": "collaborates with agent",
+        "concept:organizationdissolvedatdate": "dissolved at date",
+        "concept:plantgrowinginplant": "grows in plant",
+        "concept:statelocatedincountry": "located in country",
+        "concept:organizationterminatedperson": "terminated person",
+        "concept:citycapitalofcountry": "capital of country",
+        "concept:teamhomestadium": "has home stadium",
+        "concept:personleadsgeopoliticalorganization": "leads geopolitical organization",
+        "concept:personhascitizenship": "has citizenship",
+        "concept:sportusesequipment": "uses equipment",
+        "concept:personbelongstoorganization": "belongs to organization",
+        "concept:teamalsoknownas": "also known as",
+        "concept:statehascapital": "has capital",
+        "concept:persongraduatedschool": "graduated from school",
+        "concept:agentparticipatedinevent": "participated in event",
+        "concept:agentbelongstoorganization": "agent belongs to organization",
+        "concept:headquarteredin": "headquartered in",
+        "concept:organizationacronymhasname": "acronym has name",
+        "concept:persongraduatedfromuniversity": "graduated from university",
+        "concept:buildinglocatedincity": "Building Located In City",
+        "concept:personborninlocation": "Person Born In Location",
+        "concept:countrycurrency": "Country's Currency",
+        "concept:competeswith": "Competes With",
+        "concept:sportschoolincountry": "Sport School In Country",
+        "concept:thinghascolor": "Thing Has Color",
+        "concept:sporthassportsteamposition": "Sport Has Team Position",
+        "concept:istallerthan": "Is Taller Than",
+        "concept:riveremptiesintoriver": "River Empties Into River",
+        "concept:cityalsoknownas": "City Also Known As",
+        "concept:organizationheadquarteredincountry": "Organization Headquartered In Country",
+        "concept:specializationof": "Specialization Of",
+        "concept:attractionofcity": "Attraction Of City",
+        "concept:personleadsorganization": "Person Leads Organization",
+        "concept:hasofficeincity": "Has Office In City",
+        "concept:acquired": "Acquired",
+        "concept:newspaperincity": "Newspaper In City",
+        "concept:plantrepresentemotion": "Plant Represents Emotion",
+        "concept:hasofficeincountry": "Has Office In Country",
+        "concept:lakeinstate": "Lake In State",
+        "concept:hotelincity": "Hotel located in city",
+        "concept:personhasresidenceingeopoliticallocation": "Person resides in geopolitical location",
+        "concept:museumincity": "Museum located in city",
+        "concept:languageofcountry": "Language of country",
+        "concept:athleteplaysforteam": "Athlete plays for team",
+        "concept:athleteledsportsteam": "Athlete leads sports team",
+        "concept:personhasjobposition": "Person holds job position",
+        "concept:athletehomestadium": "Athlete's home stadium"
+    },
+    "relation_descriptions": {
+        "concept:countryalsoknownas": [
+            "Alternative Country Name",
+            "Country Also Known As"
+        ],
+        "concept:atdate": [
+            "Date Associated With",
+            "Associated With Date"
+        ],
+        "concept:locationlocatedwithinlocation": [
+            "Located In",
+            "Located In"
+        ],
+        "concept:bodypartcontainsbodypart": [
+            "Contains Body Part",
+            "Is Contained In Body Part"
+        ],
+        "concept:plantincludeplant": [
+            "Includes Plant",
+            "Is Included In Plant"
+        ],
+        "concept:subpartof": [
+            "Is Subpart Of",
+            "Contains Subpart"
+        ],
+        "concept:sportfansincountry": [
+            "Fans In Country",
+            "Country Has Fans Of"
+        ],
+        "concept:mutualproxyfor": [
+            "Mutual Proxy For",
+            "Mutual Proxy For"
+        ],
+        "concept:cityliesonriver": [
+            "Lies On River",
+            "River Lies Under City"
+        ],
+        "concept:agentcontrols": [
+            "Controls Agent",
+            "Is Controlled By Agent"
+        ],
+        "concept:organizationalsoknownas": [
+            "Organization Also Known As",
+            "Also Known As Organization"
+        ],
+        "concept:sportsgameteam": [
+            "Game Team",
+            "Team Participates In Game"
+        ],
+        "concept:teamplaysagainstteam": [
+            "Plays Against Team",
+            "Is Played Against By Team"
+        ],
+        "concept:statelocatedingeopoliticallocation": [
+            "State Located In Region",
+            "Region Contains State"
+        ],
+        "concept:proxyfor": [
+            "Proxy For",
+            "Is Proxy For"
+        ],
+        "concept:worksfor": [
+            "Works For",
+            "Has Employee"
+        ],
+        "concept:organizationhiredperson": [
+            "Hired Person",
+            "Person Hired By"
+        ],
+        "concept:subpartoforganization": [
+            "Is Subpart Of Organization",
+            "Organization Contains Subpart"
+        ],
+        "concept:sportusesstadium": [
+            "Uses Stadium",
+            "Stadium Hosts Sport"
+        ],
+        "concept:countrylocatedingeopoliticallocation": [
+            "Country Located In Region",
+            "Region Contains Country"
+        ],
+        "concept:atlocation": [
+            "located in",
+            "has location"
+        ],
+        "concept:organizationheadquarteredinstateorprovince": [
+            "headquartered in state/province",
+            "has headquarters in state/province"
+        ],
+        "concept:citylocatedingeopoliticallocation": [
+            "city located in geopolitical location",
+            "geopolitical location contains city"
+        ],
+        "concept:teamplaysincity": [
+            "team plays in city",
+            "city hosts team"
+        ],
+        "concept:companyeconomicsector": [
+            "operates in economic sector",
+            "economic sector contains company"
+        ],
+        "concept:organizationheadquarteredincity": [
+            "headquartered in city",
+            "city hosts headquarters"
+        ],
+        "concept:arterycalledartery": [
+            "artery named artery",
+            "artery named artery"
+        ],
+        "concept:leaguestadiums": [
+            "stadiums in league",
+            "league includes stadium"
+        ],
+        "concept:teamplayssport": [
+            "plays sport",
+            "sport played by team"
+        ],
+        "concept:agentactsinlocation": [
+            "acts in location",
+            "location hosts agent"
+        ],
+        "concept:agentcompeteswithagent": [
+            "competes with agent",
+            "competes with agent"
+        ],
+        "concept:personchargedwithcrime": [
+            "charged with crime",
+            "crime charges person"
+        ],
+        "concept:synonymfor": [
+            "synonym for",
+            "synonym for"
+        ],
+        "concept:citylocatedincountry": [
+            "city located in country",
+            "country contains city"
+        ],
+        "concept:teamplaysinleague": [
+            "plays in league",
+            "league includes team"
+        ],
+        "concept:stateorprovinceisborderedbystateorprovince": [
+            "bordered by state/province",
+            "borders state/province"
+        ],
+        "concept:agentcreated": [
+            "created by agent",
+            "agent created"
+        ],
+        "concept:citylocatedinstate": [
+            "city located in state",
+            "state contains city"
+        ],
+        "concept:stadiumlocatedincity": [
+            "stadium located in city",
+            "city hosts stadium"
+        ],
+        "concept:personbornincity": [
+            "born in city",
+            "city birthplace of person"
+        ],
+        "concept:coachesteam": [
+            "coaches team",
+            "is coached by"
+        ],
+        "concept:agentcollaborateswithagent": [
+            "collaborates with agent",
+            "collaborates with agent"
+        ],
+        "concept:organizationdissolvedatdate": [
+            "dissolved at date",
+            "dissolution date of"
+        ],
+        "concept:plantgrowinginplant": [
+            "grows in plant",
+            "has plant growing in it"
+        ],
+        "concept:statelocatedincountry": [
+            "located in country",
+            "has state located in it"
+        ],
+        "concept:organizationterminatedperson": [
+            "terminated person",
+            "is terminated by"
+        ],
+        "concept:citycapitalofcountry": [
+            "capital of country",
+            "has city as capital"
+        ],
+        "concept:teamhomestadium": [
+            "has home stadium",
+            "is home stadium of"
+        ],
+        "concept:personleadsgeopoliticalorganization": [
+            "leads geopolitical organization",
+            "is led by"
+        ],
+        "concept:personhascitizenship": [
+            "has citizenship",
+            "citizen of"
+        ],
+        "concept:sportusesequipment": [
+            "uses equipment",
+            "equipment used by"
+        ],
+        "concept:personbelongstoorganization": [
+            "belongs to organization",
+            "has person belonging to it"
+        ],
+        "concept:teamalsoknownas": [
+            "also known as",
+            "also known as"
+        ],
+        "concept:statehascapital": [
+            "has capital",
+            "capital of state"
+        ],
+        "concept:persongraduatedschool": [
+            "graduated from school",
+            "has person graduated from it"
+        ],
+        "concept:agentparticipatedinevent": [
+            "participated in event",
+            "has agent participated in it"
+        ],
+        "concept:agentbelongstoorganization": [
+            "agent belongs to organization",
+            "has agent belonging to it"
+        ],
+        "concept:headquarteredin": [
+            "headquartered in",
+            "has headquarters in"
+        ],
+        "concept:organizationacronymhasname": [
+            "acronym has name",
+            "name of acronym"
+        ],
+        "concept:persongraduatedfromuniversity": [
+            "graduated from university",
+            "has person graduated from it"
+        ],
+        "concept:buildinglocatedincity": [
+            "Building located in city",
+            "City contains building"
+        ],
+        "concept:personborninlocation": [
+            "Person born in location",
+            "Location is birthplace of person"
+        ],
+        "concept:countrycurrency": [
+            "Country's currency",
+            "Currency used in country"
+        ],
+        "concept:competeswith": [
+            "Competes with",
+            "Competes with"
+        ],
+        "concept:sportschoolincountry": [
+            "Sport school in country",
+            "Country hosts sport school"
+        ],
+        "concept:thinghascolor": [
+            "Thing has color",
+            "Color of thing"
+        ],
+        "concept:sporthassportsteamposition": [
+            "Sport has team position",
+            "Team position belongs to sport"
+        ],
+        "concept:istallerthan": [
+            "Is taller than",
+            "Is shorter than"
+        ],
+        "concept:riveremptiesintoriver": [
+            "River empties into river",
+            "River receives river"
+        ],
+        "concept:cityalsoknownas": [
+            "City also known as",
+            "City also known as"
+        ],
+        "concept:organizationheadquarteredincountry": [
+            "Organization headquartered in country",
+            "Country hosts organization headquarters"
+        ],
+        "concept:specializationof": [
+            "Specialization of",
+            "Is specialization of"
+        ],
+        "concept:attractionofcity": [
+            "Attraction of city",
+            "City has attraction"
+        ],
+        "concept:personleadsorganization": [
+            "Person leads organization",
+            "Organization led by person"
+        ],
+        "concept:hasofficeincity": [
+            "Has office in city",
+            "City hosts office"
+        ],
+        "concept:acquired": [
+            "Acquired",
+            "Acquired by"
+        ],
+        "concept:newspaperincity": [
+            "Newspaper in city",
+            "City publishes newspaper"
+        ],
+        "concept:plantrepresentemotion": [
+            "Plant represents emotion",
+            "Emotion symbolized by plant"
+        ],
+        "concept:hasofficeincountry": [
+            "Has office in country",
+            "Country hosts office"
+        ],
+        "concept:lakeinstate": [
+            "Lake in state",
+            "State contains lake"
+        ],
+        "concept:hotelincity": [
+            "Hotel located in city",
+            "City hosts hotel"
+        ],
+        "concept:personhasresidenceingeopoliticallocation": [
+            "Person resides in geopolitical location",
+            "Geopolitical location has resident"
+        ],
+        "concept:museumincity": [
+            "Museum located in city",
+            "City hosts museum"
+        ],
+        "concept:languageofcountry": [
+            "Language of country",
+            "Country has language"
+        ],
+        "concept:athleteplaysforteam": [
+            "Athlete plays for team",
+            "Team has athlete as player"
+        ],
+        "concept:athleteledsportsteam": [
+            "Athlete leads sports team",
+            "Sports team led by athlete"
+        ],
+        "concept:personhasjobposition": [
+            "Person holds job position",
+            "Job position held by person"
+        ],
+        "concept:athletehomestadium": [
+            "Athlete's home stadium",
+            "Stadium is athlete's home"
+        ]
+    }
+}

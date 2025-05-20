@@ -1,0 +1,146 @@
+{
+    "cleaned_relations": {
+        "uncleOf": "uncle of",
+        "greatUncleOf": "great uncle of",
+        "brotherOf": "brother of",
+        "sonOf": "son of",
+        "motherOf": "mother of",
+        "grandmotherOf": "grandmother of",
+        "greatGrandmotherOf": "great grandmother of",
+        "secondUncleOf": "second uncle of",
+        "boyCousinOf": "boy cousin of",
+        "grandsonOf": "grandson of",
+        "greatGrandsonOf": "great grandson of",
+        "nephewOf": "nephew of",
+        "fatherOf": "father of",
+        "grandfatherOf": "grandfather of",
+        "daughterOf": "daughter of",
+        "girlSecondCousinOf": "girl second cousin of",
+        "girlFirstCousinOnceRemovedOf": "girl first cousin once removed of",
+        "granddaughterOf": "granddaughter of",
+        "greatGranddaughterOf": "great granddaughter of",
+        "nieceOf": "niece of",
+        "sisterOf": "sister of",
+        "greatAuntOf": "great aunt of",
+        "auntOf": "aunt of",
+        "greatGrandfatherOf": "great grandfather of",
+        "secondAuntOf": "second aunt of",
+        "girlCousinOf": "girl cousin of",
+        "boyFirstCousinOnceRemovedOf": "boy first cousin once removed of",
+        "boySecondCousinOf": "boy second cousin of"
+    },
+    "relation_descriptions": {
+        "uncleOf": [
+            "male sibling of parent",
+            "nephew or niece of"
+        ],
+        "greatUncleOf": [
+            "male sibling of grandparent",
+            "great nephew or niece of"
+        ],
+        "brotherOf": [
+            "male sibling",
+            "brother or sister of"
+        ],
+        "sonOf": [
+            "male child",
+            "parent of"
+        ],
+        "motherOf": [
+            "female parent",
+            "child of"
+        ],
+        "grandmotherOf": [
+            "mother of parent",
+            "grandchild of"
+        ],
+        "greatGrandmotherOf": [
+            "grandmother of parent",
+            "great grandchild of"
+        ],
+        "secondUncleOf": [
+            "uncle of parent",
+            "second nephew or niece of"
+        ],
+        "boyCousinOf": [
+            "male cousin",
+            "cousin of"
+        ],
+        "grandsonOf": [
+            "son of child",
+            "grandparent of"
+        ],
+        "greatGrandsonOf": [
+            "grandson of child",
+            "great grandparent of"
+        ],
+        "nephewOf": [
+            "son of sibling",
+            "uncle or aunt of"
+        ],
+        "fatherOf": [
+            "male parent",
+            "child of"
+        ],
+        "grandfatherOf": [
+            "father of parent",
+            "grandchild of"
+        ],
+        "daughterOf": [
+            "female child",
+            "parent of"
+        ],
+        "girlSecondCousinOf": [
+            "female second cousin",
+            "second cousin of"
+        ],
+        "girlFirstCousinOnceRemovedOf": [
+            "female first cousin once removed",
+            "first cousin once removed of"
+        ],
+        "granddaughterOf": [
+            "daughter of child",
+            "grandparent of"
+        ],
+        "greatGranddaughterOf": [
+            "granddaughter of child",
+            "great grandparent of"
+        ],
+        "nieceOf": [
+            "daughter of sibling",
+            "uncle or aunt of"
+        ],
+        "sisterOf": [
+            "female sibling",
+            "brother or sister of"
+        ],
+        "greatAuntOf": [
+            "female sibling of grandparent",
+            "great nephew or niece of"
+        ],
+        "auntOf": [
+            "female sibling of parent",
+            "nephew or niece of"
+        ],
+        "greatGrandfatherOf": [
+            "grandfather of parent",
+            "great grandchild of"
+        ],
+        "secondAuntOf": [
+            "aunt of parent",
+            "second niece or nephew of"
+        ],
+        "girlCousinOf": [
+            "female cousin",
+            "cousin of"
+        ],
+        "boyFirstCousinOnceRemovedOf": [
+            "male first cousin once removed",
+            "first cousin once removed of"
+        ],
+        "boySecondCousinOf": [
+            "male second cousin",
+            "second cousin of"
+        ]
+    }
+}

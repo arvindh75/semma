@@ -1,0 +1,14 @@
+torch-geometric>=2.4.0
+
+ninja
+easydict
+pyyaml
+transformers
+sentence-transformers
+numpy==1.24.1
+einops
+# flash-attn # Note: flash-attn installation can be complex and may require specific CUDA toolkit versions.
+python-dotenv
+httpx
+aiohttp
+nltk

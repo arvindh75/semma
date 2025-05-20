@@ -1,0 +1,86 @@
+{
+    "cleaned_relations": {
+        "subclass of": "subclass of",
+        "taxon rank": "taxon rank",
+        "parent taxon": "parent taxon",
+        "languages spoken, written or signed": "languages spoken, written or signed",
+        "writing system": "writing system",
+        "programmed in": "programmed in",
+        "operating system": "operating system",
+        "endemic to": "endemic to",
+        "genetic association": "genetic association",
+        "found in taxon": "found in taxon",
+        "original language of film or TV show": "original language of film or TV show",
+        "language of work or name": "language of work or name",
+        "powered by": "powered by",
+        "native language": "native language",
+        "discoverer or inventor": "discoverer or inventor",
+        "Gram staining": "Gram staining"
+    },
+    "relation_descriptions": {
+        "subclass of": [
+            "is a subclass of",
+            "has subclass"
+        ],
+        "taxon rank": [
+            "rank in taxonomy",
+            "ranked taxon"
+        ],
+        "parent taxon": [
+            "parent in taxonomy",
+            "child taxon"
+        ],
+        "languages spoken, written or signed": [
+            "uses language",
+            "language used by"
+        ],
+        "writing system": [
+            "uses script",
+            "script used by"
+        ],
+        "programmed in": [
+            "developed with language",
+            "language used in"
+        ],
+        "operating system": [
+            "runs on OS",
+            "OS runs"
+        ],
+        "endemic to": [
+            "native to region",
+            "region hosts"
+        ],
+        "genetic association": [
+            "linked to condition",
+            "condition linked by"
+        ],
+        "found in taxon": [
+            "present in species",
+            "species contains"
+        ],
+        "original language of film or TV show": [
+            "film in language",
+            "language of film"
+        ],
+        "language of work or name": [
+            "work in language",
+            "language of work"
+        ],
+        "powered by": [
+            "uses power source",
+            "powers"
+        ],
+        "native language": [
+            "first language",
+            "spoken natively by"
+        ],
+        "discoverer or inventor": [
+            "created by person",
+            "person discovered"
+        ],
+        "Gram staining": [
+            "stains as type",
+            "type by staining"
+        ]
+    }
+}

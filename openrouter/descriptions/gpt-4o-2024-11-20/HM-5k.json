@@ -1,0 +1,61 @@
+{
+    "cleaned_relations": {
+        "_type_of": "Type Of",
+        "_synset_domain_topic": "Synset Domain Topic",
+        "_has_instance": "Has Instance",
+        "_member_holonym": "Member Holonym",
+        "_part_of": "Part Of",
+        "_has_part": "Has Part",
+        "_member_meronym": "Member Meronym",
+        "_similar_to": "Similar To",
+        "_subordinate_instance_of": "Subordinate Instance Of",
+        "_domain_region": "Domain Region",
+        "_domain_topic": "Domain Topic"
+    },
+    "relation_descriptions": {
+        "_type_of": [
+            "is a type of",
+            "has type"
+        ],
+        "_synset_domain_topic": [
+            "related to topic",
+            "topic relates to"
+        ],
+        "_has_instance": [
+            "has specific instance",
+            "is instance of"
+        ],
+        "_member_holonym": [
+            "is member of whole",
+            "whole has member"
+        ],
+        "_part_of": [
+            "is part of",
+            "has as part"
+        ],
+        "_has_part": [
+            "has as part",
+            "is part of"
+        ],
+        "_member_meronym": [
+            "has as member",
+            "is member of"
+        ],
+        "_similar_to": [
+            "is similar to",
+            "is similar to"
+        ],
+        "_subordinate_instance_of": [
+            "is specific instance of",
+            "has specific instance"
+        ],
+        "_domain_region": [
+            "related to region",
+            "region relates to"
+        ],
+        "_domain_topic": [
+            "related to topic",
+            "topic relates to"
+        ]
+    }
+}

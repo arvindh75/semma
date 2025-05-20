@@ -1,0 +1,61 @@
+{
+    "cleaned_relations": {
+        "_derivationally_related_form": "derivationally related form",
+        "_hypernym": "hypernym",
+        "_member_meronym": "member meronym",
+        "_has_part": "has part",
+        "_also_see": "also see",
+        "_synset_domain_topic_of": "synset domain topic of",
+        "_verb_group": "verb group",
+        "_member_of_domain_usage": "member of domain usage",
+        "_similar_to": "similar to",
+        "_member_of_domain_region": "member of domain region",
+        "_instance_hypernym": "instance hypernym"
+    },
+    "relation_descriptions": {
+        "_derivationally_related_form": [
+            "derived word form",
+            "source word form"
+        ],
+        "_hypernym": [
+            "is broader category",
+            "is narrower category"
+        ],
+        "_member_meronym": [
+            "group includes member",
+            "member belongs to group"
+        ],
+        "_has_part": [
+            "contains component",
+            "component of whole"
+        ],
+        "_also_see": [
+            "related concept",
+            "related concept"
+        ],
+        "_synset_domain_topic_of": [
+            "topic includes concept",
+            "concept within topic"
+        ],
+        "_verb_group": [
+            "verb shares meaning",
+            "verb shares meaning"
+        ],
+        "_member_of_domain_usage": [
+            "usage includes term",
+            "term used in context"
+        ],
+        "_similar_to": [
+            "shares characteristics with",
+            "shares characteristics with"
+        ],
+        "_member_of_domain_region": [
+            "region includes term",
+            "term from region"
+        ],
+        "_instance_hypernym": [
+            "is specific instance of",
+            "general category includes instance"
+        ]
+    }
+}

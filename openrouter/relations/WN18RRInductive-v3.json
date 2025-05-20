@@ -1,0 +1,28 @@
+{
+	"Relations": [
+		"_derivationally_related_form",
+		"_hypernym",
+		"_member_meronym",
+		"_has_part",
+		"_also_see",
+		"_synset_domain_topic_of",
+		"_verb_group",
+		"_member_of_domain_usage",
+		"_similar_to",
+		"_member_of_domain_region",
+		"_instance_hypernym"
+	],
+	"Examples": [
+		["stamp.n.07","_derivationally_related_form","pestle.v.01"],
+		["revetment.n.02","_hypernym","facing.n.03"],
+		["cynocephalidae.n.01","_member_meronym","cynocephalus.n.01"],
+		["california.n.01","_has_part","silicon_valley.n.01"],
+		["unclean.a.02","_also_see","impure.a.01"],
+		["tremella_reticulata.n.01","_synset_domain_topic_of","fungi.n.01"],
+		["recline.v.02","_verb_group","recumb.v.01"],
+		["plural.n.01","_member_of_domain_usage","brass_knucks.n.01"],
+		["disloyal.a.02","_similar_to","insurgent.s.01"],
+		["united_kingdom.n.01","_member_of_domain_region","sheepwalk.n.01"],
+		["charlestown_navy_yard.n.01","_instance_hypernym","navy_yard.n.01"]
+	]
+}

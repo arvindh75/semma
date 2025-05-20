@@ -1,0 +1,681 @@
+{
+    "cleaned_relations": {
+        "cast member": "cast member of",
+        "country of citizenship": "citizen of",
+        "participant in": "participant in",
+        "educated at": "educated at",
+        "country of origin": "originates from",
+        "sibling": "sibling of",
+        "influenced by": "influenced by",
+        "father": "father of",
+        "director": "directed by",
+        "record label": "signed to",
+        "given name": "given name of",
+        "has part(s)": "has as part",
+        "family name": "family name of",
+        "spouse": "spouse of",
+        "lyricist": "lyricist of",
+        "has works in the collection": "has works in",
+        "composer": "composer of",
+        "place of birth": "born in",
+        "student of": "student of",
+        "award received": "has received",
+        "performer": "person performing music",
+        "winner": "person who wins award",
+        "unmarried partner": "cohabiting non-married partner",
+        "nominated for": "person nominated for award",
+        "participant": "individual in event",
+        "diplomatic relation": "state-to-state diplomatic ties",
+        "employer": "organization employing person",
+        "screenwriter": "writer of screenplay",
+        "time period": "era associated with entity",
+        "on focus list of Wikimedia project": "topic in Wikimedia focus list",
+        "partner in business or sport": "collaborating business/sport partner",
+        "voice actor": "actor providing voice",
+        "different from": "entity distinct from another",
+        "place of burial": "location where person is buried",
+        "child": "offspring of person",
+        "part of": "member of group",
+        "shares border with": "geographic border neighbor",
+        "mother": "female parent of person",
+        "follows": "work succeeding another",
+        "residence": "person's place of residence",
+        "producer": "produces",
+        "notable work": "has notable work",
+        "country": "is from country",
+        "place of death": "died in",
+        "relative": "is relative of",
+        "narrative location": "set in",
+        "student": "is student of",
+        "described by source": "described by",
+        "twinned administrative body": "is twinned with",
+        "costume designer": "has costume designer",
+        "member of": "is member of",
+        "owned by": "is owned by",
+        "cause of death": "died from",
+        "ethnic group": "is member of ethnic group",
+        "based on": "based on",
+        "next lower rank": "has next lower rank",
+        "named after": "named after",
+        "location of formation": "formed in",
+        "filming location": "filmed in",
+        "storyboard artist": "has storyboard artist",
+        "second family name in Spanish name": "second surname in Spanish name",
+        "owner of": "owner of",
+        "significant event": "significant event",
+        "followed by": "followed by",
+        "contributor to the creative work or subject": "contributes to work/subject",
+        "executive producer": "executive producer",
+        "godparent": "godparent",
+        "film editor": "film editor",
+        "country for sport": "country for sport",
+        "Wikidata property example": "Wikidata property example",
+        "work location": "work location",
+        "said to be the same as": "said to be the same as",
+        "competition won": "competition won",
+        "collection": "collection",
+        "copyright representative": "copyright representative",
+        "supported sports team": "supported sports team",
+        "capital": "capital",
+        "replaces": "replaces",
+        "family": "family",
+        "creator": "creator",
+        "enemy": "is enemy of",
+        "characters": "has character",
+        "family name identical to this given name": "family name same as given name",
+        "distributed by": "distributed by",
+        "headquarters location": "has headquarters in",
+        "director of photography": "has director of photography",
+        "founded by": "founded by",
+        "affiliation": "is affiliated with",
+        "inspired by": "inspired by",
+        "chief executive officer": "has CEO",
+        "present in work": "appears in",
+        "organizer": "organized by",
+        "signatory": "signed by",
+        "member of sports team": "is member of",
+        "allegiance": "is loyal to",
+        "dedicated to": "dedicated to",
+        "located in the administrative territorial entity": "located in administrative entity",
+        "soundtrack release": "has soundtrack release",
+        "after a work by": "based on work by",
+        "parent organization": "has parent organization",
+        "replaced by": "succeeded by",
+        "main subject": "central topic of",
+        "practiced by": "practitioner of",
+        "presenter": "host of",
+        "stepparent": "stepchild of",
+        "next higher rank": "rank above",
+        "chairperson": "chair of",
+        "filmography": "film in",
+        "narrator": "narrated by",
+        "eye color": "has eye color",
+        "contains the administrative territorial entity": "contains administrative entity",
+        "animator": "animated by",
+        "given name version for other gender": "gender variant of",
+        "capital of": "has capital",
+        "enclave within": "enclave within",
+        "location": "located in",
+        "adapted by": "adapter of",
+        "occupant": "occupied by",
+        "author": "authored by",
+        "conflict": "involved in conflict",
+        "dramaturge": "is a dramaturge of",
+        "has spin-off": "has spin-off",
+        "has subsidiary": "has subsidiary",
+        "place of publication": "was published in",
+        "board member": "is a board member of",
+        "commemorates": "commemorates",
+        "musical conductor": "has musical conductor",
+        "production company": "is a production company of",
+        "member of political party": "is a member of political party",
+        "coach of sports team": "is a coach of sports team",
+        "part of the series": "is part of the series",
+        "scenographer": "Scenographer",
+        "director / manager": "Director / Manager",
+        "archives at": "Archives At",
+        "significant person": "Significant Person"
+    },
+    "relation_descriptions": {
+        "cast member": [
+            "is a cast member of",
+            "has as cast member"
+        ],
+        "country of citizenship": [
+            "is a citizen of",
+            "has as citizen"
+        ],
+        "participant in": [
+            "participates in",
+            "has as participant"
+        ],
+        "educated at": [
+            "was educated at",
+            "has as student"
+        ],
+        "country of origin": [
+            "originates from",
+            "has as origin"
+        ],
+        "sibling": [
+            "is a sibling of",
+            "is a sibling of"
+        ],
+        "influenced by": [
+            "is influenced by",
+            "influences"
+        ],
+        "father": [
+            "is the father of",
+            "is the child of"
+        ],
+        "director": [
+            "is directed by",
+            "directs"
+        ],
+        "record label": [
+            "is signed to",
+            "has as artist"
+        ],
+        "given name": [
+            "has as given name",
+            "is the given name of"
+        ],
+        "has part(s)": [
+            "has as part",
+            "is part of"
+        ],
+        "family name": [
+            "has as family name",
+            "is the family name of"
+        ],
+        "spouse": [
+            "is the spouse of",
+            "is the spouse of"
+        ],
+        "lyricist": [
+            "is the lyricist of",
+            "has as lyricist"
+        ],
+        "has works in the collection": [
+            "has works in",
+            "is in the collection of"
+        ],
+        "composer": [
+            "is the composer of",
+            "has as composer"
+        ],
+        "place of birth": [
+            "was born in",
+            "has as birthplace"
+        ],
+        "student of": [
+            "is a student of",
+            "teaches"
+        ],
+        "award received": [
+            "has received",
+            "is received by"
+        ],
+        "performer": [
+            "person performing music",
+            "music performed by person"
+        ],
+        "winner": [
+            "person who wins award",
+            "award won by person"
+        ],
+        "unmarried partner": [
+            "cohabiting non-married partner",
+            "partner cohabiting non-married"
+        ],
+        "nominated for": [
+            "person nominated for award",
+            "award nominee is person"
+        ],
+        "participant": [
+            "individual in event",
+            "event includes individual"
+        ],
+        "diplomatic relation": [
+            "state-to-state diplomatic ties",
+            "diplomatic ties between states"
+        ],
+        "employer": [
+            "organization employing person",
+            "person employed by organization"
+        ],
+        "screenwriter": [
+            "writer of screenplay",
+            "screenplay written by person"
+        ],
+        "time period": [
+            "era associated with entity",
+            "entity associated with era"
+        ],
+        "on focus list of Wikimedia project": [
+            "topic in Wikimedia focus list",
+            "Wikimedia focus list includes topic"
+        ],
+        "partner in business or sport": [
+            "collaborating business/sport partner",
+            "business/sport collaborator"
+        ],
+        "voice actor": [
+            "actor providing voice",
+            "voice provided by actor"
+        ],
+        "different from": [
+            "entity distinct from another",
+            "same as"
+        ],
+        "place of burial": [
+            "location where person is buried",
+            "person buried at location"
+        ],
+        "child": [
+            "offspring of person",
+            "person has offspring"
+        ],
+        "part of": [
+            "member of group",
+            "group has member"
+        ],
+        "shares border with": [
+            "geographic border neighbor",
+            "geographic border neighbor"
+        ],
+        "mother": [
+            "female parent of person",
+            "person's female parent"
+        ],
+        "follows": [
+            "work succeeding another",
+            "work preceded by another"
+        ],
+        "residence": [
+            "person's place of residence",
+            "place where person resides"
+        ],
+        "producer": [
+            "produces",
+            "produced by"
+        ],
+        "notable work": [
+            "has notable work",
+            "notable work of"
+        ],
+        "country": [
+            "is from country",
+            "country of"
+        ],
+        "place of death": [
+            "died in",
+            "place of death of"
+        ],
+        "relative": [
+            "is relative of",
+            "is relative of"
+        ],
+        "narrative location": [
+            "set in",
+            "narrative location of"
+        ],
+        "student": [
+            "is student of",
+            "has student"
+        ],
+        "described by source": [
+            "described by",
+            "describes"
+        ],
+        "twinned administrative body": [
+            "is twinned with",
+            "is twinned with"
+        ],
+        "costume designer": [
+            "has costume designer",
+            "costume designer of"
+        ],
+        "member of": [
+            "is member of",
+            "has member"
+        ],
+        "owned by": [
+            "is owned by",
+            "owns"
+        ],
+        "cause of death": [
+            "died from",
+            "cause of death of"
+        ],
+        "ethnic group": [
+            "is member of ethnic group",
+            "has member"
+        ],
+        "based on": [
+            "based on",
+            "is basis for"
+        ],
+        "next lower rank": [
+            "has next lower rank",
+            "next lower rank of"
+        ],
+        "named after": [
+            "named after",
+            "names"
+        ],
+        "location of formation": [
+            "formed in",
+            "location of formation of"
+        ],
+        "filming location": [
+            "filmed in",
+            "filming location of"
+        ],
+        "storyboard artist": [
+            "has storyboard artist",
+            "storyboard artist of"
+        ],
+        "second family name in Spanish name": [
+            "has second surname in Spanish name",
+            "is second surname in Spanish name of"
+        ],
+        "owner of": [
+            "owns",
+            "owned by"
+        ],
+        "significant event": [
+            "experienced significant event",
+            "significant event experienced by"
+        ],
+        "followed by": [
+            "followed by",
+            "follows"
+        ],
+        "contributor to the creative work or subject": [
+            "contributes to work/subject",
+            "has contributor in work/subject"
+        ],
+        "executive producer": [
+            "executive produces",
+            "executive produced by"
+        ],
+        "godparent": [
+            "is godparent of",
+            "has godparent"
+        ],
+        "film editor": [
+            "edited film",
+            "edited by"
+        ],
+        "country for sport": [
+            "represents country in sport",
+            "country represented by in sport"
+        ],
+        "Wikidata property example": [
+            "has Wikidata property example",
+            "Wikidata property example of"
+        ],
+        "work location": [
+            "works at location",
+            "location of work"
+        ],
+        "said to be the same as": [
+            "is same as",
+            "same as"
+        ],
+        "competition won": [
+            "won competition",
+            "competition won by"
+        ],
+        "collection": [
+            "part of collection",
+            "contains in collection"
+        ],
+        "copyright representative": [
+            "represents copyright",
+            "copyright represented by"
+        ],
+        "supported sports team": [
+            "supports sports team",
+            "sports team supported by"
+        ],
+        "capital": [
+            "has capital",
+            "has capital"
+        ],
+        "replaces": [
+            "replaces",
+            "replaced by"
+        ],
+        "family": [
+            "is member of family",
+            "family member of"
+        ],
+        "creator": [
+            "creates",
+            "created by"
+        ],
+        "enemy": [
+            "is enemy of",
+            "has enemy"
+        ],
+        "characters": [
+            "has character",
+            "is character in"
+        ],
+        "family name identical to this given name": [
+            "family name same as given name",
+            "given name same as family name"
+        ],
+        "distributed by": [
+            "distributed by",
+            "distributes"
+        ],
+        "headquarters location": [
+            "has headquarters in",
+            "headquarters location of"
+        ],
+        "director of photography": [
+            "has director of photography",
+            "directs photography of"
+        ],
+        "founded by": [
+            "founded by",
+            "founded"
+        ],
+        "affiliation": [
+            "is affiliated with",
+            "has affiliate"
+        ],
+        "inspired by": [
+            "inspired by",
+            "inspires"
+        ],
+        "chief executive officer": [
+            "has CEO",
+            "is CEO of"
+        ],
+        "present in work": [
+            "appears in",
+            "has appearance of"
+        ],
+        "organizer": [
+            "organized by",
+            "organizes"
+        ],
+        "signatory": [
+            "signed by",
+            "signs"
+        ],
+        "member of sports team": [
+            "is member of",
+            "has member"
+        ],
+        "allegiance": [
+            "is loyal to",
+            "has loyal member"
+        ],
+        "dedicated to": [
+            "dedicated to",
+            "is dedication of"
+        ],
+        "located in the administrative territorial entity": [
+            "located in administrative entity",
+            "has administrative entity located in"
+        ],
+        "soundtrack release": [
+            "has soundtrack release",
+            "is soundtrack release of"
+        ],
+        "after a work by": [
+            "based on work by",
+            "has work based on"
+        ],
+        "parent organization": [
+            "has parent organization",
+            "is parent organization of"
+        ],
+        "replaced by": [
+            "succeeded by",
+            "predecessor of"
+        ],
+        "main subject": [
+            "central topic of",
+            "subject of"
+        ],
+        "practiced by": [
+            "practitioner of",
+            "practiced by"
+        ],
+        "presenter": [
+            "host of",
+            "presented by"
+        ],
+        "stepparent": [
+            "stepchild of",
+            "stepparent of"
+        ],
+        "next higher rank": [
+            "rank above",
+            "rank below"
+        ],
+        "chairperson": [
+            "chair of",
+            "chairperson of"
+        ],
+        "filmography": [
+            "film in",
+            "filmography of"
+        ],
+        "narrator": [
+            "narrated by",
+            "narrator of"
+        ],
+        "eye color": [
+            "has eye color",
+            "eye color of"
+        ],
+        "contains the administrative territorial entity": [
+            "contains administrative entity",
+            "contained in administrative entity"
+        ],
+        "animator": [
+            "animated by",
+            "animator of"
+        ],
+        "given name version for other gender": [
+            "gender variant of",
+            "gender variant of"
+        ],
+        "capital of": [
+            "has capital",
+            "capital of"
+        ],
+        "enclave within": [
+            "enclave within",
+            "enclave within"
+        ],
+        "location": [
+            "located in",
+            "location of"
+        ],
+        "adapted by": [
+            "adapted by",
+            "adapter of"
+        ],
+        "occupant": [
+            "occupied by",
+            "occupant of"
+        ],
+        "author": [
+            "authored by",
+            "author of"
+        ],
+        "conflict": [
+            "involved in conflict",
+            "conflict of"
+        ],
+        "dramaturge": [
+            "is a dramaturge of",
+            "has dramaturge"
+        ],
+        "has spin-off": [
+            "has spin-off",
+            "is a spin-off of"
+        ],
+        "has subsidiary": [
+            "has subsidiary",
+            "is a subsidiary of"
+        ],
+        "place of publication": [
+            "was published in",
+            "is the publication place of"
+        ],
+        "board member": [
+            "is a board member of",
+            "has board member"
+        ],
+        "commemorates": [
+            "commemorates",
+            "is commemorated by"
+        ],
+        "musical conductor": [
+            "has musical conductor",
+            "is a musical conductor of"
+        ],
+        "production company": [
+            "is a production company of",
+            "has production company"
+        ],
+        "member of political party": [
+            "is a member of political party",
+            "has political party member"
+        ],
+        "coach of sports team": [
+            "is a coach of sports team",
+            "has sports team coach"
+        ],
+        "part of the series": [
+            "is part of the series",
+            "has series part"
+        ],
+        "scenographer": [
+            "created set design",
+            "set design by"
+        ],
+        "director / manager": [
+            "managed by",
+            "manages"
+        ],
+        "archives at": [
+            "archived at",
+            "archives location"
+        ],
+        "significant person": [
+            "notable individual",
+            "person of significance"
+        ]
+    }
+}

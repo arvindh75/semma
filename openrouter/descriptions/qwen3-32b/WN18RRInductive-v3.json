@@ -1,0 +1,61 @@
+{
+    "cleaned_relations": {
+        "_derivationally_related_form": "Derivationally Related Form",
+        "_hypernym": "Hypernym",
+        "_member_meronym": "Member Meronym",
+        "_has_part": "Has Part",
+        "_also_see": "See Also",
+        "_synset_domain_topic_of": "Synset Domain Topic",
+        "_verb_group": "Verb Group",
+        "_member_of_domain_usage": "Member of Domain Usage",
+        "_similar_to": "Similar To",
+        "_member_of_domain_region": "Member of Domain Region",
+        "_instance_hypernym": "Instance Hypernym"
+    },
+    "relation_descriptions": {
+        "_derivationally_related_form": [
+            "Derivationally Related",
+            "Derivationally Related"
+        ],
+        "_hypernym": [
+            "Is a Hypernym of",
+            "Is a Hyponym of"
+        ],
+        "_member_meronym": [
+            "Is a Part of",
+            "Has as Part"
+        ],
+        "_has_part": [
+            "Has as Part",
+            "Is a Part of"
+        ],
+        "_also_see": [
+            "See Also",
+            "See Also"
+        ],
+        "_synset_domain_topic_of": [
+            "Domain Topic of",
+            "Is a Domain Topic of"
+        ],
+        "_verb_group": [
+            "Verb Group Member",
+            "Verb Group Member"
+        ],
+        "_member_of_domain_usage": [
+            "Member of Domain Usage",
+            "Is a Domain Usage of"
+        ],
+        "_similar_to": [
+            "Is Similar To",
+            "Is Similar To"
+        ],
+        "_member_of_domain_region": [
+            "Member of Domain Region",
+            "Is a Domain Region of"
+        ],
+        "_instance_hypernym": [
+            "Is an Instance Hypernym of",
+            "Is an Instance Hyponym of"
+        ]
+    }
+}

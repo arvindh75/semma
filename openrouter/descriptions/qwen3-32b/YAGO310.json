@@ -1,0 +1,191 @@
+{
+    "cleaned_relations": {
+        "isLocatedIn": "is located in",
+        "playsFor": "plays for",
+        "isAffiliatedTo": "is affiliated to",
+        "diedIn": "died in",
+        "actedIn": "acted in",
+        "graduatedFrom": "graduated from",
+        "wasBornIn": "was born in",
+        "hasGender": "has gender",
+        "happenedIn": "happened in",
+        "hasMusicalRole": "has musical role",
+        "isConnectedTo": "is connected to",
+        "isMarriedTo": "is married to",
+        "participatedIn": "participated in",
+        "hasOfficialLanguage": "has official language",
+        "hasWonPrize": "has won prize",
+        "influences": "influences",
+        "worksAt": "works at",
+        "created": "created",
+        "edited": "edited",
+        "directed": "directed",
+        "hasAcademicAdvisor": "has academic advisor",
+        "imports": "imports from",
+        "isPoliticianOf": "is politician of",
+        "wroteMusicFor": "wrote music for",
+        "isInterestedIn": "is interested in",
+        "isCitizenOf": "is citizen of",
+        "hasChild": "has child",
+        "isLeaderOf": "is leader of",
+        "dealsWith": "deals with",
+        "livesIn": "lives in",
+        "hasCapital": "has capital",
+        "hasNeighbor": "has neighbor",
+        "exports": "exports to",
+        "owns": "owns",
+        "hasCurrency": "has currency",
+        "hasWebsite": "has website",
+        "isKnownFor": "is known for"
+    },
+    "relation_descriptions": {
+        "isLocatedIn": [
+            "located in a country",
+            "has location in a place"
+        ],
+        "playsFor": [
+            "plays for a sports team",
+            "has player in team"
+        ],
+        "isAffiliatedTo": [
+            "affiliated with an organization",
+            "has affiliated member"
+        ],
+        "diedIn": [
+            "died in a location",
+            "has person who died there"
+        ],
+        "actedIn": [
+            "acted in a film",
+            "has actor in film"
+        ],
+        "graduatedFrom": [
+            "graduated from an institution",
+            "has graduate from institution"
+        ],
+        "wasBornIn": [
+            "born in a location",
+            "has person born there"
+        ],
+        "hasGender": [
+            "has gender as male/female",
+            "has person with gender"
+        ],
+        "happenedIn": [
+            "event occurred in a country",
+            "has event occurred there"
+        ],
+        "hasMusicalRole": [
+            "has musical role as instrument",
+            "has musician with role"
+        ],
+        "isConnectedTo": [
+            "connected to an airport",
+            "has connected airport"
+        ],
+        "isMarriedTo": [
+            "married to a person",
+            "married to a person"
+        ],
+        "participatedIn": [
+            "participated in a military operation",
+            "has participant in operation"
+        ],
+        "hasOfficialLanguage": [
+            "has official language as French",
+            "has country with official language"
+        ],
+        "hasWonPrize": [
+            "won a prestigious award",
+            "has winner of award"
+        ],
+        "influences": [
+            "influences a person's work",
+            "is influenced by a person"
+        ],
+        "worksAt": [
+            "works at an institution",
+            "has employee at institution"
+        ],
+        "created": [
+            "created a film",
+            "has creator of film"
+        ],
+        "edited": [
+            "edited a film",
+            "has editor of film"
+        ],
+        "directed": [
+            "directed a film",
+            "has director of film"
+        ],
+        "hasAcademicAdvisor": [
+            "has academic advisor",
+            "is academic advisor of"
+        ],
+        "imports": [
+            "imports from",
+            "is imported by"
+        ],
+        "isPoliticianOf": [
+            "is politician of",
+            "has politician"
+        ],
+        "wroteMusicFor": [
+            "wrote music for",
+            "has music written by"
+        ],
+        "isInterestedIn": [
+            "is interested in",
+            "is interest of"
+        ],
+        "isCitizenOf": [
+            "is citizen of",
+            "has citizen"
+        ],
+        "hasChild": [
+            "has child",
+            "is child of"
+        ],
+        "isLeaderOf": [
+            "is leader of",
+            "has leader"
+        ],
+        "dealsWith": [
+            "deals with",
+            "is dealt with by"
+        ],
+        "livesIn": [
+            "lives in",
+            "has resident"
+        ],
+        "hasCapital": [
+            "has capital",
+            "has capital in"
+        ],
+        "hasNeighbor": [
+            "has neighbor",
+            "has neighbor"
+        ],
+        "exports": [
+            "exports to",
+            "is exported by"
+        ],
+        "owns": [
+            "owns",
+            "is owned by"
+        ],
+        "hasCurrency": [
+            "has currency",
+            "uses currency"
+        ],
+        "hasWebsite": [
+            "has website",
+            "is website of"
+        ],
+        "isKnownFor": [
+            "is known for",
+            "is known for by"
+        ]
+    }
+}

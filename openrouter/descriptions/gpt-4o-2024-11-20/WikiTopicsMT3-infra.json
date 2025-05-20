@@ -1,0 +1,141 @@
+{
+    "cleaned_relations": {
+        "manufacturer": "Manufacturer",
+        "adjacent station": "Adjacent Station",
+        "interchange station": "Interchange Station",
+        "connecting line": "Connecting Line",
+        "operator": "Operator",
+        "transport network": "Transport Network",
+        "item operated": "Item Operated",
+        "airline hub": "Airline Hub",
+        "space launch vehicle": "Space Launch Vehicle",
+        "track gauge": "Track Gauge",
+        "terminus": "Terminus",
+        "vessel class": "Vessel Class",
+        "location of creation": "Location of Creation",
+        "connecting service": "Connecting Service",
+        "primary destinations": "Primary Destinations",
+        "vessel": "Vessel",
+        "wing configuration": "Wing Configuration",
+        "located on street": "Located on Street",
+        "valvetrain configuration": "Valvetrain Configuration",
+        "engine configuration": "Engine Configuration",
+        "vehicle normally used": "Vehicle Normally Used",
+        "recovered by": "Recovered By",
+        "destroyed": "Destroyed",
+        "main building contractor": "Main Building Contractor",
+        "scheduled service destination": "Scheduled Service Destination",
+        "train depot": "Train Depot",
+        "spacecraft bus": "Spacecraft Bus"
+    },
+    "relation_descriptions": {
+        "manufacturer": [
+            "produced by entity",
+            "produces items"
+        ],
+        "adjacent station": [
+            "next to station",
+            "next to station"
+        ],
+        "interchange station": [
+            "station for transfer",
+            "station for transfer"
+        ],
+        "connecting line": [
+            "linked by line",
+            "links to line"
+        ],
+        "operator": [
+            "manages operations",
+            "operations managed by"
+        ],
+        "transport network": [
+            "part of network",
+            "network includes"
+        ],
+        "item operated": [
+            "operated by entity",
+            "operates item"
+        ],
+        "airline hub": [
+            "central airport",
+            "hub for airline"
+        ],
+        "space launch vehicle": [
+            "launches spacecraft",
+            "launched by vehicle"
+        ],
+        "track gauge": [
+            "rail width type",
+            "type of rail width"
+        ],
+        "terminus": [
+            "end of route",
+            "route ends at"
+        ],
+        "vessel class": [
+            "type of vessel",
+            "vessel belongs to"
+        ],
+        "location of creation": [
+            "place of creation",
+            "created in location"
+        ],
+        "connecting service": [
+            "linked by service",
+            "service links to"
+        ],
+        "primary destinations": [
+            "main travel points",
+            "destination for route"
+        ],
+        "vessel": [
+            "used spacecraft",
+            "spacecraft used by"
+        ],
+        "wing configuration": [
+            "aircraft wing type",
+            "type of aircraft wing"
+        ],
+        "located on street": [
+            "on specific street",
+            "street contains location"
+        ],
+        "valvetrain configuration": [
+            "engine valve type",
+            "type of engine valve"
+        ],
+        "engine configuration": [
+            "engine layout type",
+            "type of engine layout"
+        ],
+        "vehicle normally used": [
+            "preferred vehicle",
+            "vehicle used by"
+        ],
+        "recovered by": [
+            "retrieved by entity",
+            "entity retrieves"
+        ],
+        "destroyed": [
+            "caused destruction",
+            "was destroyed by"
+        ],
+        "main building contractor": [
+            "built by contractor",
+            "contractor built"
+        ],
+        "scheduled service destination": [
+            "planned travel point",
+            "destination for service"
+        ],
+        "train depot": [
+            "train storage site",
+            "site stores trains"
+        ],
+        "spacecraft bus": [
+            "satellite framework",
+            "framework for satellite"
+        ]
+    }
+}

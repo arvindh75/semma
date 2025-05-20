@@ -1,0 +1,34 @@
+{
+	"Relations": [
+		"concept:worksfor",
+		"concept:organizationhiredperson",
+		"concept:agentcollaborateswithagent",
+		"concept:agentcontrols",
+		"concept:subpartoforganization",
+		"concept:subpartof",
+		"concept:headquarteredin",
+		"concept:agentbelongstoorganization",
+		"concept:organizationheadquarteredincity",
+		"concept:organizationterminatedperson",
+		"concept:acquired",
+		"concept:companyeconomicsector",
+		"concept:televisionstationaffiliatedwith",
+		"concept:topmemberoforganization"
+	],
+	"Examples": [
+		["concept:journalist:gwen_ifill","concept:worksfor","concept:company:pbs"],
+		["concept:company:pbs","concept:organizationhiredperson","concept:personus:pat_mitchell"],
+		["concept:televisionstation:ktne_tv","concept:agentcollaborateswithagent","concept:company:pbs"],
+		["concept:company:pbs","concept:agentcontrols","concept:televisionstation:kuid_tv"],
+		["concept:televisionstation:wunu","concept:subpartoforganization","concept:televisionnetwork:pbs"],
+		["concept:televisionstation:kcka","concept:subpartof","concept:company:pbs"],
+		["concept:company:pbs","concept:headquarteredin","concept:city:new_york"],
+		["concept:televisionstation:kbtc_tv","concept:agentbelongstoorganization","concept:company:pbs"],
+		["concept:company:pbs","concept:organizationheadquarteredincity","concept:city:new_york"],
+		["concept:company:pbs","concept:organizationterminatedperson","concept:personus:pat_mitchell"],
+		["concept:company:pbs","concept:acquired","concept:televisionstation:wbgu_tv"],
+		["concept:televisionstation:wha","concept:companyeconomicsector","concept:academicfield:media"],
+		["concept:televisionstation:wsbn_tv","concept:televisionstationaffiliatedwith","concept:televisionnetwork:pbs"],
+		["concept:personus:pat_mitchell","concept:topmemberoforganization","concept:company:pbs"]
+	]
+}

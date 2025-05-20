@@ -1,0 +1,56 @@
+{
+    "cleaned_relations": {
+        "taxon rank": "Taxonomic Rank",
+        "parent taxon": "Parent Taxon",
+        "cause of death": "Cause of Death",
+        "has part(s)": "Has Parts",
+        "residence": "Residence",
+        "endemic to": "Endemic To",
+        "location of creation": "Location of Creation",
+        "genetic association": "Genetic Association",
+        "found in taxon": "Found in Taxon",
+        "located on astronomical body": "Located on Astronomical Body"
+    },
+    "relation_descriptions": {
+        "taxon rank": [
+            "taxonomic classification level",
+            "classified under taxonomic level"
+        ],
+        "parent taxon": [
+            "immediate higher taxon",
+            "immediate lower taxon"
+        ],
+        "cause of death": [
+            "reason for death",
+            "death caused by"
+        ],
+        "has part(s)": [
+            "contains components",
+            "is component of"
+        ],
+        "residence": [
+            "place of living",
+            "inhabited by"
+        ],
+        "endemic to": [
+            "native to region",
+            "region with native species"
+        ],
+        "location of creation": [
+            "place of origin",
+            "originated in location"
+        ],
+        "genetic association": [
+            "linked to trait",
+            "trait linked to gene"
+        ],
+        "found in taxon": [
+            "exists in species",
+            "species containing entity"
+        ],
+        "located on astronomical body": [
+            "positioned on celestial body",
+            "celestial body containing location"
+        ]
+    }
+}

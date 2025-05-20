@@ -1,0 +1,24 @@
+{
+	"Relations": [
+		"_hypernym",
+		"_derivationally_related_form",
+		"_also_see",
+		"_synset_domain_topic_of",
+		"_has_part",
+		"_verb_group",
+		"_member_meronym",
+		"_similar_to",
+		"_instance_hypernym"
+	],
+	"Examples": [
+		["two.n.01","_hypernym","digit.n.01"],
+		["garrison.v.01","_derivationally_related_form","garrison.n.03"],
+		["mark.v.05","_also_see","mark_off.v.01"],
+		["bitter_end.n.02","_synset_domain_topic_of","seafaring.n.01"],
+		["hairdo.n.01","_has_part","rat.n.05"],
+		["preen.v.03","_verb_group","dress.v.01"],
+		["family.n.02","_member_meronym","child.n.02"],
+		["near.a.01","_similar_to","nearby.s.01"],
+		["creation.n.05","_instance_hypernym","beginning.n.05"]
+	]
+}

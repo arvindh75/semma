@@ -1,0 +1,76 @@
+{
+    "cleaned_relations": {
+        "concept:worksfor": "works for",
+        "concept:organizationhiredperson": "organization hired person",
+        "concept:agentcollaborateswithagent": "agent collaborates with agent",
+        "concept:agentcontrols": "agent controls",
+        "concept:subpartoforganization": "subpart of organization",
+        "concept:subpartof": "subpart of",
+        "concept:headquarteredin": "headquartered in",
+        "concept:agentbelongstoorganization": "agent belongs to organization",
+        "concept:organizationheadquarteredincity": "organization headquartered in city",
+        "concept:organizationterminatedperson": "organization terminated person",
+        "concept:acquired": "acquired",
+        "concept:companyeconomicsector": "company economic sector",
+        "concept:televisionstationaffiliatedwith": "television station affiliated with",
+        "concept:topmemberoforganization": "top member of organization"
+    },
+    "relation_descriptions": {
+        "concept:worksfor": [
+            "person employed by",
+            "employer of person"
+        ],
+        "concept:organizationhiredperson": [
+            "organization employs",
+            "employed by organization"
+        ],
+        "concept:agentcollaborateswithagent": [
+            "agent collaborates with",
+            "agent collaborates with"
+        ],
+        "concept:agentcontrols": [
+            "agent governs",
+            "governed by agent"
+        ],
+        "concept:subpartoforganization": [
+            "part of organization",
+            "organization includes subpart"
+        ],
+        "concept:subpartof": [
+            "component of",
+            "contains subpart"
+        ],
+        "concept:headquarteredin": [
+            "based in city",
+            "city hosts headquarters"
+        ],
+        "concept:agentbelongstoorganization": [
+            "member of organization",
+            "organization includes agent"
+        ],
+        "concept:organizationheadquarteredincity": [
+            "organization based in",
+            "city hosts organization"
+        ],
+        "concept:organizationterminatedperson": [
+            "organization fired",
+            "fired by organization"
+        ],
+        "concept:acquired": [
+            "company purchased",
+            "purchased by company"
+        ],
+        "concept:companyeconomicsector": [
+            "company operates in",
+            "sector includes company"
+        ],
+        "concept:televisionstationaffiliatedwith": [
+            "station partnered with",
+            "network includes station"
+        ],
+        "concept:topmemberoforganization": [
+            "leader of organization",
+            "organization led by"
+        ]
+    }
+}

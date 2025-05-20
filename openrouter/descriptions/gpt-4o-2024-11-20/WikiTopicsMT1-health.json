@@ -1,0 +1,41 @@
+{
+    "cleaned_relations": {
+        "cause of death": "Cause of Death",
+        "manner of death": "Manner of Death",
+        "Gram staining": "Gram Staining",
+        "chromosome": "Chromosome",
+        "health specialty": "Health Specialty",
+        "medical condition": "Medical Condition",
+        "genetic association": "Genetic Association"
+    },
+    "relation_descriptions": {
+        "cause of death": [
+            "Reason for death",
+            "Death caused by"
+        ],
+        "manner of death": [
+            "Type of death",
+            "Death type"
+        ],
+        "Gram staining": [
+            "Bacterial staining type",
+            "Bacterial staining type"
+        ],
+        "chromosome": [
+            "Located on chromosome",
+            "Chromosome contains"
+        ],
+        "health specialty": [
+            "Relevant medical field",
+            "Field treats condition"
+        ],
+        "medical condition": [
+            "Has medical condition",
+            "Condition affects"
+        ],
+        "genetic association": [
+            "Gene linked to trait",
+            "Trait linked to gene"
+        ]
+    }
+}

@@ -1,0 +1,20 @@
+{
+	"Relations": [
+		"cause of death",
+		"manner of death",
+		"Gram staining",
+		"chromosome",
+		"health specialty",
+		"medical condition",
+		"genetic association"
+	],
+	"Examples": [
+		["Carey Wilson","cause of death","stroke"],
+		["Lord George Gordon","manner of death","natural causes"],
+		["Gracilibacillus ureilyticus","Gram staining","gram-positive bacteria"],
+		["TYROBP","chromosome","human chromosome 19"],
+		["amniotic fluid embolism","health specialty","obstetrics"],
+		["Robert J. Burkhardt","medical condition","Parkinson's disease"],
+		["ADCY9","genetic association","obesity"]
+	]
+}

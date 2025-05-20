@@ -1,0 +1,51 @@
+{
+    "cleaned_relations": {
+        "_hypernym": "is a kind of",
+        "_derivationally_related_form": "is a derived form of",
+        "_also_see": "is related to",
+        "_synset_domain_topic_of": "is a topic of",
+        "_has_part": "has part",
+        "_verb_group": "is in verb group",
+        "_member_meronym": "has member part",
+        "_similar_to": "is similar to",
+        "_instance_hypernym": "is an instance of"
+    },
+    "relation_descriptions": {
+        "_hypernym": [
+            "is a kind of",
+            "is a general term of"
+        ],
+        "_derivationally_related_form": [
+            "is a derived form of",
+            "has a derived form"
+        ],
+        "_also_see": [
+            "is related to",
+            "is related to"
+        ],
+        "_synset_domain_topic_of": [
+            "is a topic of",
+            "has topic"
+        ],
+        "_has_part": [
+            "has part",
+            "is part of"
+        ],
+        "_verb_group": [
+            "is in verb group",
+            "is in verb group"
+        ],
+        "_member_meronym": [
+            "has member part",
+            "is member part of"
+        ],
+        "_similar_to": [
+            "is similar to",
+            "is similar to"
+        ],
+        "_instance_hypernym": [
+            "is an instance of",
+            "has instance"
+        ]
+    }
+}

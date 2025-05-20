@@ -1,0 +1,221 @@
+{
+    "cleaned_relations": {
+        "writing system": "Writing System",
+        "has use": "Has Use",
+        "language used": "Language Used",
+        "programmed in": "Programmed In",
+        "operating system": "Operating System",
+        "powered by": "Powered By",
+        "linguistic typology": "Linguistic Typology",
+        "product or material produced": "Product or Material Produced",
+        "has characteristic": "Has Characteristic",
+        "guidance system": "Guidance System",
+        "radio format": "Radio Format",
+        "software quality assurance": "Software Quality Assurance",
+        "measured physical quantity": "Measured Physical Quantity",
+        "typeface/font used": "Typeface or Font Used",
+        "phase of matter": "Phase of Matter",
+        "notation": "Notation",
+        "package management system": "Package Management System",
+        "engine configuration": "Engine Configuration",
+        "programming paradigm": "Programming Paradigm",
+        "electrical plug type": "Electrical Plug Type",
+        "measures": "Measures",
+        "binding of software library": "Binding of Software Library",
+        "depends on software": "Depends on Software",
+        "writable file format": "Writable File Format",
+        "connector": "Connector",
+        "dual to": "Dual To",
+        "translator": "Translator",
+        "fabrication method": "Fabrication Method",
+        "protocol": "Protocol",
+        "vessel": "Vessel",
+        "introduced feature": "Introduced Feature",
+        "fuel system": "Fuel System",
+        "supports programming language": "Supports Programming Language",
+        "removed feature": "Removed Feature",
+        "avionics": "Avionics",
+        "supercharger": "Supercharger",
+        "disease transmission process": "Disease Transmission Process",
+        "radix": "Radix",
+        "update method": "Update Method",
+        "programmer": "Programmer",
+        "computes solution to": "Computes Solution To",
+        "carries scientific instrument": "Carries Scientific Instrument",
+        "category contains": "Category Contains"
+    },
+    "relation_descriptions": {
+        "writing system": [
+            "script used for writing",
+            "used by writing script"
+        ],
+        "has use": [
+            "specific purpose served",
+            "served by specific purpose"
+        ],
+        "language used": [
+            "spoken or written language",
+            "used by spoken or written language"
+        ],
+        "programmed in": [
+            "programming language used",
+            "used to program"
+        ],
+        "operating system": [
+            "software platform used",
+            "used by software platform"
+        ],
+        "powered by": [
+            "energy source used",
+            "provides energy to"
+        ],
+        "linguistic typology": [
+            "language structural type",
+            "structural type of language"
+        ],
+        "product or material produced": [
+            "output material or product",
+            "produced by material or product"
+        ],
+        "has characteristic": [
+            "inherent property or trait",
+            "property or trait of"
+        ],
+        "guidance system": [
+            "navigation control system",
+            "controlled by navigation system"
+        ],
+        "radio format": [
+            "broadcasting style or genre",
+            "used for broadcasting style"
+        ],
+        "software quality assurance": [
+            "testing or validation method",
+            "validated by testing method"
+        ],
+        "measured physical quantity": [
+            "physical property measured",
+            "measured by physical property"
+        ],
+        "typeface/font used": [
+            "text style or font",
+            "used for text style"
+        ],
+        "phase of matter": [
+            "state of physical substance",
+            "substance in physical state"
+        ],
+        "notation": [
+            "symbolic representation",
+            "represented by symbols"
+        ],
+        "package management system": [
+            "software installation tool",
+            "used by installation tool"
+        ],
+        "engine configuration": [
+            "engine structural layout",
+            "layout of engine"
+        ],
+        "programming paradigm": [
+            "coding methodology",
+            "used in coding methodology"
+        ],
+        "electrical plug type": [
+            "plug design standard",
+            "used by plug design"
+        ],
+        "measures": [
+            "quantifies physical property",
+            "quantified by physical property"
+        ],
+        "binding of software library": [
+            "software library interface",
+            "interfaced by software library"
+        ],
+        "depends on software": [
+            "relies on software",
+            "software relied upon"
+        ],
+        "writable file format": [
+            "editable file type",
+            "type of editable file"
+        ],
+        "connector": [
+            "hardware connection type",
+            "used by connection type"
+        ],
+        "dual to": [
+            "geometric dual shape",
+            "dual shape of geometry"
+        ],
+        "translator": [
+            "translation tool or service",
+            "used by translation tool"
+        ],
+        "fabrication method": [
+            "manufacturing technique",
+            "technique used in manufacturing"
+        ],
+        "protocol": [
+            "communication standard",
+            "used by communication standard"
+        ],
+        "vessel": [
+            "transport or storage medium",
+            "used as transport medium"
+        ],
+        "introduced feature": [
+            "newly added feature",
+            "feature introduced by"
+        ],
+        "fuel system": [
+            "engine fuel mechanism",
+            "mechanism fueling engine"
+        ],
+        "supports programming language": [
+            "compatible programming language",
+            "language supported by"
+        ],
+        "removed feature": [
+            "feature taken out",
+            "feature removed from"
+        ],
+        "avionics": [
+            "aircraft electronic systems",
+            "electronic systems in aircraft"
+        ],
+        "supercharger": [
+            "engine boosting device",
+            "device boosting engine"
+        ],
+        "disease transmission process": [
+            "disease spread method",
+            "method spreading disease"
+        ],
+        "radix": [
+            "numerical base value",
+            "value of numerical base"
+        ],
+        "update method": [
+            "software update process",
+            "process updating software"
+        ],
+        "programmer": [
+            "software developer of",
+            "developer of software"
+        ],
+        "computes solution to": [
+            "solves mathematical problem",
+            "problem solved by"
+        ],
+        "carries scientific instrument": [
+            "transports research tool",
+            "tool transported by"
+        ],
+        "category contains": [
+            "group includes item",
+            "item included in group"
+        ]
+    }
+}

@@ -1,0 +1,981 @@
+{
+    "cleaned_relations": {
+        "concept:agentcompeteswithagent": "Agent Competes With Agent",
+        "concept:agentcreated": "Agent Created",
+        "concept:synonymfor": "Synonym For",
+        "concept:agentinvolvedwithitem": "Agent Involved With Item",
+        "concept:agriculturalproductcontainchemical": "Agricultural Product Contains Chemical",
+        "concept:agriculturalproductgrowninlandscapefeatures": "Agricultural Product Grown In Landscape Features",
+        "concept:agriculturalproductcutintogeometricshape": "Agricultural Product Cut Into Geometric Shape",
+        "concept:agriculturalproductincludingagriculturalproduct": "Agricultural Product Includes Agricultural Product",
+        "concept:agriculturalproducttoattractinsect": "Agricultural Product Attracts Insect",
+        "concept:agriculturalproductgrowinginstateorprovince": "Agricultural Product Grows In State/Province",
+        "concept:agriculturalproductcomingfromvertebrate": "Agricultural Product From Vertebrate",
+        "concept:agriculturalproductcamefromcountry": "Agricultural Product Originates From Country",
+        "concept:animalistypeofanimal": "Animal Is Type Of Animal",
+        "concept:animaleatfood": "Animal Eats Food",
+        "concept:fooddecreasestheriskofdisease": "Food Reduces Disease Risk",
+        "concept:beveragemadefrombeverage": "Beverage Made From Beverage",
+        "concept:buildinglocatedincity": "Building Located In City",
+        "concept:specializationof": "Specialization Of",
+        "concept:animalpreyson": "Animal Preys On",
+        "concept:animalthatfeedoninsect": "Animal Feeds On Insect",
+        "concept:animalsuchasinvertebrate": "is an invertebrate animal",
+        "concept:animalsuchasinsect": "is an insect animal",
+        "concept:animaldevelopdisease": "develops a disease",
+        "concept:animalsuchasfish": "is a fish animal",
+        "concept:animaleatvegetable": "eats a vegetable",
+        "concept:invertebratefeedonfood": "feeds on food",
+        "concept:agentcollaborateswithagent": "collaborates with agent",
+        "concept:agentcontrols": "controls agent",
+        "concept:subpartof": "is a subpart of",
+        "concept:worksfor": "works for",
+        "concept:personbelongstoorganization": "belongs to organization",
+        "concept:coachesteam": "coaches team",
+        "concept:coachwontrophy": "won trophy as coach",
+        "concept:locationlocatedwithinlocation": "is located within location",
+        "concept:organizationhiredperson": "hired person",
+        "concept:proxyfor": "is proxy for",
+        "concept:competeswith": "competes with",
+        "concept:organizationterminatedperson": "terminated person",
+        "concept:beveragecontainsprotein": "contains protein",
+        "concept:foodcancausedisease": "causes disease",
+        "concept:acquired": "Acquired",
+        "concept:hasofficeincity": "Has office in city",
+        "concept:headquarteredin": "Headquartered in city",
+        "concept:companyeconomicsector": "Company economic sector",
+        "concept:mutualproxyfor": "Mutual proxy for",
+        "concept:atlocation": "Located at city",
+        "concept:personleadsorganization": "Person leads organization",
+        "concept:chemicalistypeofchemical": "Chemical type classification",
+        "concept:organizationheadquarteredincity": "Organization headquartered in city",
+        "concept:citylocatedinstate": "City located in state",
+        "concept:cityliesonriver": "City lies on river",
+        "concept:citylocatedingeopoliticallocation": "City located in geopolitical location",
+        "concept:citylocatedincountry": "City located in country",
+        "concept:subpartoforganization": "Subpart of organization",
+        "concept:atdate": "Event at date",
+        "concept:citycapitalofcountry": "City capital of country",
+        "concept:personleadsgeopoliticalorganization": "Person leads geopolitical organization",
+        "concept:agentbelongstoorganization": "Agent belongs to organization",
+        "concept:agentparticipatedinevent": "Agent participated in event",
+        "concept:thinghascolor": "Thing has color",
+        "concept:agentactsinlocation": "Agent Acts In Location",
+        "concept:countrylocatedingeopoliticallocation": "Country Located In Geopolitical Location",
+        "concept:countryalsoknownas": "Country Also Known As",
+        "concept:countrycurrency": "Country Currency",
+        "concept:fishservedwithfood": "Fish Served With Food",
+        "concept:agriculturalproductcookedwithagriculturalproduct": "Agricultural Product Cooked With Agricultural Product",
+        "concept:teamplaysinleague": "Team Plays In League",
+        "concept:teamplaysagainstteam": "Team Plays Against Team",
+        "concept:persongraduatedschool": "Person Graduated From School",
+        "concept:mammalsuchasmammal": "Mammal Such As Mammal",
+        "concept:newspaperincity": "Newspaper In City",
+        "concept:persongraduatedfromuniversity": "Person Graduated From University",
+        "concept:personchargedwithcrime": "Person Charged With Crime",
+        "concept:personborninlocation": "Person Born In Location",
+        "concept:istallerthan": "Is Taller Than",
+        "concept:personhasresidenceingeopoliticallocation": "Person Has Residence In Geopolitical Location",
+        "concept:riveremptiesintoriver": "River Empties Into River",
+        "concept:thinghasshape": "Thing Has Shape",
+        "concept:sportsgameteam": "Sports Game Team",
+        "concept:sportsgamewinner": "Sports Game Winner",
+        "concept:organizationacronymhasname": "Organization Acronym Has Name",
+        "concept:organizationheadquarteredinstateorprovince": "Organization Headquarters In State/Province",
+        "concept:teamplayssport": "Team Plays Sport",
+        "concept:teamwontrophy": "Team Won Trophy",
+        "concept:teamplaysincity": "Team Plays In City",
+        "concept:organizationalsoknownas": "Organization Also Known As",
+        "concept:stadiumlocatedincity": "Stadium Located In City",
+        "concept:statehascapital": "State Has Capital",
+        "concept:stateorprovinceisborderedbystateorprovince": "State/Province Borders State/Province",
+        "concept:objectpartofobject": "Object Part Of Object",
+        "/location/location/time_zones": "Location In Time Zone",
+        "/music/genre/artists": "Genre Has Artist",
+        "/music/record_label/artist": "Record Label Has Artist",
+        "/organization/organization/headquarters./location/mailing_address/citytown": "Organization Headquarters In City",
+        "/music/performance_role/track_performances./music/track_contribution/role": "Performance Role In Track",
+        "/music/performance_role/regular_performances./music/group_membership/role": "Performance Role In Group",
+        "/education/educational_institution/colors": "Institution Has Colors",
+        "/film/film/release_date_s./film/film_regional_release_date/film_release_region": "Film Released In Region",
+        "/award/award_winning_work/awards_won./award/award_honor/award_winner": "Work Won Award For Winner",
+        "/film/film/produced_by": "Film Produced By",
+        "/award/award_winning_work/awards_won./award/award_honor/award": "Award Winning Work Awards Won",
+        "/award/award_nominee/award_nominations./award/award_nomination/award_nominee": "Award Nominee Award Nominations",
+        "/award/award_winner/awards_won./award/award_honor/award_winner": "Award Winner Awards Won",
+        "/base/aareas/schema/administrative_area/administrative_parent": "Administrative Area Parent",
+        "/location/administrative_division/country": "Administrative Division Country",
+        "/olympics/olympic_games/sports": "Olympic Games Sports",
+        "/film/film/production_companies": "Film Production Companies",
+        "/film/film/language": "Film Language",
+        "/base/popstra/celebrity/dated./base/popstra/dated/participant": "Celebrity Dated Participant",
+        "/base/popstra/celebrity/friendship./base/popstra/friendship/participant": "Celebrity Friendship Participant",
+        "/award/award_nominee/award_nominations./award/award_nomination/award": "Award Nominee Award",
+        "/people/person/profession": "Person Profession",
+        "/people/person/nationality": "Person Nationality",
+        "/people/person/religion": "Person Religion",
+        "/film/actor/film./film/performance/film": "Actor Film Performance",
+        "/award/award_nominee/award_nominations./award/award_nomination/nominated_for": "Award Nominee Nominated For",
+        "/music/artist/track_contributions./music/track_contribution/role": "Artist Track Contribution Role",
+        "/education/educational_institution/students_graduates./education/education/major_field_of_study": "Educational Institution Major Field",
+        "/people/person/place_of_birth": "Person Place of Birth",
+        "/people/person/places_lived./people/place_lived/location": "Person Places Lived",
+        "/business/job_title/people_with_this_title./business/employment_tenure/company": "Job Title Company",
+        "/film/film/genre": "Film Genre",
+        "/tv/tv_program/genre": "TV Program Genre",
+        "/tv/tv_program/languages": "TV Program Languages",
+        "/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor": "TV Program Regular Actor",
+        "/film/film/country": "Film Country",
+        "/education/educational_institution/students_graduates./education/education/student": "Educational Institution Student",
+        "/organization/organization/headquarters./location/mailing_address/state_province_region": "Organization Headquarters State",
+        "/film/film/written_by": "Film Written By",
+        "/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film": "Film Distributor Film",
+        "/business/business_operation/industry": "Business Industry",
+        "/influence/influence_node/influenced_by": "Influenced By",
+        "/location/location/contains": "Location Contains",
+        "/award/award_category/nominees./award/award_nomination/nominated_for": "Award Category Nominee",
+        "/award/award_category/winners./award/award_honor/award_winner": "Award Category Winner",
+        "/award/award_category/winners./award/award_honor/ceremony": "Award Ceremony",
+        "/education/educational_degree/people_with_this_degree./education/education/institution": "Degree Institution",
+        "/education/educational_degree/people_with_this_degree./education/education/major_field_of_study": "Degree Major",
+        "/education/educational_degree/people_with_this_degree./education/education/student": "Degree Student",
+        "/sports/sports_position/players./sports/sports_team_roster/team": "Sports Position Team",
+        "/sports/sports_team/colors": "team colors",
+        "/soccer/football_team/current_roster./soccer/football_roster_position/position": "current team position",
+        "/soccer/football_team/current_roster./sports/sports_team_roster/position": "current team position",
+        "/film/director/film": "directed film",
+        "/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/country": "athlete's country",
+        "/sports/pro_athlete/teams./sports/sports_team_roster/team": "player's team",
+        "/government/legislative_session/members./government/government_position_held/district_represented": "member's district",
+        "/media_common/netflix_genre/titles": "genre's title",
+        "/location/location/adjoin_s./location/adjoining_relationship/adjoins": "adjacent location",
+        "/film/film/music": "film's music",
+        "/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics": "medals in olympics",
+        "/people/person/spouse_s./people/marriage/spouse": "spouse of person",
+        "/film/film/executive_produced_by": "executive produced by",
+        "/music/performance_role/regular_performances./music/group_membership/group": "performer's group",
+        "/military/military_conflict/combatants./military/military_combatant_group/combatants": "combatants in conflict",
+        "/sports/professional_sports_team/draft_picks./sports/sports_league_draft_pick/draft": "draft picks in draft",
+        "/sports/professional_sports_team/draft_picks./sports/sports_league_draft_pick/school": "draft pick's school",
+        "/people/ethnicity/people": "people of ethnicity",
+        "/people/deceased_person/place_of_death": "death location",
+        "/soccer/football_player/current_team./sports/sports_team_roster/team": "current team of player",
+        "/location/statistical_region/religions./location/religion_percentage/religion": "Religion in Region",
+        "/music/instrument/instrumentalists": "Instrument's Player",
+        "/music/performance_role/guest_performances./music/recording_contribution/performance_role": "Guest Role in Performance",
+        "/film/film/other_crew./film/film_crew_gig/film_crew_role": "Crew Role in Film",
+        "/film/film/story_by": "Story Writer of Film",
+        "/award/award_ceremony/awards_presented./award/award_honor/honored_for": "Work Honored at Award",
+        "/tv/tv_producer/programs_produced./tv/tv_producer_term/program": "TV Producer's Program",
+        "/award/award_ceremony/awards_presented./award/award_honor/award_winner": "Award Winner at Ceremony",
+        "/food/food/nutrients./food/nutrition_fact/nutrient": "Nutrient in Food",
+        "/organization/organization_member/member_of./organization/organization_membership/organization": "Member of Organization",
+        "/location/country/official_language": "Country's Official Language",
+        "/olympics/olympic_participating_country/athletes./olympics/olympic_athlete_affiliation/olympics": "Olympic Athlete from Country",
+        "/base/popstra/location/vacationers./base/popstra/vacation_choice/vacationer": "Vacationer in Location",
+        "/award/hall_of_fame/inductees./award/hall_of_fame_induction/inductee": "Inductee into Hall of Fame",
+        "/language/human_language/countries_spoken_in": "Language Spoken in Country",
+        "/people/person/languages": "Person's Spoken Language",
+        "/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language": "Phone Service Language",
+        "/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office": "Officeholder in Jurisdiction",
+        "/film/film/other_crew./film/film_crew_gig/crewmember": "Crew Member of Film",
+        "/sports/sports_league_draft/picks./sports/sports_league_draft_pick/school": "Draft Pick's School",
+        "/base/marchmadness/ncaa_basketball_tournament/seeds./base/marchmadness/ncaa_tournament_seed/team": "NCAA Tournament Seed Team",
+        "/people/cause_of_death/people": "Cause of Death for Person",
+        "/base/biblioness/bibs_location/state": "Location State for City",
+        "concept:hasofficeincountry": "Office Located in Country",
+        "concept:buildingfeaturemadefrombuildingmaterial": "Building Feature Made from Material",
+        "concept:cityalsoknownas": "City Also Known As",
+        "concept:organizationheadquarteredincountry": "Organization Headquartered in Country",
+        "concept:organizationdissolvedatdate": "Organization Dissolved at Date",
+        "concept:professionistypeofprofession": "Profession Type Classification",
+        "concept:statelocatedincountry": "State Located in Country",
+        "/people/person/gender": "Person's Gender",
+        "/film/film/film_format": "Film Format",
+        "/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month": "Travel Destination Climate Month",
+        "/military/military_combatant/military_conflicts./military/military_combatant_group/combatants": "Military Combatant Group in Conflict",
+        "/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony": "Marriage Union Ceremony Location"
+    },
+    "relation_descriptions": {
+        "concept:agentcompeteswithagent": [
+            "Agent competes with agent",
+            "Agent is competed with by agent"
+        ],
+        "concept:agentcreated": [
+            "Agent creates item",
+            "Item is created by agent"
+        ],
+        "concept:synonymfor": [
+            "Term is synonym for term",
+            "Term is synonym for term"
+        ],
+        "concept:agentinvolvedwithitem": [
+            "Agent interacts with item",
+            "Item is interacted with by agent"
+        ],
+        "concept:agriculturalproductcontainchemical": [
+            "Agricultural product contains chemical",
+            "Chemical is contained in agricultural product"
+        ],
+        "concept:agriculturalproductgrowninlandscapefeatures": [
+            "Agricultural product grows in landscape",
+            "Landscape features host agricultural product"
+        ],
+        "concept:agriculturalproductcutintogeometricshape": [
+            "Agricultural product shaped into geometry",
+            "Geometric shape is cut from agricultural product"
+        ],
+        "concept:agriculturalproductincludingagriculturalproduct": [
+            "Agricultural product includes component",
+            "Component is included in agricultural product"
+        ],
+        "concept:agriculturalproducttoattractinsect": [
+            "Agricultural product attracts insect",
+            "Insect is attracted by agricultural product"
+        ],
+        "concept:agriculturalproductgrowinginstateorprovince": [
+            "Agricultural product grows in region",
+            "Region hosts agricultural product growth"
+        ],
+        "concept:agriculturalproductcomingfromvertebrate": [
+            "Agricultural product derived from vertebrate",
+            "Vertebrate produces agricultural product"
+        ],
+        "concept:agriculturalproductcamefromcountry": [
+            "Agricultural product originates from country",
+            "Country produces agricultural product"
+        ],
+        "concept:animalistypeofanimal": [
+            "Animal is category of animal",
+            "Animal is categorized as animal type"
+        ],
+        "concept:animaleatfood": [
+            "Animal consumes food",
+            "Food is consumed by animal"
+        ],
+        "concept:fooddecreasestheriskofdisease": [
+            "Food reduces disease risk",
+            "Disease risk is reduced by food"
+        ],
+        "concept:beveragemadefrombeverage": [
+            "Beverage is derived from beverage",
+            "Beverage is base for beverage"
+        ],
+        "concept:buildinglocatedincity": [
+            "Building exists in city",
+            "City contains building"
+        ],
+        "concept:specializationof": [
+            "Entity is specialization of parent",
+            "Parent is generalized by specialization"
+        ],
+        "concept:animalpreyson": [
+            "Animal hunts prey",
+            "Prey is hunted by animal"
+        ],
+        "concept:animalthatfeedoninsect": [
+            "Animal consumes insect",
+            "Insect is consumed by animal"
+        ],
+        "concept:animalsuchasinvertebrate": [
+            "is an invertebrate animal",
+            "is an invertebrate of"
+        ],
+        "concept:animalsuchasinsect": [
+            "is an insect animal",
+            "is an insect of"
+        ],
+        "concept:animaldevelopdisease": [
+            "develops a disease",
+            "is a disease developed by"
+        ],
+        "concept:animalsuchasfish": [
+            "is a fish animal",
+            "is a fish of"
+        ],
+        "concept:animaleatvegetable": [
+            "eats a vegetable",
+            "is eaten by animal"
+        ],
+        "concept:invertebratefeedonfood": [
+            "feeds on food",
+            "is food fed by invertebrate"
+        ],
+        "concept:agentcollaborateswithagent": [
+            "collaborates with agent",
+            "collaborates with agent"
+        ],
+        "concept:agentcontrols": [
+            "controls agent",
+            "is controlled by agent"
+        ],
+        "concept:subpartof": [
+            "is a subpart of",
+            "is a superpart of"
+        ],
+        "concept:worksfor": [
+            "works for",
+            "employs"
+        ],
+        "concept:personbelongstoorganization": [
+            "belongs to organization",
+            "has as member"
+        ],
+        "concept:coachesteam": [
+            "coaches team",
+            "is coached by"
+        ],
+        "concept:coachwontrophy": [
+            "won trophy as coach",
+            "is trophy won by coach"
+        ],
+        "concept:locationlocatedwithinlocation": [
+            "is located within location",
+            "contains location"
+        ],
+        "concept:organizationhiredperson": [
+            "hired person",
+            "is hired by organization"
+        ],
+        "concept:proxyfor": [
+            "is proxy for",
+            "is represented by proxy"
+        ],
+        "concept:competeswith": [
+            "competes with",
+            "competes with"
+        ],
+        "concept:organizationterminatedperson": [
+            "terminated person",
+            "is terminated by organization"
+        ],
+        "concept:beveragecontainsprotein": [
+            "contains protein",
+            "is protein in beverage"
+        ],
+        "concept:foodcancausedisease": [
+            "causes disease",
+            "is disease caused by food"
+        ],
+        "concept:acquired": [
+            "Company acquisition",
+            "Acquired by company"
+        ],
+        "concept:hasofficeincity": [
+            "Office in city",
+            "City has office of"
+        ],
+        "concept:headquarteredin": [
+            "Headquarters in city",
+            "City has headquarters of"
+        ],
+        "concept:companyeconomicsector": [
+            "Economic sector classification",
+            "Sector classified as company"
+        ],
+        "concept:mutualproxyfor": [
+            "Mutual proxy",
+            "Mutual proxy"
+        ],
+        "concept:atlocation": [
+            "Located at city",
+            "City contains location"
+        ],
+        "concept:personleadsorganization": [
+            "Leads organization",
+            "Organization led by"
+        ],
+        "concept:chemicalistypeofchemical": [
+            "Classifies as chemical type",
+            "Classified as chemical type"
+        ],
+        "concept:organizationheadquarteredincity": [
+            "Organization headquartered in",
+            "City hosts organization headquarters"
+        ],
+        "concept:citylocatedinstate": [
+            "Located in state",
+            "State contains city"
+        ],
+        "concept:cityliesonriver": [
+            "City on river",
+            "River flows through city"
+        ],
+        "concept:citylocatedingeopoliticallocation": [
+            "Located in geopolitical area",
+            "Geopolitical area contains city"
+        ],
+        "concept:citylocatedincountry": [
+            "Located in country",
+            "Country contains city"
+        ],
+        "concept:subpartoforganization": [
+            "Subpart of organization",
+            "Organization has subpart"
+        ],
+        "concept:atdate": [
+            "Event at date",
+            "Date of event"
+        ],
+        "concept:citycapitalofcountry": [
+            "Capital city of country",
+            "Country has capital city"
+        ],
+        "concept:personleadsgeopoliticalorganization": [
+            "Leads geopolitical entity",
+            "Geopolitical entity led by"
+        ],
+        "concept:agentbelongstoorganization": [
+            "Belongs to organization",
+            "Organization has member"
+        ],
+        "concept:agentparticipatedinevent": [
+            "Participated in event",
+            "Event has participant"
+        ],
+        "concept:thinghascolor": [
+            "Has color attribute",
+            "Color assigned to thing"
+        ],
+        "concept:agentactsinlocation": [
+            "Agent acts in location",
+            "Location has agent act"
+        ],
+        "concept:countrylocatedingeopoliticallocation": [
+            "Country located in geopolitical location",
+            "Geopolitical location contains country"
+        ],
+        "concept:countryalsoknownas": [
+            "Country also known as",
+            "Country also known as"
+        ],
+        "concept:countrycurrency": [
+            "Country uses currency",
+            "Currency belongs to country"
+        ],
+        "concept:fishservedwithfood": [
+            "Fish served with food",
+            "Food served with fish"
+        ],
+        "concept:agriculturalproductcookedwithagriculturalproduct": [
+            "Product cooked with product",
+            "Product cooked with product"
+        ],
+        "concept:teamplaysinleague": [
+            "Team plays in league",
+            "League has team play"
+        ],
+        "concept:teamplaysagainstteam": [
+            "Team plays against team",
+            "Team plays against team"
+        ],
+        "concept:persongraduatedschool": [
+            "Person graduated from school",
+            "School has person graduate"
+        ],
+        "concept:mammalsuchasmammal": [
+            "Mammal such as mammal",
+            "Mammal such as mammal"
+        ],
+        "concept:newspaperincity": [
+            "Newspaper in city",
+            "City has newspaper"
+        ],
+        "concept:persongraduatedfromuniversity": [
+            "Person graduated from university",
+            "University has person graduate"
+        ],
+        "concept:personchargedwithcrime": [
+            "Person charged with crime",
+            "Crime charged against person"
+        ],
+        "concept:personborninlocation": [
+            "Person born in location",
+            "Location has person born"
+        ],
+        "concept:istallerthan": [
+            "Is taller than",
+            "Is shorter than"
+        ],
+        "concept:personhasresidenceingeopoliticallocation": [
+            "Person has residence in location",
+            "Location has person residence"
+        ],
+        "concept:riveremptiesintoriver": [
+            "River empties into river",
+            "River receives river"
+        ],
+        "concept:thinghasshape": [
+            "Thing has shape",
+            "Shape belongs to thing"
+        ],
+        "concept:sportsgameteam": [
+            "Game includes team",
+            "Team participates in game"
+        ],
+        "concept:sportsgamewinner": [
+            "Game winner is team",
+            "Team wins game"
+        ],
+        "concept:organizationacronymhasname": [
+            "Acronym has name",
+            "Name is acronym"
+        ],
+        "concept:organizationheadquarteredinstateorprovince": [
+            "Headquartered in state/province",
+            "State/province hosts headquarters"
+        ],
+        "concept:teamplayssport": [
+            "Team plays sport",
+            "Sport is played by team"
+        ],
+        "concept:teamwontrophy": [
+            "Team won trophy",
+            "Trophy won by team"
+        ],
+        "concept:teamplaysincity": [
+            "Team plays in city",
+            "City hosts team"
+        ],
+        "concept:organizationalsoknownas": [
+            "Organization also known as",
+            "Alias is organization"
+        ],
+        "concept:stadiumlocatedincity": [
+            "Stadium located in city",
+            "City hosts stadium"
+        ],
+        "concept:statehascapital": [
+            "State has capital",
+            "Capital is state's"
+        ],
+        "concept:stateorprovinceisborderedbystateorprovince": [
+            "Borders state/province",
+            "Is bordered by state/province"
+        ],
+        "concept:objectpartofobject": [
+            "Object part of object",
+            "Object contains part"
+        ],
+        "/location/location/time_zones": [
+            "Location in time zone",
+            "Time zone contains location"
+        ],
+        "/music/genre/artists": [
+            "Genre has artist",
+            "Artist belongs to genre"
+        ],
+        "/music/record_label/artist": [
+            "Label has artist",
+            "Artist signed to label"
+        ],
+        "/organization/organization/headquarters./location/mailing_address/citytown": [
+            "Headquarters in city",
+            "City hosts headquarters"
+        ],
+        "/music/performance_role/track_performances./music/track_contribution/role": [
+            "Role in track performance",
+            "Track performance has role"
+        ],
+        "/music/performance_role/regular_performances./music/group_membership/role": [
+            "Role in group performance",
+            "Group performance has role"
+        ],
+        "/education/educational_institution/colors": [
+            "Institution has colors",
+            "Colors represent institution"
+        ],
+        "/film/film/release_date_s./film/film_regional_release_date/film_release_region": [
+            "Film released in region",
+            "Region releases film"
+        ],
+        "/award/award_winning_work/awards_won./award/award_honor/award_winner": [
+            "Work won award for winner",
+            "Winner received award for work"
+        ],
+        "/film/film/produced_by": [
+            "Film produced by",
+            "Producer created film"
+        ],
+        "/award/award_winning_work/awards_won./award/award_honor/award": [
+            "Won award for work",
+            "Award given to work"
+        ],
+        "/award/award_nominee/award_nominations./award/award_nomination/award_nominee": [
+            "Nominated for award",
+            "Award nominee for"
+        ],
+        "/award/award_winner/awards_won./award/award_honor/award_winner": [
+            "Won award",
+            "Award winner is"
+        ],
+        "/base/aareas/schema/administrative_area/administrative_parent": [
+            "Has administrative parent",
+            "Is administrative parent of"
+        ],
+        "/location/administrative_division/country": [
+            "Belongs to country",
+            "Country has division"
+        ],
+        "/olympics/olympic_games/sports": [
+            "Includes sport",
+            "Sport featured in"
+        ],
+        "/film/film/production_companies": [
+            "Produced by company",
+            "Company produced film"
+        ],
+        "/film/film/language": [
+            "Spoken in language",
+            "Language used in film"
+        ],
+        "/base/popstra/celebrity/dated./base/popstra/dated/participant": [
+            "Dated with person",
+            "Person dated by"
+        ],
+        "/base/popstra/celebrity/friendship./base/popstra/friendship/participant": [
+            "Friends with person",
+            "Person friends with"
+        ],
+        "/award/award_nominee/award_nominations./award/award_nomination/award": [
+            "Nominated for award",
+            "Award nomination for"
+        ],
+        "/people/person/profession": [
+            "Works as profession",
+            "Profession of person"
+        ],
+        "/people/person/nationality": [
+            "Has nationality",
+            "Nationality of person"
+        ],
+        "/people/person/religion": [
+            "Follows religion",
+            "Religion of person"
+        ],
+        "/film/actor/film./film/performance/film": [
+            "Acted in film",
+            "Film features actor"
+        ],
+        "/award/award_nominee/award_nominations./award/award_nomination/nominated_for": [
+            "Nominated for work",
+            "Work nominated for"
+        ],
+        "/music/artist/track_contributions./music/track_contribution/role": [
+            "Contributed to track",
+            "Track contribution by"
+        ],
+        "/education/educational_institution/students_graduates./education/education/major_field_of_study": [
+            "Studied field at institution",
+            "Institution offers field"
+        ],
+        "/people/person/place_of_birth": [
+            "Born in location",
+            "Location birthplace of"
+        ],
+        "/people/person/places_lived./people/place_lived/location": [
+            "Lived in location",
+            "Location residence of"
+        ],
+        "/business/job_title/people_with_this_title./business/employment_tenure/company": [
+            "Job title held at company",
+            "Company has job title holder"
+        ],
+        "/film/film/genre": [
+            "Belongs to genre",
+            "Genre of"
+        ],
+        "/tv/tv_program/genre": [
+            "Belongs to genre",
+            "Genre of"
+        ],
+        "/tv/tv_program/languages": [
+            "Spoken in language",
+            "Language spoken in TV program"
+        ],
+        "/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor": [
+            "Has regular actor",
+            "Actor regularly appears in TV program"
+        ],
+        "/film/film/country": [
+            "Produced in country",
+            "Country produces film"
+        ],
+        "/education/educational_institution/students_graduates./education/education/student": [
+            "Has student",
+            "Student of institution"
+        ],
+        "/organization/organization/headquarters./location/mailing_address/state_province_region": [
+            "Headquartered in state",
+            "State has organization headquarters"
+        ],
+        "/film/film/written_by": [
+            "Written by person",
+            "Person writes film"
+        ],
+        "/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film": [
+            "Distributes film",
+            "Film distributed by distributor"
+        ],
+        "/business/business_operation/industry": [
+            "Operates in industry",
+            "Industry has business"
+        ],
+        "/influence/influence_node/influenced_by": [
+            "Influenced by source",
+            "Influences"
+        ],
+        "/location/location/contains": [
+            "Contains location",
+            "Contained in location"
+        ],
+        "/award/award_category/nominees./award/award_nomination/nominated_for": [
+            "Nominated for award",
+            "Award category has nominee"
+        ],
+        "/award/award_category/winners./award/award_honor/award_winner": [
+            "Wins award",
+            "Award category has winner"
+        ],
+        "/award/award_category/winners./award/award_honor/ceremony": [
+            "Awarded at ceremony",
+            "Ceremony awards"
+        ],
+        "/education/educational_degree/people_with_this_degree./education/education/institution": [
+            "Awarded by institution",
+            "Institution awards degree"
+        ],
+        "/education/educational_degree/people_with_this_degree./education/education/major_field_of_study": [
+            "Major in field",
+            "Field has degree major"
+        ],
+        "/education/educational_degree/people_with_this_degree./education/education/student": [
+            "Student holds degree",
+            "Degree held by student"
+        ],
+        "/sports/sports_position/players./sports/sports_team_roster/team": [
+            "Plays for team",
+            "Team has player in position"
+        ],
+        "/sports/sports_team/colors": [
+            "team color",
+            "color of team"
+        ],
+        "/soccer/football_team/current_roster./soccer/football_roster_position/position": [
+            "current team position",
+            "position in current team"
+        ],
+        "/soccer/football_team/current_roster./sports/sports_team_roster/position": [
+            "current team position",
+            "position in current team"
+        ],
+        "/film/director/film": [
+            "directed film",
+            "film directed by"
+        ],
+        "/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/country": [
+            "athlete's country",
+            "country's athlete"
+        ],
+        "/sports/pro_athlete/teams./sports/sports_team_roster/team": [
+            "player's team",
+            "team's player"
+        ],
+        "/government/legislative_session/members./government/government_position_held/district_represented": [
+            "member's district",
+            "district's member"
+        ],
+        "/media_common/netflix_genre/titles": [
+            "genre's title",
+            "title's genre"
+        ],
+        "/location/location/adjoin_s./location/adjoining_relationship/adjoins": [
+            "adjacent location",
+            "adjacent location"
+        ],
+        "/film/film/music": [
+            "film's music",
+            "music for film"
+        ],
+        "/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics": [
+            "medals in olympics",
+            "olympics with medals"
+        ],
+        "/people/person/spouse_s./people/marriage/spouse": [
+            "spouse of person",
+            "spouse of person"
+        ],
+        "/film/film/executive_produced_by": [
+            "executive produced by",
+            "executive producer of"
+        ],
+        "/music/performance_role/regular_performances./music/group_membership/group": [
+            "performer's group",
+            "group's performer"
+        ],
+        "/military/military_conflict/combatants./military/military_combatant_group/combatants": [
+            "combatants in conflict",
+            "conflict's combatants"
+        ],
+        "/sports/professional_sports_team/draft_picks./sports/sports_league_draft_pick/draft": [
+            "draft picks in draft",
+            "draft's picks"
+        ],
+        "/sports/professional_sports_team/draft_picks./sports/sports_league_draft_pick/school": [
+            "draft pick's school",
+            "school's draft pick"
+        ],
+        "/people/ethnicity/people": [
+            "people of ethnicity",
+            "ethnicity of person"
+        ],
+        "/people/deceased_person/place_of_death": [
+            "death location",
+            "location of death"
+        ],
+        "/soccer/football_player/current_team./sports/sports_team_roster/team": [
+            "current team of player",
+            "player's current team"
+        ],
+        "/location/statistical_region/religions./location/religion_percentage/religion": [
+            "Religion in region",
+            "Region's religion"
+        ],
+        "/music/instrument/instrumentalists": [
+            "Instrument's player",
+            "Player of instrument"
+        ],
+        "/music/performance_role/guest_performances./music/recording_contribution/performance_role": [
+            "Guest role in performance",
+            "Performance's guest role"
+        ],
+        "/film/film/other_crew./film/film_crew_gig/film_crew_role": [
+            "Crew role in film",
+            "Film's crew role"
+        ],
+        "/film/film/story_by": [
+            "Story writer of film",
+            "Film's story writer"
+        ],
+        "/award/award_ceremony/awards_presented./award/award_honor/honored_for": [
+            "Work honored at award",
+            "Award honoring work"
+        ],
+        "/tv/tv_producer/programs_produced./tv/tv_producer_term/program": [
+            "TV producer's program",
+            "Program produced by TV producer"
+        ],
+        "/award/award_ceremony/awards_presented./award/award_honor/award_winner": [
+            "Award winner at ceremony",
+            "Ceremony's award winner"
+        ],
+        "/food/food/nutrients./food/nutrition_fact/nutrient": [
+            "Food's nutrient",
+            "Nutrient in food"
+        ],
+        "/organization/organization_member/member_of./organization/organization_membership/organization": [
+            "Organization member",
+            "Member of organization"
+        ],
+        "/location/country/official_language": [
+            "Official language of country",
+            "Country's official language"
+        ],
+        "/olympics/olympic_participating_country/athletes./olympics/olympic_athlete_affiliation/olympics": [
+            "Olympic athlete from country",
+            "Country's Olympic athlete"
+        ],
+        "/base/popstra/location/vacationers./base/popstra/vacation_choice/vacationer": [
+            "Location's vacationer",
+            "Vacationer in location"
+        ],
+        "/award/hall_of_fame/inductees./award/hall_of_fame_induction/inductee": [
+            "Hall of Fame inductee",
+            "Inductee into hall of fame"
+        ],
+        "/language/human_language/countries_spoken_in": [
+            "Language spoken in country",
+            "Country where language is spoken"
+        ],
+        "/people/person/languages": [
+            "Language spoken by person",
+            "Person's spoken language"
+        ],
+        "/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language": [
+            "Service language of phone",
+            "Phone's service language"
+        ],
+        "/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office": [
+            "Jurisdiction's officeholder",
+            "Officeholder in jurisdiction"
+        ],
+        "/film/film/other_crew./film/film_crew_gig/crewmember": [
+            "Crew member of film",
+            "Film's crew member"
+        ],
+        "/sports/sports_league_draft/picks./sports/sports_league_draft_pick/school": [
+            "School of draft pick",
+            "Draft pick's school"
+        ],
+        "/base/marchmadness/ncaa_basketball_tournament/seeds./base/marchmadness/ncaa_tournament_seed/team": [
+            "Tournament team seed assignment",
+            "Team assigned to tournament seed"
+        ],
+        "/people/cause_of_death/people": [
+            "Cause of death for individual",
+            "Individual with cause of death"
+        ],
+        "/base/biblioness/bibs_location/state": [
+            "City located in state",
+            "State containing city"
+        ],
+        "concept:hasofficeincountry": [
+            "Organization has office in country",
+            "Country has organization office"
+        ],
+        "concept:buildingfeaturemadefrombuildingmaterial": [
+            "Feature constructed from material",
+            "Material used in feature construction"
+        ],
+        "concept:cityalsoknownas": [
+            "City alternative name",
+            "Alternative name refers to city"
+        ],
+        "concept:organizationheadquarteredincountry": [
+            "Organization headquarters location",
+            "Country hosts organization headquarters"
+        ],
+        "concept:organizationdissolvedatdate": [
+            "Organization dissolution date",
+            "Date of organization dissolution"
+        ],
+        "concept:professionistypeofprofession": [
+            "Job position profession category",
+            "Profession includes job position"
+        ],
+        "concept:statelocatedincountry": [
+            "State within country",
+            "Country contains state"
+        ],
+        "/people/person/gender": [
+            "Gender of individual",
+            "Individual's gender"
+        ],
+        "/film/film/film_format": [
+            "Film's production format",
+            "Format used in film production"
+        ],
+        "/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month": [
+            "Monthly climate for destination",
+            "Destination's monthly climate"
+        ],
+        "/military/military_combatant/military_conflicts./military/military_combatant_group/combatants": [
+            "Combatant group in military conflict",
+            "Military conflict includes combatant group"
+        ],
+        "/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony": [
+            "Ceremony location for marriage type",
+            "Marriage type ceremony location"
+        ]
+    }
+}

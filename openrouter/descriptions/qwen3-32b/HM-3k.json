@@ -1,0 +1,61 @@
+{
+    "cleaned_relations": {
+        "_type_of": "type of",
+        "_synset_domain_topic": "domain topic",
+        "_has_instance": "has instance",
+        "_member_holonym": "member holonym",
+        "_part_of": "part of",
+        "_has_part": "has part",
+        "_member_meronym": "member meronym",
+        "_similar_to": "similar to",
+        "_subordinate_instance_of": "subordinate instance of",
+        "_domain_region": "domain region",
+        "_domain_topic": "domain topic"
+    },
+    "relation_descriptions": {
+        "_type_of": [
+            "is type of",
+            "instance of"
+        ],
+        "_synset_domain_topic": [
+            "domain topic",
+            "topic domain"
+        ],
+        "_has_instance": [
+            "has instance",
+            "instance of"
+        ],
+        "_member_holonym": [
+            "member of whole",
+            "whole has member"
+        ],
+        "_part_of": [
+            "part of",
+            "has part"
+        ],
+        "_has_part": [
+            "has part",
+            "part of"
+        ],
+        "_member_meronym": [
+            "member part",
+            "part has member"
+        ],
+        "_similar_to": [
+            "similar to",
+            "similar to"
+        ],
+        "_subordinate_instance_of": [
+            "subordinate instance of",
+            "superordinate instance of"
+        ],
+        "_domain_region": [
+            "domain region",
+            "region domain"
+        ],
+        "_domain_topic": [
+            "domain topic",
+            "topic domain"
+        ]
+    }
+}

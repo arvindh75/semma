@@ -1,0 +1,331 @@
+{
+    "cleaned_relations": {
+        "cast member": "cast member",
+        "occupation": "occupation",
+        "country of citizenship": "country of citizenship",
+        "member of": "member of",
+        "record label": "record label",
+        "languages spoken, written or signed": "languages spoken, written or signed",
+        "instrument": "instrument",
+        "residence": "residence",
+        "place of birth": "place of birth",
+        "diplomatic relation": "diplomatic relation",
+        "educated at": "educated at",
+        "member of political party": "member of political party",
+        "sibling": "sibling",
+        "employer": "employer",
+        "ethnic group": "ethnic group",
+        "located in the administrative territorial entity": "located in administrative entity",
+        "place of death": "place of death",
+        "country of origin": "country of origin",
+        "genre": "genre",
+        "country": "country",
+        "continent": "continent",
+        "language of work or name": "language of work or name",
+        "creator": "creator",
+        "religion or worldview": "religion or worldview",
+        "cause of death": "cause of death",
+        "director": "director",
+        "field of work": "field of work",
+        "place of burial": "place of burial",
+        "shares border with": "shares border with",
+        "child": "child",
+        "spouse": "spouse",
+        "official language": "official language",
+        "publisher": "publisher",
+        "mountain range": "mountain range",
+        "medical condition": "medical condition",
+        "narrative location": "narrative location",
+        "capital": "capital",
+        "sport": "sport",
+        "influenced by": "influenced by",
+        "unmarried partner": "unmarried partner",
+        "location of formation": "location of formation",
+        "headquarters location": "headquarters location",
+        "member of sports team": "member of sports team",
+        "legal form": "legal form",
+        "part of": "part of",
+        "time period": "time period",
+        "drug or therapy used for treatment": "drug or therapy used for treatment",
+        "has use": "has use",
+        "symptoms and signs": "symptoms and signs",
+        "airline hub": "airline hub",
+        "author": "author",
+        "movement": "movement",
+        "founded by": "founded by",
+        "chairperson": "chairperson",
+        "parent organization": "parent organization",
+        "named after": "named after",
+        "architect": "architect",
+        "uses": "uses",
+        "legislative body": "legislative body",
+        "industry": "industry",
+        "occupant": "occupant",
+        "chief executive officer": "chief executive officer",
+        "architectural style": "architectural style",
+        "health specialty": "health specialty",
+        "is the study of": "is the study of"
+    },
+    "relation_descriptions": {
+        "cast member": [
+            "actor in film",
+            "film featuring actor"
+        ],
+        "occupation": [
+            "professional role",
+            "person with role"
+        ],
+        "country of citizenship": [
+            "citizen of country",
+            "country's citizen"
+        ],
+        "member of": [
+            "organization member",
+            "organization includes member"
+        ],
+        "record label": [
+            "artist's label",
+            "label's artist"
+        ],
+        "languages spoken, written or signed": [
+            "person's language",
+            "language spoken by"
+        ],
+        "instrument": [
+            "musician's instrument",
+            "instrument played by"
+        ],
+        "residence": [
+            "person's residence",
+            "residence of person"
+        ],
+        "place of birth": [
+            "birth location",
+            "location of birth"
+        ],
+        "diplomatic relation": [
+            "diplomatic ties",
+            "country's diplomatic partner"
+        ],
+        "educated at": [
+            "attended institution",
+            "institution attended by"
+        ],
+        "member of political party": [
+            "party member",
+            "party includes member"
+        ],
+        "sibling": [
+            "person's sibling",
+            "sibling of person"
+        ],
+        "employer": [
+            "employee's organization",
+            "organization employs"
+        ],
+        "ethnic group": [
+            "person's ethnicity",
+            "ethnicity of person"
+        ],
+        "located in the administrative territorial entity": [
+            "entity's location",
+            "location includes entity"
+        ],
+        "place of death": [
+            "death location",
+            "location of death"
+        ],
+        "country of origin": [
+            "origin country",
+            "country of origin"
+        ],
+        "genre": [
+            "work's genre",
+            "genre of work"
+        ],
+        "country": [
+            "entity's country",
+            "country includes entity"
+        ],
+        "continent": [
+            "entity's continent",
+            "continent includes entity"
+        ],
+        "language of work or name": [
+            "work's language",
+            "language of work"
+        ],
+        "creator": [
+            "work's creator",
+            "creator of work"
+        ],
+        "religion or worldview": [
+            "person's religion",
+            "religion of person"
+        ],
+        "cause of death": [
+            "death cause",
+            "cause of death"
+        ],
+        "director": [
+            "film's director",
+            "director of film"
+        ],
+        "field of work": [
+            "professional field",
+            "field of professional"
+        ],
+        "place of burial": [
+            "burial site",
+            "site of burial"
+        ],
+        "shares border with": [
+            "bordering entity",
+            "entity shares border"
+        ],
+        "child": [
+            "parent's child",
+            "child of parent"
+        ],
+        "spouse": [
+            "married to",
+            "married to"
+        ],
+        "official language": [
+            "officially speaks",
+            "spoken officially in"
+        ],
+        "publisher": [
+            "published by",
+            "publishes"
+        ],
+        "mountain range": [
+            "located in range",
+            "contains mountain"
+        ],
+        "medical condition": [
+            "has condition",
+            "condition of"
+        ],
+        "narrative location": [
+            "story set in",
+            "setting for"
+        ],
+        "capital": [
+            "capital city",
+            "capital of"
+        ],
+        "sport": [
+            "plays sport",
+            "sport played by"
+        ],
+        "influenced by": [
+            "influenced by",
+            "influencer of"
+        ],
+        "unmarried partner": [
+            "partnered with",
+            "partnered with"
+        ],
+        "location of formation": [
+            "formed in",
+            "place of formation for"
+        ],
+        "headquarters location": [
+            "headquartered in",
+            "headquarters for"
+        ],
+        "member of sports team": [
+            "plays for",
+            "team includes"
+        ],
+        "legal form": [
+            "legal status",
+            "status of entity"
+        ],
+        "part of": [
+            "member of",
+            "includes member"
+        ],
+        "time period": [
+            "lived during",
+            "period of"
+        ],
+        "drug or therapy used for treatment": [
+            "treated with",
+            "treatment for"
+        ],
+        "has use": [
+            "used for",
+            "usage of"
+        ],
+        "symptoms and signs": [
+            "has symptoms",
+            "symptoms of"
+        ],
+        "airline hub": [
+            "hub airport",
+            "hub for airline"
+        ],
+        "author": [
+            "written by",
+            "author of"
+        ],
+        "movement": [
+            "associated with movement",
+            "movement includes"
+        ],
+        "founded by": [
+            "founded by",
+            "founder of"
+        ],
+        "chairperson": [
+            "chaired by",
+            "chairperson of"
+        ],
+        "parent organization": [
+            "owned by",
+            "owns subsidiary"
+        ],
+        "named after": [
+            "name derived from",
+            "namesake of"
+        ],
+        "architect": [
+            "designed by",
+            "designer of"
+        ],
+        "uses": [
+            "employs system",
+            "used in place"
+        ],
+        "legislative body": [
+            "governed by body",
+            "body governing"
+        ],
+        "industry": [
+            "operates in",
+            "industry includes"
+        ],
+        "occupant": [
+            "has occupant",
+            "is occupant of"
+        ],
+        "chief executive officer": [
+            "has CEO",
+            "is CEO of"
+        ],
+        "architectural style": [
+            "has architectural style",
+            "style used in"
+        ],
+        "health specialty": [
+            "treated by specialty",
+            "specialty treats"
+        ],
+        "is the study of": [
+            "studies subject",
+            "studied by person"
+        ]
+    }
+}

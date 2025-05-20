@@ -1,0 +1,26 @@
+{
+	"Relations": [
+		"_derivationally_related_form",
+		"_member_meronym",
+		"_hypernym",
+		"_also_see",
+		"_synset_domain_topic_of",
+		"_has_part",
+		"_verb_group",
+		"_similar_to",
+		"_member_of_domain_usage",
+		"_instance_hypernym"
+	],
+	"Examples": [
+		["freight.v.02","_derivationally_related_form","freight.n.03"],
+		["college.n.02","_member_meronym","college.n.01"],
+		["coating.n.03","_hypernym","fabric.n.01"],
+		["unjust.a.02","_also_see","unfair.a.01"],
+		["oral_stage.n.01","_synset_domain_topic_of","psychoanalysis.n.01"],
+		["public_house.n.01","_has_part","barroom.n.01"],
+		["float.v.05","_verb_group","float.v.02"],
+		["unfit.a.02","_similar_to","dipped.s.01"],
+		["united_kingdom.n.01","_member_of_domain_usage","salesclerk.n.01"],
+		["london.n.01","_instance_hypernym","national_capital.n.01"]
+	]
+}

@@ -1,0 +1,61 @@
+{
+    "cleaned_relations": {
+        "cast member": "Cast Member",
+        "producer": "Producer",
+        "film editor": "Film Editor",
+        "member of": "Member Of",
+        "production company": "Production Company",
+        "country": "Country",
+        "employer": "Employer",
+        "member of political party": "Member of Political Party",
+        "parent organization": "Parent Organization",
+        "publisher": "Publisher",
+        "has subsidiary": "Has Subsidiary"
+    },
+    "relation_descriptions": {
+        "cast member": [
+            "actor in production",
+            "production featuring actor"
+        ],
+        "producer": [
+            "produced by person",
+            "person producing work"
+        ],
+        "film editor": [
+            "edited by person",
+            "person editing work"
+        ],
+        "member of": [
+            "belongs to group",
+            "group includes member"
+        ],
+        "production company": [
+            "company producing work",
+            "work produced by company"
+        ],
+        "country": [
+            "originating country",
+            "country of origin"
+        ],
+        "employer": [
+            "employs person",
+            "person employed by"
+        ],
+        "member of political party": [
+            "affiliated with party",
+            "party affiliation of"
+        ],
+        "parent organization": [
+            "controls organization",
+            "organization controlled by"
+        ],
+        "publisher": [
+            "published by entity",
+            "entity publishing work"
+        ],
+        "has subsidiary": [
+            "owns subsidiary",
+            "subsidiary owned by"
+        ]
+    }
+}

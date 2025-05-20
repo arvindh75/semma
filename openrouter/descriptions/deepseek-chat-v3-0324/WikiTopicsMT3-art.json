@@ -1,0 +1,266 @@
+{
+    "cleaned_relations": {
+        "screenwriter": "screenwriter",
+        "original language of film or TV show": "original language",
+        "producer": "producer",
+        "genre": "genre",
+        "film editor": "film editor",
+        "director": "director",
+        "costume designer": "costume designer",
+        "composer": "composer",
+        "production company": "production company",
+        "production designer": "production designer",
+        "director of photography": "director of photography",
+        "after a work by": "based on work by",
+        "award received": "award received",
+        "instrument": "instrument",
+        "followed by": "followed by",
+        "narrative location": "narrative location",
+        "filming location": "filming location",
+        "lyricist": "lyricist",
+        "language of work or name": "language of work or name",
+        "author": "author",
+        "performer": "performer",
+        "present in work": "present in work",
+        "executive producer": "executive producer",
+        "characters": "characters",
+        "influenced by": "influenced by",
+        "depicts": "depicts",
+        "voice actor": "voice actor",
+        "creator": "creator",
+        "film crew member": "film crew member",
+        "musical conductor": "musical conductor",
+        "tonality": "tonality",
+        "editor": "editor",
+        "librettist": "librettist",
+        "camera setup": "camera setup",
+        "recorded at studio or venue": "recorded at studio or venue",
+        "filmography": "filmography",
+        "illustrator": "illustrator",
+        "broadcast by": "broadcast by",
+        "soundtrack release": "soundtrack release",
+        "superhuman feature or ability": "superhuman feature or ability",
+        "storyboard artist": "storyboard artist",
+        "discography": "discography",
+        "depicted by": "depicted by",
+        "fictional or mythical analog of": "fictional or mythical analog of",
+        "list of monuments": "list of monuments",
+        "crew member": "crew member",
+        "commemorates": "commemorates",
+        "drafted by": "drafted by",
+        "motto": "motto",
+        "fictional universe described in": "fictional universe described in",
+        "theme music": "theme music",
+        "recording or performance of": "recording or performance of"
+    },
+    "relation_descriptions": {
+        "screenwriter": [
+            "wrote screenplay for",
+            "screenplay written by"
+        ],
+        "original language of film or TV show": [
+            "originally in language",
+            "language of original"
+        ],
+        "producer": [
+            "produced film",
+            "film produced by"
+        ],
+        "genre": [
+            "belongs to genre",
+            "genre includes"
+        ],
+        "film editor": [
+            "edited film",
+            "film edited by"
+        ],
+        "director": [
+            "directed film",
+            "film directed by"
+        ],
+        "costume designer": [
+            "designed costumes for",
+            "costumes designed by"
+        ],
+        "composer": [
+            "composed music for",
+            "music composed by"
+        ],
+        "production company": [
+            "produced by company",
+            "company produced"
+        ],
+        "production designer": [
+            "designed production for",
+            "production designed by"
+        ],
+        "director of photography": [
+            "photographed film",
+            "film photographed by"
+        ],
+        "after a work by": [
+            "based on work",
+            "work adapted into"
+        ],
+        "award received": [
+            "received award",
+            "award given to"
+        ],
+        "instrument": [
+            "plays instrument",
+            "instrument played by"
+        ],
+        "followed by": [
+            "followed by work",
+            "preceded by work"
+        ],
+        "narrative location": [
+            "story set in",
+            "setting for story"
+        ],
+        "filming location": [
+            "filmed at location",
+            "location used in filming"
+        ],
+        "lyricist": [
+            "wrote lyrics for",
+            "lyrics written by"
+        ],
+        "language of work or name": [
+            "work in language",
+            "language used in work"
+        ],
+        "author": [
+            "authored work",
+            "work written by"
+        ],
+        "performer": [
+            "performed in work",
+            "work performed by"
+        ],
+        "present in work": [
+            "featured in work",
+            "work includes"
+        ],
+        "executive producer": [
+            "exec produced film",
+            "film exec produced by"
+        ],
+        "characters": [
+            "features character",
+            "character appears in"
+        ],
+        "influenced by": [
+            "influenced by creator",
+            "influenced creator"
+        ],
+        "depicts": [
+            "depicts subject",
+            "subject depicted in"
+        ],
+        "voice actor": [
+            "voiced character",
+            "character voiced by"
+        ],
+        "creator": [
+            "created work",
+            "work created by"
+        ],
+        "film crew member": [
+            "worked on film",
+            "film crew includes"
+        ],
+        "musical conductor": [
+            "conducted music for",
+            "music conducted by"
+        ],
+        "tonality": [
+            "musical key of",
+            "has tonality"
+        ],
+        "editor": [
+            "publication editor",
+            "edited by"
+        ],
+        "librettist": [
+            "opera text writer",
+            "wrote libretto for"
+        ],
+        "camera setup": [
+            "filming technique used",
+            "uses camera setup"
+        ],
+        "recorded at studio or venue": [
+            "recording location",
+            "location of recording"
+        ],
+        "filmography": [
+            "list of films",
+            "films of"
+        ],
+        "illustrator": [
+            "book artist",
+            "illustrated by"
+        ],
+        "broadcast by": [
+            "network broadcaster",
+            "broadcasts show"
+        ],
+        "soundtrack release": [
+            "album release",
+            "released soundtrack"
+        ],
+        "superhuman feature or ability": [
+            "superpower possessed",
+            "has superpower"
+        ],
+        "storyboard artist": [
+            "visual story creator",
+            "created storyboard for"
+        ],
+        "discography": [
+            "list of recordings",
+            "recordings by"
+        ],
+        "depicted by": [
+            "represented in work",
+            "work depicts"
+        ],
+        "fictional or mythical analog of": [
+            "fictional counterpart",
+            "counterpart in fiction"
+        ],
+        "list of monuments": [
+            "monuments catalog",
+            "cataloged monuments"
+        ],
+        "crew member": [
+            "team participant",
+            "participated in mission"
+        ],
+        "commemorates": [
+            "honors memory of",
+            "memorialized by"
+        ],
+        "drafted by": [
+            "selected by team",
+            "team drafted"
+        ],
+        "motto": [
+            "slogan used",
+            "used as motto"
+        ],
+        "fictional universe described in": [
+            "universe depicted in",
+            "describes fictional universe"
+        ],
+        "theme music": [
+            "musical signature",
+            "signature music for"
+        ],
+        "recording or performance of": [
+            "performance captured",
+            "captured performance by"
+        ]
+    }
+}

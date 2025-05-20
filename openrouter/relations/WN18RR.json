@@ -1,0 +1,28 @@
+{
+	"Relations": [
+		"_also_see",
+		"_derivationally_related_form",
+		"_has_part",
+		"_hypernym",
+		"_instance_hypernym",
+		"_member_meronym",
+		"_member_of_domain_region",
+		"_member_of_domain_usage",
+		"_similar_to",
+		"_synset_domain_topic_of",
+		"_verb_group"
+	],
+	"Examples": [
+		["write.v.01","_also_see","write_out.v.01"],
+		["cover.v.01","_derivationally_related_form","binding.n.05"],
+		["department_of_justice.n.01","_has_part","federal_bureau_of_investigation.n.01"],
+		["land_reform.n.01","_hypernym","reform.n.01"],
+		["kamet.n.01","_instance_hypernym","mountain_peak.n.01"],
+		["personalized.s.02","_member_meronym","acarina.n.01"],
+		["europe.n.01","_member_of_domain_region","megalith.n.01"],
+		["ethnic_slur.n.01","_member_of_domain_usage","darky.n.01"],
+		["aesthetic.s.03","_similar_to","tasteful.a.01"],
+		["land_reform.n.01","_synset_domain_topic_of","government.n.02"],
+		["cover.v.01","_verb_group","overlay.v.01"]
+	]
+}

@@ -1,0 +1,261 @@
+{
+    "cleaned_relations": {
+        "cast member": "Cast Member",
+        "member of": "Member Of",
+        "occupation": "Occupation",
+        "country of citizenship": "Country of Citizenship",
+        "educated at": "Educated At",
+        "ethnic group": "Ethnic Group",
+        "narrative location": "Narrative Location",
+        "diplomatic relation": "Diplomatic Relation",
+        "cause of death": "Cause of Death",
+        "country": "Country",
+        "genre": "Genre",
+        "languages spoken, written or signed": "Languages Spoken, Written or Signed",
+        "headquarters location": "Headquarters Location",
+        "place of birth": "Place of Birth",
+        "instrument": "Instrument",
+        "employer": "Employer",
+        "movement": "Movement",
+        "record label": "Record Label",
+        "country of origin": "Country of Origin",
+        "continent": "Continent",
+        "member of political party": "Member of Political Party",
+        "residence": "Residence",
+        "place of death": "Place of Death",
+        "influenced by": "Influenced By",
+        "place of burial": "Place of Burial",
+        "religion or worldview": "Religion or Worldview",
+        "sport": "Sport",
+        "field of work": "Field of Work",
+        "director": "Director",
+        "sibling": "Sibling",
+        "child": "Child",
+        "unmarried partner": "Unmarried Partner",
+        "medical condition": "Medical Condition",
+        "spouse": "Spouse",
+        "language of work or name": "Language of Work or Name",
+        "official language": "Official Language",
+        "founded by": "Founded By",
+        "located in the administrative territorial entity": "Located in Administrative Territorial Entity",
+        "parent organization": "Parent Organization",
+        "part of": "Part Of",
+        "location of formation": "Location of Formation",
+        "time period": "Time Period",
+        "named after": "Named After",
+        "author": "Author",
+        "industry": "Industry",
+        "uses": "Uses",
+        "practiced by": "Practiced By",
+        "member of sports team": "Member of Sports Team",
+        "airline hub": "Airline Hub",
+        "product or material produced": "Product or Material Produced",
+        "symptoms and signs": "Symptoms and Signs"
+    },
+    "relation_descriptions": {
+        "cast member": [
+            "appears in media",
+            "includes performer"
+        ],
+        "member of": [
+            "part of organization",
+            "organization includes"
+        ],
+        "occupation": [
+            "person's job role",
+            "role held by person"
+        ],
+        "country of citizenship": [
+            "citizen of country",
+            "country has citizen"
+        ],
+        "educated at": [
+            "studied at institution",
+            "institution educated person"
+        ],
+        "ethnic group": [
+            "person's ethnic identity",
+            "ethnic group includes"
+        ],
+        "narrative location": [
+            "story set in",
+            "setting of story"
+        ],
+        "diplomatic relation": [
+            "international country ties",
+            "related diplomatically to"
+        ],
+        "cause of death": [
+            "reason for death",
+            "results in death"
+        ],
+        "country": [
+            "entity's nation",
+            "nation contains entity"
+        ],
+        "genre": [
+            "media's category type",
+            "category applies to media"
+        ],
+        "languages spoken, written or signed": [
+            "communicates in language",
+            "language used by communicator"
+        ],
+        "headquarters location": [
+            "main office location",
+            "location hosts headquarters"
+        ],
+        "place of birth": [
+            "birthplace of person",
+            "person born in location"
+        ],
+        "instrument": [
+            "plays musical tool",
+            "musical tool played by"
+        ],
+        "employer": [
+            "works for organization",
+            "organization employs"
+        ],
+        "movement": [
+            "associated cultural trend",
+            "trend involves entity"
+        ],
+        "record label": [
+            "music label signed to",
+            "label includes artist"
+        ],
+        "country of origin": [
+            "originates from nation",
+            "nation of origin for"
+        ],
+        "continent": [
+            "located on continent",
+            "continent contains location"
+        ],
+        "member of political party": [
+            "affiliated with party",
+            "party includes member"
+        ],
+        "residence": [
+            "location lived in",
+            "location inhabited by"
+        ],
+        "place of death": [
+            "death occurred in",
+            "location of death"
+        ],
+        "influenced by": [
+            "affected by others",
+            "inspires subject"
+        ],
+        "place of burial": [
+            "buried in location",
+            "location holds grave"
+        ],
+        "religion or worldview": [
+            "belief system followed",
+            "followers of worldview"
+        ],
+        "sport": [
+            "engages in sport",
+            "sport practiced by"
+        ],
+        "field of work": [
+            "area of expertise",
+            "domain involves worker"
+        ],
+        "director": [
+            "created by director",
+            "director creates work"
+        ],
+        "sibling": [
+            "shares sibling relation",
+            "shares sibling relation"
+        ],
+        "child": [
+            "offspring of person",
+            "parent of person"
+        ],
+        "unmarried partner": [
+            "romantic member",
+            "partnered with"
+        ],
+        "medical condition": [
+            "health issue affects",
+            "causes health issue"
+        ],
+        "spouse": [
+            "married individual",
+            "married to"
+        ],
+        "language of work or name": [
+            "created in language",
+            "language of creation"
+        ],
+        "official language": [
+            "designated language",
+            "recognized in region"
+        ],
+        "founded by": [
+            "initiated by founder",
+            "founder initiates"
+        ],
+        "located in the administrative territorial entity": [
+            "exists in territory",
+            "territory contains location"
+        ],
+        "parent organization": [
+            "managing organization",
+            "organization manages"
+        ],
+        "part of": [
+            "subset within whole",
+            "whole includes part"
+        ],
+        "location of formation": [
+            "formed in location",
+            "location formed entity"
+        ],
+        "time period": [
+            "associated time frame",
+            "time frame includes"
+        ],
+        "named after": [
+            "derives name from",
+            "source of name for"
+        ],
+        "author": [
+            "written by creator",
+            "creator wrote work"
+        ],
+        "industry": [
+            "connected to sector",
+            "sector includes entity"
+        ],
+        "uses": [
+            "utilizes tool/resource",
+            "tool/resource utilized by"
+        ],
+        "practiced by": [
+            "performed by group",
+            "group performs activity"
+        ],
+        "member of sports team": [
+            "affiliated with team",
+            "team includes player"
+        ],
+        "airline hub": [
+            "operates hub from",
+            "hub hosted by location"
+        ],
+        "product or material produced": [
+            "creates product/material",
+            "material created by"
+        ],
+        "symptoms and signs": [
+            "displays illness indicators",
+            "indicators belong to"
+        ]
+    }
+}

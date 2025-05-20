@@ -1,0 +1,24 @@
+{
+	"Relations": [
+		"_derivationally_related_form",
+		"_has_part",
+		"_hypernym",
+		"_also_see",
+		"_verb_group",
+		"_member_meronym",
+		"_synset_domain_topic_of",
+		"_similar_to",
+		"_instance_hypernym"
+	],
+	"Examples": [
+		["claim.n.01","_derivationally_related_form","claim.v.02"],
+		["cuff.n.01","_has_part","facing.n.01"],
+		["cylinder.n.03","_hypernym","chamber.n.01"],
+		["ask.v.02","_also_see","invite.v.06"],
+		["eat.v.02","_verb_group","eat.v.01"],
+		["natantia.n.01","_member_meronym","crangonidae.n.01"],
+		["geological_formation.n.01","_synset_domain_topic_of","geology.n.01"],
+		["concave.a.01","_similar_to","cupular.s.01"],
+		["peasant's_revolt.n.01","_instance_hypernym","rebellion.n.02"]
+	]
+}

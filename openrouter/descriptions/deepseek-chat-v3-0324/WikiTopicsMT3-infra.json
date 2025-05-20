@@ -1,0 +1,141 @@
+{
+    "cleaned_relations": {
+        "manufacturer": "manufacturer",
+        "adjacent station": "adjacent station",
+        "interchange station": "interchange station",
+        "connecting line": "connecting line",
+        "operator": "operator",
+        "transport network": "transport network",
+        "item operated": "item operated",
+        "airline hub": "airline hub",
+        "space launch vehicle": "space launch vehicle",
+        "track gauge": "track gauge",
+        "terminus": "terminus",
+        "vessel class": "vessel class",
+        "location of creation": "location of creation",
+        "connecting service": "connecting service",
+        "primary destinations": "primary destinations",
+        "vessel": "vessel",
+        "wing configuration": "wing configuration",
+        "located on street": "located on street",
+        "valvetrain configuration": "valvetrain configuration",
+        "engine configuration": "engine configuration",
+        "vehicle normally used": "vehicle normally used",
+        "recovered by": "recovered by",
+        "destroyed": "destroyed",
+        "main building contractor": "main building contractor",
+        "scheduled service destination": "scheduled service destination",
+        "train depot": "train depot",
+        "spacecraft bus": "spacecraft bus"
+    },
+    "relation_descriptions": {
+        "manufacturer": [
+            "produced by",
+            "manufactures"
+        ],
+        "adjacent station": [
+            "next to station",
+            "adjacent to station"
+        ],
+        "interchange station": [
+            "connects to station",
+            "interchange with station"
+        ],
+        "connecting line": [
+            "links to line",
+            "connected by line"
+        ],
+        "operator": [
+            "operated by",
+            "operates"
+        ],
+        "transport network": [
+            "part of network",
+            "includes network"
+        ],
+        "item operated": [
+            "operates item",
+            "operated by"
+        ],
+        "airline hub": [
+            "hub for airline",
+            "airline's hub"
+        ],
+        "space launch vehicle": [
+            "launched by vehicle",
+            "launches spacecraft"
+        ],
+        "track gauge": [
+            "has gauge",
+            "gauge of railway"
+        ],
+        "terminus": [
+            "ends at",
+            "terminates at"
+        ],
+        "vessel class": [
+            "class of vessel",
+            "includes vessel"
+        ],
+        "location of creation": [
+            "created at location",
+            "creation site of"
+        ],
+        "connecting service": [
+            "service connects",
+            "connected by service"
+        ],
+        "primary destinations": [
+            "leads to destination",
+            "destination of route"
+        ],
+        "vessel": [
+            "is vessel",
+            "vessel type"
+        ],
+        "wing configuration": [
+            "has wing type",
+            "wing type of"
+        ],
+        "located on street": [
+            "situated on street",
+            "street location of"
+        ],
+        "valvetrain configuration": [
+            "has valvetrain type",
+            "valvetrain type of"
+        ],
+        "engine configuration": [
+            "has engine type",
+            "engine type of"
+        ],
+        "vehicle normally used": [
+            "typically uses vehicle",
+            "vehicle used by"
+        ],
+        "recovered by": [
+            "retrieved by vessel",
+            "recovers spacecraft"
+        ],
+        "destroyed": [
+            "destroyed object",
+            "destroyer of"
+        ],
+        "main building contractor": [
+            "built by contractor",
+            "contractor built"
+        ],
+        "scheduled service destination": [
+            "serves destination",
+            "destination served by"
+        ],
+        "train depot": [
+            "depot for line",
+            "line's depot"
+        ],
+        "spacecraft bus": [
+            "bus for spacecraft",
+            "spacecraft's bus"
+        ]
+    }
+}

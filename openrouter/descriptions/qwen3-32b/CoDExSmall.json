@@ -1,0 +1,216 @@
+{
+    "cleaned_relations": {
+        "languages spoken, written or signed": "Languages Spoken/Written/Used",
+        "cause of death": "Cause of Death",
+        "member of": "Member Of",
+        "occupation": "Occupation",
+        "sibling": "Sibling",
+        "diplomatic relation": "Diplomatic Relation",
+        "continent": "Located In Continent",
+        "ethnic group": "Belongs To Ethnic Group",
+        "country of citizenship": "Citizen Of",
+        "employer": "Employed By",
+        "educated at": "Educated At",
+        "place of birth": "Born In",
+        "influenced by": "Influenced By",
+        "field of work": "Works In Field",
+        "genre": "Belongs To Genre",
+        "record label": "Signed To Label",
+        "instrument": "Plays Instrument",
+        "official language": "Official Language Is",
+        "unmarried partner": "Unmarried Partner",
+        "place of death": "Died In",
+        "country": "Member Country",
+        "religion or worldview": "Belongs To Religion/Worldview",
+        "movement": "Part Of Movement",
+        "residence": "Resides In",
+        "spouse": "Spouse",
+        "member of political party": "Member Of Party",
+        "place of burial": "Buried In",
+        "part of": "Part Of",
+        "medical condition": "Suffered From Condition",
+        "child": "Child",
+        "time period": "active during",
+        "headquarters location": "has headquarters in",
+        "narrative location": "narrative set in",
+        "location of formation": "formed in",
+        "head of state": "has head of state",
+        "named after": "named after",
+        "parent organization": "has parent organization",
+        "notable work": "has notable work",
+        "cast member": "has cast member",
+        "founded by": "founded by",
+        "country of origin": "originates from",
+        "practiced by": "practiced by"
+    },
+    "relation_descriptions": {
+        "languages spoken, written or signed": [
+            "Languages Spoken/Written/Used",
+            "Spoken/Written/Used By"
+        ],
+        "cause of death": [
+            "Cause of Death",
+            "Died From"
+        ],
+        "member of": [
+            "Member Of",
+            "Has Member"
+        ],
+        "occupation": [
+            "Occupation",
+            "Has Occupant"
+        ],
+        "sibling": [
+            "Sibling",
+            "Sibling"
+        ],
+        "diplomatic relation": [
+            "Diplomatic Relation",
+            "Has Diplomatic Relation"
+        ],
+        "continent": [
+            "Located In Continent",
+            "Has Country In Continent"
+        ],
+        "ethnic group": [
+            "Belongs To Ethnic Group",
+            "Has Ethnic Group Member"
+        ],
+        "country of citizenship": [
+            "Citizen Of",
+            "Has Citizen"
+        ],
+        "employer": [
+            "Employed By",
+            "Has Employee"
+        ],
+        "educated at": [
+            "Educated At",
+            "Has Educated Student"
+        ],
+        "place of birth": [
+            "Born In",
+            "Has Birthplace"
+        ],
+        "influenced by": [
+            "Influenced By",
+            "Influenced"
+        ],
+        "field of work": [
+            "Works In Field",
+            "Has Field Worker"
+        ],
+        "genre": [
+            "Belongs To Genre",
+            "Has Genre Work"
+        ],
+        "record label": [
+            "Signed To Label",
+            "Has Artist"
+        ],
+        "instrument": [
+            "Plays Instrument",
+            "Has Instrumentalist"
+        ],
+        "official language": [
+            "Official Language Is",
+            "Has Official Language"
+        ],
+        "unmarried partner": [
+            "Unmarried Partner",
+            "Unmarried Partner Of"
+        ],
+        "place of death": [
+            "Died In",
+            "Has Deathplace"
+        ],
+        "country": [
+            "Member Country",
+            "Has Member Country"
+        ],
+        "religion or worldview": [
+            "Belongs To Religion/Worldview",
+            "Has Religion/Worldview Follower"
+        ],
+        "movement": [
+            "Part Of Movement",
+            "Has Movement Member"
+        ],
+        "residence": [
+            "Resides In",
+            "Has Resident"
+        ],
+        "spouse": [
+            "Spouse",
+            "Spouse Of"
+        ],
+        "member of political party": [
+            "Member Of Party",
+            "Has Party Member"
+        ],
+        "place of burial": [
+            "Buried In",
+            "Has Burial Site"
+        ],
+        "part of": [
+            "Part Of",
+            "Has Part"
+        ],
+        "medical condition": [
+            "Suffered From Condition",
+            "Has Patient With Condition"
+        ],
+        "child": [
+            "Child",
+            "Parent Of"
+        ],
+        "time period": [
+            "active during",
+            "period of activity"
+        ],
+        "headquarters location": [
+            "has headquarters in",
+            "headquarters located in"
+        ],
+        "narrative location": [
+            "narrative set in",
+            "narrative location of"
+        ],
+        "location of formation": [
+            "formed in",
+            "formation location of"
+        ],
+        "head of state": [
+            "has head of state",
+            "head of state of"
+        ],
+        "named after": [
+            "named after",
+            "names after"
+        ],
+        "parent organization": [
+            "has parent organization",
+            "parent organization of"
+        ],
+        "notable work": [
+            "has notable work",
+            "notable work of"
+        ],
+        "cast member": [
+            "has cast member",
+            "cast member of"
+        ],
+        "founded by": [
+            "founded by",
+            "founder of"
+        ],
+        "country of origin": [
+            "originates from",
+            "country of origin for"
+        ],
+        "practiced by": [
+            "practiced by",
+            "practices"
+        ]
+    }
+}

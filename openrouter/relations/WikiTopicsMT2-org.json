@@ -1,0 +1,28 @@
+{
+	"Relations": [
+		"cast member",
+		"producer",
+		"film editor",
+		"member of",
+		"production company",
+		"country",
+		"employer",
+		"member of political party",
+		"parent organization",
+		"publisher",
+		"has subsidiary"
+	],
+	"Examples": [
+		["Perry Mason","cast member","Ray Collins"],
+		["The Sandpiper","producer","Martin Ransohoff"],
+		["Excalibur","film editor","John Merritt"],
+		["Gershon Shaked","member of","European Academy of Sciences and Arts"],
+		["The Game","production company","Universal Pictures"],
+		["Born Bad","country","United States"],
+		["Theo Lingen","employer","Burgtheater"],
+		["Florin-Alexandru Alexe","member of political party","National Liberal Party"],
+		["Columbia Pictures","parent organization","Sony Pictures"],
+		["A Bolt from the Blue","publisher","Gentosha"],
+		["The Walt Disney Company","has subsidiary","Marvel Entertainment"]
+	]
+}

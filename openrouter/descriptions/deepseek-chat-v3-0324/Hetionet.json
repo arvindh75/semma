@@ -1,0 +1,126 @@
+{
+    "cleaned_relations": {
+        "Gr>G": "Gene regulates Gene",
+        "GpMF": "Gene participates Molecular Function",
+        "AeG": "Anatomy expresses Gene",
+        "GpBP": "Gene participates Biological Process",
+        "GiG": "Gene interacts Gene",
+        "AuG": "Anatomy upregulates Gene",
+        "DaG": "Disease associates Gene",
+        "GpPW": "Gene participates Pathway",
+        "GcG": "Gene covaries Gene",
+        "AdG": "Anatomy downregulates Gene",
+        "CcSE": "Compound causes Side Effect",
+        "GpCC": "Gene participates Cellular Component",
+        "CdG": "Compound downregulates Gene",
+        "DlA": "Disease localizes Anatomy",
+        "DuG": "Disease upregulates Gene",
+        "CuG": "Compound upregulates Gene",
+        "DpS": "Disease presents Symptom",
+        "CbG": "Compound binds Gene",
+        "CrC": "Compound resembles Compound",
+        "DdG": "Disease downregulates Gene",
+        "PCiC": "Pharmacologic Class includes Compound",
+        "CtD": "Compound treats Disease",
+        "DrD": "Disease resembles Disease",
+        "CpD": "Compound palliates Disease"
+    },
+    "relation_descriptions": {
+        "Gr>G": [
+            "gene regulatory control",
+            "regulated by gene"
+        ],
+        "GpMF": [
+            "gene molecular function",
+            "molecular function gene"
+        ],
+        "AeG": [
+            "anatomy gene expression",
+            "expressed in anatomy"
+        ],
+        "GpBP": [
+            "gene biological process",
+            "biological process gene"
+        ],
+        "GiG": [
+            "gene interaction",
+            "interacts with gene"
+        ],
+        "AuG": [
+            "anatomy gene upregulation",
+            "upregulated in anatomy"
+        ],
+        "DaG": [
+            "disease gene association",
+            "associated with disease"
+        ],
+        "GpPW": [
+            "gene pathway involvement",
+            "pathway participant gene"
+        ],
+        "GcG": [
+            "gene covariation",
+            "covaries with gene"
+        ],
+        "AdG": [
+            "anatomy gene downregulation",
+            "downregulated in anatomy"
+        ],
+        "CcSE": [
+            "compound side effect",
+            "caused by compound"
+        ],
+        "GpCC": [
+            "gene cellular component",
+            "cellular component gene"
+        ],
+        "CdG": [
+            "compound gene downregulation",
+            "downregulated by compound"
+        ],
+        "DlA": [
+            "disease anatomical localization",
+            "localizes disease"
+        ],
+        "DuG": [
+            "disease gene upregulation",
+            "upregulated by disease"
+        ],
+        "CuG": [
+            "compound gene upregulation",
+            "upregulated by compound"
+        ],
+        "DpS": [
+            "disease symptom manifestation",
+            "symptom of disease"
+        ],
+        "CbG": [
+            "compound gene binding",
+            "binds compound"
+        ],
+        "CrC": [
+            "compound similarity",
+            "resembles compound"
+        ],
+        "DdG": [
+            "disease gene downregulation",
+            "downregulated by disease"
+        ],
+        "PCiC": [
+            "pharmacologic compound membership",
+            "member of pharmacologic class"
+        ],
+        "CtD": [
+            "compound disease treatment",
+            "treated by compound"
+        ],
+        "DrD": [
+            "disease similarity",
+            "resembles disease"
+        ],
+        "CpD": [
+            "compound disease palliation",
+            "palliated by compound"
+        ]
+    }
+}

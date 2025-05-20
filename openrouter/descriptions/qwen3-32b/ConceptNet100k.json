@@ -1,0 +1,176 @@
+{
+    "cleaned_relations": {
+        "ReceivesAction": "Receives Action",
+        "AtLocation": "At Location",
+        "HasPrerequisite": "Has Prerequisite",
+        "UsedFor": "Used For",
+        "HasA": "Has A",
+        "IsA": "Is A",
+        "NotCapableOf": "Not Capable Of",
+        "Causes": "Causes",
+        "HasSubevent": "Has Subevent",
+        "CausesDesire": "Causes Desire",
+        "HasProperty": "Has Property",
+        "Desires": "Desires",
+        "CapableOf": "Capable Of",
+        "NotIsA": "Not Is A",
+        "HasFirstSubevent": "Has First Subevent",
+        "NotHasProperty": "Not Has Property",
+        "NotDesires": "Not Desires",
+        "MotivatedByGoal": "Motivated By Goal",
+        "HasLastSubevent": "Has Last Subevent",
+        "PartOf": "Part Of",
+        "MadeOf": "Made Of",
+        "RelatedTo": "Related To",
+        "DefinedAs": "Defined As",
+        "NotHasA": "Not Has A",
+        "SymbolOf": "Symbol Of",
+        "CreatedBy": "Created By",
+        "NotMadeOf": "Not Made Of",
+        "InstanceOf": "Instance Of",
+        "DesireOf": "Desire Of",
+        "InheritsFrom": "Inherits From",
+        "LocatedNear": "located near",
+        "HasPainCharacter": "has pain type",
+        "HasPainIntensity": "has pain intensity",
+        "LocationOfAction": "has action location"
+    },
+    "relation_descriptions": {
+        "ReceivesAction": [
+            "Entity receives an action",
+            "Action is received by entity"
+        ],
+        "AtLocation": [
+            "Entity is located at a place",
+            "Place contains entity"
+        ],
+        "HasPrerequisite": [
+            "Entity requires a prerequisite",
+            "Prerequisite is required for entity"
+        ],
+        "UsedFor": [
+            "Entity is used for a purpose",
+            "Purpose is fulfilled by entity"
+        ],
+        "HasA": [
+            "Entity has a component",
+            "Component belongs to entity"
+        ],
+        "IsA": [
+            "Entity is a type of another",
+            "Entity is a category of another"
+        ],
+        "NotCapableOf": [
+            "Entity cannot perform an action",
+            "Action is not performed by entity"
+        ],
+        "Causes": [
+            "Entity causes an effect",
+            "Effect is caused by entity"
+        ],
+        "HasSubevent": [
+            "Entity has a subevent",
+            "Subevent is part of entity"
+        ],
+        "CausesDesire": [
+            "Entity causes a desire",
+            "Desire is caused by entity"
+        ],
+        "HasProperty": [
+            "Entity has a property",
+            "Property is possessed by entity"
+        ],
+        "Desires": [
+            "Entity desires something",
+            "Something is desired by entity"
+        ],
+        "CapableOf": [
+            "Entity can perform an action",
+            "Action is performed by entity"
+        ],
+        "NotIsA": [
+            "Entity is not a type of another",
+            "Entity is not a category of another"
+        ],
+        "HasFirstSubevent": [
+            "Entity has a first subevent",
+            "First subevent is part of entity"
+        ],
+        "NotHasProperty": [
+            "Entity does not have a property",
+            "Property is not possessed by entity"
+        ],
+        "NotDesires": [
+            "Entity does not desire something",
+            "Something is not desired by entity"
+        ],
+        "MotivatedByGoal": [
+            "Entity is motivated by a goal",
+            "Goal motivates entity"
+        ],
+        "HasLastSubevent": [
+            "Entity has a last subevent",
+            "Last subevent is part of entity"
+        ],
+        "PartOf": [
+            "Entity is part of another",
+            "Entity is composed of another"
+        ],
+        "MadeOf": [
+            "Entity is made of a material",
+            "Material composes entity"
+        ],
+        "RelatedTo": [
+            "Entity is related to another",
+            "Entity is related to another"
+        ],
+        "DefinedAs": [
+            "Entity is defined as something",
+            "Something defines entity"
+        ],
+        "NotHasA": [
+            "Entity does not have a component",
+            "Component does not belong to entity"
+        ],
+        "SymbolOf": [
+            "Entity symbolizes something",
+            "Something is symbolized by entity"
+        ],
+        "CreatedBy": [
+            "Entity is created by something",
+            "Something creates entity"
+        ],
+        "NotMadeOf": [
+            "Entity is not made of a material",
+            "Material does not compose entity"
+        ],
+        "InstanceOf": [
+            "Entity is an instance of a category",
+            "Category includes entity"
+        ],
+        "DesireOf": [
+            "Entity is desired by someone",
+            "Someone desires entity"
+        ],
+        "InheritsFrom": [
+            "Entity inherits from another",
+            "Entity is inherited by another"
+        ],
+        "LocatedNear": [
+            "is near",
+            "is near"
+        ],
+        "HasPainCharacter": [
+            "has pain type",
+            "is pain type of"
+        ],
+        "HasPainIntensity": [
+            "has pain intensity",
+            "is intensity of"
+        ],
+        "LocationOfAction": [
+            "has action location",
+            "is location of action"
+        ]
+    }
+}

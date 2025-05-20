@@ -1,0 +1,86 @@
+{
+    "cleaned_relations": {
+        "subclass of": "Subclass Of",
+        "taxon rank": "Taxon Rank",
+        "parent taxon": "Parent Taxon",
+        "languages spoken, written or signed": "Languages Spoken, Written, or Signed",
+        "writing system": "Writing System",
+        "programmed in": "Programmed In",
+        "operating system": "Operating System",
+        "endemic to": "Endemic To",
+        "genetic association": "Genetic Association",
+        "found in taxon": "Found in Taxon",
+        "original language of film or TV show": "Original Language of Film or TV Show",
+        "language of work or name": "Language of Work or Name",
+        "powered by": "Powered By",
+        "native language": "Native Language",
+        "discoverer or inventor": "Discoverer or Inventor",
+        "Gram staining": "Gram Staining"
+    },
+    "relation_descriptions": {
+        "subclass of": [
+            "is a subclass of",
+            "has subclass"
+        ],
+        "taxon rank": [
+            "biological classification rank",
+            "rank of biological classification"
+        ],
+        "parent taxon": [
+            "immediate higher taxon",
+            "immediate lower taxon"
+        ],
+        "languages spoken, written or signed": [
+            "spoken or written language",
+            "spoken or written by"
+        ],
+        "writing system": [
+            "script used for writing",
+            "used by writing system"
+        ],
+        "programmed in": [
+            "programming language used",
+            "used to program"
+        ],
+        "operating system": [
+            "software platform used",
+            "platform supports"
+        ],
+        "endemic to": [
+            "native to location",
+            "location hosts endemic species"
+        ],
+        "genetic association": [
+            "linked to genetic trait",
+            "genetic trait linked to"
+        ],
+        "found in taxon": [
+            "present in species",
+            "species contains"
+        ],
+        "original language of film or TV show": [
+            "film's original language",
+            "language used in film"
+        ],
+        "language of work or name": [
+            "language of creation",
+            "creation in language"
+        ],
+        "powered by": [
+            "energy source used",
+            "provides energy to"
+        ],
+        "native language": [
+            "person's first language",
+            "language spoken by native"
+        ],
+        "discoverer or inventor": [
+            "person who discovered",
+            "discovery or invention of"
+        ],
+        "Gram staining": [
+            "bacterial staining type",
+            "staining type of bacteria"
+        ]
+    }
+}

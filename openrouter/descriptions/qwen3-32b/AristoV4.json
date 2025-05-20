@@ -1,0 +1,7941 @@
+{
+  "cleaned_relations": {
+    "has-part": "has part",
+    "have": "has",
+    "isa": "is a",
+    "use": "uses",
+    "eat": "eats",
+    "excavate": "excavates",
+    "search for": "searches for",
+    "look like": "looks like",
+    "hide in": "hides in",
+    "keep": "keeps",
+    "lie on": "rest in position",
+    "occur in": "exist in environment",
+    "detect": "identify threat",
+    "dig": "create excavation",
+    "reach": "attain stage",
+    "survive": "endure threat",
+    "enjoy": "derive pleasure from",
+    "live in": "reside in structure",
+    "stay with": "remain with parent",
+    "make": "produce substance",
+    "survive in": "Survive in",
+    "hunt at": "Hunt at",
+    "consume": "Consume",
+    "defend": "Defend",
+    "prefer": "Prefer",
+    "inhabit": "Inhabit",
+    "is-part-of": "Is part of",
+    "help": "Help",
+    "trigger": "Trigger",
+    "excrete": "Excrete",
+    "produce": "produce",
+    "pump": "pump",
+    "follow": "follow",
+    "surround": "surround",
+    "cause": "cause",
+    "cover": "cover",
+    "be behind": "is behind",
+    "contribute to": "contributes to",
+    "explain": "explain",
+    "influence": "influence",
+    "increase over": "Increase over",
+    "provide": "Provide",
+    "relate to": "Relate to",
+    "translate into": "Translate into",
+    "depend on": "Depend on",
+    "lead to": "Lead to",
+    "increase": "Increase",
+    "require": "Require",
+    "affect": "Affect",
+    "result in": "Result in",
+    "cause by": "caused by",
+    "support": "supported by",
+    "take": "takes place in",
+    "form": "forms into",
+    "arise from": "arises from",
+    "associate with": "associated with",
+    "change over": "changes over",
+    "result from": "results from",
+    "include": "includes",
+    "alter": "alters",
+    "occur after": "occur after",
+    "prevent": "prevent",
+    "indicate": "indicate",
+    "illustrate": "illustrate",
+    "apply to": "apply to",
+    "show": "show",
+    "may have": "may have",
+    "create": "create",
+    "present": "present",
+    "can have": "can have",
+    "encourage": "encourage",
+    "enter": "enter",
+    "begin in": "begin in",
+    "involve": "involve",
+    "enhance": "enhance",
+    "promote": "promote",
+    "depend upon": "depend on",
+    "lower": "lower",
+    "impact": "impact",
+    "decrease over": "decrease over",
+    "damage": "damage",
+    "vary over": "vary over",
+    "correspond to": "correspond to",
+    "decline over": "decline over",
+    "occur during": "occur during",
+    "find in": "find in",
+    "reduce": "reduce",
+    "produce by": "produce by",
+    "develop": "develop",
+    "grow in": "grow in",
+    "benefit from": "benefits from",
+    "plant in": "planted in",
+    "tolerate": "tolerates",
+    "assist": "assists",
+    "focus on": "focuses on",
+    "improve": "improves",
+    "bring": "brings",
+    "constitute": "constitutes",
+    "contain": "contains",
+    "secrete": "secretes",
+    "serve": "perform function",
+    "absorb": "absorb light",
+    "near": "located near",
+    "undergo": "undergo development",
+    "add": "add secretion",
+    "need": "require treatment",
+    "happen in": "occur in condition",
+    "raise": "raise doubt",
+    "occur at": "occur at location",
+    "kill": "cause death",
+    "claim": "claim",
+    "rely on": "rely on",
+    "exceed": "exceed",
+    "would have": "would have",
+    "become": "become",
+    "exacerbate": "exacerbate",
+    "fill": "fill",
+    "stimulate": "stimulate",
+    "induce": "induce",
+    "limit": "limit",
+    "ensure": "ensure",
+    "offer": "offer",
+    "break down": "break down",
+    "combine with": "combine with",
+    "destroy": "destroy",
+    "dissolve": "dissolve",
+    "come into": "come into",
+    "burn": "burn",
+    "derive from": "derive from",
+    "deter": "deter",
+    "impair": "hinder function",
+    "irritate": "cause inflammation",
+    "produce during": "generate during process",
+    "inhibit": "prevent growth",
+    "receive": "gain attention",
+    "attack": "damage structure",
+    "catalyze": "accelerate reaction",
+    "form by": "form from source",
+    "mix with": "combine substances",
+    "need for": "require process",
+    "protect": "protects",
+    "to treat": "treats",
+    "accumulate in": "accumulates in",
+    "be synthesize from": "is synthesized from",
+    "bind to": "binds to",
+    "change": "changes",
+    "come from": "comes from",
+    "consist of": "consists of",
+    "excrete by": "is excreted by",
+    "help in": "helps in",
+    "interfere with": "interfere with",
+    "involve in": "involve in",
+    "pass through": "pass through",
+    "release": "release",
+    "generate by": "generate by",
+    "act as": "act as",
+    "be deposit in": "be deposited in",
+    "facilitate": "facilitate",
+    "make up": "make up",
+    "play": "play",
+    "release by": "released by",
+    "require for": "required for",
+    "secrete by": "secreted by",
+    "suppress": "suppresses",
+    "carry": "carries",
+    "circulate in": "circulates in",
+    "dissolve in": "dissolves in",
+    "fall as": "falls as",
+    "fall to": "falls to",
+    "convert": "converts",
+    "measure": "measures substance",
+    "appear in": "appears in context",
+    "build up in": "builds up in tissue",
+    "use for": "utilized for purpose",
+    "flow into": "enters water body",
+    "draw": "attracts focus",
+    "develop into": "transforms into entity",
+    "emerge in": "appears in season",
+    "hide": "conceals characteristic",
+    "perform": "executes action",
+    "die during": "Die During",
+    "enable": "Enable",
+    "could have": "Could Have",
+    "have have": "Have Have",
+    "fire": "Fire",
+    "benefit": "Benefit",
+    "pose": "Pose",
+    "take by": "Take By",
+    "threaten": "Threaten",
+    "reflect": "Reflect",
+    "save": "Save",
+    "need to": "Require",
+    "remain in": "Stay in",
+    "last for": "Last for",
+    "lose": "Lose",
+    "aim at": "Target",
+    "increase during": "Increase during",
+    "generate": "Generate",
+    "introduce": "Introduce",
+    "conduct by": "Conducted by",
+    "decline during": "decline during",
+    "demonstrate": "demonstrate",
+    "incorporate": "incorporate",
+    "offer to": "offer to",
+    "yield": "yield",
+    "combine": "combine",
+    "decrease": "decrease",
+    "perform by": "perform by",
+    "span": "span",
+    "teach": "teach",
+    "demand": "requires",
+    "observe in": "observed in",
+    "emphasize": "emphasizes",
+    "provide by": "provided by",
+    "expose": "exposes",
+    "harm": "harms",
+    "determine": "determines",
+    "eliminate": "eliminates",
+    "allow": "allows",
+    "experience": "experiences",
+    "learn": "learn",
+    "begin": "begin",
+    "communicate with": "communicate with",
+    "do": "do",
+    "hold": "hold",
+    "participate in": "participate in",
+    "take on": "take on",
+    "wear": "wear",
+    "appear on": "appear on",
+    "die at": "die at",
+    "die of": "Die of",
+    "gain": "Gain",
+    "display": "Display",
+    "know for": "Know for",
+    "want": "Want",
+    "meet with": "Meet with",
+    "pose for": "Pose for",
+    "retain": "Retain",
+    "sustain": "Sustain",
+    "attend": "Attend",
+    "collect": "collect",
+    "complain of": "complain of",
+    "serve as": "serve as",
+    "die in": "die in",
+    "leave behind": "leave behind",
+    "be diagnose with": "be diagnosed with",
+    "commit": "commit",
+    "throw": "throw",
+    "return to": "return to",
+    "work in": "work in",
+    "deliver": "deliver baby",
+    "characterize by": "characterized by symptom",
+    "follow by": "followed by phase",
+    "feature": "ad features image",
+    "mediate by": "mediated by antibody",
+    "will have": "will have result",
+    "possess": "has hoof",
+    "roam": "roams in desert",
+    "live on": "lives on steppe",
+    "escape from": "escapes from hold pen",
+    "live at": "resides in location",
+    "sport": "has sport",
+    "conserve": "conserves resource",
+    "exist in": "exists in area",
+    "capture by": "captured by entity",
+    "emerge from": "emerges from state",
+    "bite": "bites target",
+    "mate during": "mates during season",
+    "strike": "strikes target",
+    "go into": "enters state",
+    "swallow": "swallow",
+    "prey on": "prey on",
+    "to digest": "digest",
+    "feed on": "feed on",
+    "govern": "govern",
+    "suggest": "suggest",
+    "concern": "concern",
+    "reveal": "reveal",
+    "infect": "infect",
+    "encode": "encode",
+    "occupy": "occupy",
+    "attract": "attract",
+    "express": "express",
+    "deal with": "deal with",
+    "recommend": "recommend",
+    "coordinate": "coordinate",
+    "maintain": "maintain",
+    "to join": "join",
+    "supervise": "supervise",
+    "send": "send",
+    "organize": "organize",
+    "investigate": "investigate",
+    "share": "share",
+    "work on": "work on",
+    "find": "find",
+    "work": "work",
+    "conduct": "conduct",
+    "to experience": "experience",
+    "to engage in": "engage in",
+    "be near": "be near",
+    "weigh": "weighs",
+    "move to": "moves to",
+    "range in": "ranges in",
+    "care for": "cares for",
+    "drink": "drinks",
+    "exhibit": "exhibits",
+    "get": "gets",
+    "go through": "goes through",
+    "live for": "lives for",
+    "reside in": "resides in",
+    "seek": "seeks",
+    "to consume": "consumes",
+    "talk to": "talks to",
+    "suffer from": "suffers from",
+    "compete for": "competes for",
+    "leave": "leaves",
+    "pay": "pays",
+    "sit in": "sits in",
+    "spend": "spends",
+    "breathe": "breathes",
+    "range from": "has lower bound",
+    "infest": "parasitizes host",
+    "arrive at": "reaches destination",
+    "attain": "achieves maximum",
+    "establish": "creates home",
+    "survive for": "endures duration",
+    "return": "returns to location",
+    "parasitize": "parasitizes host",
+    "choose": "selects item",
+    "derive": "gains advantage",
+    "do have": "has",
+    "ingest": "consumes",
+    "live up to": "has maximum lifespan",
+    "open": "opens",
+    "suffer": "experiences",
+    "live along": "resides along",
+    "drive": "affects",
+    "develop in": "develops in",
+    "move into": "migrates to",
+    "feed": "nourishes",
+    "grow to": "grows to",
+    "migrate to": "migrates to",
+    "vary in": "varies in",
+    "resemble": "resembles",
+    "suck": "sucks",
+    "examine": "examines",
+    "love": "loves",
+    "travel to": "travels to",
+    "abuse": "abuses",
+    "move": "moves to",
+    "look for": "look for",
+    "be care for": "care for",
+    "die before": "die before",
+    "escape": "escape",
+    "invade": "invade",
+    "remove": "remove",
+    "report": "report",
+    "smoke": "smoke",
+    "push": "push",
+    "harass": "harass",
+    "feel": "Experience skill",
+    "handle": "Manage medical issue",
+    "learn about": "Acquire knowledge",
+    "move from": "Relocate origin",
+    "stay in": "Reside at location",
+    "alert": "Notify individual",
+    "nest on": "Establish nesting site",
+    "die from": "Cause death by",
+    "inflict": "Cause physical harm",
+    "use in": "Utilize for purpose",
+    "avoid": "avoid",
+    "lack": "lack",
+    "chew": "chew",
+    "only have": "has only",
+    "migrate from": "migrate from",
+    "recover from": "recover from",
+    "remain with": "remain with",
+    "accompany": "accompany",
+    "to understand": "understand",
+    "use by": "used by",
+    "be engage in": "be engaged in",
+    "lie in": "lie in",
+    "outweigh": "outweigh",
+    "experience by": "experience by",
+    "base on": "base on",
+    "give by": "give by",
+    "must have": "must have",
+    "see": "see",
+    "adapt to": "adapt to",
+    "kill by": "kill by",
+    "understand": "understand",
+    "graze on": "graze on",
+    "belong to": "belong to",
+    "thrive in": "thrive in",
+    "assume": "assume",
+    "life in": "live in",
+    "interact with": "interact with",
+    "be classify as": "be classified as",
+    "affect by": "is affected by",
+    "relate": "relate to",
+    "be calculate by": "calculated by",
+    "adopt": "adopts",
+    "dedicate to": "dedicated to",
+    "employ": "employs",
+    "estimate": "estimates",
+    "represent": "represents",
+    "launch": "launches",
+    "specialize in": "specializes in",
+    "to take": "takes",
+    "operate": "operates",
+    "hire": "hire",
+    "issue": "issue",
+    "recognize": "recognize",
+    "work with": "work with",
+    "request": "request",
+    "identify": "identify",
+    "respond to": "respond to",
+    "test": "test",
+    "confirm": "confirm",
+    "visit": "visit",
+    "be assign to": "be assigned to",
+    "be saturate with": "be saturated with",
+    "flow through": "flow through",
+    "be expel from": "be expelled from",
+    "move through": "move through",
+    "pass over": "pass over",
+    "pass to": "pass to",
+    "transfer": "transfer",
+    "travels through": "travels through",
+    "dissipate": "dissipate",
+    "flow to": "Flow To",
+    "hit": "Hit",
+    "meet": "Meet",
+    "pass from": "Pass From",
+    "force": "Force",
+    "fill with": "Fill With",
+    "supply": "Supply",
+    "oppose": "Oppose",
+    "aid in": "Aid In",
+    "control": "Control",
+    "saturate with": "saturate with",
+    "travels to": "travels to",
+    "pass into": "pass into",
+    "flow over": "flow over",
+    "turn into": "turn into",
+    "react with": "react with",
+    "flow from": "flow from",
+    "fly in": "fly in",
+    "flap": "flap",
+    "nest in": "nest in",
+    "dive into": "dive into a medium",
+    "steal": "take something unlawfully",
+    "sentence to": "impose a legal punishment",
+    "sell": "transfer ownership for payment",
+    "hang from": "suspend from a support",
+    "consume by": "ingested by an entity",
+    "be assign": "be assigned a task",
+    "grow on": "develop on a surface",
+    "carry out": "perform an action",
+    "live within": "reside inside a structure",
+    "vary throughout": "varies throughout",
+    "neutralize": "neutralizes",
+    "vary among": "varies among",
+    "run in": "runs in",
+    "submerge": "submerges",
+    "achieve": "achieves",
+    "submerge in": "submerges in",
+    "pick up": "picks up",
+    "live to": "lives to",
+    "be harvest for": "is harvested for",
+    "build": "built by",
+    "emit": "emitted by",
+    "break": "broken by",
+    "make of": "composed of",
+    "encounter": "encountered by",
+    "reach up to": "reached by",
+    "grow as": "grows as",
+    "start": "started by",
+    "mark": "marked by",
+    "starve to": "starved to by",
+    "regulate": "regulates production",
+    "to solve": "solves problem",
+    "to explain": "explains pattern",
+    "discover": "discovers object",
+    "capture": "captures type",
+    "give": "gives to person",
+    "adapt for": "adapts for survival",
+    "subsist on": "subsists on food",
+    "get into": "enters trouble",
+    "have short": "has short limb",
+    "be find near": "is found near",
+    "be descend from": "descends from",
+    "transmit": "transmits",
+    "lead": "leads a",
+    "pursue": "pursues",
+    "breastfeed": "breastfeeds",
+    "publish": "publishes",
+    "flower in": "flowers in",
+    "migrate in": "migrates in",
+    "dive for": "dives for",
+    "to stay with": "stays with",
+    "store": "stores",
+    "sing": "sings",
+    "plant": "plants",
+    "grow into": "grows into",
+    "catch": "catches",
+    "obtain": "obtains",
+    "climb": "climbs",
+    "consider": "considers",
+    "shed": "sheds",
+    "record": "record",
+    "earn": "earn",
+    "feed at": "feed at",
+    "slaughter": "slaughter",
+    "disperse": "disperse",
+    "excrete in": "excrete in",
+    "be incorporate into": "be incorporated into",
+    "flow out of": "flow out of",
+    "digest": "digest",
+    "vary from": "vary from",
+    "equal": "is equal to",
+    "exist on": "exists on",
+    "feed upon": "feeds on",
+    "live near": "lives near",
+    "swim in": "swims in",
+    "is located in": "is located in",
+    "feed in": "feeds in",
+    "hunt": "hunts",
+    "breathe through": "breathes through",
+    "close": "closes",
+    "hibernate during": "hibernates during",
+    "complete": "completes",
+    "float in": "floats in",
+    "is known as": "is known as",
+    "shake": "shakes",
+    "to adapt to": "adapts to",
+    "accumulate": "accumulates",
+    "give birth to": "gives birth to",
+    "sit on": "sits on",
+    "cross": "crosses",
+    "accelerate": "accelerate",
+    "look at": "examine",
+    "solve": "resolve",
+    "compare": "compare",
+    "assess": "evaluate",
+    "be present in": "is present in",
+    "to investigate": "investigate",
+    "to evaluate": "evaluate",
+    "to study": "study",
+    "grow": "grow",
+    "evolve from": "evolve from",
+    "also have": "also have",
+    "realize": "realize",
+    "live about": "live about",
+    "evolved from": "evolved from",
+    "ride": "ride",
+    "study": "study",
+    "gather": "gather",
+    "join": "join",
+    "like": "like",
+    "engage in": "engages in",
+    "advise": "advises",
+    "develop over": "develops over",
+    "bloom in": "blooms in",
+    "bear": "bears",
+    "chase": "chases",
+    "watch": "watches",
+    "want to": "wants to",
+    "write by": "written by",
+    "roll up into": "rolls up into",
+    "forage for": "forages for",
+    "hear": "hears",
+    "acquire": "acquires",
+    "cope with": "copes with",
+    "lift": "lifts",
+    "mate with": "mates with",
+    "need to drink": "needs to drink",
+    "utilize": "utilizes",
+    "stand on": "stands on",
+    "harbor": "harbors",
+    "hide from": "hide from",
+    "live out": "live out",
+    "locate": "locate",
+    "take up": "take up",
+    "to drink": "to drink",
+    "to kill": "to kill",
+    "descend from": "descend from",
+    "expel": "expel",
+    "expend": "expend",
+    "fight for": "fight for",
+    "forage in": "forages in environment",
+    "graze": "grazes in area",
+    "is inside": "is inside environment",
+    "is located on": "is located on continent",
+    "live during": "lives during time",
+    "select": "selects certain place",
+    "swing": "swings head",
+    "target": "targets large prey",
+    "to search for": "searches for food",
+    "walk on": "walks on foot",
+    "remain": "Remain as",
+    "observe": "Observe behavior",
+    "prepare": "Prepare meal",
+    "approach": "Approach maturity",
+    "beg for": "Beg for food",
+    "bury": "Bury egg",
+    "come to": "Come to clean water",
+    "deposit": "Deposit dung",
+    "eat by": "Eat by animal",
+    "evolve over": "Evolve over time",
+    "go to": "Go to",
+    "graze in": "Graze in",
+    "gulp": "Gulp",
+    "hunt for": "Hunt for",
+    "hunt in": "Hunt in",
+    "play in": "Play in",
+    "seek out": "Seek out",
+    "survive on": "Survive on",
+    "take in": "Take in",
+    "to live": "To live",
+    "to move": "move using",
+    "wait for": "wait for",
+    "rest on": "rest on",
+    "survive to": "survive to",
+    "appear during": "appear during",
+    "attack by": "attacked by",
+    "dominate": "dominate",
+    "exploit": "exploit",
+    "from enter": "enter from",
+    "populate": "populate",
+    "spread": "spreads disease",
+    "stretch": "stretches foot",
+    "switch": "switches diet",
+    "classify as": "classifies as reptile",
+    "evolve into": "evolves into breed",
+    "find on": "found on farm",
+    "hibernate in": "hibernates in winter",
+    "infect with": "infects with organism",
+    "pollinate": "pollinates plant",
+    "pull": "pulls prey",
+    "regenerate": "regenerate",
+    "run across": "run across",
+    "sense": "sense",
+    "swim through": "swim through",
+    "swim to": "swim to",
+    "to conserve": "conserve",
+    "to cope with": "cope with",
+    "to survive in": "survive in",
+    "touch": "touch",
+    "be bite by": "is bitten by",
+    "burrow into": "Burrow into",
+    "come out at": "Come out at",
+    "confront": "Confront",
+    "construct": "Construct",
+    "feed by": "Feed by",
+    "get eat by": "Get eat by",
+    "grasp": "Grasp",
+    "outrun": "Outrun",
+    "roll into": "Roll into",
+    "to escape": "To escape",
+    "to hunt": "hunts",
+    "jump over": "jumps over",
+    "stand in": "stands in",
+    "bleed to": "bleeds to",
+    "feed during": "feeds during",
+    "injure": "injures",
+    "is located at": "is located at",
+    "keep as": "keeps as",
+    "point": "points",
+    "regrow": "regrows",
+    "say in": "is mentioned in",
+    "swim across": "traverses",
+    "treat with": "administered with",
+    "hate": "hates",
+    "catch in": "is caught in",
+    "compete with": "competes with",
+    "emerge at": "emerges at",
+    "freeze in": "freezes in",
+    "mate": "mates with",
+    "strand on": "is stranded on",
+    "venture into": "enter a new environment",
+    "wallow in": "rest in a substance",
+    "bob": "move up and down",
+    "breed during": "reproduce in a season",
+    "fall into": "drop into a location",
+    "hit by": "struck by an object",
+    "house in": "reside in a location",
+    "wash up on": "arrive on a shore",
+    "freeze to": "die from cold",
+    "regurgitate": "expel undigested food",
+    "sleep on": "sleeps on",
+    "spot": "has as spot",
+    "dominate by": "dominated by",
+    "grow from": "grows from",
+    "germinate from": "germinates from",
+    "patrol": "patrols",
+    "describe": "describes",
+    "publish in": "published in",
+    "address": "addresses",
+    "lay": "lays",
+    "harvest": "harvest",
+    "sting": "sting",
+    "is member of": "is member of",
+    "occur within": "occur in",
+    "displace": "displace",
+    "focus": "focus",
+    "occur on": "occur on",
+    "guide": "guide",
+    "fight": "fight",
+    "release into": "release into",
+    "grow throughout": "grows during period",
+    "protect by": "protected by structure",
+    "open into": "opens into cavity",
+    "extend": "extends body part",
+    "support by": "supported by muscle",
+    "extend from": "extends from body part",
+    "fall from": "falls from source",
+    "grow near": "grows adjacent to",
+    "be fertilize by": "fertilized by substance",
+    "fall on": "falls onto surface",
+    "help prevent": "Help prevent",
+    "transform": "Transform",
+    "be submerge in": "Be submerged in",
+    "be repeat": "Be repeated",
+    "prove": "Prove",
+    "stem from": "Stem from",
+    "to control": "Control",
+    "account for": "Account for",
+    "breathe use": "Breathe using",
+    "find along": "Find along",
+    "to identify": "identify as",
+    "apply": "apply force",
+    "get out of": "exit from",
+    "mate for": "mate for life",
+    "expose to": "expose to element",
+    "frequent by": "frequented by",
+    "cover by": "covered by",
+    "divide by": "divided by",
+    "inhabit by": "inhabited by",
+    "occupy by": "occupied by",
+    "show in": "shown in",
+    "depict": "depicts",
+    "supplies": "supplies",
+    "divide into": "divides into",
+    "originate from": "originates from",
+    "spread to": "spreads to",
+    "discuss": "discusses",
+    "outline": "outlines",
+    "review": "reviews",
+    "detail": "details",
+    "highlight": "highlights",
+    "say": "states",
+    "summarize": "summarizes",
+    "hang on": "hung on",
+    "impede": "prevents",
+    "paint": "paints on",
+    "know": "has knowledge of",
+    "reserve": "reserves right",
+    "explore": "explores idea",
+    "come through": "passes through",
+    "embark on": "Embark On",
+    "work for": "Work For",
+    "occur under": "Occur Under",
+    "rise into": "Rise Into",
+    "block": "Block",
+    "deserve": "Deserve",
+    "grow for": "Grow For",
+    "drop": "Drop",
+    "ease": "Ease",
+    "be summarize in": "Be Summarized In",
+    "to develop": "develops",
+    "help with": "helps with",
+    "can do": "can perform",
+    "work under": "works under",
+    "interview": "interviews",
+    "to perform": "performs",
+    "be train on": "is trained on",
+    "treat": "treats",
+    "collaborate with": "collaborates with",
+    "grow up in": "grew up in",
+    "to complete": "complete",
+    "restrain": "restrain",
+    "snap": "snap",
+    "be train in": "be trained in",
+    "to orbit": "orbit",
+    "to eat": "eat",
+    "to measure": "measure",
+    "appreciate": "appreciate",
+    "repeat": "repeat",
+    "announce": "announce",
+    "calculate": "calculate",
+    "to gain": "gain",
+    "go on": "launch",
+    "monitor": "monitor",
+    "to compare": "compare",
+    "accept": "accept",
+    "define": "define",
+    "devise": "devise",
+    "to test": "test",
+    "write": "write",
+    "point out": "point out",
+    "disprove": "disprove",
+    "to achieve": "achieve",
+    "compete in": "compete in",
+    "to meet": "meet",
+    "crave": "crave",
+    "to pass": "pass",
+    "exert": "exert",
+    "cover with": "cover with",
+    "work at": "work at",
+    "decrease with": "decreases with",
+    "analyze": "analyzes",
+    "give off": "emits",
+    "trap in": "trapped in",
+    "decrease by": "decreases by",
+    "flee": "flees from",
+    "instruct": "instructs",
+    "overcome": "overcomes",
+    "marry": "marries",
+    "identify as": "identifies as",
+    "acknowledge": "acknowledges a contribution",
+    "cite": "cites an example",
+    "evaluate": "evaluates an effect",
+    "propose": "proposes an effect",
+    "turn": "turns attention",
+    "urge": "urges a reader",
+    "own": "owns a ferret",
+    "argue": "argues for replication",
+    "follow in": "follows in footstep",
+    "declare": "declares a conflict",
+    "jump to": "Jump to",
+    "sue": "Sue",
+    "administer": "Administer",
+    "design": "Design",
+    "decrease during": "Decrease during",
+    "aid": "Aid",
+    "connect to": "Connect to",
+    "penetrate": "Penetrate",
+    "need by": "Need by",
+    "to grow throughout": "Grow throughout",
+    "sleep in": "rest in a location",
+    "supplement": "add to diet",
+    "to survive": "endure season",
+    "bear to": "give birth to",
+    "learn from": "acquire knowledge from",
+    "nurse for": "care for during period",
+    "prepare for": "get ready for event",
+    "react to": "respond to stimulus",
+    "mourn": "grieve for loss",
+    "finish": "complete consumption",
+    "ride on": "ride on",
+    "die within": "die within",
+    "die as": "die as",
+    "separate from": "separate from",
+    "weigh about": "weigh about",
+    "make from": "make from",
+    "climb into": "climb into",
+    "die after": "die after",
+    "inhale": "inhale",
+    "run from": "run from",
+    "be transmit to": "is transmitted to",
+    "to cause": "causes",
+    "be transmit by": "is transmitted by",
+    "adapt": "is adapted to",
+    "trap": "is trapped by",
+    "design for": "is designed for",
+    "be wash in": "is washed in",
+    "come out of": "comes out of",
+    "top with": "is topped with",
+    "boost": "boosts",
+    "perch in": "perch in",
+    "work as": "work as",
+    "originate in": "originate in",
+    "sprout": "sprout",
+    "run along": "run along",
+    "connect": "connect",
+    "stretch between": "stretch between",
+    "predict": "predict",
+    "radiate": "radiate",
+    "dip in": "dip in",
+    "devote": "dedicates time to",
+    "be classify with": "is classified with",
+    "separate": "separates from",
+    "make by": "made by",
+    "shoot to": "shoots to death",
+    "fly over": "flies over",
+    "live over": "lives for",
+    "hibernate over": "hibernates during",
+    "power": "powers",
+    "run": "runs",
+    "filter": "filters out",
+    "typically have": "typically has",
+    "surround by": "surrounded by",
+    "hibernate for": "hibernates for",
+    "enter into": "enters into",
+    "to find": "to find",
+    "like to": "likes to",
+    "stalk": "stalks",
+    "to bite": "bites",
+    "devour": "devours",
+    "take down": "Take down",
+    "knock on": "Knock on",
+    "cut into": "Cut into",
+    "make with": "Make with",
+    "defoliate": "Defoliate",
+    "emerge as": "Emerge as",
+    "exhibit by": "Exhibit by",
+    "see in": "See in",
+    "compound": "Compound",
+    "contradict": "Contradict",
+    "mention": "mentions",
+    "mate in": "mates in",
+    "remain on": "remains on",
+    "tend to": "tends to",
+    "care about": "cares about",
+    "witness": "witnesses",
+    "seek to": "seeks to",
+    "rest in": "rests in",
+    "browse": "browses",
+    "travels from": "travels from",
+    "lead from": "lead from",
+    "be synthesize in": "be synthesized in",
+    "prohibit": "prohibit",
+    "release in": "release in",
+    "refer to": "refer to",
+    "means": "means",
+    "to support": "support",
+    "classify": "classify",
+    "to explore": "explore",
+    "challenge": "challenge",
+    "talk about": "talk about",
+    "be explore": "explore",
+    "document": "document",
+    "reject": "reject",
+    "view": "view",
+    "sign": "sign",
+    "dismiss": "dismiss",
+    "keep in": "keep in mind",
+    "leap into": "leap into",
+    "roost in": "roost in",
+    "fill up with": "fill with",
+    "fold": "fold object",
+    "perch on": "perch on surface",
+    "grab": "grab object",
+    "nest": "nest in location",
+    "seize": "seize object",
+    "undertake": "undertake task",
+    "breed in": "breed in location",
+    "know as": "known as",
+    "learn to": "learn skill",
+    "persist for": "persist for",
+    "contract": "contract",
+    "bury in": "bury in",
+    "retract": "retract",
+    "to die from": "to die from",
+    "rise from": "rise from",
+    "run down": "run down",
+    "compose of": "compose of",
+    "rape": "rape",
+    "manage": "manage",
+    "to die of": "die of",
+    "pierce": "pierce",
+    "mount on": "mount on",
+    "slide across": "slide across",
+    "extend over": "extend over",
+    "float on": "float on",
+    "flow in": "flow in",
+    "return from": "return from",
+    "filter by": "filter by",
+    "to detect": "detect",
+    "transport": "transports",
+    "flow along": "flows along",
+    "last about": "lasts about",
+    "precede": "precedes",
+    "weigh as": "weighs as",
+    "absorb by": "absorbed by",
+    "uproot": "uproots",
+    "double": "doubles",
+    "sire": "sires",
+    "certify": "certifies",
+    "be distinguish from": "distinguish from",
+    "remain within": "remain within",
+    "increase with": "increase with",
+    "be below": "is below",
+    "bathe": "bathe",
+    "create by": "created by",
+    "connect by": "connected by",
+    "grow out of": "grows from",
+    "speak to": "speaks to",
+    "to become": "becomes",
+    "hold about": "holds approximately",
+    "live for over": "lives for more than",
+    "weigh over": "weighs more than",
+    "line with": "lined with",
+    "shave": "shaves",
+    "inherit": "inherits",
+    "raise in": "raised in",
+    "pour": "pours",
+    "greet": "greets",
+    "shoot": "shoots",
+    "to go to": "go to",
+    "be rush to": "rush to",
+    "take over": "take over",
+    "buy": "buy",
+    "do conduct": "conduct",
+    "set": "set",
+    "serve with": "serve with",
+    "cook": "cook",
+    "grow during": "grow during",
+    "possess by": "possessed by",
+    "outline in": "outlined in",
+    "insert into": "inserted into",
+    "last from": "lasts from",
+    "design to": "designed to",
+    "start in": "starts in",
+    "arrive on": "arrives on",
+    "know of": "knows of",
+    "contact": "contacts",
+    "continue": "continues",
+    "fuel": "fuels",
+    "resist": "resists",
+    "murder": "murders",
+    "draw from": "drawn from",
+    "end in": "ends in",
+    "lick": "licks",
+    "pass": "passes",
+    "read": "reads",
+    "fly": "flies",
+    "struggle with": "struggles with",
+    "be arrest for": "is arrested for",
+    "grow at": "grows at location",
+    "rub": "rubs object",
+    "disperse from": "disperses from origin",
+    "sprout from": "sprouts from source",
+    "be harvest during": "harvested during time",
+    "travel up to": "travels up to distance",
+    "crawl on": "crawls on surface",
+    "land on": "lands on surface",
+    "pull by": "pulled by agent",
+    "crush to": "crushes to outcome",
+    "set up": "sets up",
+    "mount": "mounts",
+    "act upon": "acts upon",
+    "dig by": "digs by",
+    "grow along": "grows along",
+    "forage at": "forages at",
+    "to provide": "provides",
+    "grow over": "grows over",
+    "to create": "creates",
+    "run by": "run by",
+    "be beat to": "be beaten to death",
+    "appoint": "appoint as deputy",
+    "add to": "add to flavor",
+    "load with": "load with sugar",
+    "release during": "release during combustion",
+    "ignore": "ignore someone",
+    "watch in": "watch in amazement",
+    "build by": "built by early settler",
+    "house": "house bear",
+    "stay": "stay with cow",
+    "kick": "kick",
+    "to stretch": "stretch",
+    "plan": "plan",
+    "to learn": "learn",
+    "stretch from": "stretch from",
+    "circulate": "circulate",
+    "grow under": "grow under",
+    "hang in": "hang in",
+    "bring down": "bring down",
+    "inform": "inform",
+    "breed": "breed in captivity",
+    "weigh around": "weighs around",
+    "discourage": "discourages",
+    "bind": "binds",
+    "sink to": "sinks to",
+    "extract from": "extracted from",
+    "soak in": "soaks in",
+    "be assess by": "assessed by",
+    "miss": "misses",
+    "restrict": "restricts",
+    "resume": "resume growth",
+    "evolve as": "evolve into",
+    "feast on": "prey on",
+    "be sentence to": "be sentenced to",
+    "pass on to": "transmit to",
+    "wash": "perform hand washing",
+    "replace by": "replaced by",
+    "ambush": "attack by ambush",
+    "to come into": "come into contact",
+    "thrive on": "flourish on",
+    "kill on": "killed on surface",
+    "puncture": "pierced through material",
+    "transform into": "transformed into form",
+    "change into": "changed into form",
+    "spin": "spun protective casing",
+    "move at": "moved during time",
+    "to make": "made decision",
+    "develop from": "developed from source",
+    "enclose": "enclosed structure",
+    "line": "lined outer boundary",
+    "separate by": "separated by",
+    "be distinguish by": "distinguished by",
+    "answer": "answers",
+    "crush": "crushes",
+    "pass at": "passes at",
+    "formulate": "formulates",
+    "recruit": "recruits",
+    "try": "tries",
+    "quit": "quits",
+    "intersperse with": "intersperses with",
+    "to deal with": "deal with",
+    "share by": "shared by",
+    "distinguish": "distinguish",
+    "describe in": "described in",
+    "present in": "present in",
+    "implement": "implement",
+    "store in": "stored in",
+    "contaminate": "contaminate",
+    "pollute": "pollute",
+    "convert to": "convert to",
+    "to pursue": "pursue",
+    "radiate to": "radiate to",
+    "browse on": "browse on",
+    "to express": "express",
+    "to follow": "follow",
+    "to participate in": "participate in",
+    "access": "access",
+    "blame": "blame",
+    "practice": "practice",
+    "stay at": "stay at",
+    "talk with": "talk with",
+    "to attend": "attend",
+    "to practice": "practice",
+    "diagnose with": "diagnose with",
+    "ask": "ask",
+    "bear of": "child of",
+    "end up": "become",
+    "to draw": "infer",
+    "to say": "express",
+    "to share": "communicate",
+    "clog": "clogs",
+    "guard": "guards",
+    "call for": "calls for",
+    "act like": "acts like",
+    "face by": "faced by",
+    "post": "posts",
+    "recall": "recalls",
+    "encompass": "encompasses",
+    "suspend in": "suspended in",
+    "allow for": "allows for",
+    "clean": "Clean",
+    "risk": "Risk",
+    "favor": "Favor",
+    "operate in": "Operate in",
+    "weave from": "Weave from",
+    "form at": "Form at",
+    "warm": "Warm",
+    "spawn": "Spawn",
+    "battle": "Battle",
+    "kill in": "Kill in",
+    "occur over": "occur over",
+    "fuse with": "fuse with",
+    "catch by": "catch by",
+    "drain into": "drain into",
+    "drain": "drain",
+    "contribute": "contribute",
+    "employ in": "employ in",
+    "comprise": "comprise",
+    "research": "research",
+    "vary": "vary",
+    "determine by": "Determined by",
+    "to attract": "Attracts",
+    "obtain from": "Obtained from",
+    "heat": "Heats",
+    "appoint by": "Appointed by",
+    "comprise of": "Comprises",
+    "to respond to": "Responds to",
+    "plague": "Plagues",
+    "lead by": "Led by",
+    "sponsor": "Sponsors",
+    "submit": "submit",
+    "found by": "founded by",
+    "install": "install",
+    "to help": "help",
+    "be dedicate to": "dedicate to",
+    "head by": "headed by",
+    "fertilize": "fertilize",
+    "activate": "activate",
+    "hinder": "hinder",
+    "convert into": "convert into",
+    "isolate from": "isolate from",
+    "help break down": "help break down",
+    "to break down": "break down",
+    "be calculate from": "be calculated from",
+    "fall below": "fall below",
+    "begin with": "begin with",
+    "impose": "impose",
+    "hold by": "hold by",
+    "be exacerbate by": "be exacerbated by",
+    "mark by": "mark by",
+    "weaken": "weaken",
+    "describe by": "described by",
+    "at": "located at",
+    "lead up to": "leads to",
+    "oversee": "oversees",
+    "train in": "trained in",
+    "measure in": "measured in",
+    "favour": "favors",
+    "tie around": "tied around",
+    "be disperse by": "dispersed by",
+    "drag": "Drag",
+    "sink": "Sink",
+    "to exploit": "Exploit",
+    "accompany by": "Accompanied by",
+    "consult with": "Consult with",
+    "to obtain": "Obtain",
+    "assist in": "Assist in",
+    "win": "Win",
+    "sit at": "Sit at",
+    "to give": "Give",
+    "reproduce at": "Reproduce At Time",
+    "value": "Values Concept",
+    "kidnap": "Kidnaps Victim",
+    "reproduce during": "Reproduce During Period",
+    "swim": "Swims in Medium",
+    "form in": "Forms in Location",
+    "to conduct": "Conducts Electricity/Matter",
+    "to grasp": "Grasps Target",
+    "ask for": "Requests Preference",
+    "purchase": "Buys Item",
+    "to": "intend to achieve",
+    "be invite to": "be invited to",
+    "complain about": "express dissatisfaction with",
+    "spray": "expel liquid",
+    "squirt": "eject substance",
+    "act on": "exert effect on",
+    "live with": "cohabit with",
+    "do by": "caused by",
+    "work outside": "work away from home",
+    "to return to": "return to location",
+    "transmit by": "transmitted by",
+    "disrupt": "disrupt function",
+    "be propose by": "proposed by",
+    "contain in": "contained in",
+    "to lead": "lead nation",
+    "diagnose": "diagnose condition",
+    "fluctuate over": "fluctuate over time",
+    "rule": "rule country",
+    "to produce": "produce seed",
+    "arrest": "arrest man",
+    "consult": "Consults",
+    "start with": "Begins with",
+    "work to": "Works on",
+    "take into": "Considers",
+    "power by": "Is powered by",
+    "use to": "Used to",
+    "fall during": "Falls during",
+    "of kill": "Kills",
+    "below show": "Shows",
+    "protect against": "Protects against",
+    "formulate for": "is formulated for",
+    "occur across": "occurs across",
+    "produce as": "produced as",
+    "point to": "points to",
+    "collect in": "collected in",
+    "carry by": "carried by",
+    "encounter by": "encountered by",
+    "shift": "shifts",
+    "within": "is within",
+    "to report": "reports",
+    "prescribe": "prescribe medication",
+    "to assist": "assist individual",
+    "to monitor": "monitor condition",
+    "to see": "view result",
+    "educate": "teach information",
+    "order": "request procedure",
+    "tell": "communicate benefit",
+    "to determine": "identify cause",
+    "expect": "anticipate pregnancy",
+    "inject": "administer vaccine",
+    "know about": "has knowledge of",
+    "to discuss": "discuss",
+    "to write": "write",
+    "write in": "write using",
+    "invent": "invent",
+    "feed to": "feed to",
+    "love to": "love to",
+    "insert": "insert",
+    "own by": "owned by",
+    "elongate": "elongate",
+    "be strike by": "struck by",
+    "exert by": "exerted by",
+    "stop": "stop",
+    "empty into": "empties into",
+    "occur along": "occurs along",
+    "devastate": "devastates",
+    "play by": "played by",
+    "to pay": "pays",
+    "compile": "compiles",
+    "to add": "adds",
+    "teach at": "teaches at",
+    "go on for": "lasts for",
+    "to marry": "marries",
+    "locate on": "located on",
+    "transfer by": "transfers via",
+    "supply to": "supplies to",
+    "learn on": "learns on",
+    "to handle": "handles",
+    "to graze on": "grazes on",
+    "develop within": "develops within",
+    "perform at": "achieve performance level",
+    "serve on": "serve on society",
+    "welcome": "greet new arrival",
+    "produce from": "generate from source",
+    "to generate": "create electricity",
+    "perform in": "execute service in location",
+    "to apply": "implement theoretical idea",
+    "to repair": "fix infrastructure",
+    "to fuel": "provide energy for development",
+    "secrete from": "release substance from organ",
+    "go after": "go after",
+    "continue for": "continue for",
+    "be classify in": "be classified in",
+    "occur as": "occur as",
+    "grow up to": "grow up to",
+    "exist for": "exist for",
+    "advance": "advance",
+    "design by": "designed by",
+    "agree with": "agree with",
+    "believe": "believe",
+    "uncover": "uncover",
+    "close by": "closed by",
+    "on": "on top of",
+    "cover in": "covered in",
+    "to use": "uses",
+    "die over": "dies over",
+    "beat": "beats",
+    "sleep with": "sleeps with",
+    "suffer for": "suffers for",
+    "suckle for": "suckles for",
+    "collect from": "collect from",
+    "develop at": "develop at",
+    "invite": "invite",
+    "groom": "groom",
+    "anchor": "anchor",
+    "conduct at": "conduct at",
+    "inspect": "inspect",
+    "move in": "move in",
+    "behind": "behind",
+    "point toward": "point toward",
+    "cut off": "cuts off",
+    "pollinate by": "pollinated by",
+    "stem": "has stem",
+    "fall off": "falls off",
+    "be harvest in": "harvested in",
+    "migrate through": "migrates through",
+    "list": "lists",
+    "with": "is with",
+    "eat during": "eaten during",
+    "extend beyond": "extends beyond",
+    "apply by": "applied by",
+    "simulate": "simulates",
+    "to absorb": "absorbs",
+    "prefer by": "preferred by",
+    "be crush to": "crushed to",
+    "travel through": "travels through",
+    "germinate in": "germinates in",
+    "evaporate from": "evaporates from",
+    "to drive": "drives",
+    "explain to": "explains to",
+    "fear": "feels fear towards",
+    "gather at": "gathers at location",
+    "learn of": "learns about event",
+    "nurse": "nurses individual",
+    "generally have": "has characteristic",
+    "to move from": "moves from location",
+    "drop from": "drops from source",
+    "mature in": "matures during period",
+    "stay on": "remains attached to",
+    "tell by": "told by person",
+    "serve for": "serve for",
+    "fall in": "fall in",
+    "walk down": "walk down",
+    "feel like": "feel like",
+    "rush to": "rush to",
+    "to accept": "accept",
+    "exude": "exude",
+    "synthesize": "synthesize",
+    "produce in": "produce in",
+    "forage": "forage",
+    "to move to": "move to",
+    "produce within": "produce within",
+    "fix": "fix",
+    "enforce": "enforce",
+    "embrace": "embrace",
+    "recount": "recount",
+    "specify": "specify",
+    "capture in": "capture in",
+    "sell as": "sell as",
+    "to pump": "pump",
+    "transfer to": "transfer to",
+    "be train to": "be trained to",
+    "help reduce": "help reduce",
+    "relax": "relax",
+    "relieve": "relieve",
+    "stay under": "stay under",
+    "mediate": "mediate",
+    "live beyond": "live beyond",
+    "be arrest on": "be arrested on",
+    "bite by": "bitten by",
+    "rotate": "rotates part",
+    "to wear": "wears clothing",
+    "develop by": "developed by person",
+    "display in": "displayed in location",
+    "compare to": "compares to entity",
+    "exercise": "exercises option",
+    "give up": "gives up function",
+    "to assess": "assesses condition",
+    "to seek": "seeks attention",
+    "remain at": "remains at location",
+    "to ensure": "ensures",
+    "cling to": "clings to",
+    "spread from": "spreads from",
+    "base upon": "bases upon",
+    "provide in": "provides in",
+    "give in": "gives in",
+    "contaminate with": "contaminates with",
+    "to feed on": "feeds on",
+    "to enter": "enters",
+    "raise by": "raises by",
+    "to recognize": "recognize",
+    "play with": "play with",
+    "to track": "track",
+    "to eliminate": "eliminate",
+    "regain": "regain",
+    "survive into": "survive into",
+    "to climb": "climb",
+    "fight to": "fight to",
+    "bear into": "bear into",
+    "crawl out of": "crawl out of",
+    "settle on": "settle on surface",
+    "girdle": "girdle around trunk",
+    "extend to": "extend to target",
+    "state": "law states substance",
+    "develop during": "develop during season",
+    "engage": "interact with person",
+    "measure at": "measure at unit",
+    "bend": "bend light beam",
+    "rise during": "increase over time",
+    "decrease in": "reduce in region",
+    "turn to": "convert into",
+    "live for around": "survive approximately",
+    "lubricate": "apply moisture to",
+    "change to": "transform into",
+    "persist in": "remain within",
+    "assign": "delegate to",
+    "to mark": "claim territory",
+    "walk into": "enter space",
+    "fear for": "worry about",
+    "board": "mount vehicle",
+    "dedicate": "dedicates to",
+    "convict of": "convicted of",
+    "arm with": "armed with",
+    "train": "trains",
+    "outgrow": "outgrows",
+    "remember": "remembers",
+    "to undergo": "undergoes",
+    "multiply by": "multiplied by",
+    "learn in": "learned in",
+    "to care for": "cares for",
+    "come on": "join the board",
+    "shall have": "possess right",
+    "employ by": "used by breeder",
+    "admit": "allow entry",
+    "grind": "process food",
+    "agree to": "consent to voyage",
+    "refuse": "reject attempt",
+    "contain within": "enclose in cranium",
+    "imply": "suggest existence",
+    "dilute in": "mix with oil",
+    "dilute": "diluted by",
+    "press": "pressed by",
+    "to address": "addresses",
+    "chew on": "chews on",
+    "mature into": "matures into",
+    "to discover": "discovers",
+    "discontinue": "discontinues",
+    "to raise": "raises",
+    "to visit": "visits",
+    "think": "thinks",
+    "to buy": "buy",
+    "interpret": "interpret",
+    "to protect": "protect",
+    "have less": "have less",
+    "to enjoy": "enjoy",
+    "to avoid": "avoid",
+    "have elevate": "have elevate",
+    "to lose": "lose",
+    "fail": "fail",
+    "might have": "might have",
+    "happen at": "occurs at",
+    "feed with": "nourished with",
+    "produce up to": "yields up to",
+    "establish in": "established in",
+    "bloom for": "blooms for",
+    "grow with": "grows with",
+    "reproduce use": "reproduces using",
+    "be administer to": "administered to",
+    "paralyze": "paralyzes",
+    "to store": "stores",
+    "to catch": "catch",
+    "to prevent": "prevent",
+    "isolate": "isolate",
+    "need from": "require from",
+    "sleep for": "sleep for",
+    "chew through": "chew through",
+    "to appreciate": "appreciate",
+    "doubt": "doubt",
+    "encounter in": "encounter in",
+    "cut": "cut",
+    "to collect": "collects",
+    "to examine": "examines",
+    "impose on": "imposes on",
+    "assign to": "assigns to",
+    "move across": "moves across",
+    "collect during": "collected during",
+    "to get": "gets",
+    "find at": "found at",
+    "settle to": "settles to",
+    "germinate": "germinates",
+    "form from": "formed from",
+    "tie": "connected to",
+    "vary between": "varies between",
+    "dump": "dumps as",
+    "reproduce in": "reproduces in",
+    "to swallow": "swallows",
+    "convince": "convinces",
+    "preserve": "preserves",
+    "germinate into": "germinates into",
+    "sign by": "signed by",
+    "plead": "plead a charge",
+    "to go": "go to home",
+    "to build": "build a robot",
+    "to predict": "predict a result",
+    "record in": "record in a hemisphere",
+    "rise in": "rise in spring",
+    "drop below": "drop below a level",
+    "terminate in": "terminate in a claw",
+    "dictate": "dictate a range",
+    "enclose by": "enclosed by a membrane",
+    "extract": "extract using",
+    "condense into": "condense into",
+    "fuse into": "fuse into",
+    "to call": "call to",
+    "change from": "change from",
+    "remains": "remains as",
+    "form as": "form as",
+    "help regulate": "help regulate",
+    "pour into": "pour into",
+    "shape": "shape into",
+    "aggravate": "worsen",
+    "to leave": "leave",
+    "import": "import",
+    "advance to": "advance to",
+    "afflict": "afflict",
+    "arrive in": "arrive in",
+    "ban": "ban",
+    "be interpret as": "be interpreted as",
+    "celebrate": "celebrate",
+    "check": "check",
+    "come in": "come in",
+    "curl into": "curl into",
+    "direct": "direct",
+    "enter through": "enter through",
+    "exist as": "exist as",
+    "face": "face",
+    "fall within": "fall within",
+    "make up of": "made up of",
+    "place": "place",
+    "populate by": "populated by",
+    "present with": "present with",
+    "prey upon": "prey upon",
+    "protect from": "protect from",
+    "question": "question",
+    "replace": "replace",
+    "sell in": "sold in",
+    "should have": "should have",
+    "spit": "spit",
+    "to learn about": "learn about",
+    "to receive": "receive",
+    "to record": "record",
+    "wear by": "worn by",
+    "wield": "wield",
+    "admit to": "Admit to",
+    "leave in": "Leave in",
+    "live": "Live",
+    "need to lose": "Need to lose",
+    "stand with": "Stand with", 
+    "help to": "Help to", 
+    "bring to": "Bring to", 
+    "underlie": "Underlie", 
+    "to read": "To read", 
+    "embed in": "Embed in", 
+    "charge with": "Charge with",
+    "pertain to": "Pertain to"      
+  },
+  "relation_descriptions": {
+    "has-part": [
+      "has part",
+      "is part of"
+    ],
+    "have": [
+      "has",
+      "is had by"
+    ],
+    "isa": [
+      "is a",
+      "is type of"
+    ],
+    "use": [
+      "uses",
+      "is used by"
+    ],
+    "eat": [
+      "eats",
+      "is eaten by"
+    ],
+    "excavate": [
+      "excavates",
+      "is excavated by"
+    ],
+    "search for": [
+      "searches for",
+      "is searched for by"
+    ],
+    "look like": [
+      "looks like",
+      "looks like"
+    ],
+    "hide in": [
+      "hides in",
+      "is hidden in by"
+    ],
+    "keep": [
+      "keeps",
+      "is kept by"
+    ],
+    "lie on": [
+      "rest in position",
+      "position is rested in"
+    ],
+    "occur in": [
+      "exist in environment",
+      "inhabited by"
+    ],
+    "detect": [
+      "identify threat",
+      "detected by"
+    ],
+    "dig": [
+      "create excavation",
+      "excavation created by"
+    ],
+    "reach": [
+      "attain stage",
+      "stage attained by"
+    ],
+    "survive": [
+      "endure threat",
+      "survived by"
+    ],
+    "enjoy": [
+      "derive pleasure from",
+      "enjoyed by"
+    ],
+    "live in": [
+      "reside in structure",
+      "inhabited by"
+    ],
+    "stay with": [
+      "remain with parent",
+      "is stayed with by"
+    ],
+    "make": [
+      "produce substance",
+      "produced by"
+    ],
+    "survive in": [
+      "Survive in environment",
+      "Is habitat for"
+    ],
+    "hunt at": [
+      "Hunt during time",
+      "Is hunting time for"
+    ],
+    "consume": [
+      "Consume food",
+      "Is consumed by"
+    ],
+    "defend": [
+      "Defend area",
+      "Is defended by"
+    ],
+    "prefer": [
+      "Prefer shelter",
+      "Is preferred shelter for"
+    ],
+    "inhabit": [
+      "Inhabit area",
+      "Is inhabited by"
+    ],
+    "is-part-of": [
+      "Is part of body",
+      "Has part"
+    ],
+    "help": [
+      "Help process",
+      "Is aided by"
+    ],
+    "trigger": [
+      "Trigger movement",
+      "Is triggered by"
+    ],
+    "excrete": [
+      "Excrete substance",
+      "Is excreted by"
+    ],
+    "produce": [
+      "generates substance",
+      "is generated by"
+    ],
+    "pump": [
+      "transfers fluid",
+      "is transferred by"
+    ],
+    "follow": [
+      "occurs after",
+      "is preceded by"
+    ],
+    "surround": [
+      "encloses object",
+      "is enclosed by"
+    ],
+    "cause": [
+      "creates issue",
+      "is caused by"
+    ],
+    "cover": [
+      "protects area",
+      "is protected by"
+    ],
+    "be behind": [
+      "is located behind",
+      "is in front of"
+    ],
+    "contribute to": [
+      "supports growth",
+      "is supported by"
+    ],
+    "explain": [
+      "clarifies concept",
+      "is clarified by"
+    ],
+    "influence": [
+      "affects result",
+      "is affected by"
+    ],
+    "increase over": [
+      "Ability increases over time",
+      "Time increases ability"
+    ],
+    "provide": [
+      "Ability provides benefit",
+      "Benefit is provided by"
+    ],
+    "relate to": [
+      "Ability relates to duty",
+      "Duty relates to ability"
+    ],
+    "translate into": [
+      "Ability translates to capability",
+      "Capability is translated from"
+    ],
+    "depend on": [
+      "Ability depends on size",
+      "Size is dependent on"
+    ],
+    "lead to": [
+      "Ability leads to discovery",
+      "Discovery is led by"
+    ],
+    "increase": [
+      "Ability increases availability",
+      "Availability is increased by"
+    ],
+    "require": [
+      "Ability requires inspection",
+      "Inspection is required by"
+    ],
+    "affect": [
+      "Ability affects nutrition",
+      "Nutrition is affected by"
+    ],
+    "result in": [
+      "Abnormal cell growth results in development",
+      "Development is resulted from"
+    ],
+    "cause by": [
+      "caused by",
+      "causes"
+    ],
+    "support": [
+      "supported by",
+      "supports"
+    ],
+    "take": [
+      "takes place in",
+      "is location of"
+    ],
+    "form": [
+      "forms into",
+      "is formed from"
+    ],
+    "arise from": [
+      "arises from",
+      "is origin of"
+    ],
+    "associate with": [
+      "associated with",
+      "associated with"
+    ],
+    "change over": [
+      "changes over",
+      "is period of change for"
+    ],
+    "result from": [
+      "results from",
+      "causes"
+    ],
+    "include": [
+      "includes",
+      "is included in"
+    ],
+    "alter": [
+      "alters",
+      "is altered by"
+    ],
+    "occur after": [
+      "happens after event",
+      "is preceded by event"
+    ],
+    "prevent": [
+      "stops process",
+      "is stopped by process"
+    ],
+    "indicate": [
+      "signifies action",
+      "is signified by action"
+    ],
+    "illustrate": [
+      "depicts significance",
+      "is depicted by significance"
+    ],
+    "apply to": [
+      "applies to category",
+      "is applied by category"
+    ],
+    "show": [
+      "displays category",
+      "is displayed by category"
+    ],
+    "may have": [
+      "potentially causes outcome",
+      "is potentially caused by outcome"
+    ],
+    "create": [
+      "generates disturbance",
+      "is generated by disturbance"
+    ],
+    "present": [
+      "offers chance",
+      "is offered by chance"
+    ],
+    "can have": [
+      "affects result",
+      "is affected by result"
+    ],
+    "encourage": [
+      "stimulate occurrence",
+      "prevent occurrence"
+    ],
+    "enter": [
+      "join group",
+      "leave group"
+    ],
+    "begin in": [
+      "start process in location",
+      "end process in location"
+    ],
+    "involve": [
+      "include process",
+      "exclude process"
+    ],
+    "enhance": [
+      "improve function",
+      "reduce function"
+    ],
+    "promote": [
+      "stimulate growth",
+      "inhibit growth"
+    ],
+    "depend upon": [
+      "require condition",
+      "not require condition"
+    ],
+    "lower": [
+      "reduce temperature",
+      "increase temperature"
+    ],
+    "impact": [
+      "affect survival",
+      "not affect survival"
+    ],
+    "decrease over": [
+      "decline with time",
+      "increase with time"
+    ],
+    "damage": [
+      "cause damage to",
+      "be damaged by"
+    ],
+    "vary over": [
+      "vary over",
+      "be varied over by"
+    ],
+    "correspond to": [
+      "correspond to",
+      "correspond to"
+    ],
+    "decline over": [
+      "decline over",
+      "be declined over by"
+    ],
+    "occur during": [
+      "occur during",
+      "be occurred during by"
+    ],
+    "find in": [
+      "be found in",
+      "contain"
+    ],
+    "reduce": [
+      "reduce",
+      "be reduced by"
+    ],
+    "produce by": [
+      "be produced by",
+      "produce"
+    ],
+    "develop": [
+      "develop",
+      "be developed by"
+    ],
+    "grow in": [
+      "grow in",
+      "be grown in by"
+    ],
+    "benefit from": [
+      "Entity gains advantage from another",
+      "Entity provides advantage to another"
+    ],
+    "plant in": [
+      "Entity is planted in another",
+      "Entity serves as planting location for another"
+    ],
+    "tolerate": [
+      "Entity can withstand another",
+      "Entity is withstood by another"
+    ],
+    "assist": [
+      "Entity supports another's operations",
+      "Entity is supported by another"
+    ],
+    "focus on": [
+      "Entity emphasizes another's approach",
+      "Entity is emphasized by another"
+    ],
+    "improve": [
+      "Entity enhances another's result",
+      "Entity is enhanced by another"
+    ],
+    "bring": [
+      "Entity leads to another's state",
+      "Entity is led to by another"
+    ],
+    "constitute": [
+      "Entity forms itself",
+      "Entity forms itself"
+    ],
+    "contain": [
+      "Entity holds another's data",
+      "Entity is held by another"
+    ],
+    "secrete": [
+      "Entity releases another's substance",
+      "Entity is released by another"
+    ],
+    "serve": [
+      "perform function",
+      "function performed by"
+    ],
+    "absorb": [
+      "absorb light",
+      "light absorbed by"
+    ],
+    "near": [
+      "located near",
+      "located near"
+    ],
+    "undergo": [
+      "undergo development",
+      "development undergone by"
+    ],
+    "add": [
+      "add secretion",
+      "secretion added by"
+    ],
+    "need": [
+      "require treatment",
+      "treatment required by"
+    ],
+    "happen in": [
+      "occur in condition",
+      "condition where occurs"
+    ],
+    "raise": [
+      "raise doubt",
+      "doubt raised by"
+    ],
+    "occur at": [
+      "occur at location",
+      "location where occurs"
+    ],
+    "kill": [
+      "cause death",
+      "death caused by"
+    ],
+    "claim": [
+      "take a life",
+      "is claimed by"
+    ],
+    "rely on": [
+      "depend on intuition",
+      "is relied on by"
+    ],
+    "exceed": [
+      "surpass in amount",
+      "is surpassed by"
+    ],
+    "would have": [
+      "hypothetically cause",
+      "is hypothetically caused by"
+    ],
+    "become": [
+      "transform into",
+      "is transformed into"
+    ],
+    "exacerbate": [
+      "worsen the condition",
+      "is worsened by"
+    ],
+    "fill": [
+      "fill a gap",
+      "is filled by"
+    ],
+    "stimulate": [
+      "encourage movement",
+      "is encouraged by"
+    ],
+    "induce": [
+      "trigger a response",
+      "is triggered by"
+    ],
+    "limit": [
+      "restrict expansion",
+      "is restricted by"
+    ],
+    "ensure": [
+      "guarantee occurrence",
+      "be guaranteed by"
+    ],
+    "offer": [
+      "provide advantage",
+      "be provided by"
+    ],
+    "break down": [
+      "decompose substance",
+      "be decomposed by"
+    ],
+    "combine with": [
+      "merge substances",
+      "merge substances"
+    ],
+    "destroy": [
+      "cause damage",
+      "be damaged by"
+    ],
+    "dissolve": [
+      "convert to solution",
+      "be dissolved by"
+    ],
+    "come into": [
+      "enter interaction",
+      "enter interaction"
+    ],
+    "burn": [
+      "cause tissue damage",
+      "be burned by"
+    ],
+    "derive from": [
+      "origin from source",
+      "be derived from"
+    ],
+    "deter": [
+      "prevent approach",
+      "be prevented from approaching by"
+    ],
+    "impair": [
+      "hinder function",
+      "enhance function"
+    ],
+    "irritate": [
+      "cause inflammation",
+      "soothe tissue"
+    ],
+    "produce during": [
+      "generate during process",
+      "consume during process"
+    ],
+    "inhibit": [
+      "prevent growth",
+      "promote growth"
+    ],
+    "receive": [
+      "gain attention",
+      "ignore issue"
+    ],
+    "attack": [
+      "damage structure",
+      "protect structure"
+    ],
+    "catalyze": [
+      "accelerate reaction",
+      "slow reaction"
+    ],
+    "form by": [
+      "form from source",
+      "break down source"
+    ],
+    "mix with": [
+      "combine substances",
+      "separate substances"
+    ],
+    "need for": [
+      "require process",
+      "avoid process"
+    ],
+    "protect": [
+      "prevents harm to",
+      "is protected by"
+    ],
+    "to treat": [
+      "addresses medical condition",
+      "is treated by"
+    ],
+    "accumulate in": [
+      "builds up in",
+      "has accumulation in"
+    ],
+    "be synthesize from": [
+      "chemically produced from",
+      "synthesizes acid from"
+    ],
+    "bind to": [
+      "attaches to",
+      "is bound by"
+    ],
+    "change": [
+      "alters appearance",
+      "is altered by"
+    ],
+    "come from": [
+      "derives from",
+      "produces acid"
+    ],
+    "consist of": [
+      "comprises elements",
+      "is component of"
+    ],
+    "excrete by": [
+      "eliminated by",
+      "excretes acid"
+    ],
+    "help in": [
+      "assists process",
+      "is assisted by"
+    ],
+    "interfere with": [
+      "hinder function",
+      "not hinder function"
+    ],
+    "involve in": [
+      "participate in process",
+      "not participate in process"
+    ],
+    "pass through": [
+      "move through location",
+      "move through location"
+    ],
+    "release": [
+      "emit substance",
+      "not emit from"
+    ],
+    "generate by": [
+      "produce via source",
+      "not produce from"
+    ],
+    "act as": [
+      "serve as role",
+      "not serve as role"
+    ],
+    "be deposit in": [
+      "accumulate in tissue",
+      "not accumulate in tissue"
+    ],
+    "facilitate": [
+      "enable absorption",
+      "not enable absorption"
+    ],
+    "make up": [
+      "constitute component",
+      "not constitute component"
+    ],
+    "play": [
+      "perform role",
+      "not perform role"
+    ],
+    "release by": [
+      "released by",
+      "releases"
+    ],
+    "require for": [
+      "required for",
+      "requires"
+    ],
+    "secrete by": [
+      "secreted by",
+      "secretes"
+    ],
+    "suppress": [
+      "suppresses",
+      "is suppressed by"
+    ],
+    "carry": [
+      "carries",
+      "carried by"
+    ],
+    "circulate in": [
+      "circulates in",
+      "circulated in by"
+    ],
+    "dissolve in": [
+      "dissolves in",
+      "dissolved in by"
+    ],
+    "fall as": [
+      "falls as",
+      "fallen as by"
+    ],
+    "fall to": [
+      "falls to",
+      "fallen to by"
+    ],
+    "convert": [
+      "converts",
+      "is converted by"
+    ],
+    "measure": [
+      "assesses substance",
+      "is assessed by"
+    ],
+    "appear in": [
+      "found in context",
+      "contains substance"
+    ],
+    "build up in": [
+      "accumulates in tissue",
+      "is accumulation site"
+    ],
+    "use for": [
+      "utilized for purpose",
+      "serves as function"
+    ],
+    "flow into": [
+      "enters water body",
+      "receives water flow"
+    ],
+    "draw": [
+      "attracts focus",
+      "is attracted by"
+    ],
+    "develop into": [
+      "transforms into entity",
+      "originates from"
+    ],
+    "emerge in": [
+      "appears in season",
+      "is emergence time"
+    ],
+    "hide": [
+      "conceals characteristic",
+      "is concealed by"
+    ],
+    "perform": [
+      "executes action",
+      "is performed by"
+    ],
+    "die during": [
+      "Die during performance",
+      "Performance causes death"
+    ],
+    "enable": [
+      "Enable success",
+      "Success enabled by"
+    ],
+    "could have": [
+      "Could have positive impact",
+      "Positive impact caused by"
+    ],
+    "have have": [
+      "Have impact",
+      "Impact has"
+    ],
+    "fire": [
+      "Fire bullet",
+      "Bullet fired by"
+    ],
+    "benefit": [
+      "Benefit patient",
+      "Patient benefits from"
+    ],
+    "pose": [
+      "Pose survival",
+      "Survival posed by"
+    ],
+    "take by": [
+      "Take by manufacturer",
+      "Manufacturer takes"
+    ],
+    "threaten": [
+      "Threaten survival",
+      "Survival threatened by"
+    ],
+    "reflect": [
+      "Reflect secretion",
+      "Secretion reflected by"
+    ],
+    "save": [
+      "Preserve life",
+      "Fail to preserve life"
+    ],
+    "need to": [
+      "Necessitate action",
+      "Not necessitate action"
+    ],
+    "remain in": [
+      "Persist in location",
+      "Leave location"
+    ],
+    "last for": [
+      "Endure over time",
+      "Not endure over time"
+    ],
+    "lose": [
+      "Experience loss",
+      "Retain possession"
+    ],
+    "aim at": [
+      "Address issue",
+      "Not address issue"
+    ],
+    "increase during": [
+      "Rise in period",
+      "Decrease during period"
+    ],
+    "generate": [
+      "Create employment",
+      "Not create employment"
+    ],
+    "introduce": [
+      "Provide knowledge",
+      "Not provide knowledge"
+    ],
+    "conduct by": [
+      "Performed by entity",
+      "Not performed by entity"
+    ],
+    "decline during": [
+      "activity declines during period",
+      "period during activity decline"
+    ],
+    "demonstrate": [
+      "activity demonstrates induction method",
+      "induction method demonstrated by activity"
+    ],
+    "incorporate": [
+      "activity incorporates another activity",
+      "activity incorporated by another activity"
+    ],
+    "offer to": [
+      "activity offers to tourist",
+      "tourist offered by activity"
+    ],
+    "yield": [
+      "activity yields benefit",
+      "benefit yielded by activity"
+    ],
+    "combine": [
+      "activity combines characteristic",
+      "characteristic combined by activity"
+    ],
+    "decrease": [
+      "activity decreases biodiversity",
+      "biodiversity decreased by activity"
+    ],
+    "perform by": [
+      "activity performed by utility worker",
+      "utility worker performs activity"
+    ],
+    "span": [
+      "activity spans entire active period",
+      "entire active period spanned by activity"
+    ],
+    "teach": [
+      "activity teaches student",
+      "student taught by activity"
+    ],
+    "demand": [
+      "Requires attention",
+      "Is required by"
+    ],
+    "observe in": [
+      "Observed in entity",
+      "Is observed in"
+    ],
+    "emphasize": [
+      "Highlights importance",
+      "Is highlighted by"
+    ],
+    "provide by": [
+      "Provided by entity",
+      "Provides activity"
+    ],
+    "expose": [
+      "Exposes participant",
+      "Is exposed by"
+    ],
+    "harm": [
+      "Causes harm to",
+      "Is harmed by"
+    ],
+    "determine": [
+      "Determines diversity",
+      "Is determined by"
+    ],
+    "eliminate": [
+      "Destroys habitat",
+      "Is destroyed by"
+    ],
+    "allow": [
+      "Allows participation",
+      "Is allowed by"
+    ],
+    "experience": [
+      "Experiences benefit",
+      "Is experienced by"
+    ],
+    "learn": [
+      "acquire knowledge or ability",
+      "is acquired by"
+    ],
+    "begin": [
+      "start a career",
+      "is started by"
+    ],
+    "communicate with": [
+      "exchange information",
+      "exchange information"
+    ],
+    "do": [
+      "perform an action",
+      "is performed by"
+    ],
+    "hold": [
+      "possess a position",
+      "is possessed by"
+    ],
+    "participate in": [
+      "engage in an activity",
+      "has participant"
+    ],
+    "take on": [
+      "assume a role",
+      "is assumed by"
+    ],
+    "wear": [
+      "put on clothing or accessories",
+      "is worn by"
+    ],
+    "appear on": [
+      "be present in a medium",
+      "has appearance"
+    ],
+    "die at": [
+      "pass away in a location",
+      "location of death"
+    ],
+    "die of": [
+      "Cause of death",
+      "Dies from cause"
+    ],
+    "gain": [
+      "Gain attention",
+      "Loses attention"
+    ],
+    "display": [
+      "Show life",
+      "Displayed by"
+    ],
+    "know for": [
+      "Known for role",
+      "Role known by"
+    ],
+    "want": [
+      "Wants character",
+      "Character wanted by"
+    ],
+    "meet with": [
+      "Meet with trainer",
+      "Meet with trainer"
+    ],
+    "pose for": [
+      "Pose for portrait",
+      "Portrait posed by"
+    ],
+    "retain": [
+      "Retain sample",
+      "Sample retained by"
+    ],
+    "sustain": [
+      "Sustain problem",
+      "Problem sustained by"
+    ],
+    "attend": [
+      "Attend academy",
+      "Academy attended by"
+    ],
+    "collect": [
+      "collects object",
+      "is collected by"
+    ],
+    "complain of": [
+      "expresses complaint about",
+      "is complained of by"
+    ],
+    "serve as": [
+      "serves in role of",
+      "is served by"
+    ],
+    "die in": [
+      "dies due to",
+      "is cause of death for"
+    ],
+    "leave behind": [
+      "abandons object/person",
+      "is left behind by"
+    ],
+    "be diagnose with": [
+      "receives medical diagnosis of",
+      "is diagnosis for"
+    ],
+    "commit": [
+      "performs action of",
+      "is committed by"
+    ],
+    "throw": [
+      "propels object forcefully",
+      "is thrown by"
+    ],
+    "return to": [
+      "resumes activity in",
+      "is returned to by"
+    ],
+    "work in": [
+      "engages in profession within",
+      "employs in profession"
+    ],
+    "deliver": [
+      "gives birth to",
+      "is delivered by"
+    ],
+    "characterize by": [
+      "has symptom as characteristic",
+      "characterizes disease"
+    ],
+    "follow by": [
+      "is followed by",
+      "follows"
+    ],
+    "feature": [
+      "includes as feature",
+      "is featured in"
+    ],
+    "mediate by": [
+      "is mediated by",
+      "mediates through"
+    ],
+    "will have": [
+      "leads to",
+      "is caused by"
+    ],
+    "possess": [
+      "has as part",
+      "is part of"
+    ],
+    "roam": [
+      "moves through",
+      "is inhabited by"
+    ],
+    "live on": [
+      "resides in",
+      "is habitat of"
+    ],
+    "escape from": [
+      "flees from",
+      "is escaped from"
+    ],
+    "live at": [
+      "resides in location",
+      "has resident"
+    ],
+    "sport": [
+      "has sport",
+      "is sport of"
+    ],
+    "conserve": [
+      "conserves resource",
+      "is conserved by"
+    ],
+    "exist in": [
+      "exists in area",
+      "has existence in"
+    ],
+    "capture by": [
+      "captured by entity",
+      "captures entity"
+    ],
+    "emerge from": [
+      "emerges from state",
+      "is emerged from by"
+    ],
+    "bite": [
+      "bites target",
+      "is bitten by"
+    ],
+    "mate during": [
+      "mates during season",
+      "has mating during"
+    ],
+    "strike": [
+      "strikes target",
+      "is struck by"
+    ],
+    "go into": [
+      "enters state",
+      "is entered by"
+    ],
+    "swallow": [
+      "consume entirely",
+      "be consumed by"
+    ],
+    "prey on": [
+      "hunt and eat",
+      "be hunted by"
+    ],
+    "to digest": [
+      "process nutrients",
+      "be processed by"
+    ],
+    "feed on": [
+      "obtain sustenance from",
+      "be sustenance for"
+    ],
+    "govern": [
+      "regulate usage of",
+      "be regulated by"
+    ],
+    "suggest": [
+      "indicate occurrence of",
+      "be indicated by"
+    ],
+    "concern": [
+      "relate to subject",
+      "be related to"
+    ],
+    "reveal": [
+      "expose property",
+      "be exposed by"
+    ],
+    "infect": [
+      "cause disease in",
+      "be diseased by"
+    ],
+    "encode": [
+      "produce molecular structure",
+      "be produced by"
+    ],
+    "occupy": [
+      "take up space",
+      "is occupied by"
+    ],
+    "attract": [
+      "draw in animals",
+      "is attracted to"
+    ],
+    "express": [
+      "convey sentiment",
+      "is expressed by"
+    ],
+    "deal with": [
+      "handle matters",
+      "is handled by"
+    ],
+    "recommend": [
+      "suggest action",
+      "is recommended by"
+    ],
+    "coordinate": [
+      "organize activities",
+      "is coordinated by"
+    ],
+    "maintain": [
+      "keep operational",
+      "is maintained by"
+    ],
+    "to join": [
+      "become part of",
+      "has member join"
+    ],
+    "supervise": [
+      "oversee actions",
+      "is supervised by"
+    ],
+    "send": [
+      "transmit message",
+      "is sent by"
+    ],
+    "organize": [
+      "administer group",
+      "is administered by"
+    ],
+    "investigate": [
+      "conduct inquiry into",
+      "is inquired by"
+    ],
+    "share": [
+      "express common interest",
+      "is expressed by"
+    ],
+    "work on": [
+      "collaborate with",
+      "is collaborated on by"
+    ],
+    "find": [
+      "discover asset",
+      "is discovered by"
+    ],
+    "work": [
+      "perform labor during",
+      "is labor period for"
+    ],
+    "conduct": [
+      "execute assessment",
+      "is executed by"
+    ],
+    "to experience": [
+      "undergo physical harm",
+      "is undergone by"
+    ],
+    "to engage in": [
+      "participate in action",
+      "is participated in by"
+    ],
+    "be near": [
+      "locate adjacent to",
+      "is located adjacent to"
+    ],
+    "weigh": [
+      "measures weight in kg",
+      "is measured in kg by"
+    ],
+    "move to": [
+      "moves to a dry place",
+      "is moved to by"
+    ],
+    "range in": [
+      "has size range",
+      "is the size range of"
+    ],
+    "care for": [
+      "caring for offspring",
+      "is cared for by"
+    ],
+    "drink": [
+      "drinks water",
+      "is drunk by"
+    ],
+    "exhibit": [
+      "exhibits lower survival",
+      "is exhibited by"
+    ],
+    "get": [
+      "obtains nutrients",
+      "is obtained by"
+    ],
+    "go through": [
+      "undergoes developmental stage",
+      "is undergone by"
+    ],
+    "live for": [
+      "lives for many years",
+      "is lived for by"
+    ],
+    "reside in": [
+      "resides in region",
+      "is resided in by"
+    ],
+    "seek": [
+      "attempts to find",
+      "is sought by"
+    ],
+    "to consume": [
+      "ingests as food",
+      "is consumed by"
+    ],
+    "talk to": [
+      "communicates with",
+      "is communicated with by"
+    ],
+    "suffer from": [
+      "experiences medical condition",
+      "is experienced by"
+    ],
+    "compete for": [
+      "strives to obtain",
+      "is competed for by"
+    ],
+    "leave": [
+      "exits a location",
+      "is exited by"
+    ],
+    "pay": [
+      "directs focus to",
+      "receives attention from"
+    ],
+    "sit in": [
+      "occupies seat in",
+      "is occupied by"
+    ],
+    "spend": [
+      "uses time for",
+      "is used by"
+    ],
+    "breathe": [
+      "respirates with air",
+      "is inhaled by"
+    ],
+    "range from": [
+      "has lower bound",
+      "is lower bound of"
+    ],
+    "infest": [
+      "parasitizes host",
+      "is parasitized by"
+    ],
+    "arrive at": [
+      "reaches destination",
+      "is destination of"
+    ],
+    "attain": [
+      "achieves maximum",
+      "is maximum of"
+    ],
+    "establish": [
+      "creates home",
+      "is home of"
+    ],
+    "survive for": [
+      "endures duration",
+      "is duration survived by"
+    ],
+    "return": [
+      "returns to location",
+      "is return destination of"
+    ],
+    "parasitize": [
+      "parasitizes host",
+      "is parasitized by"
+    ],
+    "choose": [
+      "selects item",
+      "is selected by"
+    ],
+    "derive": [
+      "gains advantage",
+      "is advantage of"
+    ],
+    "do have": [
+      "possesses",
+      "is possessed by"
+    ],
+    "ingest": [
+      "consumes",
+      "is consumed by"
+    ],
+    "live up to": [
+      "has maximum lifespan",
+      "is maximum lifespan of"
+    ],
+    "open": [
+      "opens",
+      "is opened by"
+    ],
+    "suffer": [
+      "experiences",
+      "is experienced by"
+    ],
+    "live along": [
+      "resides along",
+      "hosts resident"
+    ],
+    "drive": [
+      "affects",
+      "is affected by"
+    ],
+    "develop in": [
+      "develops in",
+      "hosts development"
+    ],
+    "move into": [
+      "migrates to",
+      "hosts migration"
+    ],
+    "feed": [
+      "nourishes",
+      "is nourished by"
+    ],
+    "grow to": [
+      "matures into",
+      "is matured by"
+    ],
+    "migrate to": [
+      "migrates to location",
+      "is migrated to by"
+    ],
+    "vary in": [
+      "varies in length",
+      "is varied in by"
+    ],
+    "resemble": [
+      "resembles organism",
+      "resembles organism"
+    ],
+    "suck": [
+      "sucks body fluid",
+      "is sucked by"
+    ],
+    "examine": [
+      "examines entity",
+      "is examined by"
+    ],
+    "love": [
+      "loves pet",
+      "is loved by"
+    ],
+    "travel to": [
+      "travels to region",
+      "is traveled to by"
+    ],
+    "abuse": [
+      "abuses family member",
+      "is abused by"
+    ],
+    "move": [
+      "moves to home",
+      "is moved to by"
+    ],
+    "look for": [
+      "seek a mate",
+      "is sought by"
+    ],
+    "be care for": [
+      "care for someone",
+      "care for"
+    ],
+    "die before": [
+      "die before a year",
+      "survive after a year"
+    ],
+    "escape": [
+      "escape notice",
+      "be noticed by"
+    ],
+    "invade": [
+      "invade a home",
+      "be invaded by"
+    ],
+    "remove": [
+      "remove fungus",
+      "be removed by"
+    ],
+    "report": [
+      "report a diagnosis",
+      "be reported as"
+    ],
+    "smoke": [
+      "smoke a cigarette",
+      "be smoked by"
+    ],
+    "push": [
+      "push body weight",
+      "be pushed by"
+    ],
+    "harass": [
+      "harass a bird",
+      "be harassed by"
+    ],
+    "feel": [
+      "Experience skill",
+      "Is experienced by"
+    ],
+    "handle": [
+      "Manage medical issue",
+      "Is managed by"
+    ],
+    "learn about": [
+      "Acquire knowledge",
+      "Is subject of learning"
+    ],
+    "move from": [
+      "Relocate origin",
+      "Is origin of relocation"
+    ],
+    "stay in": [
+      "Reside at location",
+      "Is residence location"
+    ],
+    "alert": [
+      "Notify individual",
+      "Is notified by"
+    ],
+    "nest on": [
+      "Establish nesting site",
+      "Is nesting site on"
+    ],
+    "die from": [
+      "Cause death by",
+      "Die due to"
+    ],
+    "inflict": [
+      "Cause physical harm",
+      "Is inflicted by"
+    ],
+    "use in": [
+      "Utilize for purpose",
+      "Is used in by"
+    ],
+    "avoid": [
+      "avoids contact",
+      "is avoided by"
+    ],
+    "lack": [
+      "lacks ability",
+      "has ability"
+    ],
+    "chew": [
+      "chews through",
+      "is chewed by"
+    ],
+    "only have": [
+      "has only a part",
+      "has multiple parts"
+    ],
+    "migrate from": [
+      "migrates away from",
+      "migrates to"
+    ],
+    "recover from": [
+      "recovers from illness",
+      "is recovered from by"
+    ],
+    "remain with": [
+      "stays with parent",
+      "is stayed with by"
+    ],
+    "accompany": [
+      "accompanies a person",
+      "is accompanied by"
+    ],
+    "to understand": [
+      "understands concept",
+      "is understood by"
+    ],
+    "use by": [
+      "used by group",
+      "uses a method"
+    ],
+    "be engage in": [
+      "participate in role",
+      "role participant"
+    ],
+    "lie in": [
+      "reside in fact",
+      "fact resides in"
+    ],
+    "outweigh": [
+      "exceed in value",
+      "value exceeded by"
+    ],
+    "experience by": [
+      "infant experiences reaction",
+      "reaction experienced by"
+    ],
+    "base on": [
+      "advice based on experience",
+      "experience bases advice"
+    ],
+    "give by": [
+      "physician gives advice",
+      "advice given by"
+    ],
+    "must have": [
+      "individual requires parent",
+      "parent required by"
+    ],
+    "see": [
+      "witness death",
+      "death witnessed by"
+    ],
+    "adapt to": [
+      "adapt to environment",
+      "environment adapted by"
+    ],
+    "kill by": [
+      "poacher kills rhino",
+      "rhino killed by"
+    ],
+    "understand": [
+      "comprehend fact",
+      "be understood by"
+    ],
+    "graze on": [
+      "consume vegetation",
+      "be grazed on by"
+    ],
+    "belong to": [
+      "is part of family",
+      "has as member"
+    ],
+    "thrive in": [
+      "flourish in environment",
+      "supports thriving of"
+    ],
+    "assume": [
+      "take on responsibility",
+      "is assumed by"
+    ],
+    "life in": [
+      "reside in habitat",
+      "inhabited by"
+    ],
+    "interact with": [
+      "interact with",
+      "interact with"
+    ],
+    "be classify as": [
+      "categorized as concern",
+      "classifies as"
+    ],
+    "affect by": [
+      "influenced by factor",
+      "affects"
+    ],
+    "relate": [
+      "connected to problem",
+      "is connected to"
+    ],
+    "be calculate by": [
+      "calculated by",
+      "calculates"
+    ],
+    "adopt": [
+      "adopts",
+      "adopted by"
+    ],
+    "dedicate to": [
+      "dedicated to",
+      "dedicates to"
+    ],
+    "employ": [
+      "employs",
+      "employed by"
+    ],
+    "estimate": [
+      "estimates",
+      "estimated by"
+    ],
+    "represent": [
+      "represents",
+      "represented by"
+    ],
+    "launch": [
+      "launches",
+      "launched by"
+    ],
+    "specialize in": [
+      "specializes in",
+      "specialized in by"
+    ],
+    "to take": [
+      "takes",
+      "taken by"
+    ],
+    "operate": [
+      "operates",
+      "operated by"
+    ],
+    "hire": [
+      "Employ person",
+      "Be employed by"
+    ],
+    "issue": [
+      "Issue document",
+      "Be issued by"
+    ],
+    "recognize": [
+      "Acknowledge issue",
+      "Be acknowledged by"
+    ],
+    "work with": [
+      "Collaborate with entity",
+      "Collaborate with entity"
+    ],
+    "request": [
+      "Request service",
+      "Be requested by"
+    ],
+    "identify": [
+      "Determine value",
+      "Be identified by"
+    ],
+    "respond to": [
+      "Reply to entity",
+      "Be replied to by"
+    ],
+    "test": [
+      "Conduct test on substance",
+      "Be tested by"
+    ],
+    "confirm": [
+      "Verify event",
+      "Be verified by"
+    ],
+    "visit": [
+      "Visit location",
+      "Be visited by"
+    ],
+    "be assign to": [
+      "assigned to location/role",
+      "assigns someone/something"
+    ],
+    "be saturate with": [
+      "saturated with substance",
+      "saturates another substance"
+    ],
+    "flow through": [
+      "flows through medium",
+      "allows flow through it"
+    ],
+    "be expel from": [
+      "expelled from source",
+      "expels something"
+    ],
+    "move through": [
+      "moves through pathway",
+      "facilitates movement through"
+    ],
+    "pass over": [
+      "passes over surface",
+      "is passed over by"
+    ],
+    "pass to": [
+      "passes to destination",
+      "receives from source"
+    ],
+    "transfer": [
+      "transfers property",
+      "receives transferred property"
+    ],
+    "travels through": [
+      "travels through channel",
+      "permits travel through"
+    ],
+    "dissipate": [
+      "dissipates energy",
+      "is dissipated by force"
+    ],
+    "flow to": [
+      "move from source to destination",
+      "move from destination to source"
+    ],
+    "hit": [
+      "impact surface with force",
+      "be impacted by force"
+    ],
+    "meet": [
+      "come into contact",
+      "come into contact"
+    ],
+    "pass from": [
+      "transfer from origin to destination",
+      "transfer from destination to origin"
+    ],
+    "force": [
+      "exert pressure to act",
+      "be subjected to pressure"
+    ],
+    "fill with": [
+      "contain substance internally",
+      "be contained by structure"
+    ],
+    "supply": [
+      "provide necessary resource",
+      "be provided by source"
+    ],
+    "oppose": [
+      "resist movement or action",
+      "be resisted by force"
+    ],
+    "aid in": [
+      "assist in process development",
+      "be assisted by support"
+    ],
+    "control": [
+      "regulate environmental condition",
+      "be regulated by factor"
+    ],
+    "saturate with": [
+      "fill with to capacity",
+      "be saturated by"
+    ],
+    "travels to": [
+      "travel to destination",
+      "be traveled to by"
+    ],
+    "pass into": [
+      "enter into",
+      "be passed into by"
+    ],
+    "flow over": [
+      "move over surface",
+      "be flowed over by"
+    ],
+    "turn into": [
+      "transform into",
+      "be transformed into by"
+    ],
+    "react with": [
+      "chemically interact with",
+      "chemically interact with"
+    ],
+    "flow from": [
+      "exit from source",
+      "be flowed from by"
+    ],
+    "fly in": [
+      "move through medium",
+      "be flown in by"
+    ],
+    "flap": [
+      "move wings up/down",
+      "be flapped by"
+    ],
+    "nest in": [
+      "reside in colony",
+      "be nested in by"
+    ],
+    "dive into": [
+      "dive into a medium",
+      "medium that is dived into"
+    ],
+    "steal": [
+      "take something unlawfully",
+      "item that is unlawfully taken"
+    ],
+    "sentence to": [
+      "impose a legal punishment",
+      "punishment imposed by a legal sentence"
+    ],
+    "sell": [
+      "transfer ownership for payment",
+      "item that is transferred for payment"
+    ],
+    "hang from": [
+      "suspend from a support",
+      "support from which something is suspended"
+    ],
+    "consume by": [
+      "ingested by an entity",
+      "entity that ingests something"
+    ],
+    "be assign": [
+      "be assigned a task",
+      "task that is assigned to someone"
+    ],
+    "grow on": [
+      "develop on a surface",
+      "surface on which something develops"
+    ],
+    "carry out": [
+      "perform an action",
+      "action that is performed"
+    ],
+    "live within": [
+      "reside inside a structure",
+      "structure that contains a resident"
+    ],
+    "vary throughout": [
+      "varies over time",
+      "is varied by"
+    ],
+    "neutralize": [
+      "neutralizes acid",
+      "is neutralized by"
+    ],
+    "vary among": [
+      "varies among individuals",
+      "is varied by"
+    ],
+    "run in": [
+      "runs in family",
+      "is run by"
+    ],
+    "submerge": [
+      "submerges body part",
+      "is submerged by"
+    ],
+    "achieve": [
+      "achieves target",
+      "is achieved by"
+    ],
+    "submerge in": [
+      "submerges in medium",
+      "is submerged in by"
+    ],
+    "pick up": [
+      "picks up object",
+      "is picked up by"
+    ],
+    "live to": [
+      "lives to age",
+      "is lived to by"
+    ],
+    "be harvest for": [
+      "is harvested for use",
+      "harvests for purpose"
+    ],
+    "build": [
+      "create structure",
+      "structure created by"
+    ],
+    "emit": [
+      "release substance",
+      "substance released by"
+    ],
+    "break": [
+      "cause fracture",
+      "fracture caused by"
+    ],
+    "make of": [
+      "composed of material",
+      "material composes"
+    ],
+    "encounter": [
+      "meet entity",
+      "entity met by"
+    ],
+    "reach up to": [
+      "extend to height",
+      "height extended by"
+    ],
+    "grow as": [
+      "develop into form",
+      "form developed by"
+    ],
+    "start": [
+      "initiate process",
+      "process initiated by"
+    ],
+    "mark": [
+      "leave identifier",
+      "identifier left by"
+    ],
+    "starve to": [
+      "die from lack of food",
+      "death caused by starvation"
+    ],
+    "regulate": [
+      "controls production",
+      "is regulated by"
+    ],
+    "to solve": [
+      "solves problem",
+      "is solved by"
+    ],
+    "to explain": [
+      "explains pattern",
+      "is explained by"
+    ],
+    "discover": [
+      "discovers object",
+      "is discovered by"
+    ],
+    "capture": [
+      "captures type",
+      "is captured by"
+    ],
+    "give": [
+      "gives to person",
+      "receives from person"
+    ],
+    "adapt for": [
+      "adapts for survival",
+      "is adapted by organism"
+    ],
+    "subsist on": [
+      "subsists on food",
+      "is subsisted on by animal"
+    ],
+    "get into": [
+      "enters trouble",
+      "is entered by individual"
+    ],
+    "have short": [
+      "has short limb",
+      "is possessed by animal"
+    ],
+    "be find near": [
+      "is located near",
+      "has as location"
+    ],
+    "be descend from": [
+      "originates from",
+      "is ancestor of"
+    ],
+    "transmit": [
+      "spreads",
+      "is transmitted by"
+    ],
+    "lead": [
+      "guides",
+      "is guided by"
+    ],
+    "pursue": [
+      "seeks to gain",
+      "is pursued by"
+    ],
+    "breastfeed": [
+      "nurses",
+      "is nursed by"
+    ],
+    "publish": [
+      "releases",
+      "is released by"
+    ],
+    "flower in": [
+      "blooms during",
+      "has blooming season"
+    ],
+    "migrate in": [
+      "moves during",
+      "has migration season"
+    ],
+    "dive for": [
+      "submerges to obtain",
+      "is submerged target of"
+    ],
+    "to stay with": [
+      "stays with",
+      "is stayed with by"
+    ],
+    "store": [
+      "stores food",
+      "is stored by"
+    ],
+    "sing": [
+      "sings melody",
+      "is sung by"
+    ],
+    "plant": [
+      "plants corn",
+      "is planted by"
+    ],
+    "grow into": [
+      "grows into",
+      "is grown into by"
+    ],
+    "catch": [
+      "catches prey",
+      "is caught by"
+    ],
+    "obtain": [
+      "obtains food",
+      "is obtained by"
+    ],
+    "climb": [
+      "climbs tree",
+      "is climbed by"
+    ],
+    "consider": [
+      "considers animal",
+      "is considered by"
+    ],
+    "shed": [
+      "sheds skin",
+      "is shed by"
+    ],
+    "record": [
+      "document occurrence",
+      "occurrence documented by"
+    ],
+    "earn": [
+      "gain through action",
+      "action gains for"
+    ],
+    "feed at": [
+      "consume during time",
+      "time consumed during"
+    ],
+    "slaughter": [
+      "kill for resource",
+      "resource killed by"
+    ],
+    "disperse": [
+      "spread through action",
+      "action spreads"
+    ],
+    "excrete in": [
+      "eliminate via medium",
+      "medium eliminates"
+    ],
+    "be incorporate into": [
+      "integrate into substance",
+      "substance integrates"
+    ],
+    "flow out of": [
+      "exit from location",
+      "location exits from"
+    ],
+    "digest": [
+      "break down substance",
+      "substance broken by"
+    ],
+    "vary from": [
+      "differ across area",
+      "area differs in"
+    ],
+    "equal": [
+      "is equal to",
+      "is equal to"
+    ],
+    "exist on": [
+      "exists on",
+      "is home to"
+    ],
+    "feed upon": [
+      "feeds on",
+      "is prey of"
+    ],
+    "live near": [
+      "lives near",
+      "is habitat of"
+    ],
+    "swim in": [
+      "swims in",
+      "is swimming habitat of"
+    ],
+    "is located in": [
+      "is located in",
+      "contains"
+    ],
+    "feed in": [
+      "feeds in",
+      "is feeding ground of"
+    ],
+    "hunt": [
+      "hunts",
+      "is hunted by"
+    ],
+    "breathe through": [
+      "breathes through",
+      "is breathing medium of"
+    ],
+    "close": [
+      "closes",
+      "is closed by"
+    ],
+    "hibernate during": [
+      "hibernates during a season",
+      "season is hibernation period for"
+    ],
+    "complete": [
+      "completes life cycle stage",
+      "life cycle stage is completed by"
+    ],
+    "float in": [
+      "floats in body of water",
+      "body of water floats amphibian in"
+    ],
+    "is known as": [
+      "has common name",
+      "has common name"
+    ],
+    "shake": [
+      "shakes body part",
+      "body part is shaken by"
+    ],
+    "to adapt to": [
+      "adapts to environmental condition",
+      "environmental condition is adapted to by"
+    ],
+    "accumulate": [
+      "accumulates metabolic substance",
+      "metabolic substance is accumulated by"
+    ],
+    "give birth to": [
+      "gives birth to offspring",
+      "offspring is born from"
+    ],
+    "sit on": [
+      "sits on physical object",
+      "physical object is sat on by"
+    ],
+    "cross": [
+      "crosses man-made structure",
+      "man-made structure is crossed by"
+    ],
+    "accelerate": [
+      "speeds up",
+      "is accelerated by"
+    ],
+    "look at": [
+      "examines",
+      "is examined by"
+    ],
+    "solve": [
+      "resolves",
+      "is resolved by"
+    ],
+    "compare": [
+      "compares",
+      "is compared to"
+    ],
+    "assess": [
+      "evaluates",
+      "is evaluated by"
+    ],
+    "be present in": [
+      "is present in",
+      "contains"
+    ],
+    "to investigate": [
+      "investigates",
+      "is investigated by"
+    ],
+    "to evaluate": [
+      "evaluates",
+      "is evaluated by"
+    ],
+    "to study": [
+      "studies",
+      "is studied by"
+    ],
+    "grow": [
+      "grows",
+      "is grown by"
+    ],
+    "evolve from": [
+      "evolutionary origin",
+      "evolved into"
+    ],
+    "also have": [
+      "shared characteristic",
+      "shared by"
+    ],
+    "realize": [
+      "manifest symptom",
+      "symptom manifested by"
+    ],
+    "live about": [
+      "resided during",
+      "inhabited by"
+    ],
+    "evolved from": [
+      "evolutionary predecessor",
+      "evolved into"
+    ],
+    "ride": [
+      "mounted animal",
+      "ridden by"
+    ],
+    "study": [
+      "investigated subject",
+      "studied by"
+    ],
+    "gather": [
+      "collected resource",
+      "gathered by"
+    ],
+    "join": [
+      "became member",
+      "member joined"
+    ],
+    "like": [
+      "preferred animal",
+      "liked by"
+    ],
+    "engage in": [
+      "participate in combat",
+      "combat participant in"
+    ],
+    "advise": [
+      "offer guidance to",
+      "receive guidance from"
+    ],
+    "develop over": [
+      "progresses over time",
+      "time period for progression of"
+    ],
+    "bloom in": [
+      "flowers in season",
+      "season for flowering of"
+    ],
+    "bear": [
+      "produces fruit",
+      "fruit produced by"
+    ],
+    "chase": [
+      "pursues prey",
+      "prey pursued by"
+    ],
+    "watch": [
+      "observes prey",
+      "prey observed by"
+    ],
+    "want to": [
+      "desires activity",
+      "activity desired by"
+    ],
+    "write by": [
+      "authored by",
+      "writes"
+    ],
+    "roll up into": [
+      "curls into shape",
+      "shape curled into by"
+    ],
+    "forage for": [
+      "searches for food",
+      "is searched for by"
+    ],
+    "hear": [
+      "perceives sound",
+      "is perceived by"
+    ],
+    "acquire": [
+      "gains trait",
+      "is gained by"
+    ],
+    "cope with": [
+      "adapts to condition",
+      "is adapted by"
+    ],
+    "lift": [
+      "elevates body part",
+      "is elevated by"
+    ],
+    "mate with": [
+      "reproduces with",
+      "is reproduced with"
+    ],
+    "need to drink": [
+      "requires hydration",
+      "is required by"
+    ],
+    "utilize": [
+      "employs method",
+      "is employed by"
+    ],
+    "stand on": [
+      "supports weight",
+      "is supported by"
+    ],
+    "harbor": [
+      "carries pathogen",
+      "is carried by"
+    ],
+    "hide from": [
+      "avoid predator",
+      "is avoided by"
+    ],
+    "live out": [
+      "experience life",
+      "is experienced by"
+    ],
+    "locate": [
+      "find food",
+      "is found by"
+    ],
+    "take up": [
+      "establish residence",
+      "is established by"
+    ],
+    "to drink": [
+      "consume water",
+      "is consumed by"
+    ],
+    "to kill": [
+      "kill prey",
+      "is killed by"
+    ],
+    "descend from": [
+      "origin from relative",
+      "is ancestor of"
+    ],
+    "expel": [
+      "expel air",
+      "is expelled by"
+    ],
+    "expend": [
+      "use energy",
+      "is used by"
+    ],
+    "fight for": [
+      "compete for dominance",
+      "is competed for by"
+    ],
+    "forage in": [
+      "forages in environment",
+      "environment is foraged in by animal"
+    ],
+    "graze": [
+      "grazes in area",
+      "area is grazed by animal"
+    ],
+    "is inside": [
+      "is inside environment",
+      "environment contains animal"
+    ],
+    "is located on": [
+      "is located on continent",
+      "continent has animal located on it"
+    ],
+    "live during": [
+      "lives during time period",
+      "time period has animal living during it"
+    ],
+    "select": [
+      "selects certain place",
+      "certain place is selected by animal"
+    ],
+    "swing": [
+      "swings head",
+      "head is swung by animal"
+    ],
+    "target": [
+      "targets large prey",
+      "large prey is targeted by animal"
+    ],
+    "to search for": [
+      "searches for food",
+      "food is searched for by animal"
+    ],
+    "walk on": [
+      "walks on foot",
+      "foot is walked on by animal"
+    ],
+    "remain": [
+      "Stay as carrier",
+      "Is stayed as"
+    ],
+    "observe": [
+      "Observe behavior",
+      "Is observed by"
+    ],
+    "prepare": [
+      "Prepare meal",
+      "Is prepared by"
+    ],
+    "approach": [
+      "Approach maturity",
+      "Is approached by"
+    ],
+    "beg for": [
+      "Beg for food",
+      "Is begged for by"
+    ],
+    "bury": [
+      "Bury egg",
+      "Is buried by"
+    ],
+    "come to": [
+      "Come to clean water",
+      "Is come to by"
+    ],
+    "deposit": [
+      "Deposit dung",
+      "Is deposited by"
+    ],
+    "eat by": [
+      "Eat by animal",
+      "Is eaten by"
+    ],
+    "evolve over": [
+      "Evolve over time",
+      "Is evolved over by"
+    ],
+    "go to": [
+      "Move towards a location",
+      "Be the destination of movement"
+    ],
+    "graze in": [
+      "Feed within an area",
+      "Provide grazing area for"
+    ],
+    "gulp": [
+      "Ingest rapidly",
+      "Be ingested rapidly by"
+    ],
+    "hunt for": [
+      "Pursue a target for sustenance",
+      "Be the target of pursuit for sustenance"
+    ],
+    "hunt in": [
+      "Collaborate to capture prey",
+      "Be the collaborative hunting group for"
+    ],
+    "play in": [
+      "Engage in recreational activity within an environment",
+      "Host recreational activity for an organism"
+    ],
+    "seek out": [
+      "Actively search for a condition",
+      "Be the condition actively searched for"
+    ],
+    "survive on": [
+      "Depend on a specific resource for survival",
+      "Support survival of an organism through provision"
+    ],
+    "take in": [
+      "Absorb a substance",
+      "Be absorbed by an organism"
+    ],
+    "to live": [
+      "Exist in a state of life",
+      "Be the state of existence for an organism"
+    ],
+    "to move": [
+      "move using limb",
+      "limb used for moving"
+    ],
+    "wait for": [
+      "wait for prey",
+      "prey waited for by"
+    ],
+    "rest on": [
+      "rest on bank",
+      "bank rested on by"
+    ],
+    "survive to": [
+      "survive to adulthood",
+      "adulthood survived by"
+    ],
+    "appear during": [
+      "appear during era",
+      "era appears during"
+    ],
+    "attack by": [
+      "attacked by predator",
+      "predator attacks"
+    ],
+    "dominate": [
+      "dominate ecosystem",
+      "ecosystem dominated by"
+    ],
+    "exploit": [
+      "exploit habitat",
+      "habitat exploited by"
+    ],
+    "from enter": [
+      "enter from area",
+      "area entered from"
+    ],
+    "populate": [
+      "populate area",
+      "area populated by"
+    ],
+    "spread": [
+      "transmits disease",
+      "is transmitted by"
+    ],
+    "stretch": [
+      "extends limb",
+      "is extended by"
+    ],
+    "switch": [
+      "alters diet",
+      "diet is altered by"
+    ],
+    "classify as": [
+      "categorizes species",
+      "is categorized as"
+    ],
+    "evolve into": [
+      "develops into breed",
+      "is developed from"
+    ],
+    "find on": [
+      "located on habitat",
+      "habitat contains"
+    ],
+    "hibernate in": [
+      "rests in season",
+      "season hosts rest"
+    ],
+    "infect with": [
+      "introduces pathogen",
+      "pathogen introduced by"
+    ],
+    "pollinate": [
+      "facilitates plant reproduction",
+      "reproduction facilitated by"
+    ],
+    "pull": [
+      "exerts force on prey",
+      "prey is pulled by"
+    ],
+    "regenerate": [
+      "regenerate",
+      "is regenerated by"
+    ],
+    "run across": [
+      "run across",
+      "is run across by"
+    ],
+    "sense": [
+      "sense",
+      "is sensed by"
+    ],
+    "swim through": [
+      "swim through",
+      "is swum through by"
+    ],
+    "swim to": [
+      "swim to",
+      "is swum to by"
+    ],
+    "to conserve": [
+      "conserve",
+      "is conserved by"
+    ],
+    "to cope with": [
+      "cope with",
+      "is coped with by"
+    ],
+    "to survive in": [
+      "survive in",
+      "is survived in by"
+    ],
+    "touch": [
+      "touch",
+      "touch"
+    ],
+    "be bite by": [
+      "is bitten by",
+      "bites"
+    ],
+    "burrow into": [
+      "dig into earth",
+      "earth dug by animal"
+    ],
+    "come out at": [
+      "emerge during night",
+      "night emerges from animal"
+    ],
+    "confront": [
+      "face predator",
+      "predator faced by animal"
+    ],
+    "construct": [
+      "build burrow",
+      "burrow built by animal"
+    ],
+    "feed by": [
+      "nourished by water",
+      "water nourishes animal"
+    ],
+    "get eat by": [
+      "eaten by animal",
+      "eats animal"
+    ],
+    "grasp": [
+      "seize prey",
+      "prey seized by animal"
+    ],
+    "outrun": [
+      "surpass bear speed",
+      "bear surpassed by animal"
+    ],
+    "roll into": [
+      "form into ball",
+      "ball formed by animal"
+    ],
+    "to escape": [
+      "evade predator",
+      "predator evaded by animal"
+    ],
+    "to hunt": [
+      "hunts",
+      "is hunted by"
+    ],
+    "jump over": [
+      "jumps over",
+      "is jumped over by"
+    ],
+    "stand in": [
+      "stands in",
+      "is stood in by"
+    ],
+    "bleed to": [
+      "bleeds to",
+      "is bled to by"
+    ],
+    "feed during": [
+      "feeds during",
+      "is fed during by"
+    ],
+    "injure": [
+      "injures",
+      "is injured by"
+    ],
+    "is located at": [
+      "is located at",
+      "has located at"
+    ],
+    "keep as": [
+      "keeps as",
+      "is kept as by"
+    ],
+    "point": [
+      "points",
+      "is pointed by"
+    ],
+    "regrow": [
+      "regrows",
+      "is regrown by"
+    ],
+    "say in": [
+      "is mentioned in",
+      "mentions"
+    ],
+    "swim across": [
+      "traverses",
+      "is traversed by"
+    ],
+    "treat with": [
+      "administered with",
+      "administered to"
+    ],
+    "hate": [
+      "hates",
+      "is hated by"
+    ],
+    "catch in": [
+      "is caught in",
+      "captures"
+    ],
+    "compete with": [
+      "competes with",
+      "competes with"
+    ],
+    "emerge at": [
+      "emerges at",
+      "is emergence time of"
+    ],
+    "freeze in": [
+      "freezes in",
+      "is frozen in"
+    ],
+    "mate": [
+      "mates with",
+      "is mated with"
+    ],
+    "strand on": [
+      "is stranded on",
+      "strands"
+    ],
+    "venture into": [
+      "enter a new environment",
+      "be entered by an animal"
+    ],
+    "wallow in": [
+      "rest in a substance",
+      "be wallowed in by an animal"
+    ],
+    "bob": [
+      "move up and down",
+      "be bobbed by an animal"
+    ],
+    "breed during": [
+      "reproduce in a season",
+      "season of animal breeding"
+    ],
+    "fall into": [
+      "drop into a location",
+      "be fallen into by an animal"
+    ],
+    "hit by": [
+      "struck by an object",
+      "hit an animal"
+    ],
+    "house in": [
+      "reside in a location",
+      "house an animal"
+    ],
+    "wash up on": [
+      "arrive on a shore",
+      "be washed up on by an animal"
+    ],
+    "freeze to": [
+      "die from cold",
+      "cause animal to freeze"
+    ],
+    "regurgitate": [
+      "expel undigested food",
+      "be regurgitated by an animal"
+    ],
+    "sleep on": [
+      "sleeps on",
+      "is slept on by"
+    ],
+    "spot": [
+      "has as spot",
+      "is spotted by"
+    ],
+    "dominate by": [
+      "dominated by",
+      "dominates"
+    ],
+    "grow from": [
+      "grows from",
+      "is grown from by"
+    ],
+    "germinate from": [
+      "germinates from",
+      "is germinated from by"
+    ],
+    "patrol": [
+      "patrols",
+      "is patrolled by"
+    ],
+    "describe": [
+      "describes",
+      "is described by"
+    ],
+    "publish in": [
+      "published in",
+      "publishes"
+    ],
+    "address": [
+      "addresses",
+      "is addressed by"
+    ],
+    "lay": [
+      "lays",
+      "is laid by"
+    ],
+    "harvest": [
+      "take material from",
+      "is harvested by"
+    ],
+    "sting": [
+      "sting creature",
+      "is stung by"
+    ],
+    "is member of": [
+      "belongs to group",
+      "has member"
+    ],
+    "occur within": [
+      "exists in location",
+      "contains"
+    ],
+    "displace": [
+      "replace organism",
+      "is displaced by"
+    ],
+    "focus": [
+      "direct energy toward",
+      "is focused by"
+    ],
+    "occur on": [
+      "exists on surface",
+      "has occurrence on"
+    ],
+    "guide": [
+      "direct protocol use",
+      "is guided by"
+    ],
+    "fight": [
+      "combat disease",
+      "is fought by"
+    ],
+    "release into": [
+      "emit substance into",
+      "is released into by"
+    ],
+    "grow throughout": [
+      "grows during period",
+      "period of growth"
+    ],
+    "protect by": [
+      "protected by structure",
+      "structure that protects"
+    ],
+    "open into": [
+      "opens into cavity",
+      "cavity into which opens"
+    ],
+    "extend": [
+      "extends body part",
+      "body part extended by"
+    ],
+    "support by": [
+      "supported by muscle",
+      "muscle that supports"
+    ],
+    "extend from": [
+      "extends from body part",
+      "body part from which extends"
+    ],
+    "fall from": [
+      "falls from source",
+      "source from which falls"
+    ],
+    "grow near": [
+      "grows adjacent to",
+      "adjacent to which grows"
+    ],
+    "be fertilize by": [
+      "fertilized by substance",
+      "substance that fertilizes"
+    ],
+    "fall on": [
+      "falls onto surface",
+      "surface onto which falls"
+    ],
+    "help prevent": [
+      "Assist in prevention",
+      "Prevented via support"
+    ],
+    "transform": [
+      "Convert energy form",
+      "Transformed by process"
+    ],
+    "be submerge in": [
+      "Submerged in medium",
+      "Contains submerged object"
+    ],
+    "be repeat": [
+      "Action repeated",
+      "Repeating action"
+    ],
+    "prove": [
+      "Demonstrate ability",
+      "Verified by result"
+    ],
+    "stem from": [
+      "Originate from source",
+      "Primary origin basis"
+    ],
+    "to control": [
+      "Regulate using method",
+      "Managed through control"
+    ],
+    "account for": [
+      "Explain by factors",
+      "Impact measurable by"
+    ],
+    "breathe use": [
+      "Respiration via gill",
+      "Gill used for breathing"
+    ],
+    "find along": [
+      "Location along coast",
+      "Coast occupied by species"
+    ],
+    "to identify": [
+      "identify as",
+      "identified by"
+    ],
+    "apply": [
+      "apply force",
+      "force applied by"
+    ],
+    "get out of": [
+      "exit from",
+      "exited by"
+    ],
+    "mate for": [
+      "mate for life",
+      "mated for life by"
+    ],
+    "expose to": [
+      "expose to element",
+      "exposed to element by"
+    ],
+    "frequent by": [
+      "frequented by",
+      "frequents"
+    ],
+    "cover by": [
+      "covered by",
+      "covers"
+    ],
+    "divide by": [
+      "divided by",
+      "divides"
+    ],
+    "inhabit by": [
+      "inhabited by",
+      "inhabits"
+    ],
+    "occupy by": [
+      "occupied by",
+      "occupies"
+    ],
+    "show in": [
+      "is displayed within",
+      "contains display of"
+    ],
+    "depict": [
+      "represents visually",
+      "is visually represented by"
+    ],
+    "supplies": [
+      "provides with",
+      "is provided by"
+    ],
+    "divide into": [
+      "splits into",
+      "is split from"
+    ],
+    "originate from": [
+      "has origin at",
+      "is origin of"
+    ],
+    "spread to": [
+      "extends to",
+      "is extended by"
+    ],
+    "discuss": [
+      "addresses topic of",
+      "is addressed in"
+    ],
+    "outline": [
+      "summarizes key points of",
+      "is summarized in"
+    ],
+    "review": [
+      "evaluates aspects of",
+      "is evaluated in"
+    ],
+    "detail": [
+      "describes specifics of",
+      "is described in"
+    ],
+    "highlight": [
+      "emphasizes key point",
+      "is emphasized by key point"
+    ],
+    "say": [
+      "states fact",
+      "is stated by fact"
+    ],
+    "summarize": [
+      "summarizes main aspect",
+      "is summarized by main aspect"
+    ],
+    "hang on": [
+      "hung on surface",
+      "supports artifact"
+    ],
+    "impede": [
+      "prevents process",
+      "is prevented by obstacle"
+    ],
+    "paint": [
+      "creates artwork on",
+      "is created by artist"
+    ],
+    "know": [
+      "has knowledge of",
+      "is known by entity"
+    ],
+    "reserve": [
+      "keeps right",
+      "is kept by entity"
+    ],
+    "explore": [
+      "investigates concept",
+      "is investigated by entity"
+    ],
+    "come through": [
+      "passes through opening",
+      "is passed through by entity"
+    ],
+    "embark on": [
+      "Initiate a journey/project",
+      "Be initiated by"
+    ],
+    "work for": [
+      "Employment relationship",
+      "Employer of"
+    ],
+    "occur under": [
+      "Happens under condition",
+      "Condition under which happens"
+    ],
+    "rise into": [
+      "Ascends into medium",
+      "Medium into which ascends"
+    ],
+    "block": [
+      "Prevents passage of",
+      "Blocked by"
+    ],
+    "deserve": [
+      "Warrants attention",
+      "Considered by"
+    ],
+    "grow for": [
+      "Develops over period",
+      "Period during which develops"
+    ],
+    "drop": [
+      "Release from",
+      "Released by"
+    ],
+    "ease": [
+      "Alleviates discomfort",
+      "Alleviated by"
+    ],
+    "be summarize in": [
+      "Summarized in format",
+      "Contains summary of"
+    ],
+    "to develop": [
+      "develops skill",
+      "is developed by"
+    ],
+    "help with": [
+      "assists in task",
+      "is assisted by"
+    ],
+    "can do": [
+      "can perform duty",
+      "is performed by"
+    ],
+    "work under": [
+      "works under supervision",
+      "supervises"
+    ],
+    "interview": [
+      "interviews person",
+      "is interviewed by"
+    ],
+    "to perform": [
+      "performs duty",
+      "is performed by"
+    ],
+    "be train on": [
+      "is trained on job",
+      "trains on"
+    ],
+    "treat": [
+      "treats animal",
+      "is treated by"
+    ],
+    "collaborate with": [
+      "collaborates with physician",
+      "collaborates with"
+    ],
+    "grow up in": [
+      "grew up in business",
+      "is grown up in by"
+    ],
+    "to complete": [
+      "complete a task",
+      "task is completed by"
+    ],
+    "restrain": [
+      "restrain an animal",
+      "animal is restrained by"
+    ],
+    "snap": [
+      "capture an image",
+      "image is captured by"
+    ],
+    "be train in": [
+      "receive training",
+      "provides training to"
+    ],
+    "to orbit": [
+      "revolve around",
+      "is orbited by"
+    ],
+    "to eat": [
+      "consume food",
+      "is consumed by"
+    ],
+    "to measure": [
+      "quantify attribute",
+      "attribute is quantified by"
+    ],
+    "appreciate": [
+      "value functionality",
+      "functionality is valued by"
+    ],
+    "repeat": [
+      "perform again",
+      "action is repeated by"
+    ],
+    "announce": [
+      "declare finding",
+      "finding is declared by"
+    ],
+    "calculate": [
+      "determine measurement",
+      "is determined by"
+    ],
+    "to gain": [
+      "acquire information",
+      "is acquired by"
+    ],
+    "go on": [
+      "initiate action",
+      "is initiated by"
+    ],
+    "monitor": [
+      "observe phenomenon",
+      "is observed by"
+    ],
+    "to compare": [
+      "analyze similarity",
+      "is compared with"
+    ],
+    "accept": [
+      "approve hypothesis",
+      "is approved by"
+    ],
+    "define": [
+      "establish parameter",
+      "is defined by"
+    ],
+    "devise": [
+      "create method",
+      "is devised by"
+    ],
+    "to test": [
+      "evaluate theory",
+      "is tested by"
+    ],
+    "write": [
+      "compose document",
+      "is written by"
+    ],
+    "point out": [
+      "indicate presence of",
+      "is indicated by"
+    ],
+    "disprove": [
+      "invalidate claim of",
+      "is invalidated by"
+    ],
+    "to achieve": [
+      "attain goal of",
+      "is attained by"
+    ],
+    "compete in": [
+      "participate in event",
+      "has participant in"
+    ],
+    "to meet": [
+      "fulfill requirement",
+      "is fulfilled by"
+    ],
+    "crave": [
+      "desire intensely for",
+      "is intensely desired by"
+    ],
+    "to pass": [
+      "clear assessment of",
+      "is cleared by"
+    ],
+    "exert": [
+      "apply force on",
+      "receives force from"
+    ],
+    "cover with": [
+      "blanket surface with",
+      "is blanketed by"
+    ],
+    "work at": [
+      "operate at location",
+      "has operator at"
+    ],
+    "decrease with": [
+      "reduces as another increases",
+      "increases as another decreases"
+    ],
+    "analyze": [
+      "examines to understand",
+      "is examined by"
+    ],
+    "give off": [
+      "releases as emission",
+      "is emitted by"
+    ],
+    "trap in": [
+      "confined within a medium",
+      "contains a confined entity"
+    ],
+    "decrease by": [
+      "reduces by a specific amount",
+      "is reduced by a specific amount"
+    ],
+    "flee": [
+      "escapes from a location",
+      "is fled from by"
+    ],
+    "instruct": [
+      "directs actions of another",
+      "receives instructions from"
+    ],
+    "overcome": [
+      "conquers a force or influence",
+      "is overcome by"
+    ],
+    "marry": [
+      "enters a marital union",
+      "enters a marital union with"
+    ],
+    "identify as": [
+      "self-identifies with a role",
+      "is identified as by"
+    ],
+    "acknowledge": [
+      "gives credit to",
+      "is credited by"
+    ],
+    "cite": [
+      "references an example",
+      "is referenced by"
+    ],
+    "evaluate": [
+      "assesses an effect",
+      "is assessed by"
+    ],
+    "propose": [
+      "suggests an effect",
+      "is suggested by"
+    ],
+    "turn": [
+      "shifts attention",
+      "is shifted by"
+    ],
+    "urge": [
+      "encourages a reader",
+      "is encouraged by"
+    ],
+    "own": [
+      "possesses a ferret",
+      "is possessed by"
+    ],
+    "argue": [
+      "advocates for replication",
+      "is advocated by"
+    ],
+    "follow in": [
+      "traces footsteps",
+      "is traced by"
+    ],
+    "declare": [
+      "states a conflict",
+      "is stated by"
+    ],
+    "jump to": [
+      "Move to end",
+      "Move from end"
+    ],
+    "sue": [
+      "File lawsuit against",
+      "File lawsuit by"
+    ],
+    "administer": [
+      "Provide treatment",
+      "Receive treatment"
+    ],
+    "design": [
+      "Create blueprint",
+      "Designed by"
+    ],
+    "decrease during": [
+      "Drop in period",
+      "Period of decrease"
+    ],
+    "aid": [
+      "Support cause",
+      "Receive support"
+    ],
+    "connect to": [
+      "Link physically",
+      "Link physically"
+    ],
+    "penetrate": [
+      "Invade structure",
+      "Invaded by"
+    ],
+    "need by": [
+      "Required for animal",
+      "Require nutrient"
+    ],
+    "to grow throughout": [
+      "Develop over lifespan",
+      "Lifespan of growth"
+    ],
+    "sleep in": [
+      "rest in a location",
+      "has sleeper in it"
+    ],
+    "supplement": [
+      "add to diet",
+      "is supplemented by"
+    ],
+    "to survive": [
+      "endure season",
+      "is endured by"
+    ],
+    "bear to": [
+      "give birth to",
+      "is mother/father of"
+    ],
+    "learn from": [
+      "acquire knowledge from",
+      "is teacher of"
+    ],
+    "nurse for": [
+      "care for during period",
+      "is nursed by"
+    ],
+    "prepare for": [
+      "get ready for event",
+      "is prepared by"
+    ],
+    "react to": [
+      "respond to stimulus",
+      "is response to"
+    ],
+    "mourn": [
+      "grieve for loss",
+      "is mourned by"
+    ],
+    "finish": [
+      "complete consumption",
+      "is finished by"
+    ],
+    "ride on": [
+      "mount and ride on",
+      "support being ridden on"
+    ],
+    "die within": [
+      "perish under condition",
+      "cause death under"
+    ],
+    "die as": [
+      "die as a result",
+      "result in death"
+    ],
+    "separate from": [
+      "detach from",
+      "be detached from"
+    ],
+    "weigh about": [
+      "have approximate weight",
+      "be the weight of"
+    ],
+    "make from": [
+      "composed of",
+      "compose into"
+    ],
+    "climb into": [
+      "ascend into",
+      "be climbed into"
+    ],
+    "die after": [
+      "perish following event",
+      "cause death following"
+    ],
+    "inhale": [
+      "breathe in substance",
+      "be inhaled by"
+    ],
+    "run from": [
+      "extend from origin",
+      "be extended from"
+    ],
+    "be transmit to": [
+      "transmit to",
+      "receive from"
+    ],
+    "to cause": [
+      "causes",
+      "is caused by"
+    ],
+    "be transmit by": [
+      "transmitted by",
+      "carries"
+    ],
+    "adapt": [
+      "adapted for",
+      "is adapted by"
+    ],
+    "trap": [
+      "traps",
+      "is trapped by"
+    ],
+    "design for": [
+      "designed for",
+      "serves for"
+    ],
+    "be wash in": [
+      "washed in",
+      "used to clean"
+    ],
+    "come out of": [
+      "removed from",
+      "holds"
+    ],
+    "top with": [
+      "topped with",
+      "covers"
+    ],
+    "boost": [
+      "boosts",
+      "requires"
+    ],
+    "perch in": [
+      "animal perches in location",
+      "location has perching animal"
+    ],
+    "work as": [
+      "person works as team member",
+      "team has working member"
+    ],
+    "originate in": [
+      "entity originates from region",
+      "region is origin of entity"
+    ],
+    "sprout": [
+      "plant sprouts part",
+      "part sprouted by plant"
+    ],
+    "run along": [
+      "band runs along side",
+      "side has running band"
+    ],
+    "connect": [
+      "band connects to structure",
+      "structure connected by band"
+    ],
+    "stretch between": [
+      "band stretches between points",
+      "points stretched between by band"
+    ],
+    "predict": [
+      "theory predicts phenomenon",
+      "phenomenon predicted by theory"
+    ],
+    "radiate": [
+      "object radiates energy",
+      "energy radiated by object"
+    ],
+    "dip in": [
+      "object dips into substance",
+      "substance has dipping object"
+    ],
+    "devote": [
+      "dedicates time to",
+      "is dedicated by"
+    ],
+    "be classify with": [
+      "is classified with",
+      "classifies as"
+    ],
+    "separate": [
+      "separates from",
+      "is separated by"
+    ],
+    "make by": [
+      "made by",
+      "makes"
+    ],
+    "shoot to": [
+      "shoots to death",
+      "is shot to death by"
+    ],
+    "fly over": [
+      "flies over",
+      "is flown over by"
+    ],
+    "live over": [
+      "lives for",
+      "is lived over by"
+    ],
+    "hibernate over": [
+      "hibernates during",
+      "is hibernated during by"
+    ],
+    "power": [
+      "powers",
+      "is powered by"
+    ],
+    "run": [
+      "runs",
+      "is run by"
+    ],
+    "filter": [
+      "filters out particles",
+      "filtered by structure"
+    ],
+    "typically have": [
+      "typically has feature",
+      "has typical feature of"
+    ],
+    "surround by": [
+      "surrounded by material",
+      "surrounds with material"
+    ],
+    "hibernate for": [
+      "hibernates for duration",
+      "duration of hibernation"
+    ],
+    "enter into": [
+      "enters into state",
+      "state entered by"
+    ],
+    "to find": [
+      "seeks to locate",
+      "located by seeker"
+    ],
+    "like to": [
+      "likes to perform action",
+      "action liked by"
+    ],
+    "stalk": [
+      "stalks prey",
+      "stalked by predator"
+    ],
+    "to bite": [
+      "bites entity",
+      "bitten by entity"
+    ],
+    "devour": [
+      "devours prey",
+      "devoured by predator"
+    ],
+    "take down": [
+      "Subdue in combat",
+      "Be subdued by"
+    ],
+    "knock on": [
+      "Strike to open",
+      "Be struck to open"
+    ],
+    "cut into": [
+      "Divide into cubes",
+      "Be divided into cubes"
+    ],
+    "make with": [
+      "Produce using",
+      "Be used to produce"
+    ],
+    "defoliate": [
+      "Remove leaves",
+      "Have leaves removed by"
+    ],
+    "emerge as": [
+      "Transform into",
+      "Be transformed into"
+    ],
+    "exhibit by": [
+      "Display by",
+      "Be displayed by"
+    ],
+    "see in": [
+      "Observe in",
+      "Be observed in"
+    ],
+    "compound": [
+      "Make worse",
+      "Be made worse by"
+    ],
+    "contradict": [
+      "Conflict with",
+      "Conflict with"
+    ],
+    "mention": [
+      "references a concept",
+      "is referenced by a concept"
+    ],
+    "mate in": [
+      "mates during season",
+      "is mating season for"
+    ],
+    "remain on": [
+      "stays attached to",
+      "has attached berry"
+    ],
+    "tend to": [
+      "has tendency to",
+      "is tendency of"
+    ],
+    "care about": [
+      "shows concern for",
+      "is concerned by"
+    ],
+    "witness": [
+      "observes an event",
+      "is observed by"
+    ],
+    "seek to": [
+      "attempts to achieve",
+      "is target of"
+    ],
+    "rest in": [
+      "rests in location",
+      "provides rest for"
+    ],
+    "browse": [
+      "eats leaves of",
+      "is browsed by"
+    ],
+    "travels from": [
+      "originates from source",
+      "is origin of"
+    ],
+    "lead from": [
+      "originates from",
+      "leads to"
+    ],
+    "be synthesize in": [
+      "synthesized in",
+      "synthesizes"
+    ],
+    "prohibit": [
+      "prohibit action",
+      "is prohibited by"
+    ],
+    "release in": [
+      "release in process",
+      "has release in"
+    ],
+    "refer to": [
+      "refer to",
+      "refer to"
+    ],
+    "means": [
+      "means concept",
+      "is meant by"
+    ],
+    "to support": [
+      "support entity",
+      "is supported by"
+    ],
+    "classify": [
+      "classify entity",
+      "is classified by"
+    ],
+    "to explore": [
+      "explore field",
+      "is explored by"
+    ],
+    "challenge": [
+      "challenge belief",
+      "is challenged by"
+    ],
+    "talk about": [
+      "discuss topic",
+      "is discussed by"
+    ],
+    "be explore": [
+      "investigate possibility",
+      "is investigated by"
+    ],
+    "document": [
+      "record event",
+      "is recorded by"
+    ],
+    "reject": [
+      "refuse idea",
+      "is refused by"
+    ],
+    "view": [
+      "perceive concept",
+      "is perceived by"
+    ],
+    "sign": [
+      "authorize document",
+      "is authorized by"
+    ],
+    "dismiss": [
+      "reject theory",
+      "is rejected by"
+    ],
+    "keep in": [
+      "retain in mind",
+      "is retained by"
+    ],
+    "leap into": [
+      "jump into medium",
+      "is jumped into by"
+    ],
+    "roost in": [
+      "rest in structure",
+      "is roosted in by"
+    ],
+    "fill up with": [
+      "fill with substance",
+      "filled by"
+    ],
+    "fold": [
+      "fold object",
+      "folded by"
+    ],
+    "perch on": [
+      "perch on surface",
+      "perched on by"
+    ],
+    "grab": [
+      "grab object",
+      "grabbed by"
+    ],
+    "nest": [
+      "nest in location",
+      "nested in by"
+    ],
+    "seize": [
+      "seize object",
+      "seized by"
+    ],
+    "undertake": [
+      "undertake task",
+      "undertaken by"
+    ],
+    "breed in": [
+      "breed in location",
+      "breeding in by"
+    ],
+    "know as": [
+      "known as",
+      "is known as"
+    ],
+    "learn to": [
+      "learn skill",
+      "taught to"
+    ],
+    "persist for": [
+      "last for duration",
+      "end at time period"
+    ],
+    "contract": [
+      "acquire illness",
+      "cause illness in"
+    ],
+    "bury in": [
+      "cover with material",
+      "contain buried organism"
+    ],
+    "retract": [
+      "pull back body part",
+      "retracted by entity"
+    ],
+    "to die from": [
+      "cause death",
+      "die due to"
+    ],
+    "rise from": [
+      "emerge from source",
+      "emit substance"
+    ],
+    "run down": [
+      "extend along body part",
+      "have stripe along"
+    ],
+    "compose of": [
+      "consist of material",
+      "constitute component of"
+    ],
+    "rape": [
+      "force sexual act",
+      "subjected to sexual act by"
+    ],
+    "manage": [
+      "oversee business",
+      "managed by individual"
+    ],
+    "to die of": [
+      "cause of death",
+      "death caused by"
+    ],
+    "pierce": [
+      "pierces",
+      "pierced by"
+    ],
+    "mount on": [
+      "mounted on",
+      "has mounted on"
+    ],
+    "slide across": [
+      "slides across",
+      "slid across by"
+    ],
+    "extend over": [
+      "extends over",
+      "extended over by"
+    ],
+    "float on": [
+      "floats on",
+      "is floated on by"
+    ],
+    "flow in": [
+      "flows in",
+      "is flowed in by"
+    ],
+    "return from": [
+      "returns from",
+      "is returned from by"
+    ],
+    "filter by": [
+      "filtered by",
+      "filters"
+    ],
+    "to detect": [
+      "detects",
+      "detected by"
+    ],
+    "transport": [
+      "carries substance through system",
+      "is carried by system through substance"
+    ],
+    "flow along": [
+      "moves along path",
+      "is path of movement"
+    ],
+    "last about": [
+      "has duration of",
+      "is duration of"
+    ],
+    "precede": [
+      "occurs before",
+      "is preceded by"
+    ],
+    "weigh as": [
+      "has weight of",
+      "is weight of"
+    ],
+    "absorb by": [
+      "is absorbed by",
+      "absorbs"
+    ],
+    "uproot": [
+      "causes to uproot",
+      "is uprooted by"
+    ],
+    "double": [
+      "increases to twice size",
+      "is doubled by"
+    ],
+    "sire": [
+      "produces offspring",
+      "is produced by"
+    ],
+    "certify": [
+      "confers qualification",
+      "is certified by"
+    ],
+    "be distinguish from": [
+      "differentiate from",
+      "is differentiated by"
+    ],
+    "remain within": [
+      "stay within",
+      "contains"
+    ],
+    "increase with": [
+      "rises with",
+      "is associated with increase in"
+    ],
+    "be below": [
+      "is below",
+      "is above"
+    ],
+    "bathe": [
+      "surrounds with fluid",
+      "is surrounded by"
+    ],
+    "create by": [
+      "created by",
+      "creates"
+    ],
+    "connect by": [
+      "connected by",
+      "connected by"
+    ],
+    "grow out of": [
+      "grows from",
+      "is grown into"
+    ],
+    "speak to": [
+      "speaks to",
+      "is spoken to by"
+    ],
+    "to become": [
+      "becomes",
+      "is preceded by"
+    ],
+    "hold about": [
+      "holds approximately",
+      "is approximately held by"
+    ],
+    "live for over": [
+      "lives for more than",
+      "is lived for more than by"
+    ],
+    "weigh over": [
+      "weighs more than",
+      "is more than weighed by"
+    ],
+    "line with": [
+      "lined with",
+      "lines with"
+    ],
+    "shave": [
+      "shaves",
+      "is shaved by"
+    ],
+    "inherit": [
+      "inherits",
+      "is inherited by"
+    ],
+    "raise in": [
+      "raised in",
+      "raises in"
+    ],
+    "pour": [
+      "pours",
+      "is poured by"
+    ],
+    "greet": [
+      "greets",
+      "is greeted by"
+    ],
+    "shoot": [
+      "shoots",
+      "is shot by"
+    ],
+    "to go to": [
+      "move to location",
+      "is destination of"
+    ],
+    "be rush to": [
+      "rush to location",
+      "is rushed to by"
+    ],
+    "take over": [
+      "take control of",
+      "is controlled by"
+    ],
+    "buy": [
+      "purchase item",
+      "is purchased by"
+    ],
+    "do conduct": [
+      "conduct material",
+      "is conducted by"
+    ],
+    "set": [
+      "produce fruit",
+      "is produced by"
+    ],
+    "serve with": [
+      "serve with item",
+      "is served with"
+    ],
+    "cook": [
+      "prepare food",
+      "is prepared by"
+    ],
+    "grow during": [
+      "grow during period",
+      "is growth period of"
+    ],
+    "possess by": [
+      "possessed by entity",
+      "possesses"
+    ],
+    "outline in": [
+      "outlined in",
+      "outlines"
+    ],
+    "insert into": [
+      "inserted into",
+      "inserts into"
+    ],
+    "last from": [
+      "lasts from",
+      "is duration of"
+    ],
+    "design to": [
+      "designed to",
+      "is designed by"
+    ],
+    "start in": [
+      "starts in",
+      "is start of"
+    ],
+    "arrive on": [
+      "arrives on",
+      "is arrived on by"
+    ],
+    "know of": [
+      "knows of",
+      "is known of by"
+    ],
+    "contact": [
+      "contacts",
+      "is contacted by"
+    ],
+    "continue": [
+      "continues",
+      "is continued by"
+    ],
+    "fuel": [
+      "fuels",
+      "is fueled by"
+    ],
+    "resist": [
+      "resists force",
+      "is resisted by"
+    ],
+    "murder": [
+      "commits murder",
+      "is murdered by"
+    ],
+    "draw from": [
+      "conclusion drawn from",
+      "serves as basis for"
+    ],
+    "end in": [
+      "terminates in structure",
+      "is endpoint of"
+    ],
+    "lick": [
+      "licks object",
+      "is licked by"
+    ],
+    "pass": [
+      "passes time period",
+      "is passed by"
+    ],
+    "read": [
+      "reads information",
+      "is read by"
+    ],
+    "fly": [
+      "flies vehicle",
+      "is flown by"
+    ],
+    "struggle with": [
+      "struggles with issue",
+      "is struggled with by"
+    ],
+    "be arrest for": [
+      "is arrested for crime",
+      "arrests for"
+    ],
+    "grow at": [
+      "grows at location",
+      "location is grown at"
+    ],
+    "rub": [
+      "rubs object",
+      "object is rubbed by"
+    ],
+    "disperse from": [
+      "disperses from origin",
+      "origin is dispersed from"
+    ],
+    "sprout from": [
+      "sprouts from source",
+      "source sprouts from"
+    ],
+    "be harvest during": [
+      "harvested during time",
+      "time is harvesting period"
+    ],
+    "travel up to": [
+      "travels up to distance",
+      "distance is traveled up to"
+    ],
+    "crawl on": [
+      "crawls on surface",
+      "surface is crawled on"
+    ],
+    "land on": [
+      "lands on surface",
+      "surface is landed on"
+    ],
+    "pull by": [
+      "pulled by agent",
+      "agent pulls"
+    ],
+    "crush to": [
+      "crushes to outcome",
+      "outcome is crushed to"
+    ],
+    "set up": [
+      "establishes territory",
+      "is established by"
+    ],
+    "mount": [
+      "mounts cow",
+      "is mounted by"
+    ],
+    "act upon": [
+      "exerts force on",
+      "is acted upon by"
+    ],
+    "dig by": [
+      "dug by rodent",
+      "digs burrow"
+    ],
+    "grow along": [
+      "grows along fence",
+      "is grown along by"
+    ],
+    "forage at": [
+      "forages at night",
+      "is foraged by at"
+    ],
+    "to provide": [
+      "provides service",
+      "is provided by"
+    ],
+    "grow over": [
+      "grows over time",
+      "is grown over by"
+    ],
+    "to create": [
+      "creates job",
+      "is created by"
+    ],
+    "run by": [
+      "operated by son",
+      "operates business"
+    ],
+    "be beat to": [
+      "perish from beating",
+      "caused by beating"
+    ],
+    "appoint": [
+      "assign as deputy",
+      "appointed by"
+    ],
+    "add to": [
+      "enhance flavor with",
+      "added to by"
+    ],
+    "load with": [
+      "fill with sugar",
+      "loaded into"
+    ],
+    "release during": [
+      "emit during process",
+      "emitted during"
+    ],
+    "ignore": [
+      "disregard a person",
+      "disregarded by"
+    ],
+    "watch in": [
+      "observe with wonder",
+      "observed by"
+    ],
+    "build by": [
+      "construct by someone",
+      "constructed by"
+    ],
+    "house": [
+      "keep in a structure",
+      "kept in"
+    ],
+    "stay": [
+      "remain with entity",
+      "entity remains with"
+    ],
+    "kick": [
+      "kicks another entity",
+      "is kicked by"
+    ],
+    "to stretch": [
+      "stretches a body part",
+      "is stretched by"
+    ],
+    "plan": [
+      "plans an activity",
+      "is planned by"
+    ],
+    "to learn": [
+      "learns a skill",
+      "is learned by"
+    ],
+    "stretch from": [
+      "stretches from a location",
+      "is stretched from by"
+    ],
+    "circulate": [
+      "circulates a substance",
+      "is circulated by"
+    ],
+    "grow under": [
+      "grows under a condition",
+      "is a condition for growth"
+    ],
+    "hang in": [
+      "hangs in a location",
+      "has hanging in it"
+    ],
+    "bring down": [
+      "brings down a target",
+      "is brought down by"
+    ],
+    "inform": [
+      "informs another entity",
+      "is informed by"
+    ],
+    "breed": [
+      "breed in captivity",
+      "is bred by"
+    ],
+    "weigh around": [
+      "has approximate weight",
+      "is the approximate weight of"
+    ],
+    "discourage": [
+      "discourages predator",
+      "is discouraged by"
+    ],
+    "bind": [
+      "binds toxin",
+      "is bound by"
+    ],
+    "sink to": [
+      "sinks to bottom",
+      "is the sink destination of"
+    ],
+    "extract from": [
+      "extracted from source",
+      "is the source of"
+    ],
+    "soak in": [
+      "soaks in liquid",
+      "is the soaking liquid of"
+    ],
+    "be assess by": [
+      "assessed by method",
+      "is the assessment method of"
+    ],
+    "miss": [
+      "misses individual",
+      "is missed by"
+    ],
+    "restrict": [
+      "restricts intake",
+      "is restricted by"
+    ],
+    "resume": [
+      "resume growth",
+      "growth resumed by"
+    ],
+    "evolve as": [
+      "evolve into predator",
+      "predator evolved from"
+    ],
+    "feast on": [
+      "prey on herbivore",
+      "herbivore preyed upon"
+    ],
+    "be sentence to": [
+      "sentenced to death",
+      "death sentence imposed on"
+    ],
+    "pass on to": [
+      "transmit to daughter",
+      "daughter receives from"
+    ],
+    "wash": [
+      "perform hand washing",
+      "hands washed by"
+    ],
+    "replace by": [
+      "replaced by bone",
+      "bone replaces"
+    ],
+    "ambush": [
+      "attack by ambush",
+      "prey ambushed by"
+    ],
+    "to come into": [
+      "establish contact",
+      "contact established with"
+    ],
+    "thrive on": [
+      "flourish on diet",
+      "diet supports thriving"
+    ],
+    "kill on": [
+      "killed on surface",
+      "killed by on surface"
+    ],
+    "puncture": [
+      "pierced through material",
+      "pierced by through material"
+    ],
+    "transform into": [
+      "transformed into form",
+      "transformed from form"
+    ],
+    "change into": [
+      "changed into form",
+      "changed from form"
+    ],
+    "spin": [
+      "spun protective casing",
+      "spun by protective casing"
+    ],
+    "move at": [
+      "moved during time",
+      "moved by during time"
+    ],
+    "to make": [
+      "made decision",
+      "decision made by"
+    ],
+    "develop from": [
+      "developed from source",
+      "developed into source"
+    ],
+    "enclose": [
+      "enclosed structure",
+      "enclosed by structure"
+    ],
+    "line": [
+      "lined outer boundary",
+      "lined by outer boundary"
+    ],
+    "separate by": [
+      "divided by a boundary",
+      "divides into parts"
+    ],
+    "be distinguish by": [
+      "identified by a feature",
+      "identifies a characteristic"
+    ],
+    "answer": [
+      "responds to a question",
+      "is responded to"
+    ],
+    "crush": [
+      "breaks into smaller pieces",
+      "is broken by force"
+    ],
+    "pass at": [
+      "achieves a threshold",
+      "is achieved by"
+    ],
+    "formulate": [
+      "creates a structured plan",
+      "is created by"
+    ],
+    "recruit": [
+      "hires for a role",
+      "is hired for a position"
+    ],
+    "try": [
+      "attempts to perform",
+      "is attempted by"
+    ],
+    "quit": [
+      "abandons a position",
+      "is abandoned by"
+    ],
+    "intersperse with": [
+      "mixes elements together",
+      "is mixed with elements"
+    ],
+    "to deal with": [
+      "manage issue",
+      "issue managed by"
+    ],
+    "share by": [
+      "shared by organism",
+      "shares with organism"
+    ],
+    "distinguish": [
+      "differentiate type",
+      "differentiate type"
+    ],
+    "describe in": [
+      "explain using text",
+      "text explains"
+    ],
+    "present in": [
+      "display in table",
+      "table displays"
+    ],
+    "implement": [
+      "execute trial",
+      "trial executed by"
+    ],
+    "store in": [
+      "contain energy",
+      "energy contained in"
+    ],
+    "contaminate": [
+      "taint water source",
+      "water source tainted by"
+    ],
+    "pollute": [
+      "dirty air",
+      "air dirtied by"
+    ],
+    "convert to": [
+      "transform to heat",
+      "heat transformed from"
+    ],
+    "to pursue": [
+      "pursue a goal",
+      "is pursued by"
+    ],
+    "radiate to": [
+      "radiate to location",
+      "is radiated from"
+    ],
+    "browse on": [
+      "browse on resource",
+      "is browsed by"
+    ],
+    "to express": [
+      "express an idea",
+      "is expressed by"
+    ],
+    "to follow": [
+      "follow a rule",
+      "is followed by"
+    ],
+    "to participate in": [
+      "participate in activity",
+      "has participant"
+    ],
+    "access": [
+      "access a resource",
+      "is accessed by"
+    ],
+    "blame": [
+      "blame a person",
+      "is blamed by"
+    ],
+    "practice": [
+      "practice a skill",
+      "is practiced by"
+    ],
+    "stay at": [
+      "stay at location",
+      "has resident"
+    ],
+    "talk with": [
+      "communicate with",
+      "communicate with"
+    ],
+    "to attend": [
+      "enroll in",
+      "has attendee"
+    ],
+    "to practice": [
+      "develop skill",
+      "practiced by"
+    ],
+    "diagnose with": [
+      "diagnose with condition",
+      "is diagnosed by"
+    ],
+    "ask": [
+      "request information from",
+      "is asked by"
+    ],
+    "bear of": [
+      "child of",
+      "parent of"
+    ],
+    "end up": [
+      "become",
+      "is end result of"
+    ],
+    "to draw": [
+      "infer",
+      "is inferred by"
+    ],
+    "to say": [
+      "express",
+      "is expressed by"
+    ],
+    "to share": [
+      "communicate",
+      "is communicated by"
+    ],
+    "clog": [
+      "obstructs passage",
+      "is obstructed by"
+    ],
+    "guard": [
+      "protects area",
+      "is protected by"
+    ],
+    "call for": [
+      "requires ingredient",
+      "is required by"
+    ],
+    "act like": [
+      "mimics function",
+      "is mimicked by"
+    ],
+    "face by": [
+      "is confronted by",
+      "confronts"
+    ],
+    "post": [
+      "publishes content",
+      "is published by"
+    ],
+    "recall": [
+      "remembers event",
+      "is remembered by"
+    ],
+    "encompass": [
+      "includes element",
+      "is included in"
+    ],
+    "suspend in": [
+      "is suspended in",
+      "suspends"
+    ],
+    "allow for": [
+      "permits process",
+      "is permitted by"
+    ],
+    "clean": [
+      "clean using",
+      "cleaned by"
+    ],
+    "risk": [
+      "endanger life",
+      "endangered by"
+    ],
+    "favor": [
+      "support survival",
+      "supported by"
+    ],
+    "operate in": [
+      "operate in location",
+      "operated in by"
+    ],
+    "weave from": [
+      "weave from material",
+      "woven from by"
+    ],
+    "form at": [
+      "form at location",
+      "formed at by"
+    ],
+    "warm": [
+      "warm using",
+      "warmed by"
+    ],
+    "spawn": [
+      "produce as result",
+      "spawned by"
+    ],
+    "battle": [
+      "fight against",
+      "fought by"
+    ],
+    "kill in": [
+      "cause death in",
+      "killed in by"
+    ],
+    "occur over": [
+      "happens across time",
+      "is the time during which something happens"
+    ],
+    "fuse with": [
+      "merges into another",
+      "is merged into by another"
+    ],
+    "catch by": [
+      "captured by someone",
+      "is caught by someone"
+    ],
+    "drain into": [
+      "flows into a structure",
+      "is drained into by a structure"
+    ],
+    "drain": [
+      "removes from a structure",
+      "is drained by a structure"
+    ],
+    "contribute": [
+      "adds to a resource",
+      "is contributed to by a resource"
+    ],
+    "employ in": [
+      "uses in a role",
+      "is the role where someone is employed"
+    ],
+    "comprise": [
+      "includes as a part",
+      "is part of"
+    ],
+    "research": [
+      "studies a subject",
+      "is researched by someone"
+    ],
+    "vary": [
+      "changes in degree",
+      "is the degree that changes"
+    ],
+    "determine by": [
+      "Determined by method",
+      "Determines color"
+    ],
+    "to attract": [
+      "Attracts pollinator",
+      "Attracted by colorful flower"
+    ],
+    "obtain from": [
+      "Obtained from seed",
+      "Provides colorless oil"
+    ],
+    "heat": [
+      "Heats steam",
+      "Heated by combustion gas"
+    ],
+    "appoint by": [
+      "Appointed by governor",
+      "Appoints commissioner"
+    ],
+    "comprise of": [
+      "Comprises representative",
+      "Is part of committee"
+    ],
+    "to respond to": [
+      "Responds to outcome",
+      "Is responded to by committee"
+    ],
+    "plague": [
+      "Plagues human",
+      "Is plagued by common problem"
+    ],
+    "lead by": [
+      "Led by founder",
+      "Leads company"
+    ],
+    "sponsor": [
+      "Sponsors contest",
+      "Is sponsored by company"
+    ],
+    "submit": [
+      "Company submits application",
+      "Application submitted by company"
+    ],
+    "found by": [
+      "Company founded by owner",
+      "Owner founds company"
+    ],
+    "install": [
+      "Company installs pole",
+      "Pole installed by company"
+    ],
+    "to help": [
+      "Company helps business",
+      "Business helped by company"
+    ],
+    "be dedicate to": [
+      "Company dedicates to expert knowledge",
+      "Expert knowledge dedicated by company"
+    ],
+    "head by": [
+      "Company headed by brother",
+      "Brother heads company"
+    ],
+    "fertilize": [
+      "Pollen fertilizes flower",
+      "Flower fertilized by pollen"
+    ],
+    "activate": [
+      "Compound activates reaction",
+      "Reaction activated by compound"
+    ],
+    "hinder": [
+      "Compound hinders absorption",
+      "Absorption hindered by compound"
+    ],
+    "convert into": [
+      "Compound converts into oil",
+      "Oil converted from compound"
+    ],
+    "isolate from": [
+      "extract from source",
+      "source of extraction"
+    ],
+    "help break down": [
+      "assist in decomposition",
+      "decomposed by assistance"
+    ],
+    "to break down": [
+      "decompose substance",
+      "substance decomposed by"
+    ],
+    "be calculate from": [
+      "derive value from",
+      "value derived from"
+    ],
+    "fall below": [
+      "drop under threshold",
+      "threshold exceeded by"
+    ],
+    "begin with": [
+      "start with element",
+      "element initiating phase"
+    ],
+    "impose": [
+      "enforce limitation",
+      "limitation enforced by"
+    ],
+    "hold by": [
+      "controlled by entity",
+      "entity controlling"
+    ],
+    "be exacerbate by": [
+      "worsened by factor",
+      "factor worsening"
+    ],
+    "mark by": [
+      "characterized by trait",
+      "trait characterizing"
+    ],
+    "weaken": [
+      "weaken",
+      "weakened by"
+    ],
+    "describe by": [
+      "described by",
+      "describes"
+    ],
+    "at": [
+      "located at",
+      "has location"
+    ],
+    "lead up to": [
+      "leads to",
+      "preceded by"
+    ],
+    "oversee": [
+      "oversees",
+      "supervised by"
+    ],
+    "train in": [
+      "trained in",
+      "trains"
+    ],
+    "measure in": [
+      "measured in",
+      "unit of"
+    ],
+    "favour": [
+      "favors",
+      "favored by"
+    ],
+    "tie around": [
+      "tied around",
+      "has tied"
+    ],
+    "be disperse by": [
+      "dispersed by",
+      "disperses"
+    ],
+    "drag": [
+      "drag prey",
+      "prey is dragged by"
+    ],
+    "sink": [
+      "sink object",
+      "object is sunk by"
+    ],
+    "to exploit": [
+      "use resource for benefit",
+      "resource is used for benefit by"
+    ],
+    "accompany by": [
+      "occur with symptom",
+      "symptom occurs with"
+    ],
+    "consult with": [
+      "seek expert advice",
+      "expert is consulted by"
+    ],
+    "to obtain": [
+      "acquire resource",
+      "resource is acquired by"
+    ],
+    "assist in": [
+      "help with task",
+      "task is helped with by"
+    ],
+    "win": [
+      "gain approval",
+      "approval is gained by"
+    ],
+    "sit at": [
+      "be seated at location",
+      "location is occupied by"
+    ],
+    "to give": [
+      "provide information",
+      "information is provided by"
+    ],
+    "reproduce at": [
+      "Reproduce At Time",
+      "Time of Reproduction"
+    ],
+    "value": [
+      "Values Concept",
+      "Concept Valued By"
+    ],
+    "kidnap": [
+      "Kidnaps Victim",
+      "Victim Kidnapped By"
+    ],
+    "reproduce during": [
+      "Reproduce During Season",
+      "Season of Reproduction"
+    ],
+    "swim": [
+      "Swims in Water",
+      "Water of Swimming"
+    ],
+    "form in": [
+      "Forms in Cloud",
+      "Cloud of Formation"
+    ],
+    "to conduct": [
+      "Conducts Electricity",
+      "Electricity Conducted By"
+    ],
+    "to grasp": [
+      "Grasps Prey",
+      "Prey Grasped By"
+    ],
+    "ask for": [
+      "Requests Option",
+      "Option Requested By"
+    ],
+    "purchase": [
+      "Buys Goods",
+      "Goods Purchased By"
+    ],
+    "to": [
+      "intend to achieve",
+      "is intended for"
+    ],
+    "be invite to": [
+      "be invited to",
+      "invites to"
+    ],
+    "complain about": [
+      "express dissatisfaction with",
+      "is complained about by"
+    ],
+    "spray": [
+      "expel liquid",
+      "is expelled by"
+    ],
+    "squirt": [
+      "eject substance",
+      "is ejected by"
+    ],
+    "act on": [
+      "exert effect on",
+      "is affected by"
+    ],
+    "live with": [
+      "cohabit with",
+      "cohabits with"
+    ],
+    "do by": [
+      "caused by",
+      "causes"
+    ],
+    "work outside": [
+      "work away from home",
+      "is worked outside by"
+    ],
+    "to return to": [
+      "return to location",
+      "is returned to by"
+    ],
+    "transmit by": [
+      "transmit by",
+      "transmit to"
+    ],
+    "disrupt": [
+      "disrupt function",
+      "function disrupted by"
+    ],
+    "be propose by": [
+      "proposed by",
+      "propose definition"
+    ],
+    "contain in": [
+      "contained in",
+      "contain recipe"
+    ],
+    "to lead": [
+      "lead nation",
+      "led by leader"
+    ],
+    "diagnose": [
+      "diagnose condition",
+      "condition diagnosed by"
+    ],
+    "fluctuate over": [
+      "fluctuate over time",
+      "time fluctuated by"
+    ],
+    "rule": [
+      "rule country",
+      "country ruled by"
+    ],
+    "to produce": [
+      "produce seed",
+      "seed produced by"
+    ],
+    "arrest": [
+      "arrest man",
+      "man arrested by"
+    ],
+    "consult": [
+      "seeks advice from",
+      "is consulted by"
+    ],
+    "start with": [
+      "begins with",
+      "is the beginning of"
+    ],
+    "work to": [
+      "works on",
+      "is worked on by"
+    ],
+    "take into": [
+      "considers",
+      "is considered by"
+    ],
+    "power by": [
+      "is powered by",
+      "powers"
+    ],
+    "use to": [
+      "used to",
+      "is used to"
+    ],
+    "fall during": [
+      "falls during",
+      "is the time of"
+    ],
+    "of kill": [
+      "kills",
+      "is killed by"
+    ],
+    "below show": [
+      "shows",
+      "is shown by"
+    ],
+    "protect against": [
+      "protects against",
+      "is protected against by"
+    ],
+    "formulate for": [
+      "created for",
+      "is formulated by"
+    ],
+    "occur across": [
+      "happens across",
+      "is crossed by"
+    ],
+    "produce as": [
+      "generated as",
+      "is generated by"
+    ],
+    "point to": [
+      "indicates",
+      "is indicated by"
+    ],
+    "collect in": [
+      "accumulates in",
+      "is filled by"
+    ],
+    "carry by": [
+      "transmitted by",
+      "carries"
+    ],
+    "encounter by": [
+      "diagnosed by",
+      "encounters"
+    ],
+    "shift": [
+      "moves to",
+      "is moved by"
+    ],
+    "within": [
+      "located in",
+      "contains"
+    ],
+    "to report": [
+      "notifies about",
+      "is reported by"
+    ],
+    "prescribe": [
+      "prescribe medication",
+      "is prescribed by"
+    ],
+    "to assist": [
+      "assist individual",
+      "is assisted by"
+    ],
+    "to monitor": [
+      "monitor condition",
+      "is monitored by"
+    ],
+    "to see": [
+      "view result",
+      "is viewed by"
+    ],
+    "educate": [
+      "teach information",
+      "is taught by"
+    ],
+    "order": [
+      "request procedure",
+      "is requested by"
+    ],
+    "tell": [
+      "communicate benefit",
+      "is communicated by"
+    ],
+    "to determine": [
+      "identify cause",
+      "is identified by"
+    ],
+    "expect": [
+      "anticipate pregnancy",
+      "is anticipated by"
+    ],
+    "inject": [
+      "administer vaccine",
+      "is administered by"
+    ],
+    "know about": [
+      "has knowledge of",
+      "is known by"
+    ],
+    "to discuss": [
+      "discuss",
+      "is discussed by"
+    ],
+    "to write": [
+      "write",
+      "is written by"
+    ],
+    "write in": [
+      "write using",
+      "is written using"
+    ],
+    "invent": [
+      "invent",
+      "is invented by"
+    ],
+    "feed to": [
+      "feed to",
+      "is fed by"
+    ],
+    "love to": [
+      "love to",
+      "is loved by"
+    ],
+    "insert": [
+      "insert",
+      "is inserted into"
+    ],
+    "own by": [
+      "owned by",
+      "owns"
+    ],
+    "elongate": [
+      "elongate",
+      "is elongated by"
+    ],
+    "be strike by": [
+      "struck by",
+      "strikes"
+    ],
+    "exert by": [
+      "exerted by",
+      "exerts"
+    ],
+    "stop": [
+      "stop",
+      "stopped by"
+    ],
+    "empty into": [
+      "empties into",
+      "emptied by"
+    ],
+    "occur along": [
+      "occurs along",
+      "is along"
+    ],
+    "devastate": [
+      "devastates",
+      "is devastated by"
+    ],
+    "play by": [
+      "played by",
+      "plays"
+    ],
+    "to pay": [
+      "pays",
+      "is paid by"
+    ],
+    "compile": [
+      "compiles",
+      "is compiled by"
+    ],
+    "to add": [
+      "adds",
+      "is added by"
+    ],
+    "teach at": [
+      "teaches at institution",
+      "institution is taught by"
+    ],
+    "go on for": [
+      "lasts for duration",
+      "duration of"
+    ],
+    "to marry": [
+      "marries person",
+      "is married to"
+    ],
+    "locate on": [
+      "located on side",
+      "side has located"
+    ],
+    "transfer by": [
+      "transfers via method",
+      "method transfers via"
+    ],
+    "supply to": [
+      "supplies to motor",
+      "motor is supplied by"
+    ],
+    "learn on": [
+      "learns through job",
+      "job is learned by"
+    ],
+    "to handle": [
+      "handles job",
+      "job is handled by"
+    ],
+    "to graze on": [
+      "grazes on grass",
+      "grass is grazed on by"
+    ],
+    "develop within": [
+      "develops within ovule",
+      "ovule contains development"
+    ],
+    "perform at": [
+      "achieve performance level",
+      "has performance level achieved by"
+    ],
+    "serve on": [
+      "provide service to society",
+      "is served by society"
+    ],
+    "welcome": [
+      "greet new arrival",
+      "is greeted by new arrival"
+    ],
+    "produce from": [
+      "generate from source",
+      "is generated by source"
+    ],
+    "to generate": [
+      "create electrical energy",
+      "is created by engine"
+    ],
+    "perform in": [
+      "execute service in location",
+      "has service executed in location"
+    ],
+    "to apply": [
+      "implement theoretical idea",
+      "is implemented by engineer"
+    ],
+    "to repair": [
+      "fix infrastructure",
+      "is repaired by engineer"
+    ],
+    "to fuel": [
+      "provide energy for development",
+      "is fueled by sunlight"
+    ],
+    "secrete from": [
+      "release substance from organ",
+      "is secreted by organ"
+    ],
+    "go after": [
+      "pursue",
+      "is pursued by"
+    ],
+    "continue for": [
+      "sustain duration",
+      "is sustained by"
+    ],
+    "be classify in": [
+      "taxonomic categorization",
+      "categorizes taxonomically"
+    ],
+    "occur as": [
+      "manifest as",
+      "is manifestation of"
+    ],
+    "grow up to": [
+      "reach maximum size",
+      "is maximum size of"
+    ],
+    "exist for": [
+      "validate condition",
+      "is validated by"
+    ],
+    "advance": [
+      "propose development",
+      "is developed by"
+    ],
+    "design by": [
+      "created by",
+      "creates"
+    ],
+    "agree with": [
+      "confirm alignment",
+      "confirm alignment"
+    ],
+    "believe": [
+      "assert conviction",
+      "is asserted by"
+    ],
+    "uncover": [
+      "discovers by revealing",
+      "revealed by discovery"
+    ],
+    "close by": [
+      "closed by covering",
+      "covers to close"
+    ],
+    "on": [
+      "rests on top of",
+      "supports on top"
+    ],
+    "cover in": [
+      "coated with substance",
+      "coats with substance"
+    ],
+    "to use": [
+      "employs method",
+      "used by practitioner"
+    ],
+    "die over": [
+      "dies during period",
+      "period of death"
+    ],
+    "beat": [
+      "physically harms",
+      "harmed by physical act"
+    ],
+    "sleep with": [
+      "shares sleep with",
+      "shares sleep with"
+    ],
+    "suffer for": [
+      "endures hardship for",
+      "hardship endured by"
+    ],
+    "suckle for": [
+      "nurses for duration",
+      "nursed by for duration"
+    ],
+    "collect from": [
+      "collect sample from source",
+      "source provides sample to"
+    ],
+    "develop at": [
+      "develop structure at location",
+      "location hosts structure development"
+    ],
+    "invite": [
+      "invite individual to event",
+      "event includes invited individual"
+    ],
+    "groom": [
+      "groom individual",
+      "individual is groomed by"
+    ],
+    "anchor": [
+      "anchor entity to support",
+      "support is anchored by"
+    ],
+    "conduct at": [
+      "conduct activity at location",
+      "location hosts activity"
+    ],
+    "inspect": [
+      "inspect object for assessment",
+      "object is inspected by"
+    ],
+    "move in": [
+      "move within medium",
+      "medium contains moving entity"
+    ],
+    "behind": [
+      "positioned behind",
+      "positioned behind"
+    ],
+    "point toward": [
+      "point direction towards target",
+      "target is pointed towards by"
+    ],
+    "cut off": [
+      "sever body part",
+      "body part severed by"
+    ],
+    "pollinate by": [
+      "pollinated by organism",
+      "pollinates organism"
+    ],
+    "stem": [
+      "has plant part",
+      "is part of plant"
+    ],
+    "fall off": [
+      "detaches from object",
+      "object detaches from"
+    ],
+    "be harvest in": [
+      "harvested in season",
+      "harvests season"
+    ],
+    "migrate through": [
+      "moves through organ",
+      "organ is moved through by"
+    ],
+    "list": [
+      "contains item",
+      "item is contained in"
+    ],
+    "with": [
+      "accompanies substance",
+      "accompanies substance"
+    ],
+    "eat during": [
+      "eaten in season",
+      "season has food eaten"
+    ],
+    "extend beyond": [
+      "protrudes past body part",
+      "body part is protruded past by"
+    ],
+    "apply by": [
+      "applies force",
+      "applied by force"
+    ],
+    "simulate": [
+      "mimics effect",
+      "mimicked by effect"
+    ],
+    "to absorb": [
+      "takes in sunlight",
+      "taken in by sunlight"
+    ],
+    "prefer by": [
+      "favored by deer",
+      "favors deer"
+    ],
+    "be crush to": [
+      "crushed into death",
+      "crushes to death"
+    ],
+    "travel through": [
+      "moves through water",
+      "moved through water"
+    ],
+    "germinate in": [
+      "sprouts in month",
+      "sprouted in month"
+    ],
+    "evaporate from": [
+      "vaporizes from ocean",
+      "vaporized from ocean"
+    ],
+    "to drive": [
+      "operates car",
+      "operated by car"
+    ],
+    "explain to": [
+      "informs daughter",
+      "informed by daughter"
+    ],
+    "fear": [
+      "feels fear",
+      "feared by"
+    ],
+    "gather at": [
+      "gathers at",
+      "gathering place for"
+    ],
+    "learn of": [
+      "learns about",
+      "learned about by"
+    ],
+    "nurse": [
+      "nurses",
+      "nursed by"
+    ],
+    "generally have": [
+      "has characteristic",
+      "characteristic of"
+    ],
+    "to move from": [
+      "moves from",
+      "origin of movement"
+    ],
+    "drop from": [
+      "drops from",
+      "source of drop"
+    ],
+    "mature in": [
+      "matures in",
+      "maturation period of"
+    ],
+    "stay on": [
+      "stays on",
+      "attachment site for"
+    ],
+    "tell by": [
+      "told by",
+      "teller of"
+    ],
+    "serve for": [
+      "function for purpose",
+      "is functioned by"
+    ],
+    "fall in": [
+      "drop during season",
+      "season of dropping"
+    ],
+    "walk down": [
+      "traverse along path",
+      "is traversed by"
+    ],
+    "feel like": [
+      "perceive as self",
+      "is perceived by self"
+    ],
+    "rush to": [
+      "hasten to location",
+      "is hastened to by"
+    ],
+    "to accept": [
+      "take on responsibility",
+      "is taken on by"
+    ],
+    "exude": [
+      "emit substance",
+      "is emitted by"
+    ],
+    "synthesize": [
+      "create compound",
+      "is created by"
+    ],
+    "produce in": [
+      "generate in process",
+      "is generated in by"
+    ],
+    "forage": [
+      "search for food",
+      "is searched for by"
+    ],
+    "to move to": [
+      "relocate to a location",
+      "be relocated from a location"
+    ],
+    "produce within": [
+      "manufacture in a region",
+      "be manufactured in a region"
+    ],
+    "fix": [
+      "convert atmospheric nitrogen into usable form",
+      "be fixed by a plant"
+    ],
+    "enforce": [
+      "apply a rule",
+      "be enforced by a guard"
+    ],
+    "embrace": [
+      "adopt a component",
+      "be adopted by a guide"
+    ],
+    "recount": [
+      "narrate a tale",
+      "be narrated by a guide"
+    ],
+    "specify": [
+      "define a type",
+      "be defined by a guideline"
+    ],
+    "capture in": [
+      "trap in a fishery",
+      "be trapped by a hagfish"
+    ],
+    "sell as": [
+      "market as a pet",
+      "be marketed as a hamster"
+    ],
+    "to pump": [
+      "circulate blood",
+      "be circulated by a heart"
+    ],
+    "transfer to": [
+      "move from one location to another",
+      "receive from another location"
+    ],
+    "be train to": [
+      "learn to perform an action",
+      "teach to perform an action"
+    ],
+    "help reduce": [
+      "assist in decreasing",
+      "is decreased by"
+    ],
+    "relax": [
+      "cause to become less tense",
+      "is relaxed by"
+    ],
+    "relieve": [
+      "alleviate discomfort",
+      "is alleviated by"
+    ],
+    "stay under": [
+      "remain submerged in",
+      "is submerged in by"
+    ],
+    "mediate": [
+      "facilitate a process",
+      "is facilitated by"
+    ],
+    "live beyond": [
+      "survive past a period",
+      "is survived by"
+    ],
+    "be arrest on": [
+      "taken into custody for",
+      "arrest someone for"
+    ],
+    "bite by": [
+      "injured by a bite from",
+      "bites another entity"
+    ],
+    "rotate": [
+      "rotates part",
+      "is rotated by part"
+    ],
+    "to wear": [
+      "wears clothing",
+      "is worn by"
+    ],
+    "develop by": [
+      "developed by person",
+      "develops idea"
+    ],
+    "display in": [
+      "displayed in location",
+      "displays image"
+    ],
+    "compare to": [
+      "compares to entity",
+      "compares to entity"
+    ],
+    "exercise": [
+      "exercises option",
+      "is exercised by"
+    ],
+    "give up": [
+      "gives up function",
+      "is given up by"
+    ],
+    "to assess": [
+      "assesses condition",
+      "is assessed by"
+    ],
+    "to seek": [
+      "seeks attention",
+      "is sought by"
+    ],
+    "remain at": [
+      "remains at location",
+      "is remained at by"
+    ],
+    "to ensure": [
+      "ensures survival",
+      "is ensured by"
+    ],
+    "cling to": [
+      "clings to belly",
+      "is clung to by"
+    ],
+    "spread from": [
+      "spreads from lung",
+      "is spread to by"
+    ],
+    "base upon": [
+      "bases upon knowledge",
+      "is based upon by"
+    ],
+    "provide in": [
+      "provides in booklet",
+      "is provided in by"
+    ],
+    "give in": [
+      "gives in article",
+      "is given in by"
+    ],
+    "contaminate with": [
+      "contaminates with fecal material",
+      "is contaminated with by"
+    ],
+    "to feed on": [
+      "feeds on milkweed",
+      "is fed on by"
+    ],
+    "to enter": [
+      "enters territory",
+      "is entered by"
+    ],
+    "raise by": [
+      "raises by tester",
+      "is raised by"
+    ],
+    "to recognize": [
+      "recognize truth",
+      "truth recognized by"
+    ],
+    "play with": [
+      "play with child",
+      "child plays with"
+    ],
+    "to track": [
+      "track dust storm",
+      "dust storm tracked by"
+    ],
+    "to eliminate": [
+      "eliminate toxin",
+      "toxin eliminated by"
+    ],
+    "regain": [
+      "regain health",
+      "health regained by"
+    ],
+    "survive into": [
+      "survive into adulthood",
+      "adulthood survived into by"
+    ],
+    "to climb": [
+      "climb gum tree",
+      "gum tree climbed by"
+    ],
+    "fight to": [
+      "fight to death",
+      "death fought to by"
+    ],
+    "bear into": [
+      "bear into fruit",
+      "fruit borne into by"
+    ],
+    "crawl out of": [
+      "crawl out of mouth",
+      "mouth crawled out of by"
+    ],
+    "settle on": [
+      "settle on surface",
+      "surface settled by"
+    ],
+    "girdle": [
+      "girdle around trunk",
+      "trunk girdled by"
+    ],
+    "extend to": [
+      "extend to target",
+      "target extended to"
+    ],
+    "state": [
+      "law states substance",
+      "substance stated by law"
+    ],
+    "develop during": [
+      "develop during season",
+      "season development in"
+    ],
+    "engage": [
+      "interact with person",
+      "person engaged by"
+    ],
+    "measure at": [
+      "measure at unit",
+      "unit measured at"
+    ],
+    "bend": [
+      "bend light beam",
+      "beam bent by"
+    ],
+    "rise during": [
+      "increase over time",
+      "time increase in"
+    ],
+    "decrease in": [
+      "reduce in region",
+      "region reduction in"
+    ],
+    "turn to": [
+      "convert energy form",
+      "converted from form"
+    ],
+    "live for around": [
+      "estimate lifespan",
+      "lifespan estimated"
+    ],
+    "lubricate": [
+      "apply protective fluid",
+      "receive lubrication"
+    ],
+    "change to": [
+      "solidify substance",
+      "defrost substance"
+    ],
+    "persist in": [
+      "maintain habitat",
+      "host persistent species"
+    ],
+    "assign": [
+      "delegate responsibility",
+      "receive assignment"
+    ],
+    "to mark": [
+      "claim ownership",
+      "be claimed by"
+    ],
+    "walk into": [
+      "enter physical space",
+      "be entered by"
+    ],
+    "fear for": [
+      "anticipate danger",
+      "be feared for"
+    ],
+    "board": [
+      "occupy transport",
+      "carry passenger"
+    ],
+    "dedicate": [
+      "dedicates to",
+      "is dedicated by"
+    ],
+    "convict of": [
+      "convicted of",
+      "is convicted of by"
+    ],
+    "arm with": [
+      "armed with",
+      "arms with"
+    ],
+    "train": [
+      "trains",
+      "is trained by"
+    ],
+    "outgrow": [
+      "outgrows",
+      "is outgrown by"
+    ],
+    "remember": [
+      "remembers",
+      "is remembered by"
+    ],
+    "to undergo": [
+      "undergoes",
+      "is undergone by"
+    ],
+    "multiply by": [
+      "multiplied by",
+      "multiplies by"
+    ],
+    "learn in": [
+      "learned in",
+      "teaches in"
+    ],
+    "to care for": [
+      "cares for",
+      "is cared for by"
+    ],
+    "come on": [
+      "join board",
+      "board has member"
+    ],
+    "shall have": [
+      "grant right",
+      "right assigned to"
+    ],
+    "employ by": [
+      "breeder uses method",
+      "method used by breeder"
+    ],
+    "admit": [
+      "allow entry",
+      "entry permitted by"
+    ],
+    "grind": [
+      "process food",
+      "food processed by"
+    ],
+    "agree to": [
+      "consent to voyage",
+      "voyage approved by"
+    ],
+    "refuse": [
+      "reject attempt",
+      "attempt denied by"
+    ],
+    "contain within": [
+      "enclose in cranium",
+      "cranium contains tissue"
+    ],
+    "imply": [
+      "suggest existence",
+      "existence inferred from"
+    ],
+    "dilute in": [
+      "mix with oil",
+      "oil diluted by"
+    ],
+    "dilute": [
+      "dilute substance",
+      "substance diluted by"
+    ],
+    "press": [
+      "press object",
+      "object pressed by"
+    ],
+    "to address": [
+      "address issue",
+      "issue addressed by"
+    ],
+    "chew on": [
+      "chew plant part",
+      "plant part chewed on by"
+    ],
+    "mature into": [
+      "mature into fruit",
+      "fruit matured into by"
+    ],
+    "to discover": [
+      "discover truth",
+      "truth discovered by"
+    ],
+    "discontinue": [
+      "discontinue treatment",
+      "treatment discontinued by"
+    ],
+    "to raise": [
+      "raise offspring",
+      "offspring raised by"
+    ],
+    "to visit": [
+      "visit child",
+      "child visited by"
+    ],
+    "think": [
+      "think idea",
+      "idea thought by"
+    ],
+    "to buy": [
+      "purchase item",
+      "is purchased by"
+    ],
+    "interpret": [
+      "explain experience",
+      "is explained by"
+    ],
+    "to protect": [
+      "safeguard person",
+      "is safeguarded by"
+    ],
+    "have less": [
+      "reduce condition",
+      "has reduced by"
+    ],
+    "to enjoy": [
+      "enjoy life",
+      "is enjoyed by"
+    ],
+    "to avoid": [
+      "prevent infection",
+      "is prevented by"
+    ],
+    "have elevate": [
+      "elevate level",
+      "is elevated by"
+    ],
+    "to lose": [
+      "lose weight",
+      "is lost by"
+    ],
+    "fail": [
+      "fail treatment",
+      "is failed by"
+    ],
+    "might have": [
+      "has potential condition",
+      "is potential for"
+    ],
+    "happen at": [
+      "phenomenon occurs at time/place",
+      "time/place of occurrence"
+    ],
+    "feed with": [
+      "nourish using substance",
+      "substance used for nourishing"
+    ],
+    "produce up to": [
+      "organism yields up to quantity",
+      "maximum yield of organism"
+    ],
+    "establish in": [
+      "organism established in location",
+      "location where organism is established"
+    ],
+    "bloom for": [
+      "plant blooms for duration",
+      "duration of plant blooming"
+    ],
+    "grow with": [
+      "plant grows with material",
+      "plant grows with material"
+    ],
+    "reproduce use": [
+      "organism reproduces using method",
+      "method used for reproduction"
+    ],
+    "be administer to": [
+      "vaccine administered to recipient",
+      "recipient receives vaccine"
+    ],
+    "paralyze": [
+      "substance paralyzes target",
+      "target paralyzed by substance"
+    ],
+    "to store": [
+      "container stores item",
+      "item stored in container"
+    ],
+    "to catch": [
+      "capture prey",
+      "prey captured by"
+    ],
+    "to prevent": [
+      "avoid infection",
+      "infection avoided by"
+    ],
+    "isolate": [
+      "separate compound",
+      "compound separated by"
+    ],
+    "need from": [
+      "require from food",
+      "food provides required"
+    ],
+    "sleep for": [
+      "rest for duration",
+      "duration of rest by"
+    ],
+    "chew through": [
+      "penetrate material",
+      "material penetrated by"
+    ],
+    "to appreciate": [
+      "value fact",
+      "fact valued by"
+    ],
+    "doubt": [
+      "question possibility",
+      "possibility questioned by"
+    ],
+    "encounter in": [
+      "meet in disaster",
+      "disaster met by"
+    ],
+    "cut": [
+      "sever rope",
+      "rope severed by"
+    ],
+    "to collect": [
+      "gathers sample",
+      "sample gathered by"
+    ],
+    "to examine": [
+      "analyzes aspect",
+      "aspect analyzed by"
+    ],
+    "impose on": [
+      "applies to visitor",
+      "visitor subjected to"
+    ],
+    "assign to": [
+      "allocates role to",
+      "role assigned to"
+    ],
+    "move across": [
+      "flows over surface",
+      "surface crossed by"
+    ],
+    "collect during": [
+      "gathered during season",
+      "season when collected"
+    ],
+    "to get": [
+      "obtains permission",
+      "permission granted to"
+    ],
+    "find at": [
+      "located at edge",
+      "edge where located"
+    ],
+    "settle to": [
+      "settles to bottom",
+      "bottom where settled"
+    ],
+    "germinate": [
+      "begins germination",
+      "germination initiated by"
+    ],
+    "form from": [
+      "originates from",
+      "originates into"
+    ],
+    "tie": [
+      "connected to",
+      "connected to"
+    ],
+    "vary between": [
+      "varies between",
+      "varied by"
+    ],
+    "dump": [
+      "dumps as",
+      "dumped by"
+    ],
+    "reproduce in": [
+      "reproduces in",
+      "reproduced in"
+    ],
+    "to swallow": [
+      "swallows",
+      "swallowed by"
+    ],
+    "convince": [
+      "convinces",
+      "convinced by"
+    ],
+    "preserve": [
+      "preserves",
+      "preserved by"
+    ],
+    "germinate into": [
+      "germinates into",
+      "germinated from"
+    ],
+    "sign by": [
+      "signed by",
+      "signs"
+    ],
+    "plead": [
+      "plead a charge",
+      "be pleaded by"
+    ],
+    "to go": [
+      "go to home",
+      "be gone to by"
+    ],
+    "to build": [
+      "build a robot",
+      "be built by"
+    ],
+    "to predict": [
+      "predict a result",
+      "be predicted by"
+    ],
+    "record in": [
+      "record in a hemisphere",
+      "be recorded in by"
+    ],
+    "rise in": [
+      "rise in spring",
+      "be risen in by"
+    ],
+    "drop below": [
+      "drop below a level",
+      "be dropped below by"
+    ],
+    "terminate in": [
+      "terminate in a claw",
+      "be terminated in by"
+    ],
+    "dictate": [
+      "dictate a range",
+      "be dictated by"
+    ],
+    "enclose by": [
+      "enclosed by a membrane",
+      "enclose"
+    ],
+    "extract": [
+      "extract using",
+      "extracted by"
+    ],
+    "condense into": [
+      "condense into",
+      "condensed from"
+    ],
+    "fuse into": [
+      "fuse into",
+      "fused from"
+    ],
+    "to call": [
+      "call to",
+      "called by"
+    ],
+    "change from": [
+      "change from",
+      "changed into"
+    ],
+    "remains": [
+      "remains as",
+      "is remained by"
+    ],
+    "form as": [
+      "form as",
+      "formed from"
+    ],
+    "help regulate": [
+      "help regulate",
+      "regulated by"
+    ],
+    "pour into": [
+      "pour into",
+      "poured from"
+    ],
+    "shape": [
+      "shape into",
+      "shaped by"
+    ],
+    "aggravate": [
+      "worsen condition",
+      "is worsened by"
+    ],
+    "to leave": [
+      "depart from location",
+      "is left by"
+    ],
+    "import": [
+      "bring in from abroad",
+      "is imported by"
+    ],
+    "advance to": ["promote to position", "promoted from position"],
+    "afflict": ["cause ailment in human", "is afflicted by ailment"],
+    "arrive in": ["arrive in era", "era has arrival of"],
+    "ban": ["prohibit usage", "banned resource"],
+    "be interpret as": ["interpreted as example", "interpreted by arrangement"],
+    "celebrate": ["celebrate event at time", "time celebrated by entity"],
+    "check": ["measure physical attribute", "attribute measured by"],
+    "come in": ["make contact", "contacted by substance"],
+    "curl into": ["form into compact shape", "shape curled in by creature"],
+    "direct": ["lead school activity", "activity directed by person"],
+    "enter through": ["enter nasal passage", "passage entered through by"],
+    "exist as": ["material in crystalline state", "crystal exists as chloride"],
+    "face": ["impact group or breed", "breed faces condition"],
+    "fall within": ["area within category scope", "scope contains area"],
+    "make up of": ["composed of material parts", "material forms structure"],
+    "place": ["arrange object in space", "object placed by individual"],
+    "populate by": ["inhabitant resides in area", "area inhabited by creature"],
+    "present with": ["display medical symptom", "symptom exhibited by child"],
+    "prey upon": ["hunt and consume animal", "animal preyed on by predator"],
+    "protect from": ["defend against threat", "area defended from danger"],
+    "question": ["pose inquiry about ethic", "concern raised by question"],
+    "replace": ["substitute with plant species", "species replaced by item"],
+    "sell in": ["market in retail space", "lizard sold in location"],
+    "should have": ["requires specific opportunity", "role demands possession"],
+    "spit": ["discharge liquid substance", "substance expelled by subject"],
+    "to learn about": ["educate about life process", "topic studied by student"],
+    "to receive": ["deliver assistance", "person provides support"],
+    "to record": ["capture observation data", "event documented by agent"],
+    "wear by": ["protect with armor", "armor used by individual"],
+    "wield": ["utilize weapon", "item wielded by combatant"],
+    "admit to": [
+        "accept into group",
+        "group accepts into"
+    ],
+    "leave in": [
+        "depart from location",
+        "location departed from"
+    ],
+    "live": [
+        "reside in location",
+        "location resided in"
+    ],
+    "need to lose": [
+        "require to reduce",
+        "reduced by requirement"
+    ],
+    "stand with": [
+        "support position",
+        "position supported by"
+    ],
+    "help to": [
+        "assist in process",
+        "process assisted by"
+    ],
+    "bring to": [
+        "transport to location",
+        "location transported to"
+    ],
+    "underlie": [
+        "support structure",
+        "structure supported by"
+    ],
+    "to read": [
+        "interpret written text",
+        "text interpreted by"
+    ],
+    "embed in": [
+        "insert into material",
+        "material inserted into"
+    ],
+    "charge with": [
+        "accuse of crime",
+        "crime accused of"
+    ],
+    "pertain to": [
+        "relate to topic",
+        "topic related to"
+    ]     
+  }
+}

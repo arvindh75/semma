@@ -1,0 +1,51 @@
+{
+    "cleaned_relations": {
+        "_derivationally_related_form": "Derivationally Related Form",
+        "_has_part": "Has Part",
+        "_hypernym": "Hypernym",
+        "_also_see": "Also See",
+        "_verb_group": "Verb Group",
+        "_member_meronym": "Member Meronym",
+        "_synset_domain_topic_of": "Synset Domain Topic Of",
+        "_similar_to": "Similar To",
+        "_instance_hypernym": "Instance Hypernym"
+    },
+    "relation_descriptions": {
+        "_derivationally_related_form": [
+            "Word derivation link",
+            "Inverse word derivation link"
+        ],
+        "_has_part": [
+            "Contains as part",
+            "Part of something"
+        ],
+        "_hypernym": [
+            "General category of",
+            "Specific instance of"
+        ],
+        "_also_see": [
+            "Related concept link",
+            "Related concept link"
+        ],
+        "_verb_group": [
+            "Verb usage group",
+            "Verb usage group"
+        ],
+        "_member_meronym": [
+            "Member of group",
+            "Group containing member"
+        ],
+        "_synset_domain_topic_of": [
+            "Domain topic link",
+            "Belongs to domain"
+        ],
+        "_similar_to": [
+            "Semantically similar to",
+            "Semantically similar to"
+        ],
+        "_instance_hypernym": [
+            "Specific example of",
+            "General category of"
+        ]
+    }
+}

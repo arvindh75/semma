@@ -1,0 +1,246 @@
+{
+    "cleaned_relations": {
+        "genre": "Genre",
+        "occupation": "Occupation",
+        "educated at": "Educated at",
+        "place of burial": "Place of burial",
+        "instrument": "Instrument",
+        "cast member": "Cast member",
+        "record label": "Record label",
+        "country of citizenship": "Country of citizenship",
+        "place of birth": "Place of birth",
+        "residence": "Residence",
+        "member of": "Member of",
+        "director": "Director",
+        "languages spoken, written or signed": "Languages spoken, written or signed",
+        "ethnic group": "Ethnic group",
+        "cause of death": "Cause of death",
+        "place of death": "Place of death",
+        "member of political party": "Member of political party",
+        "country": "Country",
+        "employer": "Employer",
+        "diplomatic relation": "Diplomatic relation",
+        "religion or worldview": "Religion or worldview",
+        "field of work": "Field of work",
+        "location of formation": "Location of formation",
+        "spouse": "Spouse",
+        "sibling": "Sibling",
+        "influenced by": "Influenced by",
+        "headquarters location": "Headquarters location",
+        "narrative location": "Narrative location",
+        "medical condition": "Medical condition",
+        "located in the administrative territorial entity": "Located in the administrative territorial entity",
+        "child": "child",
+        "parent organization": "parent organization",
+        "country of origin": "country of origin",
+        "movement": "movement",
+        "sport": "sport",
+        "unmarried partner": "unmarried partner",
+        "part of": "part of",
+        "official language": "official language",
+        "founded by": "founded by",
+        "continent": "continent",
+        "named after": "named after",
+        "member of sports team": "member of sports team",
+        "author": "author",
+        "language of work or name": "language of work or name",
+        "time period": "time period",
+        "uses": "uses",
+        "industry": "industry",
+        "symptoms and signs": "symptoms and signs"
+    },
+    "relation_descriptions": {
+        "genre": [
+            "genre of artist",
+            "artist having genre"
+        ],
+        "occupation": [
+            "profession of individual",
+            "individual with occupation"
+        ],
+        "educated at": [
+            "education institution attended",
+            "institution educating"
+        ],
+        "place of burial": [
+            "burial location",
+            "location holding burial"
+        ],
+        "instrument": [
+            "instrument played",
+            "player of instrument"
+        ],
+        "cast member": [
+            "actor in production",
+            "production featuring actor"
+        ],
+        "record label": [
+            "label representing artist",
+            "artist signed to label"
+        ],
+        "country of citizenship": [
+            "citizenship nation",
+            "nation granting citizenship"
+        ],
+        "place of birth": [
+            "birth location",
+            "location of birth"
+        ],
+        "residence": [
+            "residential location",
+            "location housing resident"
+        ],
+        "member of": [
+            "organization member",
+            "organization hosting member"
+        ],
+        "director": [
+            "director of film",
+            "film directed by"
+        ],
+        "languages spoken, written or signed": [
+            "languages known",
+            "language speakers"
+        ],
+        "ethnic group": [
+            "ethnic affiliation",
+            "group with ethnic members"
+        ],
+        "cause of death": [
+            "death reason",
+            "reason causing death"
+        ],
+        "place of death": [
+            "death location",
+            "location of death"
+        ],
+        "member of political party": [
+            "party affiliation",
+            "party with member"
+        ],
+        "country": [
+            "sovereign state",
+            "state governing territory"
+        ],
+        "employer": [
+            "employer institution",
+            "institution employing"
+        ],
+        "diplomatic relation": [
+            "diplomatic partner",
+            "partner in diplomacy"
+        ],
+        "religion or worldview": [
+            "belief system",
+            "system followed by"
+        ],
+        "field of work": [
+            "professional domain",
+            "domain of profession"
+        ],
+        "location of formation": [
+            "formation place",
+            "place hosting formation"
+        ],
+        "spouse": [
+            "married partner",
+            "partner in marriage"
+        ],
+        "sibling": [
+            "sibling relation",
+            "related sibling"
+        ],
+        "influenced by": [
+            "source of influence",
+            "influence affecting"
+        ],
+        "headquarters location": [
+            "headquarters site",
+            "site of headquarters"
+        ],
+        "narrative location": [
+            "story setting",
+            "setting for narrative"
+        ],
+        "medical condition": [
+            "health condition",
+            "condition affecting health"
+        ],
+        "located in the administrative territorial entity": [
+            "administrative location",
+            "administrative entity containing"
+        ],
+        "child": [
+            "direct descendant",
+            "parent of"
+        ],
+        "parent organization": [
+            "organizational parent",
+            "subsidiary of"
+        ],
+        "country of origin": [
+            "originating country",
+            "country's product"
+        ],
+        "movement": [
+            "associated movement",
+            "movement's figure"
+        ],
+        "sport": [
+            "played sport",
+            "sport's player"
+        ],
+        "unmarried partner": [
+            "romantic partner",
+            "partner in relationship"
+        ],
+        "part of": [
+            "constituent of",
+            "includes"
+        ],
+        "official language": [
+            "designated language",
+            "language's jurisdiction"
+        ],
+        "founded by": [
+            "creator of",
+            "founder's creation"
+        ],
+        "continent": [
+            "located continent",
+            "continent's country"
+        ],
+        "named after": [
+            "eponym of",
+            "namesake's inspiration"
+        ],
+        "member of sports team": [
+            "team member",
+            "team's athlete"
+        ],
+        "author": [
+            "writer of",
+            "author's work"
+        ],
+        "language of work or name": [
+            "work's language",
+            "language's medium"
+        ],
+        "time period": [
+            "era of",
+            "period's figure"
+        ],
+        "uses": [
+            "utilizes",
+            "used by"
+        ],
+        "industry": [
+            "operates in",
+            "industry's company"
+        ],
+        "symptoms and signs": [
+            "manifestations of",
+            "condition's symptoms"
+        ]
+    }
+}

@@ -1,0 +1,12 @@
+run: semma # [ultra, semma] If semma, we use the following flags
+LLM: gpt4o # [gpt4o, qwen3-32b, deepseekv3]
+rg2_embedding: combined-sum # ["combined", "combined-sum", "no llm", "llm name", "llm description"]
+k: 0 # should be positive if you want to add specific num of 5th type edges to each relation
+model_embed: jinaai # [sentbert, jinaai]
+topx: 0 # top x% of all relation pairs
+threshold: 0.8 # threshold for constructing rg2
+embedding_combiner: mlp # [mlp, concat, attention]
+eval_on_valid: False # [True, False]
+use_cos_sim_weights: True # [True, False], if True, we use cosine similarity weights for the 5th type edges
+gpus: 0 # [0, 1, 2] # which gpu to use
+harder_setting: False # [True, False], if True, we use harder setting where there are new relations 

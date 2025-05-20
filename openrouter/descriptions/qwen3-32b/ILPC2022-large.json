@@ -1,0 +1,331 @@
+{
+    "cleaned_relations": {
+        "cast member": "is a cast member of",
+        "occupation": "has occupation",
+        "country of citizenship": "has citizenship in",
+        "member of": "is member of",
+        "record label": "is signed to",
+        "languages spoken, written or signed": "speaks/writes/signs language",
+        "instrument": "plays instrument",
+        "residence": "resides in",
+        "place of birth": "was born in",
+        "diplomatic relation": "has diplomatic ties with",
+        "educated at": "was educated at",
+        "member of political party": "is member of party",
+        "sibling": "is sibling of",
+        "employer": "is employed by",
+        "ethnic group": "belongs to ethnic group",
+        "located in the administrative territorial entity": "is located in administrative area",
+        "place of death": "died in",
+        "country of origin": "originates from",
+        "genre": "is associated with genre",
+        "country": "is located in",
+        "continent": "is located in continent",
+        "language of work or name": "work's language is",
+        "creator": "created by",
+        "religion or worldview": "follows religion or worldview",
+        "cause of death": "died from",
+        "director": "directed by",
+        "field of work": "works in field",
+        "place of burial": "buried at",
+        "shares border with": "shares border with",
+        "child": "has child",
+        "spouse": "is spouse of",
+        "official language": "official language is",
+        "publisher": "published by",
+        "mountain range": "located in mountain range",
+        "medical condition": "has medical condition",
+        "narrative location": "set in location",
+        "capital": "capital is",
+        "sport": "participates in sport",
+        "influenced by": "influenced by",
+        "unmarried partner": "has unmarried partner",
+        "location of formation": "Formation Location",
+        "headquarters location": "Headquarters Location",
+        "member of sports team": "Sports Team Membership",
+        "legal form": "Legal Structure",
+        "part of": "Component Of",
+        "time period": "Historical Era",
+        "drug or therapy used for treatment": "Treatment Application",
+        "has use": "Functional Use",
+        "symptoms and signs": "Clinical Manifestations",
+        "airline hub": "Airline Hub Location",
+        "author": "Work Author",
+        "movement": "Artistic Movement",
+        "founded by": "Founder Association",
+        "chairperson": "Leadership Role",
+        "parent organization": "Corporate Parent",
+        "named after": "Eponymous Origin",
+        "architect": "Architectural Designer",
+        "uses": "Utilization Method",
+        "legislative body": "Legislative Authority",
+        "industry": "Sector Classification",
+        "occupant": "has occupant",
+        "chief executive officer": "has chief executive officer",
+        "architectural style": "has architectural style",
+        "health specialty": "has health specialty",
+        "is the study of": "is the study of"
+    },
+    "relation_descriptions": {
+        "cast member": [
+            "part of cast",
+            "has cast member"
+        ],
+        "occupation": [
+            "has occupation",
+            "is occupation of"
+        ],
+        "country of citizenship": [
+            "has citizenship in",
+            "is citizen of"
+        ],
+        "member of": [
+            "is member of",
+            "has member"
+        ],
+        "record label": [
+            "is signed to label",
+            "has signed artist"
+        ],
+        "languages spoken, written or signed": [
+            "speaks/writes/signs language",
+            "is language of speaker/writer/signer"
+        ],
+        "instrument": [
+            "plays instrument",
+            "is instrument of"
+        ],
+        "residence": [
+            "resides in location",
+            "is residence of"
+        ],
+        "place of birth": [
+            "was born in location",
+            "is birthplace of"
+        ],
+        "diplomatic relation": [
+            "has diplomatic ties with",
+            "has diplomatic ties with"
+        ],
+        "educated at": [
+            "was educated at institution",
+            "is alma mater of"
+        ],
+        "member of political party": [
+            "is member of party",
+            "has party member"
+        ],
+        "sibling": [
+            "is sibling of",
+            "is sibling of"
+        ],
+        "employer": [
+            "is employed by organization",
+            "employs"
+        ],
+        "ethnic group": [
+            "belongs to ethnic group",
+            "is ethnic group of"
+        ],
+        "located in the administrative territorial entity": [
+            "is located in administrative area",
+            "has administrative area"
+        ],
+        "place of death": [
+            "died in location",
+            "is deathplace of"
+        ],
+        "country of origin": [
+            "originates from country",
+            "is origin country of"
+        ],
+        "genre": [
+            "is associated with genre",
+            "is genre of"
+        ],
+        "country": [
+            "is located in country",
+            "has located entity"
+        ],
+        "continent": [
+            "is located in continent",
+            "has country in continent"
+        ],
+        "language of work or name": [
+            "work's language is",
+            "has work in language"
+        ],
+        "creator": [
+            "created by",
+            "created work"
+        ],
+        "religion or worldview": [
+            "follows religion or worldview",
+            "has follower in religion or worldview"
+        ],
+        "cause of death": [
+            "died from",
+            "caused death of"
+        ],
+        "director": [
+            "directed by",
+            "directed work"
+        ],
+        "field of work": [
+            "works in field",
+            "has professional in field"
+        ],
+        "place of burial": [
+            "buried at",
+            "burial site of"
+        ],
+        "shares border with": [
+            "shares border with",
+            "shares border with"
+        ],
+        "child": [
+            "has child",
+            "parent of"
+        ],
+        "spouse": [
+            "is spouse of",
+            "is spouse of"
+        ],
+        "official language": [
+            "official language is",
+            "has official language"
+        ],
+        "publisher": [
+            "published by",
+            "published work"
+        ],
+        "mountain range": [
+            "located in mountain range",
+            "has location in mountain range"
+        ],
+        "medical condition": [
+            "has medical condition",
+            "affects with medical condition"
+        ],
+        "narrative location": [
+            "set in location",
+            "has narrative in location"
+        ],
+        "capital": [
+            "capital is",
+            "has capital"
+        ],
+        "sport": [
+            "participates in sport",
+            "has participant in sport"
+        ],
+        "influenced by": [
+            "influenced by",
+            "influences"
+        ],
+        "unmarried partner": [
+            "has unmarried partner",
+            "unmarried partner of"
+        ],
+        "location of formation": [
+            "Group formed in location",
+            "Location of group formation"
+        ],
+        "headquarters location": [
+            "Headquarters situated in location",
+            "Location of headquarters"
+        ],
+        "member of sports team": [
+            "Athlete in sports team",
+            "Sports team includes athlete"
+        ],
+        "legal form": [
+            "Entity legal structure",
+            "Legal structure of entity"
+        ],
+        "part of": [
+            "Component of larger entity",
+            "Composed of component"
+        ],
+        "time period": [
+            "Individual active in era",
+            "Era associated with individual"
+        ],
+        "drug or therapy used for treatment": [
+            "Treatment for condition",
+            "Condition treated with"
+        ],
+        "has use": [
+            "Facility used for activity",
+            "Activity conducted in facility"
+        ],
+        "symptoms and signs": [
+            "Disease clinical features",
+            "Features indicating disease"
+        ],
+        "airline hub": [
+            "Airline operates from hub",
+            "Hub serves airline operations"
+        ],
+        "author": [
+            "Work created by author",
+            "Author of literary work"
+        ],
+        "movement": [
+            "Artist associated with movement",
+            "Movement includes artist"
+        ],
+        "founded by": [
+            "Entity established by founder",
+            "Founder established entity"
+        ],
+        "chairperson": [
+            "Organization led by chair",
+            "Chairperson of organization"
+        ],
+        "parent organization": [
+            "Subsidiary under parent",
+            "Parent oversees subsidiary"
+        ],
+        "named after": [
+            "Entity named for individual",
+            "Individual names entity"
+        ],
+        "architect": [
+            "Structure designed by architect",
+            "Architect of built work"
+        ],
+        "uses": [
+            "Location employs numbering",
+            "Numbering system in location"
+        ],
+        "legislative body": [
+            "Country governed by legislature",
+            "Legislature represents country"
+        ],
+        "industry": [
+            "Company operates in sector",
+            "Sector includes company"
+        ],
+        "occupant": [
+            "has occupant",
+            "is occupied by"
+        ],
+        "chief executive officer": [
+            "has chief executive officer",
+            "is chief executive officer of"
+        ],
+        "architectural style": [
+            "has architectural style",
+            "is architectural style of"
+        ],
+        "health specialty": [
+            "has health specialty",
+            "is health specialty of"
+        ],
+        "is the study of": [
+            "is the study of",
+            "studies"
+        ]
+    }
+}

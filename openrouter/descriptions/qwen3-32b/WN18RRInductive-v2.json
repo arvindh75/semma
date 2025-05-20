@@ -1,0 +1,56 @@
+{
+    "cleaned_relations": {
+        "_derivationally_related_form": "Derivationally Related Form",
+        "_member_meronym": "Member Meronym",
+        "_hypernym": "Hypernym",
+        "_also_see": "Also See",
+        "_synset_domain_topic_of": "Synset Domain Topic Of",
+        "_has_part": "Has Part",
+        "_verb_group": "Verb Group",
+        "_similar_to": "Similar To",
+        "_member_of_domain_usage": "Member Of Domain Usage",
+        "_instance_hypernym": "Instance Hypernym"
+    },
+    "relation_descriptions": {
+        "_derivationally_related_form": [
+            "Words sharing a root form through derivation",
+            "Words sharing a root form through derivation"
+        ],
+        "_member_meronym": [
+            "Part of a whole as a member",
+            "Whole containing a member part"
+        ],
+        "_hypernym": [
+            "Broader category term",
+            "Narrower instance term"
+        ],
+        "_also_see": [
+            "Cross-reference to related term",
+            "Cross-reference to related term"
+        ],
+        "_synset_domain_topic_of": [
+            "Topic domain of a synset",
+            "Synset associated with domain"
+        ],
+        "_has_part": [
+            "Contains a component part",
+            "Component part of a whole"
+        ],
+        "_verb_group": [
+            "Verb group members",
+            "Verb group members"
+        ],
+        "_similar_to": [
+            "Semantically similar terms",
+            "Semantically similar terms"
+        ],
+        "_member_of_domain_usage": [
+            "Usage domain member",
+            "Domain containing usage member"
+        ],
+        "_instance_hypernym": [
+            "Specific instance category",
+            "General category instance"
+        ]
+    }
+}

@@ -1,0 +1,431 @@
+{
+    "cleaned_relations": {
+        "member of sports team": "Member of Sports Team",
+        "languages spoken, written or signed": "Languages Spoken, Written or Signed",
+        "continent": "Continent",
+        "currency": "Currency",
+        "member of": "Member Of",
+        "genre": "Genre",
+        "award received": "Award Received",
+        "occupation": "Occupation",
+        "linguistic typology": "Linguistic Typology",
+        "operating system": "Operating System",
+        "record label": "Record Label",
+        "educated at": "Educated At",
+        "place of death": "Place of Death",
+        "instance of": "Instance Of",
+        "platform": "Platform",
+        "filming location": "Filming Location",
+        "cast member": "Cast Member",
+        "main subject": "Main Subject",
+        "place of birth": "Place of Birth",
+        "production company": "Production Company",
+        "narrative location": "Narrative Location",
+        "headquarters location": "Headquarters Location",
+        "ethnic group": "Ethnic Group",
+        "influenced by": "Influenced By",
+        "distributed by": "Distributed By",
+        "twinned administrative body": "Twinned Administrative Body",
+        "costume designer": "Costume Designer",
+        "country of citizenship": "Country of Citizenship",
+        "programmed in": "Programmed In",
+        "religion or worldview": "Religion or Worldview",
+        "instrument": "Instrument",
+        "promoted": "Promoted",
+        "voice actor": "Voice Actor",
+        "given name": "Given Name",
+        "director of photography": "Director of Photography",
+        "medical condition": "Medical Condition",
+        "cause of death": "Cause of Death",
+        "screenwriter": "Screenwriter",
+        "director": "Director",
+        "creator": "Creator",
+        "contains the administrative territorial entity": "Contains Administrative Territorial Entity",
+        "place of burial": "Place of Burial",
+        "language of work or name": "Language of Work or Name",
+        "described by source": "Described by Source",
+        "GUI toolkit or framework": "GUI Toolkit or Framework",
+        "participating team": "Participating Team",
+        "species kept": "Species Kept",
+        "official language": "Official Language",
+        "diplomatic relation": "Diplomatic Relation",
+        "said to be the same as": "Said to Be the Same As",
+        "film editor": "Film Editor",
+        "located in the administrative territorial entity": "Located in Administrative Territorial Entity",
+        "work location": "Work Location",
+        "endemic to": "Endemic To",
+        "employer": "Employer",
+        "chairperson": "Chairperson",
+        "has subsidiary": "Has Subsidiary",
+        "family name identical to this given name": "Family Name Identical to Given Name",
+        "residence": "Residence",
+        "has part(s)": "Has Parts",
+        "country": "Country",
+        "father": "Father",
+        "relegated": "Relegated",
+        "subclass of": "Subclass Of",
+        "location": "Location",
+        "voice type": "Voice Type",
+        "relative": "Relative",
+        "original language of film or TV show": "Original Language of Film or TV Show",
+        "IUCN conservation status": "IUCN Conservation Status",
+        "mother": "Mother",
+        "software engine": "Software Engine",
+        "territory claimed by": "Territory Claimed By",
+        "color": "Color",
+        "readable file format": "Readable File Format",
+        "position played on team / speciality": "Position Played on Team / Speciality",
+        "located in time zone": "Located in Time Zone",
+        "member of political party": "Member of Political Party",
+        "basic form of government": "Basic Form of Government",
+        "language used": "Language Used",
+        "basin country": "Basin Country",
+        "military or police rank": "Military or Police Rank",
+        "language regulatory body": "Language Regulatory Body",
+        "original broadcaster": "Original Broadcaster",
+        "has grammatical mood": "Has Grammatical Mood",
+        "terminus": "Terminus"
+    },
+    "relation_descriptions": {
+        "member of sports team": [
+            "Plays for sports team",
+            "Sports team has player"
+        ],
+        "languages spoken, written or signed": [
+            "Speaks or uses language",
+            "Language used by person"
+        ],
+        "continent": [
+            "Located on continent",
+            "Continent contains location"
+        ],
+        "currency": [
+            "Uses currency",
+            "Currency used in location"
+        ],
+        "member of": [
+            "Belongs to organization",
+            "Organization has member"
+        ],
+        "genre": [
+            "Belongs to genre",
+            "Genre includes work"
+        ],
+        "award received": [
+            "Won award",
+            "Award given to recipient"
+        ],
+        "occupation": [
+            "Has profession",
+            "Profession held by person"
+        ],
+        "linguistic typology": [
+            "Has language structure",
+            "Language structure of type"
+        ],
+        "operating system": [
+            "Runs on OS",
+            "OS supports software"
+        ],
+        "record label": [
+            "Signed to label",
+            "Label represents artist"
+        ],
+        "educated at": [
+            "Studied at institution",
+            "Institution educated person"
+        ],
+        "place of death": [
+            "Died in location",
+            "Location of death"
+        ],
+        "instance of": [
+            "Is type of",
+            "Type includes instance"
+        ],
+        "platform": [
+            "Available on platform",
+            "Platform supports application"
+        ],
+        "filming location": [
+            "Filmed in location",
+            "Location used for filming"
+        ],
+        "cast member": [
+            "Actor in production",
+            "Production includes actor"
+        ],
+        "main subject": [
+            "Focuses on topic",
+            "Topic is focus of work"
+        ],
+        "place of birth": [
+            "Born in location",
+            "Location of birth"
+        ],
+        "production company": [
+            "Produced by company",
+            "Company produced work"
+        ],
+        "narrative location": [
+            "Set in location",
+            "Location is setting"
+        ],
+        "headquarters location": [
+            "Headquartered in location",
+            "Location hosts headquarters"
+        ],
+        "ethnic group": [
+            "Belongs to ethnicity",
+            "Ethnicity includes person"
+        ],
+        "influenced by": [
+            "Inspired by entity",
+            "Entity inspired subject"
+        ],
+        "distributed by": [
+            "Distributed by company",
+            "Company distributes work"
+        ],
+        "twinned administrative body": [
+            "Paired with body",
+            "Body paired with entity"
+        ],
+        "costume designer": [
+            "Designed costumes for",
+            "Costumes designed by person"
+        ],
+        "country of citizenship": [
+            "Citizen of country",
+            "Country has citizen"
+        ],
+        "programmed in": [
+            "Written in language",
+            "Language used for programming"
+        ],
+        "religion or worldview": [
+            "Follows belief system",
+            "Belief system followed by person"
+        ],
+        "instrument": [
+            "plays instrument",
+            "played by"
+        ],
+        "promoted": [
+            "moved to higher rank",
+            "demoted from higher rank"
+        ],
+        "voice actor": [
+            "provides character voice",
+            "character voiced by"
+        ],
+        "given name": [
+            "first name of",
+            "belongs to given name"
+        ],
+        "director of photography": [
+            "manages film visuals",
+            "visuals managed by"
+        ],
+        "medical condition": [
+            "has health condition",
+            "condition affects"
+        ],
+        "cause of death": [
+            "reason for death",
+            "death caused by"
+        ],
+        "screenwriter": [
+            "writes screenplay",
+            "screenplay written by"
+        ],
+        "director": [
+            "directs production",
+            "production directed by"
+        ],
+        "creator": [
+            "originates or invents",
+            "created by"
+        ],
+        "contains the administrative territorial entity": [
+            "includes territory",
+            "territory included in"
+        ],
+        "place of burial": [
+            "buried at location",
+            "location of burial"
+        ],
+        "language of work or name": [
+            "uses language",
+            "language used by"
+        ],
+        "described by source": [
+            "referenced in source",
+            "source describes"
+        ],
+        "GUI toolkit or framework": [
+            "uses GUI framework",
+            "framework used by"
+        ],
+        "participating team": [
+            "team involved in",
+            "involves team"
+        ],
+        "species kept": [
+            "houses species",
+            "species housed by"
+        ],
+        "official language": [
+            "recognized as language",
+            "language officially recognized by"
+        ],
+        "diplomatic relation": [
+            "has foreign relations",
+            "foreign relations with"
+        ],
+        "said to be the same as": [
+            "equivalent to",
+            "equivalent to"
+        ],
+        "film editor": [
+            "edits film",
+            "film edited by"
+        ],
+        "located in the administrative territorial entity": [
+            "situated in territory",
+            "territory contains"
+        ],
+        "work location": [
+            "works at location",
+            "location of work"
+        ],
+        "endemic to": [
+            "native to region",
+            "region hosts"
+        ],
+        "employer": [
+            "provides employment",
+            "employed by"
+        ],
+        "chairperson": [
+            "leads organization",
+            "organization led by"
+        ],
+        "has subsidiary": [
+            "owns subsidiary",
+            "subsidiary owned by"
+        ],
+        "family name identical to this given name": [
+            "shares name with",
+            "name shared by"
+        ],
+        "residence": [
+            "lives at location",
+            "location of residence"
+        ],
+        "has part(s)": [
+            "composed of parts",
+            "part of whole"
+        ],
+        "country": [
+            "associated country",
+            "entity located in"
+        ],
+        "father": [
+            "biological father",
+            "child of father"
+        ],
+        "relegated": [
+            "demoted to lower tier",
+            "promoted from lower tier"
+        ],
+        "subclass of": [
+            "type of class",
+            "class containing type"
+        ],
+        "location": [
+            "event location",
+            "location of event"
+        ],
+        "voice type": [
+            "vocal classification",
+            "singer's voice type"
+        ],
+        "relative": [
+            "family relation",
+            "family relation"
+        ],
+        "original language of film or TV show": [
+            "film's original language",
+            "language of original film"
+        ],
+        "IUCN conservation status": [
+            "species threat level",
+            "status of species"
+        ],
+        "mother": [
+            "biological mother",
+            "child of mother"
+        ],
+        "software engine": [
+            "underlying software engine",
+            "engine used by software"
+        ],
+        "territory claimed by": [
+            "claimed by entity",
+            "entity claiming territory"
+        ],
+        "color": [
+            "associated color",
+            "entity with color"
+        ],
+        "readable file format": [
+            "supported file format",
+            "format readable by"
+        ],
+        "position played on team / speciality": [
+            "player's role",
+            "role played by player"
+        ],
+        "located in time zone": [
+            "time zone location",
+            "location's time zone"
+        ],
+        "member of political party": [
+            "political party membership",
+            "party with member"
+        ],
+        "basic form of government": [
+            "government structure",
+            "structure of government"
+        ],
+        "language used": [
+            "spoken or written language",
+            "language used by entity"
+        ],
+        "basin country": [
+            "country bordering basin",
+            "basin near country"
+        ],
+        "military or police rank": [
+            "rank in military/police",
+            "person holding rank"
+        ],
+        "language regulatory body": [
+            "language authority",
+            "authority for language"
+        ],
+        "original broadcaster": [
+            "initial broadcaster",
+            "broadcaster of original"
+        ],
+        "has grammatical mood": [
+            "grammatical mood type",
+            "type of grammatical mood"
+        ],
+        "terminus": [
+            "route endpoint",
+            "endpoint of route"
+        ]
+    }
+}

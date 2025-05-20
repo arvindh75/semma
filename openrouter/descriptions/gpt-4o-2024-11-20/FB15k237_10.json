@@ -1,0 +1,1191 @@
+{
+    "cleaned_relations": {
+        "/award/award_winner/awards_won./award/award_honor/award_winner": "Award Winner of Honor",
+        "/music/performance_role/track_performances./music/track_contribution/role": "Track Performance Role",
+        "/film/film/release_date_s./film/film_regional_release_date/film_release_region": "Film Release Region",
+        "/award/award_category/nominees./award/award_nomination/nominated_for": "Nomination for Award",
+        "/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics": "Olympic Sport Affiliation",
+        "/award/award_nominee/award_nominations./award/award_nomination/nominated_for": "Nominee for Award",
+        "/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium": "Film Distribution Medium",
+        "/people/person/place_of_birth": "Place of Birth",
+        "/film/film/country": "Film Country of Origin",
+        "/sports/sports_position/players./sports/sports_team_roster/team": "Player's Team",
+        "/award/award_nominee/award_nominations./award/award_nomination/award": "Award Nominated For",
+        "/film/film/genre": "Film Genre",
+        "/award/award_winning_work/awards_won./award/award_honor/award": "Award Won by Work",
+        "/music/performance_role/regular_performances./music/group_membership/group": "Group Membership Role",
+        "/location/location/contains": "Location Contains",
+        "/music/performance_role/regular_performances./music/group_membership/role": "Group Membership Role",
+        "/award/award_winning_work/awards_won./award/award_honor/award_winner": "Award Winner for Work",
+        "/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to": "Export Destination",
+        "/government/legislative_session/members./government/government_position_held/legislative_sessions": "Legislative Session Membership",
+        "/people/person/places_lived./people/place_lived/location": "Place Lived",
+        "/award/award_category/winners./award/award_honor/award_winner": "Award Winner",
+        "/music/genre/artists": "Artists in Genre",
+        "/government/legislative_session/members./government/government_position_held/district_represented": "District Represented",
+        "/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office": "Office Jurisdiction",
+        "/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month": "Travel Destination Climate",
+        "/award/award_nominee/award_nominations./award/award_nomination/award_nominee": "Award Nominee",
+        "/film/film/produced_by": "Film Producer",
+        "/tv/tv_program/genre": "TV Program Genre",
+        "/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/country": "Athlete's Country",
+        "/people/person/profession": "Person's Profession",
+        "/education/educational_degree/people_with_this_degree./education/education/major_field_of_study": "Degree Major Field",
+        "/sports/pro_athlete/teams./sports/sports_team_roster/team": "Athlete's Team",
+        "/dataworld/gardening_hint/split_to": "Split to Category",
+        "/common/topic/webpage./common/webpage/category": "Webpage Category",
+        "/film/film/featured_film_locations": "Featured Film Location",
+        "/film/actor/film./film/performance/film": "Actor's Film",
+        "/music/record_label/artist": "Record Label Artist",
+        "/government/political_party/politicians_in_this_party./government/political_party_tenure/politician": "Party Politician",
+        "/film/film/edited_by": "Film Editor",
+        "/influence/influence_node/influenced_by": "Influenced By",
+        "/soccer/football_team/current_roster./soccer/football_roster_position/position": "Football Position",
+        "/award/award_category/winners./award/award_honor/ceremony": "Award Ceremony",
+        "/media_common/netflix_genre/titles": "Netflix Genre Titles",
+        "/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source": "Foreclosure Data Source",
+        "/music/instrument/instrumentalists": "Instrumentalists",
+        "/film/film/executive_produced_by": "Executive Producer",
+        "/sports/sports_league_draft/picks./sports/sports_league_draft_pick/school": "Draft Pick School",
+        "/award/award_winning_work/awards_won./award/award_honor/honored_for": "Honored For Work",
+        "/location/administrative_division/country": "Administrative Division Country",
+        "/olympics/olympic_games/medals_awarded./olympics/olympic_medal_honor/medal": "Olympic Medal",
+        "/base/popstra/celebrity/dated./base/popstra/dated/participant": "Celebrity Dated Participant",
+        "/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film": "Film Distributor",
+        "/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics": "Olympic Participation",
+        "/education/educational_degree/people_with_this_degree./education/education/institution": "Degree Institution",
+        "/tv/tv_program/tv_producer./tv/tv_producer_term/producer_type": "TV Producer Type",
+        "/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy": "Taxonomy Entry",
+        "/user/jg/default_domain/olympic_games/sports": "Olympic Sports",
+        "/organization/non_profit_organization/registered_with./organization/non_profit_registration/registering_agency": "Non-Profit Registering Agency",
+        "/education/educational_institution/students_graduates./education/education/major_field_of_study": "Student Major Field",
+        "/education/educational_institution/campuses": "Institution Campuses",
+        "/organization/organization/headquarters./location/mailing_address/citytown": "Organization headquarters city or town",
+        "/sports/sports_team_location/teams": "Sports team location",
+        "/education/university/domestic_tuition./measurement_unit/dated_money_value/currency": "University domestic tuition currency",
+        "/film/film/other_crew./film/film_crew_gig/film_crew_role": "Film crew role",
+        "/people/person/nationality": "Person's nationality",
+        "/olympics/olympic_games/sports": "Olympic games sports",
+        "/film/film/dubbing_performances./film/dubbing_performance/actor": "Film dubbing actor",
+        "/location/country/official_language": "Country official language",
+        "/award/award_ceremony/awards_presented./award/award_honor/award_winner": "Award ceremony winner",
+        "/soccer/football_team/current_roster./sports/sports_team_roster/position": "Football team player position",
+        "/base/popstra/celebrity/friendship./base/popstra/friendship/participant": "Celebrity friendship participant",
+        "/film/film/film_festivals": "Film festivals attended",
+        "/award/award_nominated_work/award_nominations./award/award_nomination/nominated_for": "Award nomination work",
+        "/people/person/languages": "Person's spoken languages",
+        "/film/film/production_companies": "Film production companies",
+        "/soccer/football_player/current_team./sports/sports_team_roster/team": "Football player's current team",
+        "/organization/organization/headquarters./location/mailing_address/country": "Organization headquarters country",
+        "/organization/organization/headquarters./location/mailing_address/state_province_region": "Organization headquarters state or region",
+        "/education/field_of_study/students_majoring./education/education/major_field_of_study": "Field of study major",
+        "/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency": "Region GDP currency",
+        "/education/educational_institution/colors": "Educational institution colors",
+        "/education/educational_institution/school_type": "Educational institution type",
+        "/education/field_of_study/students_majoring./education/education/student": "Field of study student",
+        "/base/biblioness/bibs_location/state": "Location state",
+        "/people/person/spouse_s./people/marriage/spouse": "Person's spouse",
+        "/location/us_county/county_seat": "County seat",
+        "/base/schemastaging/person_extra/net_worth./measurement_unit/dated_money_value/currency": "Person's net worth currency",
+        "/location/country/second_level_divisions": "Country second-level divisions",
+        "/film/film/prequel": "Film prequel",
+        "/organization/organization_member/member_of./organization/organization_membership/organization": "Organization membership",
+        "/film/film/distributors./film/film_film_distributor_relationship/film_distribution_medium": "Film distribution medium",
+        "/olympics/olympic_participating_country/athletes./olympics/olympic_athlete_affiliation/olympics": "Olympic participating athletes",
+        "/location/location/adjoin_s./location/adjoining_relationship/adjoins": "Location adjoining areas",
+        "/tv/tv_network/programs./tv/tv_network_duration/program": "TV network programs",
+        "/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed": "City's top dog breeds",
+        "/military/military_conflict/combatants./military/military_combatant_group/combatants": "Military conflict combatants",
+        "/celebrities/celebrity/celebrity_friends./celebrities/friendship/friend": "Celebrity friends",
+        "/tv/tv_program/program_creator": "TV program creator",
+        "/film/film/story_by": "Film story writer",
+        "/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor": "TV program regular cast",
+        "/film/film_subject/films": "Films about subject",
+        "/people/person/sibling_s./people/sibling_relationship/sibling": "Person's sibling",
+        "/base/biblioness/bibs_location/country": "Location country",
+        "/people/person/religion": "Person's religion",
+        "/music/group_member/membership./music/group_membership/group": "Music group membership",
+        "/people/person/gender": "Person's gender",
+        "/film/film/written_by": "Film writer",
+        "/sports/sports_team/roster./american_football/football_historical_roster_position/position_s": "Football team roster position",
+        "/film/film/music": "Film music composer",
+        "/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person": "TV personal appearance",
+        "/film/film/language": "Film language",
+        "/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/medal": "Olympic medals won",
+        "/music/artist/track_contributions./music/track_contribution/role": "Music track contribution role",
+        "/music/genre/parent_genre": "Music parent genre",
+        "/award/award_ceremony/awards_presented./award/award_honor/honored_for": "Award ceremony honored work",
+        "/education/university/local_tuition./measurement_unit/dated_money_value/currency": "University local tuition currency",
+        "/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division": "Administrative division capital",
+        "/medicine/disease/risk_factors": "Disease risk factors",
+        "/people/ethnicity/people": "Ethnicity people",
+        "/food/food/nutrients./food/nutrition_fact/nutrient": "Food nutrients",
+        "/music/group_member/membership./music/group_membership/role": "Music Group Membership Role",
+        "/base/eating/practicer_of_diet/diet": "Diet Practiced",
+        "/organization/role/leaders./organization/leadership/organization": "Leadership Role Organization",
+        "/sports/sports_team/roster./american_football/football_roster_position/position": "Football Team Roster Position",
+        "/education/educational_institution/students_graduates./education/education/student": "Educational Institution Student",
+        "/location/hud_county_place/place": "HUD County Place",
+        "/location/location/time_zones": "Location Time Zones",
+        "/people/profession/specialization_of": "Profession Specialization",
+        "/film/director/film": "Film Directed By",
+        "/people/cause_of_death/people": "Cause of Death Person",
+        "/sports/sports_team/roster./basketball/basketball_roster_position/position": "Basketball Team Roster Position",
+        "/american_football/football_team/current_roster./sports/sports_team_roster/position": "Football Team Current Roster Position",
+        "/film/actor/dubbing_performances./film/dubbing_performance/language": "Actor Dubbing Language",
+        "/organization/organization/place_founded": "Organization Place Founded",
+        "/people/deceased_person/place_of_death": "Place of Death",
+        "/user/alexander/philosophy/philosopher/interests": "Philosopher Interests",
+        "/people/person/spouse_s./people/marriage/type_of_union": "Marriage Type of Union",
+        "/base/aareas/schema/administrative_area/administrative_parent": "Administrative Area Parent",
+        "/tv/tv_producer/programs_produced./tv/tv_producer_term/program": "TV Producer Programs Produced",
+        "/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency": "GDP Nominal Currency",
+        "/music/performance_role/guest_performances./music/recording_contribution/performance_role": "Guest Performance Role",
+        "/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony": "Marriage Ceremony Location",
+        "/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/contact_category": "Phone Number Contact Category",
+        "/film/film/release_date_s./film/film_regional_release_date/film_regional_debut_venue": "Film Regional Debut Venue",
+        "/film/film/estimated_budget./measurement_unit/dated_money_value/currency": "Film Budget Currency",
+        "/film/film/cinematography": "Film Cinematography By",
+        "/education/university/fraternities_and_sororities": "University Fraternities and Sororities",
+        "/business/job_title/people_with_this_title./business/employment_tenure/company": "Job Title Company",
+        "/sports/sports_team/colors": "Sports Team Colors",
+        "/government/politician/government_positions_held./government/government_position_held/legislative_sessions": "Government Position Legislative Sessions",
+        "/sports/professional_sports_team/draft_picks./sports/sports_league_draft_pick/school": "Draft Pick School",
+        "/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency": "GNI Per Capita Currency",
+        "/film/film/distributors./film/film_film_distributor_relationship/region": "Film Distributor Region",
+        "/language/human_language/countries_spoken_in": "Language Countries Spoken In",
+        "/sports/professional_sports_team/draft_picks./sports/sports_league_draft_pick/draft": "Draft Pick Year",
+        "/people/ethnicity/geographic_distribution": "Ethnicity Geographic Distribution",
+        "/business/business_operation/revenue./measurement_unit/dated_money_value/currency": "Business Revenue Currency",
+        "/base/aareas/schema/administrative_area/administrative_area_type": "Administrative Area Type",
+        "/film/film/other_crew./film/film_crew_gig/crewmember": "Film Crew Member",
+        "/film/film/personal_appearances./film/personal_film_appearance/person": "Film Personal Appearance",
+        "/location/statistical_region/rent50_2./measurement_unit/dated_money_value/currency": "Median Rent Currency",
+        "/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency": "Organization Endowment Currency",
+        "/business/business_operation/industry": "Business Industry",
+        "/tv/tv_program/languages": "TV Program Languages",
+        "/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_location": "Phone Number Service Location",
+        "/people/ethnicity/languages_spoken": "Ethnicity Languages Spoken",
+        "/sports/sports_position/players./sports/sports_team_roster/position": "Sports Position Players",
+        "/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant": "Celebrity Canoodled Participant",
+        "/education/educational_institution_campus/educational_institution": "Educational Institution Campus",
+        "/sports/sports_team/sport": "Sports Team Sport",
+        "/location/statistical_region/religions./location/religion_percentage/religion": "Region Religion Percentage",
+        "/location/hud_county_place/county": "HUD County",
+        "/military/military_combatant/military_conflicts./military/military_combatant_group/combatants": "Military Conflict Combatants",
+        "/film/film/costume_design_by": "Film Costume Design By",
+        "/base/culturalevent/event/entity_involved": "Event Entity Involved",
+        "/base/x2010fifaworldcupsouthafrica/world_cup_squad/current_world_cup_squad./base/x2010fifaworldcupsouthafrica/current_world_cup_squad/current_club": "World Cup Squad Current Club",
+        "/music/artist/origin": "Artist Origin",
+        "/user/ktrueman/default_domain/international_organization/member_states": "International Organization Member States",
+        "/award/award_category/disciplines_or_subjects": "Award Category Disciplines",
+        "/music/artist/contribution./music/recording_contribution/performance_role": "Artist Contribution Role",
+        "/people/person/employment_history./business/employment_tenure/company": "Person's employment company",
+        "/base/popstra/celebrity/breakup./base/popstra/breakup/participant": "Celebrity breakup participant",
+        "/location/statistical_region/gdp_real./measurement_unit/adjusted_money_value/adjustment_currency": "Region GDP adjustment currency",
+        "/film/actor/film./film/performance/special_performance_type": "Actor's special performance type",
+        "/time/event/locations": "Event locations",
+        "/sports/sports_league/teams./sports/sports_league_participation/team": "League participating team",
+        "/award/hall_of_fame/inductees./award/hall_of_fame_induction/inductee": "Hall of Fame inductee",
+        "/olympics/olympic_games/participating_countries": "Olympic participating countries",
+        "/people/person/spouse_s./people/marriage/location_of_ceremony": "Marriage ceremony location",
+        "/film/film/film_production_design_by": "Film production designer",
+        "/influence/influence_node/peers./influence/peer_relationship/peers": "Influence peers",
+        "/location/location/partially_contains": "Location partially contains",
+        "/music/instrument/family": "Instrument family",
+        "/base/aareas/schema/administrative_area/capital": "Administrative area capital",
+        "/base/popstra/location/vacationers./base/popstra/vacation_choice/vacationer": "Location vacationer",
+        "/film/film/film_format": "Film format",
+        "/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office": "Government position jurisdiction",
+        "/sports/sports_team/roster./baseball/baseball_roster_position/position": "Team roster position",
+        "/medicine/symptom/symptom_of": "Symptom of disease",
+        "/baseball/baseball_team/team_stats./baseball/baseball_team_stats/season": "Baseball team season stats",
+        "/celebrities/celebrity/sexual_relationships./celebrities/romantic_relationship/celebrity": "Celebrity romantic partner",
+        "/award/ranked_item/appears_in_ranked_lists./award/ranking/list": "Item in ranked list",
+        "/base/americancomedy/celebrity_impressionist/celebrities_impersonated": "Celebrity impersonated",
+        "/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months": "Seasonal produce availability",
+        "/tv/tv_writer/tv_programs./tv/tv_program_writer_relationship/tv_program": "TV writer's program",
+        "/location/administrative_division/first_level_division_of": "First-level division of location",
+        "/award/award_category/category_of": "Award category",
+        "/film/special_film_performance_type/film_performance_type./film/performance/film": "Special film performance type",
+        "/time/event/instance_of_recurring_event": "Recurring event instance",
+        "/location/country/form_of_government": "Country's form of government",
+        "/sports/sport/pro_athletes./sports/pro_sports_played/athlete": "Professional athlete of sport",
+        "/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language": "Phone service language",
+        "/organization/organization/child./organization/organization_relationship/child": "Organization's child organization",
+        "/government/governmental_body/members./government/government_position_held/legislative_sessions": "Government body legislative session",
+        "/education/educational_degree/people_with_this_degree./education/education/student": "Degree holder student",
+        "/government/politician/government_positions_held./government/government_position_held/basic_title": "Government position title",
+        "/base/locations/continents/countries_within": "Continent's countries",
+        "/base/marchmadness/ncaa_basketball_tournament/seeds./base/marchmadness/ncaa_tournament_seed/team": "Basketball tournament seed team",
+        "/organization/organization_founder/organizations_founded": "Organization founder",
+        "/film/film/runtime./film/film_cut/film_release_region": "Film release region",
+        "/tv/tv_program/country_of_origin": "TV program's country of origin",
+        "/business/business_operation/operating_income./measurement_unit/dated_money_value/currency": "Operating income currency",
+        "/travel/travel_destination/how_to_get_here./travel/transportation/mode_of_transportation": "Travel destination transportation mode",
+        "/business/business_operation/assets./measurement_unit/dated_money_value/currency": "Business assets currency",
+        "/education/university/international_tuition./measurement_unit/dated_money_value/currency": "International tuition currency",
+        "/location/country/capital": "Country's capital",
+        "/base/saturdaynightlive/snl_cast_member/seasons./base/saturdaynightlive/snl_season_tenure/cast_members": "SNL season cast member",
+        "/tv/tv_producer/programs_produced./tv/tv_producer_term/producer_type": "TV producer type",
+        "/medicine/disease/notable_people_with_this_condition": "Notable person with disease",
+        "/tv/tv_personality/tv_regular_appearances./tv/tv_regular_personal_appearance/program": "TV personality's program",
+        "/film/film_set_designer/film_sets_designed": "Film set designer",
+        "/people/deceased_person/place_of_burial": "Place of burial",
+        "/film/person_or_entity_appearing_in_film/films./film/personal_film_appearance/type_of_appearance": "Film appearance type",
+        "/sports/sports_position/players./american_football/football_historical_roster_position/position_s": "Football roster position",
+        "/film/film/film_art_direction_by": "Film art director",
+        "/broadcast/content/artist": "Broadcast content artist",
+        "/ice_hockey/hockey_team/current_roster./sports/sports_team_roster/position": "Hockey team roster position"
+    },
+    "relation_descriptions": {
+        "/award/award_winner/awards_won./award/award_honor/award_winner": [
+            "Award recipient",
+            "Award given to"
+        ],
+        "/music/performance_role/track_performances./music/track_contribution/role": [
+            "Track performance role",
+            "Role in track"
+        ],
+        "/film/film/release_date_s./film/film_regional_release_date/film_release_region": [
+            "Film release region",
+            "Region of release"
+        ],
+        "/award/award_category/nominees./award/award_nomination/nominated_for": [
+            "Nomination for award",
+            "Award nominated for"
+        ],
+        "/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics": [
+            "Olympic sport event",
+            "Event with athletes"
+        ],
+        "/award/award_nominee/award_nominations./award/award_nomination/nominated_for": [
+            "Nominee for award",
+            "Award nominated for"
+        ],
+        "/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium": [
+            "Distribution medium",
+            "Medium of distribution"
+        ],
+        "/people/person/place_of_birth": [
+            "Birthplace of person",
+            "Person born in"
+        ],
+        "/film/film/country": [
+            "Film's country",
+            "Country of film"
+        ],
+        "/sports/sports_position/players./sports/sports_team_roster/team": [
+            "Player's team",
+            "Team with player"
+        ],
+        "/award/award_nominee/award_nominations./award/award_nomination/award": [
+            "Award nomination",
+            "Nomination for award"
+        ],
+        "/film/film/genre": [
+            "Film genre",
+            "Genre of film"
+        ],
+        "/award/award_winning_work/awards_won./award/award_honor/award": [
+            "Award won by work",
+            "Work honored with award"
+        ],
+        "/music/performance_role/regular_performances./music/group_membership/group": [
+            "Group membership",
+            "Group with member"
+        ],
+        "/location/location/contains": [
+            "Location contains",
+            "Contained in location"
+        ],
+        "/music/performance_role/regular_performances./music/group_membership/role": [
+            "Group role",
+            "Role in group"
+        ],
+        "/award/award_winning_work/awards_won./award/award_honor/award_winner": [
+            "Award winner",
+            "Winner of award"
+        ],
+        "/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to": [
+            "Export destination",
+            "Exports from region"
+        ],
+        "/government/legislative_session/members./government/government_position_held/legislative_sessions": [
+            "Legislative session member",
+            "Session with member"
+        ],
+        "/people/person/places_lived./people/place_lived/location": [
+            "Place lived",
+            "Resident of location"
+        ],
+        "/award/award_category/winners./award/award_honor/award_winner": [
+            "Award winner",
+            "Winner of award"
+        ],
+        "/music/genre/artists": [
+            "Artists in genre",
+            "Genre of artist"
+        ],
+        "/government/legislative_session/members./government/government_position_held/district_represented": [
+            "District represented",
+            "Representative's district"
+        ],
+        "/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office": [
+            "Office jurisdiction",
+            "Jurisdiction of office"
+        ],
+        "/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month": [
+            "Monthly climate",
+            "Climate in month"
+        ],
+        "/award/award_nominee/award_nominations./award/award_nomination/award_nominee": [
+            "Award nominee",
+            "Nominee for award"
+        ],
+        "/film/film/produced_by": [
+            "Film producer",
+            "Producer of film"
+        ],
+        "/tv/tv_program/genre": [
+            "TV program genre",
+            "Genre of TV program"
+        ],
+        "/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/country": [
+            "Athlete's country",
+            "Country of athlete"
+        ],
+        "/people/person/profession": [
+            "Person's profession",
+            "Profession of person"
+        ],
+        "/education/educational_degree/people_with_this_degree./education/education/major_field_of_study": [
+            "Degree major",
+            "Major for degree"
+        ],
+        "/sports/pro_athlete/teams./sports/sports_team_roster/team": [
+            "Athlete's team",
+            "Team with athlete"
+        ],
+        "/dataworld/gardening_hint/split_to": [
+            "Split category",
+            "Category split to"
+        ],
+        "/common/topic/webpage./common/webpage/category": [
+            "Webpage category",
+            "Category of webpage"
+        ],
+        "/film/film/featured_film_locations": [
+            "Film location",
+            "Location of film"
+        ],
+        "/film/actor/film./film/performance/film": [
+            "Actor's film",
+            "Film with actor"
+        ],
+        "/music/record_label/artist": [
+            "Record label artist",
+            "Artist's record label"
+        ],
+        "/government/political_party/politicians_in_this_party./government/political_party_tenure/politician": [
+            "Party politician",
+            "Politician's party"
+        ],
+        "/film/film/edited_by": [
+            "Film editor",
+            "Editor of film"
+        ],
+        "/influence/influence_node/influenced_by": [
+            "Influenced by",
+            "Influenced"
+        ],
+        "/soccer/football_team/current_roster./soccer/football_roster_position/position": [
+            "Football position",
+            "Position in football"
+        ],
+        "/award/award_category/winners./award/award_honor/ceremony": [
+            "Award ceremony",
+            "Ceremony for award"
+        ],
+        "/media_common/netflix_genre/titles": [
+            "Netflix genre titles",
+            "Titles in genre"
+        ],
+        "/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source": [
+            "Foreclosure data source",
+            "Source of data"
+        ],
+        "/music/instrument/instrumentalists": [
+            "Instrumentalists",
+            "Musicians for instrument"
+        ],
+        "/film/film/executive_produced_by": [
+            "Executive producer",
+            "Producer of film"
+        ],
+        "/sports/sports_league_draft/picks./sports/sports_league_draft_pick/school": [
+            "Draft pick school",
+            "School of draft pick"
+        ],
+        "/award/award_winning_work/awards_won./award/award_honor/honored_for": [
+            "Honored for work",
+            "Work honored"
+        ],
+        "/location/administrative_division/country": [
+            "Division's country",
+            "Country of division"
+        ],
+        "/olympics/olympic_games/medals_awarded./olympics/olympic_medal_honor/medal": [
+            "Olympic medal",
+            "Medal awarded"
+        ],
+        "/base/popstra/celebrity/dated./base/popstra/dated/participant": [
+            "Dated participant",
+            "Participant dated"
+        ],
+        "/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film": [
+            "Film distributor",
+            "Distributor of film"
+        ],
+        "/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics": [
+            "Olympic participation",
+            "Participation in Olympics"
+        ],
+        "/education/educational_degree/people_with_this_degree./education/education/institution": [
+            "Degree institution",
+            "Institution for degree"
+        ],
+        "/tv/tv_program/tv_producer./tv/tv_producer_term/producer_type": [
+            "TV producer type",
+            "Type of producer"
+        ],
+        "/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy": [
+            "Taxonomy entry",
+            "Entry in taxonomy"
+        ],
+        "/user/jg/default_domain/olympic_games/sports": [
+            "Olympic sports",
+            "Sports in Olympics"
+        ],
+        "/organization/non_profit_organization/registered_with./organization/non_profit_registration/registering_agency": [
+            "Registering agency",
+            "Agency registering"
+        ],
+        "/education/educational_institution/students_graduates./education/education/major_field_of_study": [
+            "Student major",
+            "Major of student"
+        ],
+        "/education/educational_institution/campuses": [
+            "Institution campuses",
+            "Campuses of institution"
+        ],
+        "/organization/organization/headquarters./location/mailing_address/citytown": [
+            "Headquarters city",
+            "City of headquarters"
+        ],
+        "/sports/sports_team_location/teams": [
+            "Team's location",
+            "Location's team"
+        ],
+        "/education/university/domestic_tuition./measurement_unit/dated_money_value/currency": [
+            "Tuition currency",
+            "Currency for tuition"
+        ],
+        "/film/film/other_crew./film/film_crew_gig/film_crew_role": [
+            "Crew role",
+            "Role in crew"
+        ],
+        "/people/person/nationality": [
+            "Person's nationality",
+            "Nationality of person"
+        ],
+        "/olympics/olympic_games/sports": [
+            "Olympic sports",
+            "Sports in Olympics"
+        ],
+        "/film/film/dubbing_performances./film/dubbing_performance/actor": [
+            "Dubbing actor",
+            "Actor for dubbing"
+        ],
+        "/location/country/official_language": [
+            "Official language",
+            "Language of country"
+        ],
+        "/award/award_ceremony/awards_presented./award/award_honor/award_winner": [
+            "Award winner",
+            "Winner of award"
+        ],
+        "/soccer/football_team/current_roster./sports/sports_team_roster/position": [
+            "Player position",
+            "Position of player"
+        ],
+        "/base/popstra/celebrity/friendship./base/popstra/friendship/participant": [
+            "Friendship participant",
+            "Participant in friendship"
+        ],
+        "/film/film/film_festivals": [
+            "Film festivals",
+            "Festivals for films"
+        ],
+        "/award/award_nominated_work/award_nominations./award/award_nomination/nominated_for": [
+            "Nominated work",
+            "Work nominated for"
+        ],
+        "/people/person/languages": [
+            "Spoken languages",
+            "Languages spoken"
+        ],
+        "/film/film/production_companies": [
+            "Production companies",
+            "Companies producing films"
+        ],
+        "/soccer/football_player/current_team./sports/sports_team_roster/team": [
+            "Player's team",
+            "Team of player"
+        ],
+        "/organization/organization/headquarters./location/mailing_address/country": [
+            "Headquarters country",
+            "Country of headquarters"
+        ],
+        "/organization/organization/headquarters./location/mailing_address/state_province_region": [
+            "Headquarters state",
+            "State of headquarters"
+        ],
+        "/education/field_of_study/students_majoring./education/education/major_field_of_study": [
+            "Major field",
+            "Field of major"
+        ],
+        "/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency": [
+            "GDP currency",
+            "Currency for GDP"
+        ],
+        "/education/educational_institution/colors": [
+            "Institution colors",
+            "Colors of institution"
+        ],
+        "/education/educational_institution/school_type": [
+            "School type",
+            "Type of school"
+        ],
+        "/education/field_of_study/students_majoring./education/education/student": [
+            "Field student",
+            "Student in field"
+        ],
+        "/base/biblioness/bibs_location/state": [
+            "Location state",
+            "State of location"
+        ],
+        "/people/person/spouse_s./people/marriage/spouse": [
+            "Person's spouse",
+            "Spouse of person"
+        ],
+        "/location/us_county/county_seat": [
+            "County seat",
+            "Seat of county"
+        ],
+        "/base/schemastaging/person_extra/net_worth./measurement_unit/dated_money_value/currency": [
+            "Net worth currency",
+            "Currency for net worth"
+        ],
+        "/location/country/second_level_divisions": [
+            "Second-level divisions",
+            "Divisions of country"
+        ],
+        "/film/film/prequel": [
+            "Film prequel",
+            "Prequel of film"
+        ],
+        "/organization/organization_member/member_of./organization/organization_membership/organization": [
+            "Membership organization",
+            "Organization of membership"
+        ],
+        "/film/film/distributors./film/film_film_distributor_relationship/film_distribution_medium": [
+            "Distribution medium",
+            "Medium for distribution"
+        ],
+        "/olympics/olympic_participating_country/athletes./olympics/olympic_athlete_affiliation/olympics": [
+            "Olympic athletes",
+            "Athletes in Olympics"
+        ],
+        "/location/location/adjoin_s./location/adjoining_relationship/adjoins": [
+            "Adjoining areas",
+            "Areas adjoining"
+        ],
+        "/tv/tv_network/programs./tv/tv_network_duration/program": [
+            "Network programs",
+            "Programs on network"
+        ],
+        "/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed": [
+            "Top dog breeds",
+            "Breeds of top dogs"
+        ],
+        "/military/military_conflict/combatants./military/military_combatant_group/combatants": [
+            "Conflict combatants",
+            "Combatants in conflict"
+        ],
+        "/celebrities/celebrity/celebrity_friends./celebrities/friendship/friend": [
+            "Celebrity friends",
+            "Friends of celebrity"
+        ],
+        "/tv/tv_program/program_creator": [
+            "Program creator",
+            "Creator of program"
+        ],
+        "/film/film/story_by": [
+            "Story writer",
+            "Writer of story"
+        ],
+        "/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor": [
+            "Regular cast",
+            "Cast in regular role"
+        ],
+        "/film/film_subject/films": [
+            "Subject films",
+            "Films about subject"
+        ],
+        "/people/person/sibling_s./people/sibling_relationship/sibling": [
+            "Person's sibling",
+            "Sibling of person"
+        ],
+        "/base/biblioness/bibs_location/country": [
+            "Location country",
+            "Country of location"
+        ],
+        "/people/person/religion": [
+            "Person's religion",
+            "Religion of person"
+        ],
+        "/music/group_member/membership./music/group_membership/group": [
+            "Group membership",
+            "Membership in group"
+        ],
+        "/people/person/gender": [
+            "Person's gender",
+            "Gender of person"
+        ],
+        "/film/film/written_by": [
+            "Film writer",
+            "Writer of film"
+        ],
+        "/sports/sports_team/roster./american_football/football_historical_roster_position/position_s": [
+            "Roster position",
+            "Position in roster"
+        ],
+        "/film/film/music": [
+            "Film composer",
+            "Composer of film"
+        ],
+        "/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person": [
+            "Personal appearance",
+            "Appearance of person"
+        ],
+        "/film/film/language": [
+            "Film language",
+            "Language of film"
+        ],
+        "/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/medal": [
+            "Olympic medals",
+            "Medals in Olympics"
+        ],
+        "/music/artist/track_contributions./music/track_contribution/role": [
+            "Track role",
+            "Role in track"
+        ],
+        "/music/genre/parent_genre": [
+            "Parent genre",
+            "Genre of parent"
+        ],
+        "/award/award_ceremony/awards_presented./award/award_honor/honored_for": [
+            "Honored work",
+            "Work honored for"
+        ],
+        "/education/university/local_tuition./measurement_unit/dated_money_value/currency": [
+            "Local tuition currency",
+            "Currency for local tuition"
+        ],
+        "/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division": [
+            "Administrative capital",
+            "Capital of administrative division"
+        ],
+        "/medicine/disease/risk_factors": [
+            "Disease risk factors",
+            "Factors of disease risk"
+        ],
+        "/people/ethnicity/people": [
+            "Ethnicity people",
+            "People of ethnicity"
+        ],
+        "/food/food/nutrients./food/nutrition_fact/nutrient": [
+            "Food nutrients",
+            "Nutrients in food"
+        ],
+        "/music/group_member/membership./music/group_membership/role": [
+            "Group member role",
+            "Role of group member"
+        ],
+        "/base/eating/practicer_of_diet/diet": [
+            "Practiced diet type",
+            "Diet practiced by"
+        ],
+        "/organization/role/leaders./organization/leadership/organization": [
+            "Leader's organization",
+            "Organization's leader"
+        ],
+        "/sports/sports_team/roster./american_football/football_roster_position/position": [
+            "Football roster position",
+            "Position in football roster"
+        ],
+        "/education/educational_institution/students_graduates./education/education/student": [
+            "Institution's student",
+            "Student's institution"
+        ],
+        "/location/hud_county_place/place": [
+            "HUD place location",
+            "Location in HUD place"
+        ],
+        "/location/location/time_zones": [
+            "Location's time zone",
+            "Time zone of location"
+        ],
+        "/people/profession/specialization_of": [
+            "Profession specialization",
+            "Specialization of profession"
+        ],
+        "/film/director/film": [
+            "Film directed by",
+            "Director of film"
+        ],
+        "/people/cause_of_death/people": [
+            "Cause of death",
+            "Death caused by"
+        ],
+        "/sports/sports_team/roster./basketball/basketball_roster_position/position": [
+            "Basketball roster position",
+            "Position in basketball roster"
+        ],
+        "/american_football/football_team/current_roster./sports/sports_team_roster/position": [
+            "Current football position",
+            "Position in current football roster"
+        ],
+        "/film/actor/dubbing_performances./film/dubbing_performance/language": [
+            "Dubbing language",
+            "Language of dubbing"
+        ],
+        "/organization/organization/place_founded": [
+            "Place organization founded",
+            "Organization founded in place"
+        ],
+        "/people/deceased_person/place_of_death": [
+            "Place of death",
+            "Death occurred in place"
+        ],
+        "/user/alexander/philosophy/philosopher/interests": [
+            "Philosopher's interests",
+            "Interests of philosopher"
+        ],
+        "/people/person/spouse_s./people/marriage/type_of_union": [
+            "Marriage union type",
+            "Type of marriage union"
+        ],
+        "/base/aareas/schema/administrative_area/administrative_parent": [
+            "Administrative area's parent",
+            "Parent of administrative area"
+        ],
+        "/tv/tv_producer/programs_produced./tv/tv_producer_term/program": [
+            "Produced TV program",
+            "Program produced by"
+        ],
+        "/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency": [
+            "GDP currency",
+            "Currency of GDP"
+        ],
+        "/music/performance_role/guest_performances./music/recording_contribution/performance_role": [
+            "Guest performance role",
+            "Role in guest performance"
+        ],
+        "/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony": [
+            "Marriage ceremony location",
+            "Location of marriage ceremony"
+        ],
+        "/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/contact_category": [
+            "Phone contact category",
+            "Category of phone contact"
+        ],
+        "/film/film/release_date_s./film/film_regional_release_date/film_regional_debut_venue": [
+            "Film debut venue",
+            "Venue of film debut"
+        ],
+        "/film/film/estimated_budget./measurement_unit/dated_money_value/currency": [
+            "Film budget currency",
+            "Currency of film budget"
+        ],
+        "/film/film/cinematography": [
+            "Film cinematographer",
+            "Cinematographer of film"
+        ],
+        "/education/university/fraternities_and_sororities": [
+            "University fraternity",
+            "Fraternity of university"
+        ],
+        "/business/job_title/people_with_this_title./business/employment_tenure/company": [
+            "Job title company",
+            "Company of job title"
+        ],
+        "/sports/sports_team/colors": [
+            "Team colors",
+            "Colors of team"
+        ],
+        "/government/politician/government_positions_held./government/government_position_held/legislative_sessions": [
+            "Legislative session held",
+            "Session held by legislator"
+        ],
+        "/sports/professional_sports_team/draft_picks./sports/sports_league_draft_pick/school": [
+            "Draft pick school",
+            "School of draft pick"
+        ],
+        "/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency": [
+            "GNI currency",
+            "Currency of GNI"
+        ],
+        "/film/film/distributors./film/film_film_distributor_relationship/region": [
+            "Film distribution region",
+            "Region of film distribution"
+        ],
+        "/language/human_language/countries_spoken_in": [
+            "Language's countries",
+            "Countries of language"
+        ],
+        "/sports/professional_sports_team/draft_picks./sports/sports_league_draft_pick/draft": [
+            "Draft year",
+            "Year of draft"
+        ],
+        "/people/ethnicity/geographic_distribution": [
+            "Ethnicity distribution",
+            "Distribution of ethnicity"
+        ],
+        "/business/business_operation/revenue./measurement_unit/dated_money_value/currency": [
+            "Revenue currency",
+            "Currency of revenue"
+        ],
+        "/base/aareas/schema/administrative_area/administrative_area_type": [
+            "Administrative area type",
+            "Type of administrative area"
+        ],
+        "/film/film/other_crew./film/film_crew_gig/crewmember": [
+            "Film crew member",
+            "Crew member of film"
+        ],
+        "/film/film/personal_appearances./film/personal_film_appearance/person": [
+            "Film appearance person",
+            "Person in film appearance"
+        ],
+        "/location/statistical_region/rent50_2./measurement_unit/dated_money_value/currency": [
+            "Median rent currency",
+            "Currency of median rent"
+        ],
+        "/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency": [
+            "Endowment currency",
+            "Currency of endowment"
+        ],
+        "/business/business_operation/industry": [
+            "Business industry",
+            "Industry of business"
+        ],
+        "/tv/tv_program/languages": [
+            "TV program language",
+            "Language of TV program"
+        ],
+        "/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_location": [
+            "Phone service location",
+            "Location of phone service"
+        ],
+        "/people/ethnicity/languages_spoken": [
+            "Ethnicity languages",
+            "Languages of ethnicity"
+        ],
+        "/sports/sports_position/players./sports/sports_team_roster/position": [
+            "Player's position",
+            "Position of player"
+        ],
+        "/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant": [
+            "Canoodled participant",
+            "Participant in canoodling"
+        ],
+        "/education/educational_institution_campus/educational_institution": [
+            "Campus institution",
+            "Institution of campus"
+        ],
+        "/sports/sports_team/sport": [
+            "Team's sport",
+            "Sport of team"
+        ],
+        "/location/statistical_region/religions./location/religion_percentage/religion": [
+            "Region religion",
+            "Religion of region"
+        ],
+        "/location/hud_county_place/county": [
+            "HUD county",
+            "County in HUD"
+        ],
+        "/military/military_combatant/military_conflicts./military/military_combatant_group/combatants": [
+            "Military conflict combatants",
+            "Combatants in military conflict"
+        ],
+        "/film/film/costume_design_by": [
+            "Costume designer",
+            "Designer of costumes"
+        ],
+        "/base/culturalevent/event/entity_involved": [
+            "Event entity",
+            "Entity in event"
+        ],
+        "/base/x2010fifaworldcupsouthafrica/world_cup_squad/current_world_cup_squad./base/x2010fifaworldcupsouthafrica/current_world_cup_squad/current_club": [
+            "World Cup club",
+            "Club in World Cup"
+        ],
+        "/music/artist/origin": [
+            "Artist's origin",
+            "Origin of artist"
+        ],
+        "/user/ktrueman/default_domain/international_organization/member_states": [
+            "Organization member states",
+            "Member states of organization"
+        ],
+        "/award/award_category/disciplines_or_subjects": [
+            "Award discipline",
+            "Discipline of award"
+        ],
+        "/music/artist/contribution./music/recording_contribution/performance_role": [
+            "Artist performance role",
+            "Role in artist performance"
+        ],
+        "/people/person/employment_history./business/employment_tenure/company": [
+            "Employment company",
+            "Company employing person"
+        ],
+        "/base/popstra/celebrity/breakup./base/popstra/breakup/participant": [
+            "Breakup participant",
+            "Participant in breakup"
+        ],
+        "/location/statistical_region/gdp_real./measurement_unit/adjusted_money_value/adjustment_currency": [
+            "GDP adjustment currency",
+            "Currency for GDP adjustment"
+        ],
+        "/film/actor/film./film/performance/special_performance_type": [
+            "Special performance type",
+            "Type of special performance"
+        ],
+        "/time/event/locations": [
+            "Event location",
+            "Location of event"
+        ],
+        "/sports/sports_league/teams./sports/sports_league_participation/team": [
+            "League team",
+            "Team in league"
+        ],
+        "/award/hall_of_fame/inductees./award/hall_of_fame_induction/inductee": [
+            "Hall of Fame inductee",
+            "Inductee in Hall of Fame"
+        ],
+        "/olympics/olympic_games/participating_countries": [
+            "Participating country",
+            "Country participating"
+        ],
+        "/people/person/spouse_s./people/marriage/location_of_ceremony": [
+            "Marriage location",
+            "Location of marriage"
+        ],
+        "/film/film/film_production_design_by": [
+            "Production designer",
+            "Designer of production"
+        ],
+        "/influence/influence_node/peers./influence/peer_relationship/peers": [
+            "Influence peer",
+            "Peer in influence"
+        ],
+        "/location/location/partially_contains": [
+            "Partially contains",
+            "Partially contained by"
+        ],
+        "/music/instrument/family": [
+            "Instrument family",
+            "Family of instrument"
+        ],
+        "/base/aareas/schema/administrative_area/capital": [
+            "Administrative capital",
+            "Capital of area"
+        ],
+        "/base/popstra/location/vacationers./base/popstra/vacation_choice/vacationer": [
+            "Vacationer",
+            "Vacation location"
+        ],
+        "/film/film/film_format": [
+            "Film format",
+            "Format of film"
+        ],
+        "/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office": [
+            "Position jurisdiction",
+            "Jurisdiction of position"
+        ],
+        "/sports/sports_team/roster./baseball/baseball_roster_position/position": [
+            "Roster position",
+            "Position in roster"
+        ],
+        "/medicine/symptom/symptom_of": [
+            "Symptom of disease",
+            "Disease causing symptom"
+        ],
+        "/baseball/baseball_team/team_stats./baseball/baseball_team_stats/season": [
+            "Team season stats",
+            "Season stats of team"
+        ],
+        "/celebrities/celebrity/sexual_relationships./celebrities/romantic_relationship/celebrity": [
+            "Romantic partner",
+            "Partner in relationship"
+        ],
+        "/award/ranked_item/appears_in_ranked_lists./award/ranking/list": [
+            "Ranked list item",
+            "List containing item"
+        ],
+        "/base/americancomedy/celebrity_impressionist/celebrities_impersonated": [
+            "Impersonated celebrity",
+            "Celebrity impersonated by"
+        ],
+        "/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months": [
+            "Seasonal produce",
+            "Produce available seasonally"
+        ],
+        "/tv/tv_writer/tv_programs./tv/tv_program_writer_relationship/tv_program": [
+            "Writer's TV program",
+            "TV program's writer"
+        ],
+        "/location/administrative_division/first_level_division_of": [
+            "First-level division",
+            "Division containing first level"
+        ],
+        "/award/award_category/category_of": [
+            "Award category",
+            "Category of award"
+        ],
+        "/film/special_film_performance_type/film_performance_type./film/performance/film": [
+            "Special performance type",
+            "Type of special performance"
+        ],
+        "/time/event/instance_of_recurring_event": [
+            "Recurring event",
+            "Event instance"
+        ],
+        "/location/country/form_of_government": [
+            "Form of government",
+            "Government form of country"
+        ],
+        "/sports/sport/pro_athletes./sports/pro_sports_played/athlete": [
+            "Professional athlete",
+            "Athlete of sport"
+        ],
+        "/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language": [
+            "Service language",
+            "Language of service"
+        ],
+        "/organization/organization/child./organization/organization_relationship/child": [
+            "Child organization",
+            "Parent organization"
+        ],
+        "/government/governmental_body/members./government/government_position_held/legislative_sessions": [
+            "Legislative session",
+            "Session of legislature"
+        ],
+        "/education/educational_degree/people_with_this_degree./education/education/student": [
+            "Degree holder",
+            "Student with degree"
+        ],
+        "/government/politician/government_positions_held./government/government_position_held/basic_title": [
+            "Position title",
+            "Title of position"
+        ],
+        "/base/locations/continents/countries_within": [
+            "Continent's countries",
+            "Countries in continent"
+        ],
+        "/base/marchmadness/ncaa_basketball_tournament/seeds./base/marchmadness/ncaa_tournament_seed/team": [
+            "Seeded team",
+            "Team in seed"
+        ],
+        "/organization/organization_founder/organizations_founded": [
+            "Founded organization",
+            "Founder of organization"
+        ],
+        "/film/film/runtime./film/film_cut/film_release_region": [
+            "Release region",
+            "Region of release"
+        ],
+        "/tv/tv_program/country_of_origin": [
+            "Country of origin",
+            "Origin country"
+        ],
+        "/business/business_operation/operating_income./measurement_unit/dated_money_value/currency": [
+            "Operating income currency",
+            "Currency of income"
+        ],
+        "/travel/travel_destination/how_to_get_here./travel/transportation/mode_of_transportation": [
+            "Transportation mode",
+            "Mode of transportation"
+        ],
+        "/business/business_operation/assets./measurement_unit/dated_money_value/currency": [
+            "Assets currency",
+            "Currency of assets"
+        ],
+        "/education/university/international_tuition./measurement_unit/dated_money_value/currency": [
+            "Tuition currency",
+            "Currency of tuition"
+        ],
+        "/location/country/capital": [
+            "Country capital",
+            "Capital of country"
+        ],
+        "/base/saturdaynightlive/snl_cast_member/seasons./base/saturdaynightlive/snl_season_tenure/cast_members": [
+            "SNL cast member",
+            "Member of SNL cast"
+        ],
+        "/tv/tv_producer/programs_produced./tv/tv_producer_term/producer_type": [
+            "Producer type",
+            "Type of producer"
+        ],
+        "/medicine/disease/notable_people_with_this_condition": [
+            "Notable person with condition",
+            "Condition of notable person"
+        ],
+        "/tv/tv_personality/tv_regular_appearances./tv/tv_regular_personal_appearance/program": [
+            "Regular TV appearance",
+            "Program of appearance"
+        ],
+        "/film/film_set_designer/film_sets_designed": [
+            "Film set designer",
+            "Designer of film set"
+        ],
+        "/people/deceased_person/place_of_burial": [
+            "Burial place",
+            "Place of burial"
+        ],
+        "/film/person_or_entity_appearing_in_film/films./film/personal_film_appearance/type_of_appearance": [
+            "Film appearance type",
+            "Type of film appearance"
+        ],
+        "/sports/sports_position/players./american_football/football_historical_roster_position/position_s": [
+            "Football position",
+            "Position in football"
+        ],
+        "/film/film/film_art_direction_by": [
+            "Art director",
+            "Director of art"
+        ],
+        "/broadcast/content/artist": [
+            "Content artist",
+            "Artist of content"
+        ],
+        "/ice_hockey/hockey_team/current_roster./sports/sports_team_roster/position": [
+            "Hockey position",
+            "Position in hockey"
+        ]
+    }
+}

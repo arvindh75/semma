@@ -1,0 +1,61 @@
+{
+    "cleaned_relations": {
+        "_also_see": "See also",
+        "_derivationally_related_form": "Derivationally related to",
+        "_has_part": "Has part",
+        "_hypernym": "Is a hypernym of",
+        "_instance_hypernym": "Is an instance of",
+        "_member_meronym": "Has part",
+        "_member_of_domain_region": "Is a domain region of",
+        "_member_of_domain_usage": "Is a domain usage of",
+        "_similar_to": "Is similar to",
+        "_synset_domain_topic_of": "Is a domain topic of",
+        "_verb_group": "Is in verb group with"
+    },
+    "relation_descriptions": {
+        "_also_see": [
+            "see also",
+            "see also"
+        ],
+        "_derivationally_related_form": [
+            "derivationally related to",
+            "derivationally related to"
+        ],
+        "_has_part": [
+            "has part",
+            "is part of"
+        ],
+        "_hypernym": [
+            "is a hypernym of",
+            "is a hyponym of"
+        ],
+        "_instance_hypernym": [
+            "is an instance of",
+            "has instance"
+        ],
+        "_member_meronym": [
+            "has part",
+            "is part of"
+        ],
+        "_member_of_domain_region": [
+            "is a domain region of",
+            "has domain region"
+        ],
+        "_member_of_domain_usage": [
+            "is a domain usage of",
+            "has domain usage"
+        ],
+        "_similar_to": [
+            "is similar to",
+            "is similar to"
+        ],
+        "_synset_domain_topic_of": [
+            "is a domain topic of",
+            "has domain topic"
+        ],
+        "_verb_group": [
+            "is in verb group with",
+            "is in verb group with"
+        ]
+    }
+}
