@@ -95,7 +95,7 @@ The `flags.yaml` file controls various aspects of the SEMMA model and experiment
         *   `llm description`: Uses only the relation description embedding.
 *   `model_embed`: The embedding model used to encode relation names/descriptions.
     *   Options: `sentbert` (Sentence-BERT), `jinaai` (Jina AI embeddings).
-*   `topx`: A float (0 to 1) indicating the top x% of all relation pairs (based on textual similarity) for which to consider adding an edge in R<sub>g</sub><sup>TEXT</sup>. `0` might imply using a threshold.
+*   `topx`: A float (0 to 1) indicating the top x% of all relation pairs (based on textual similarity) for which to consider adding an edge in G<sub>r</sub><sup>TEXT</sup>. `0` might imply using a threshold.
 *   `threshold`: A float (e.g., 0.8). The cosine similarity threshold for constructing G<sub>r</sub><sup>TEXT</sup>
 *   `embedding_combiner`: Method used to combine structural and textual embeddings in the fusion module.
     *   Options: `mlp` (Multi-Layer Perceptron), `concat` (concatenation), `attention`.
