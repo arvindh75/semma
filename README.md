@@ -1,6 +1,6 @@
 # SEMMA: A Semantic Aware Knowledge Graph Foundation Model
 
-Our implementation is based on the official [ULTRA codebase](https://github.com/DeepGraphLearning/ULTRA) which we extended to integrate the proposed dual-stream architecture, including the LLM-based relation enrichment, R<sub>g</sub><sup>TEXT</sup> construction, and the structural-textual fusion module. 
+Our implementation is based on the official [ULTRA codebase](https://github.com/DeepGraphLearning/ULTRA) which we extended to integrate the proposed dual-stream architecture, including the LLM-based relation enrichment, G<sub>r</sub><sup>TEXT</sup> construction, and the structural-textual fusion module. 
 
 This repository is based on PyTorch 2.1 and PyTorch-Geometric 2.4
 
@@ -86,7 +86,7 @@ The `flags.yaml` file controls various aspects of the SEMMA model and experiment
     *   If `semma` is chosen, the subsequent flags related to the SEMMA architecture are used.
 *   `LLM`: The Large Language Model used for relation enrichment.
     *   Options: `gpt4o`, `qwen3-32b`, `deepseekv3`.
-*   `rg2_embedding`: Defines how the textual relation embeddings (R<sub>g</sub><sup>TEXT</sup>) are constructed.
+*   `rg2_embedding`: Defines how the textual relation embeddings (G<sub>r</sub><sup>TEXT</sup>) are constructed.
     *   Options:
         *   `combined`: Takes the avg of the embeddings obtained from `no llm`, `llm name` and `llm description`
         *   `combined-sum`: Takes the sum of the embeddings obtained from `no llm`, `llm name` and `llm description`
@@ -96,7 +96,7 @@ The `flags.yaml` file controls various aspects of the SEMMA model and experiment
 *   `model_embed`: The embedding model used to encode relation names/descriptions.
     *   Options: `sentbert` (Sentence-BERT), `jinaai` (Jina AI embeddings).
 *   `topx`: A float (0 to 1) indicating the top x% of all relation pairs (based on textual similarity) for which to consider adding an edge in R<sub>g</sub><sup>TEXT</sup>. `0` might imply using a threshold.
-*   `threshold`: A float (e.g., 0.8). The cosine similarity threshold for constructing R<sub>g</sub><sup>TEXT</sup>
+*   `threshold`: A float (e.g., 0.8). The cosine similarity threshold for constructing G<sub>r</sub><sup>TEXT</sup>
 *   `embedding_combiner`: Method used to combine structural and textual embeddings in the fusion module.
     *   Options: `mlp` (Multi-Layer Perceptron), `concat` (concatenation), `attention`.
 *   `eval_on_valid`: Boolean (`True`/`False`). If `True`, evaluation is also performed on the validation set during training or a inference run.
