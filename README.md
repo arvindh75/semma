@@ -1,4 +1,13 @@
-# SEMMA: A Semantic Aware Knowledge Graph Foundation Model
+<div align="center">
+
+# SEMMA: A Semantic Aware Knowledge Graph Foundation Model #
+
+[![ULTRA arxiv](http://img.shields.io/badge/arxiv-2310.04562-yellow.svg)](https://www.arxiv.org/abs/2505.20422)
+![license](https://img.shields.io/badge/License-MIT-green.svg?labelColor=gray)
+
+</div>
+
+#
 
 Our implementation is based on the official [ULTRA codebase](https://github.com/DeepGraphLearning/ULTRA) which we extended to integrate the proposed dual-stream architecture, including the LLM-based relation enrichment, G<sub>r</sub><sup>TEXT</sup> construction, and the structural-textual fusion module. 
 
@@ -6,7 +15,7 @@ This repository is based on PyTorch 2.1 and PyTorch-Geometric 2.4
 
 ## Setup
 
-You may install the dependencies via either conda or pip. Ultra PyG is implemented with Python 3.9, PyTorch 2.1 and PyG 2.4 (CUDA 11.8 or later when running on GPUs).
+You may install the dependencies via either conda or pip. SEMMA is implemented with Python 3.9, PyTorch 2.1, and PyG 2.4 (CUDA 11.8 or later when running on GPUs).
 
 1.  **Create and activate a conda environment (recommended):**
     ```bash
@@ -105,3 +114,20 @@ The `flags.yaml` file controls various aspects of the SEMMA model and experiment
 *   `harder_setting`: Boolean (`True`/`False`). If `True`, the model is configured for the "harder" evaluation setting, using data from `takeaway3/` which might involve new relations not seen during pretraining.
 
 Adjust these flags in `flags.yaml` to configure your experiments according to your needs. 
+
+## Todos
+- [ ] Add SEMMA Hybrid code
+
+## Citation
+
+```bibtex
+@misc{arun2025semmasemanticawareknowledge,
+      title={SEMMA: A Semantic Aware Knowledge Graph Foundation Model}, 
+      author={Arvindh Arun and Sumit Kumar and Mojtaba Nayyeri and Bo Xiong and Ponnurangam Kumaraguru and Antonio Vergari and Steffen Staab},
+      year={2025},
+      eprint={2505.20422},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2505.20422}, 
+}
+```
